@@ -7,7 +7,6 @@ typeOf: building
 whereabouts: Monastery of Bhishma
 title: Hall of Stories
 ---
-
 # The Hall of Stories
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A building in the [Monastery of Bhishma](<./monastery-of-bhishma.md>), the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  

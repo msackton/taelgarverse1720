@@ -9,15 +9,15 @@ died: 1740
 name: Nayan Marathu
 affiliations: [Nayan Dynasty]
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samraat Nayan Marathu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him)  
-    Died DR 1740  
-    Member of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>) (until DR 1740)  
+    Member of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>)  
     { .bio }
 
 </div>

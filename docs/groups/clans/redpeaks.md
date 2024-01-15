@@ -6,6 +6,5 @@ name: Redpeaks
 typeOf: clan
 title: Redpeaks
 ---
-
 (stub)
 

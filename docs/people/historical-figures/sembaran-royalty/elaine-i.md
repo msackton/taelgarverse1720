@@ -15,8 +15,9 @@ affiliations:
 - {place: Sembara, start: 1582}
 - {place: Tyrwingha, start: 1589, title: Queen}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Queen Elaine I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

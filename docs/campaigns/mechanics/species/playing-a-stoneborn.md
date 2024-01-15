@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Playing a Stoneborn
 ---
 
-
 The [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) in Taelgar are a reclusive species. They tend to live in isolated communities in extreme environments, especially high in the mountains, although they are not unheard of in human and dwarven settlements. They are also noted in the world of Taelgar as master artisans, skilled in many trades. It is not uncommon for individual [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) to spend decades, or even a century, honing their craft. 
 
 To make a [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) adventurer, consider why you left your community. Perhaps you are a rare member of your species born among other sentient beings, in a human city, or among dwarves, or even elves. Maybe you left your home on a personal mission, or on a mission for your clan. Maybe a tragedy -- or a personal mistake -- forced you to leave. 

@@ -4,7 +4,6 @@ name: Lizardfolk
 aliases: [lizardfolk]
 title: Lizardfolk
 ---
-
 # Lizardfolk
 
 >[!quote] Lizardfolk saying, author unknown

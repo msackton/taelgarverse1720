@@ -12,8 +12,9 @@ whereabouts:
 - {type: home, start: '', end: '', location: Te'kula village}
 title: Yota
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Yota
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -21,7 +22,7 @@ hide_toc: true
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based the Te'kula village
 </div>
 
 

@@ -6,7 +6,6 @@ typeOf: strait
 partOf: Western Green Sea
 title: Straits of Cymea
 ---
-
 # The Straits of Cymea
 >[!info]+ Information
 > A strait in the [Western Green Sea](<./western-green-sea.md>), the [Green Sea](<../green-sea.md>)

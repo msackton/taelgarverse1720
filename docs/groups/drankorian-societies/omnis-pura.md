@@ -5,7 +5,6 @@ campaignInfo:
 name:
 title: Omnis Pura
 ---
-
 # Omnis Pura
 
 Omnis Pura is a Hkaran supremacist organization dedicated to the proposition that it is only the pure blooded children of "Hkar Urban Culture Elite" that are destined to control the world.

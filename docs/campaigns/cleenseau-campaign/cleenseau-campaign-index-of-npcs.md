@@ -2,7 +2,6 @@
 tags: [meta]
 title: Cleenseau Campaign Index of NPCs
 ---
-
 ### In [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>)
 
 * [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>), an eccentric [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>)

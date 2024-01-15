@@ -12,19 +12,20 @@ whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Jotha
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Jotha
 :speaker:{ .middle } *(yo-TAH)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1719 (30 years old)  
+    Born DR 1719 (12 months old)  
     { .bio }
 
-    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
+    Based the Ko'zula village
 </div>
 
 
-Warrior, who was gravely wounded in battle against a deathless warlock and then vanished, presumably into a shadow realm. May be wandering Taelgar confused somewhere, if she was ejected from shadow realm when the [armband the deathless warlock carried](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) was destroyed.
+Warrior, who was gravely wounded in battle against a deathless warlock and then vanished, presumably into a shadow realm. May be wandering Taelgar confused somewhere, if she was ejected from shadow realm when the armband the deathless warlock carried was destroyed.

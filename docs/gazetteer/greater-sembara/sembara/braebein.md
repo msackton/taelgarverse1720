@@ -7,7 +7,6 @@ partOf: Highlands
 pronunciation: BRAY-been
 title: Braebein
 ---
-
 # Braebein
 *(BRAY-been)*
 >[!info]+ Information

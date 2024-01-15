@@ -9,8 +9,9 @@ whereabouts: Erelion
 gender: male
 pronunciation: erd-HEEN
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Caretaker Erdhin
 :speaker:{ .middle } *(erd-HEEN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -3,7 +3,6 @@ tags: [event, status/unknown]
 DR: 1718-01-24
 title: Viepuck's Ritual Experience
 ---
-
 ### Viepuck Meetings His Patron
 
 > [!INFO]- Viepuck's Background with his Patron (Chris' Eyes Only)

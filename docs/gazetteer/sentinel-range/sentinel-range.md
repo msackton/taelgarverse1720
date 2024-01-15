@@ -7,7 +7,6 @@ partOf: Central Highlands Region
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 title: Sentinel Range
 ---
-
 # The Sentinel Range
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A mountain range in [Central Highlands Region](<./central-highlands-region.md>)  
@@ -38,6 +37,6 @@ Further north, the mountains are somewhat less rugged, but high enough in places
 
 Major settlements of [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) and [Stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
 
-The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>), Labkhan by the [dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>), Beredri by the [Deno'qai](<../../groups/deno-qai/deno-qai.md>), and Tushara by the Dunmari. 
+The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>), Labkhan by the dwarves, Beredri by the [Deno'qai](<../../groups/deno-qai/deno-qai.md>), and Tushara by the Dunmari. 
 
 

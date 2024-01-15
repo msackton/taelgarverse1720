@@ -2,7 +2,6 @@
 tags: [species, status/unknown]
 title: Fey
 ---
-
 # Fey
 
 This page contains lore information about fey. For details on character creation and playing a fey character, see [Playing a Fey Species](<../../../campaigns/mechanics/species/playing-a-fey-species.md>). 

@@ -8,11 +8,10 @@ founded: 939
 timelineDescriptor: University of Chardon
 title: University of Chardon
 ---
-
 # The University of Chardon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -   :octicons-location-24:{ .lg .middle }   
-    :octicons-location-24:{ .lg .middle } A university in [Chardon](<./chardon.md>), [Chardonian Empire](<../chardonian-empire.md>)  
+    :octicons-location-24:{ .lg .middle } A university in [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
 </div>
 
 

@@ -11,14 +11,15 @@ affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scro
 whereabouts: Chardon
 title: Roscelia
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Roscelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1677 (72 years old)  
+    Born DR 1677 (43 years old)  
     Member of the Faculty of Magic, the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
     { .bio }
 

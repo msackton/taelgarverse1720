@@ -6,6 +6,5 @@ DR: 1720-01-06
 title: Zombie Plague in Cleenseau
 ---
 
-
 # Zombie Plague in Cleenseau
 

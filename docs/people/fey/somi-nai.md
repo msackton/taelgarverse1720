@@ -12,8 +12,9 @@ whereabouts:
 - {type: home, start: '', end: '', location: Azta Lekua}
 title: Somi-nai
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Somi-nai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

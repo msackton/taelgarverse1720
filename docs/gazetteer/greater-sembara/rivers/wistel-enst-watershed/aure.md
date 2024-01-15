@@ -9,7 +9,6 @@ whereabouts: Addermarch
 aliases: [River Aure, Aure River]
 title: Aure
 ---
-
 # The Aure
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in [Addermarch](<../../addermarch/addermarch.md>)  

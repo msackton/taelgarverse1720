@@ -14,19 +14,18 @@ gender: female
 born: 1701
 title: Kethra Silverspark
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Kethra Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/clans/silversparks.md>)  
-    Born DR 1701 (48 years old)  
+    Born DR 1701 (19 years old)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 
 

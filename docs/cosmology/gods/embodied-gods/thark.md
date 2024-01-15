@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [deity, status/needswork]
 title: Thark
 ---
-
 # Thark
 
 Thark, the God of War Without End, created by the union of [Umidzka](<../high-gods/umidzka.md>) and [G’Zab](<../high-gods/gzab.md>), gave rise to the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), and through his compulsion drives them to violence for the sake of violence. 

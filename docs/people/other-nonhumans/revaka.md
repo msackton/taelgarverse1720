@@ -12,8 +12,9 @@ whereabouts:
 - {type: away, location: Mirror of Soul Trapping}
 title: Revaka
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Revaka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -24,7 +25,7 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Currently the Mirror of Soul Trapping
 
 
-A hobgoblin trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>). A fairly powerful sorcerer from before the [Great War](<../../events/1500s/great-war.md>), trapped by [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) for refusing to join his war. 
+A hobgoblin trapped in the Mirror of Soul Trapping. A fairly powerful sorcerer from before the [Great War](<../../events/1500s/great-war.md>), trapped by [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) for refusing to join his war. 

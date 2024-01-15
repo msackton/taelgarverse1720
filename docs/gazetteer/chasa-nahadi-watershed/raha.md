@@ -7,7 +7,6 @@ title: Raha
 
 
 
-
 # Raha
 
 Location: About a day’s journey east of the northeastern corner of the Chardonian empire, in the forest on the slopes of the [Sentinels](<../sentinel-range/sentinel-range.md>)

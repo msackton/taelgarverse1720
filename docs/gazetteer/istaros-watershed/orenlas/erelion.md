@@ -8,7 +8,6 @@ partOf: Orenlas
 pronunciation: air-LEE-on
 title: Erelion
 ---
-
 # Erelion
 :speaker:{ .middle } *(air-LEE-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -17,9 +16,9 @@ title: Erelion
 
 
 ## Overview
-An ancient elven city in the kingdom of [Orenlas](<./orenlas.md>), claimed by many [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>) to be the oldest continually occupied settlement on Taelgar. 
+An ancient elven city in the kingdom of [Orenlas](<./orenlas.md>), claimed by many elves to be the oldest continually occupied settlement on Taelgar. 
 
-Erelion is a living city, growing in and among the ancient forest of [Orenlas](<./orenlas.md>). Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>) to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
+Erelion is a living city, growing in and among the ancient forest of [Orenlas](<./orenlas.md>). Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing elves to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
 
 ![Erelion 4 Overview C](../../../assets/erelion-4-overview-c.png)
 *The city and the forest are intertwined around each other.*
@@ -40,5 +39,5 @@ The upper reaches of the Elder Tree are where the young elves, still in their dr
 *The space for prayer and reflection in the great elder tree at the center of Erelion.*
 
 ## Fey Gardens
-Erelion contains many hidden and unexpected gardens, often with unusual magic. All manner of things grows on plants here: delicate flowers with silver petals, vines laden with fruit, trees with a different spice growing from each branch, and wilder things can all be found in the gardens of Erelion. Some gardens perpetually maintain a particular season, while others rapidly turn from season to season over the course of a day, or a week. Ponds, waterfalls, and blooming flowers are a frequent feature of these gardens, and [fey](<../../../species/children-of-the-divine/fey/fey.md>) creatures are not uncommon. Many of these gardens are in perpetual twilight, their serene pools reflecting the stars. 
+Erelion contains many hidden and unexpected gardens, often with unusual magic. All manner of things grows on plants here: delicate flowers with silver petals, vines laden with fruit, trees with a different spice growing from each branch, and wilder things can all be found in the gardens of Erelion. Some gardens perpetually maintain a particular season, while others rapidly turn from season to season over the course of a day, or a week. Ponds, waterfalls, and blooming flowers are a frequent feature of these gardens, and fey creatures are not uncommon. Many of these gardens are in perpetual twilight, their serene pools reflecting the stars. 
 

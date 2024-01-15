@@ -1,0 +1,74 @@
+- [Home](index.md)
+- [Cleenseau Campaign](campaigns/cleenseau-campaign/cleenseau-campaign.md)
+    - [Timeline](campaigns/cleenseau-campaign/cleenseau-campaign-timeline.md)
+    - [NPC Index](campaigns/cleenseau-campaign/cleenseau-campaign-index-of-npcs.md)
+    - [The Cleenseau Region](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md)
+        - {glob: gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/}
+    - [Characters](people/pcs/cleenseau/heroes-of-cleenseau.md)
+        - {glob: people/pcs/cleenseau/, exclude: heroes-of-cleenseau.md}
+    - Letters and Stories
+        - {glob: campaigns/cleenseau-campaign/letters-and-stories}
+    - Treasure
+        - {glob: campaigns/cleenseau-campaign/treasure}
+    - Mechanics
+        - {glob: campaigns/mechanics/}
+        - [Languages](species/languages.md)
+- [Gazetteer](campaigns/player-s-guide.md)
+    - [World of Taelgar](gazetteer/geography-of-taelgar.md)
+        - {glob: gazetteer, exclude: endless-ocean.md;green-sea.md;geography-of-taelgar.md;gazetteer.md}
+        - [Endless Ocean](gazetteer/endless-ocean.md)
+        - [Green Sea](gazetteer/green-sea.md)
+    - Organizations
+        - {glob: groups/}
+    - [Species](species/species.md)
+        - [Humans](species/humans/humans.md)
+        - [Elves](species/children-of-the-embodied-gods/elves/elves.md)
+        - [Dwarves](species/children-of-the-embodied-gods/dwarves/dwarves.md)
+        - [Halflings](species/children-of-the-embodied-gods/halflings/halflings.md)
+        - [Lizardfolk](species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md)
+        - [Stoneborn](species/children-of-the-embodied-gods/stoneborn/stoneborn.md)
+        - [Orcs](species/children-of-the-embodied-gods/orcs/orcs.md)
+        - [Fey](species/children-of-the-divine/fey/fey.md)
+    - Religion
+        - [Mos Numena](cosmology/religions/mos-numena.md)
+            - Gods
+                - {glob: cosmology/gods/incorporeal-gods/mos-numena/}
+            - [Festivals](time/holidays-and-festivals/mos-numena-feast-days.md)
+                - [Festival of the Bridge](time/holidays-and-festivals/festival-of-the-bridge.md)
+                - [Miracle of the Mist](time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md)
+                - [Pyravela](time/holidays-and-festivals/pyravela.md)
+                - [Viatela](time/holidays-and-festivals/viatela.md)
+        - [Dunmari Faith](cosmology/religions/five-siblings/five-siblings.md)
+            - {glob: cosmology/religions/five-siblings/, exclude: five-siblings.md}
+            - Gods
+                - [Sampa](cosmology/gods/high-gods/sampa.md)
+                - [Shurat](cosmology/gods/high-gods/shurat.md)
+                - {glob: cosmology/gods/incorporeal-gods/dunmari/}
+            - [Festivals](time/holidays-and-festivals/dunmari-festivals/dunmari-festivals.md)
+                - {glob: time/holidays-and-festivals/dunmari-festivals, exclude: dunmari-festivals.md}
+        - [Kestavo](cosmology/religions/kestavo.md)
+            - [Ako](cosmology/gods/high-gods/ako.md)
+            - {glob: cosmology/gods/kestavo/}
+        - [Northern Folk Religion](cosmology/religions/tanshi.md)
+            - [Anida](cosmology/gods/high-gods/anida.md)
+            - {glob: cosmology/gods/tanshi/}
+        - Other Gods
+            - [High Gods](cosmology/gods/high-gods/high-gods.md)
+                - {glob: cosmology/gods/high-gods/, exclude: sampa.md;shurat.md;ako.md;anida.md}
+            - Embodied Gods
+                - {glob: cosmology/gods/embodied-gods/}
+            - Incorporeal Gods
+                - [Kaikkea](cosmology/gods/incorporeal-gods/kaikkea.md)
+                - [Sarqon](cosmology/gods/incorporeal-gods/sarqon.md)
+            - [The Fox and Hunter](cosmology/gods/demigods/fox-and-hunter.md)
+- History
+    - [Calendar Eras](time/calendar-eras.md)
+    - {glob: history/}
+    - People
+        - {glob: people/historical-figures}
+    - Events
+        - {glob: events/;flatten}
+    - Primary Sources
+        - {glob: primary-sources/}
+- [House Rules](https://docs.google.com/document/d/1yVZ-wvLodiXYqgxTJCLqjPWtgJBmd9kNPK7-YVML1Ew/edit#heading=h.o36t6owema04)
+- [Party Loot](https://docs.google.com/document/d/1-LoEf5ddTwTO3LwS4oW8D2tpVK5rwzbiPwBnROLus3k/edit#heading=h.xnigrp14kb5p)

@@ -10,8 +10,9 @@ ancestry: Mawaran
 gender: male
 title: Orden
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Orden
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

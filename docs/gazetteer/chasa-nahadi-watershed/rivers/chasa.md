@@ -7,7 +7,6 @@ partOf:
 aliases: [River Chasa, Chasa River]
 title: Chasa
 ---
-
 # Chasa
 >[!info]+ Summary
 

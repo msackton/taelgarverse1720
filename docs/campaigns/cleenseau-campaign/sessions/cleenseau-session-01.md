@@ -6,7 +6,6 @@ sessionNumber: 1
 players: [Izgil Moonseeker, Robin, Viepuck, Celyn]
 title: Cleenseau Session 01
 ---
-
 # Cleenseau - Session 1
 >_in Taelgar from the evening of October 19th until the late morning of October 22nd
 >7 Robert I / DR 1719

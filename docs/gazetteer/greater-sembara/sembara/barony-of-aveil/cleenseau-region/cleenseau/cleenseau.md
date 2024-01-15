@@ -9,7 +9,6 @@ pronunciation: Klen-sew
 population: 1189
 title: Cleenseau
 ---
-
 # Cleenseau
 :speaker:{ .middle } *(Klen-sew)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

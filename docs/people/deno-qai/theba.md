@@ -16,22 +16,20 @@ whereabouts:
 - {type: home, start: 1748-10-01, location: Bek'eni village}
 title: Theba
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1717 (32 years old)  
+    Born DR 1717 (3 years old)  
     { .bio }
 
-    Based in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based the Bek'eni village
 </div>
 
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22nd, 1748 in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
 
 
 

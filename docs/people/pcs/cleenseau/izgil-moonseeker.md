@@ -17,14 +17,15 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: '', location: Cleenseau}
 title: Izgil Moonseeker
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Izgil Moonseeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/clans/gemcrafters.md>)  
-    Born DR 1453 (296 years old)  
+    Born DR 1453 (267 years old)  
     { .bio }
 
     Based in [Nidzahar](<../../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range/sentinel-range.md>)

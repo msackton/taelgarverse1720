@@ -4,7 +4,6 @@ displayDefaults: {defArt: ''}
 title: The Wildling
 ---
 
-
 ### The Wildling
 *they/them*
 

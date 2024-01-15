@@ -10,7 +10,6 @@ aliases: [Barzinduk]
 whereabouts: Nidzahar
 title: Gemcrafters
 ---
-
 # The Gemcrafters
 
 *in dwarvish, Barzinduk*

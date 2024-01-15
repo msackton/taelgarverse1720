@@ -12,7 +12,6 @@ typeOf: realm
 subTypeOf: forest
 title: Rostaurë
 ---
-
 # Rostaurë
 :speaker:{ .middle } *(ROS-tow-reh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

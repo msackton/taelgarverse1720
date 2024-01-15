@@ -6,4 +6,3 @@ DR_end: 1583-10
 title: Cursed Cold
 ---
 
-

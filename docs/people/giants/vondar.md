@@ -13,8 +13,9 @@ whereabouts:
 - {type: home, start: 1700, location: Amberglow}
 title: Vondar
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Vondar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -9,7 +9,6 @@ pronunciation: Val-le
 typeOf: settlement
 title: Valit
 ---
-
 # Valit
 :speaker:{ .middle } *(Val-le)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

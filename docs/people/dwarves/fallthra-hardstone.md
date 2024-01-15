@@ -16,8 +16,9 @@ whereabouts:
 pronunciation: FAHL-thrah
 title: Fallthra Hardstone
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Fallthra Hardstone
 :speaker:{ .middle } *(FAHL-thrah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,12 +31,6 @@ hide_toc: true
 </div>
 
 
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 1st, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 

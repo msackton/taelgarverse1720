@@ -8,7 +8,6 @@ typeOf: settlement
 typeOfAlias: river town
 title: Stavenford
 ---
-
 # Stavenford
 :speaker:{ .middle } *(Staven-ford)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

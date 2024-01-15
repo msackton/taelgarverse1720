@@ -9,7 +9,6 @@ destroyed: 1
 whereabouts: Chasa River Valley
 title: Kin-Aska
 ---
-
 # Kin-Aska
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

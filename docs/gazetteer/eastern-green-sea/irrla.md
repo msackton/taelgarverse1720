@@ -5,7 +5,6 @@ typeOf: island
 partOf: Green Sea
 title: Irrla
 ---
-
 # Irrla
 >[!info]+ Information
 > An  island in the [Green Sea](<../green-sea.md>)

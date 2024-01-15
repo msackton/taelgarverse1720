@@ -6,7 +6,6 @@ typeOf: ward
 partOf: Tollen
 title: Godshome
 ---
-
 # Godshome
 >[!info]+ Information
 > A ward in [Tollen](<./tollen.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)

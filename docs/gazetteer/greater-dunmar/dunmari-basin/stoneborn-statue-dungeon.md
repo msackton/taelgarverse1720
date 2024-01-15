@@ -6,7 +6,6 @@ typeOf: ruin
 partOf: Central Dunmar
 title: Stoneborn Statue Dungeon
 ---
-
 # The Stoneborn Statue Dungeon
 >[!info]+ Information
 > A  ruin in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)

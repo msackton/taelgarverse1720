@@ -9,7 +9,6 @@ typeOf: desert
 pronunciation: ga-RUM-ja-la
 title: Garamjala Desert
 ---
-
 # The Garamjala Desert
 :speaker:{ .middle } *(ga-RUM-ja-la)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

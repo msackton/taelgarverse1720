@@ -4,7 +4,6 @@ title: Jaankar
 ---
 
 
-
 # Jaankar
 
 [Chidya](<../../../cosmology/gods/incorporeal-gods/dunmari/chidya.md>)'s Feast Day, celebrated around July 21/22, when the month of the summer solstice ends. 

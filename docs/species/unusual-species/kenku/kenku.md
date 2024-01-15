@@ -4,5 +4,4 @@ name: Kenku
 aliases: [kenku]
 title: Kenku
 ---
-
 (stub)

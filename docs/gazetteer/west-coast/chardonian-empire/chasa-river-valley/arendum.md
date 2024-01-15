@@ -6,7 +6,6 @@ typeOf: city
 whereabouts: Chasa River Valley
 title: Arendum
 ---
-
 # Arendum
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A city in the [Chasa River Valley](<./chasa-river-valley.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  

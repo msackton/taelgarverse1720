@@ -5,7 +5,6 @@ typeOf: sea
 partOf: Green Sea
 title: Western Green Sea
 ---
-
 # The Western Green Sea
 >[!info]+ Information
 > A sea in the [Green Sea](<../green-sea.md>)
@@ -20,7 +19,7 @@ South of Sembara, beyond the Mostreve Hills lie the Plaguelands, a desolate and 
 
 The region is blessed with mild weather, amble rain, and rich fertile soil. Largely unchanged by the upheavals of the Great War, farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. Five major river systems, fed by the summer rains, and melting snowpack and glaciers from the mountains, define the region: in the northeast, the Kem and Niva rivers spill down from the northern plateau across [Vostok](<vostok/vostok.md>). Further west, the mighty Volta, wide and cold, flows past [Tollen](<tollen/tollen.md>) into the [Green Sea](<../green-sea.md>). South of the Volta is the swift flowing Teft, then the placid Semb, and finally the southern Wistel and Enst rivers, which merge in the great marshy delta of [Ozabal](<../greater-sembara/ozabal.md>), home to a large community of Lizardfolk.
 
-The rise and fall of the land further defines the region: in the west, the towering [Sentinel Range](<../sentinel-range/sentinel-range.md>) rise thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. East of the mountains lie the Sembaran Highlands, a rough land that slowly descends to the Aine and Braebine Hills. East of the highlands is the Great Central Plain, a vast flat plain, stretching from the Mostreve Hills in the south to the Volta River in the north. North of the Teft, the plain stretches toward the mountains until the Northern Highlands start to rise up. In the west, the plain ends along the line of the Aine and Braebine Hills. In the east, it ends just east of the Volta River, as the land rises to the [~VostokHills~](<./vostokhills.md>) before descending again to the flatlands of central [Vostok](<vostok/vostok.md>).
+The rise and fall of the land further defines the region: in the west, the towering [Sentinel Range](<../sentinel-range/sentinel-range.md>) rise thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. East of the mountains lie the Sembaran Highlands, a rough land that slowly descends to the Aine and Braebine Hills. East of the highlands is the Great Central Plain, a vast flat plain, stretching from the Mostreve Hills in the south to the Volta River in the north. North of the Teft, the plain stretches toward the mountains until the Northern Highlands start to rise up. In the west, the plain ends along the line of the Aine and Braebine Hills. In the east, it ends just east of the Volta River, as the land rises to the ~VostokHills~ before descending again to the flatlands of central [Vostok](<vostok/vostok.md>).
 
 ### Climatic Overview
 

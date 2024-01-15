@@ -9,5 +9,4 @@ ancestry: Deno'qai
 whereabouts: Elderwood
 title: Baz'aku
 ---
-
 # The Baz'aku

@@ -6,7 +6,6 @@ name: Festival of Rebirth
 fc-date: 1748-4-6
 title: Festival of Rebirth
 ---
-
 # The Festival of Rebirth
 
 [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>)'s Feast Day. Celebrated on the first full moon after the vernal equinox, marking the beginning of summer. 

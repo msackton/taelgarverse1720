@@ -15,8 +15,9 @@ affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
 title: Elandrial
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Elandrial
 :speaker:{ .middle } *(eh-LAN-dree-ahl)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

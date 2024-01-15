@@ -5,7 +5,6 @@ partOf:
 title: Northern Tribes
 ---
 
-
 The northern forests, north of the Blackwater Fens and inland from the coast, were once home to many Deno'qai, before [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) established himself in Pandar. 
 
 This area, a vast forest stretching from the sea to the mountains, was north of the elven territories, and the Deno'qai who settled here were fierce, independent, less influenced by the Elven ways, living more openly in small towns and villages.
@@ -13,7 +12,7 @@ This area, a vast forest stretching from the sea to the mountains, was north of 
 The northern Deno'qai suffered greatly during the [Great War](<../../../events/1500s/great-war.md>) and have only [recently begun](<../../../history/history-of-the-northern-deno-qai.md>) to emerge from their mountain redoubts.
 ### Customs
 
-The northern Deno'qai, while worshipping tanshi like their southern brethren, and descended from the same original settlers, are culturally distinct to a certain extent.
+The northern Deno'qai, while worshipping [tanshi](<../../../cosmology/religions/tanshi.md>) like their southern brethren, and descended from the same original settlers, are culturally distinct to a certain extent.
 
 They wear heavy furs, and lamellar armor (scale mail), and fight with axes. Little farming would normally be possible in the high mountains, but the Ko'zula have learned some of the terraced farming tricks of the stoneborn, and grow hearty crops in the long days of the short summers.
 

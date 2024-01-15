@@ -3,7 +3,6 @@ tags: [timeline, status/unknown]
 title: A Chronicle of Sembaran History
 ---
 
-
 ## The Great War
 DR 1462 - DR 1545; 1 Derik II - 26 Derik III
 

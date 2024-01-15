@@ -6,7 +6,6 @@ typeOf: barony
 partOf: Western Marches
 title: Barony of Ainwick
 ---
-
 # The Barony of Ainwick
 >[!info]+ Information
 > A barony in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)

@@ -7,7 +7,6 @@ fc-date: {day: 30, month: 9, year: 1748}
 title: Aagirvala
 ---
 
-
 # Aagirvala
 
 [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>)'s Feast Day, celebrated on the first full moon after the autumnal equinox. 

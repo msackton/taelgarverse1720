@@ -8,7 +8,6 @@ population: 411
 partOf: Barony of Aveil
 title: Asineau
 ---
-
 # Asineau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

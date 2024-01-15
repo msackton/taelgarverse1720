@@ -8,7 +8,6 @@ typeOf: river
 partOf: Vostok
 title: Kem
 ---
-
 # The Kem
 :speaker:{ .middle } *(KEM)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

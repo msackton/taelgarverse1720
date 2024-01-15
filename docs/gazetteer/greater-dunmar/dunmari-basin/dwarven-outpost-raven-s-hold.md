@@ -10,7 +10,6 @@ subTypeOf: ruined
 partOf: Sentinel Range
 title: Dwarven Outpost (Raven's Hold)
 ---
-
 # Dwarven Outpost (Raven's Hold)
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>), [Central Highlands Region](<../../sentinel-range/central-highlands-region.md>)  

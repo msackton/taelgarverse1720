@@ -9,6 +9,5 @@ typeOf: battle
 whereabouts: Urlich Pass
 title: Battle of Urlich Pass
 ---
-
 # The Battle of Urlich Pass
 

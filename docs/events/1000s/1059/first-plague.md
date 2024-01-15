@@ -6,7 +6,6 @@ aliases:
 DR: 1059
 title: First Plague
 ---
-
 # The First Plague
 >[!info]+ Event Summary
 >

@@ -10,8 +10,9 @@ whereabouts:
 - {type: home, location: plains of Karawa, alias: plains north-west of Karawa}
 title: Devana
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Devana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

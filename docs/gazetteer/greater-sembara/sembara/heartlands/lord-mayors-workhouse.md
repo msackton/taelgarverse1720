@@ -6,7 +6,6 @@ typeOf: orphanage
 partOf: Embry
 title: Lord Mayor’s Workhouse
 ---
-
 # The Lord Mayor’s Workhouse
 >[!info]+ Information
 > An  orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)

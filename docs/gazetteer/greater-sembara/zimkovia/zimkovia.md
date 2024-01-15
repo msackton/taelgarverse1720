@@ -7,7 +7,6 @@ aliases: [Highland Kingdoms]
 partOf: Western Green Sea Region
 title: Zimkovia
 ---
-
 # Zimkovia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in the [Western Green Sea Region](<../../western-green-sea/western-green-sea-region.md>)  

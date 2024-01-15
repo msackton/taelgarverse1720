@@ -5,4 +5,3 @@ displayDefaults: {defArt: ''}
 typeOf: ward
 title: Fairgate Outer
 ---
-

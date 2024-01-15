@@ -2,7 +2,6 @@
 tags: [deity, status/unknown]
 title: G’Zab
 ---
-
 # G'Zab
 
 One of the Three Despairs, the god-like entities born of the Void Mind, the power that seeks to end all things. 

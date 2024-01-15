@@ -11,7 +11,6 @@ affiliations:
 partOf: Karawa
 title: Temple of Shakun
 ---
-
 # The Temple of Shakun
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) temple of [Shakun](<../../../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) in [Karawa](<./karawa.md>), [Eastern Dunmar](<./eastern-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  

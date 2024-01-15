@@ -6,7 +6,6 @@ typeOf: inn
 partOf: Tokra
 title: Kirian’s
 ---
-
 # Kirian’s
 >[!info]+ Information
 > An  inn in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>)

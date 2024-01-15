@@ -9,7 +9,6 @@ aliases: [Derwent]
 title: Lake Derwent
 ---
 
-
 # Lake Derwent
 
 

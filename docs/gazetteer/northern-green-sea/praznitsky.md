@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Ursk, startFilter: f}
 title: Praznitsky
 ---
-
 # Praznitsky
 :speaker:{ .middle } *(PRAZ-niht-skee)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

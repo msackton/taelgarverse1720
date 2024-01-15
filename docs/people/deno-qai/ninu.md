@@ -11,18 +11,19 @@ whereabouts:
 - {type: home, location: Ko'zula village}
 title: Ninu
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Ninu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1703 (46 years old)  
+    Born DR 1703 (17 years old)  
     { .bio }
 
-    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
+    Based the Ko'zula village
 </div>
 
 
-Chief of the largest of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) and the lost tanshi.
+Chief of the largest of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the armbands of Cha’mutte and the lost tanshi.

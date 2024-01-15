@@ -7,7 +7,6 @@ whereabouts: Western Green Sea Region
 aliases: [Free City of Tollen, Tollen]
 title: Free City of Tollen
 ---
-
 # The Free City of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A city in the [Western Green Sea Region](<../western-green-sea-region.md>)  
@@ -136,7 +135,7 @@ Tollen is a city of guilds: the various trade associations, craft guilds, and pr
 - [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)
 ## Landmarks
 
-Tollen has many notable landmarks. The most famous is the Tollen Bridge, a vast span across the wide [Volta](<../../greater-sembara/rivers/volta-watershed/volta.md>) that dates to the days of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), now lined with prestigious shops. There are also many temples, particularly the Temple of the Wanderer, with its massive spire, and the Temple of the [Sibyl](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>), with its colorful dome, and the Skaer [Temple of Kaikkea](<./temple-of-kaikkea.md>), one of the oldest buildings in Tollen. 
+Tollen has many notable landmarks. The most famous is the Tollen Bridge, a vast span across the wide [Volta](<../../greater-sembara/rivers/volta-watershed/volta.md>) that dates to the days of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), now lined with prestigious shops. There are also many temples, particularly the Temple of [the Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>), with its massive spire, and the Temple of the [Sibyl](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>), with its colorful dome, and the Skaer [Temple of Kaikkea](<./temple-of-kaikkea.md>), one of the oldest buildings in Tollen. 
 
 The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [Gold Street](<./gold-street.md>) and [Guildgate](<./guildgate.md>) districts, which are noted for their impressive architecture. 
 
@@ -145,7 +144,7 @@ The guildhalls of Tollen are also notable, with several richer guilds constructi
 
 Tollen is the master of the [Western Gulf](<../western-gulf.md>), with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [Cymea](<../cymea/cymea.md>), and patrols the [Western Gulf](<../western-gulf.md>), keeping it free of pirates. 
 
-The Tollen economy is powered by trade. Tollenders produce dyes. cloth, and fine clothes that are widely sought across the [Green Sea](<../../green-sea.md>), and are also known for shipbuilding, fishing, [whaling](<../../../worldbuilding/brainstorming/whaling.md>), and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of magical inks and tattoos.
+The Tollen economy is powered by trade. Tollenders produce dyes. cloth, and fine clothes that are widely sought across the [Green Sea](<../../green-sea.md>), and are also known for shipbuilding, fishing, whaling, and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of magical inks and tattoos.
 
 
 

@@ -6,7 +6,6 @@ partOf: Khatridun
 tags: [place, status/unknown]
 title: Darakan
 ---
-
 # Darakan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) city in [Khatridun](<./khatridun.md>), [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)  

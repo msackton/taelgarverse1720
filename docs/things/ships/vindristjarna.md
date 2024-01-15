@@ -20,8 +20,9 @@ aliases: [Star on the Wind]
 subTypeOf: magical
 title: Vindristjarna
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Vindristjarna
 :speaker:{ .middle } *(vin-dree-SHAR-na)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -45,7 +46,7 @@ While the phasing stone that originally powered Vindristjarna is mostly destroye
 
 ## Recovery and Repair
 
-[Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) [restored Vindristjarna in the course of their adventures](<../../campaigns/dunmari-frontier/session-notes/session-68-dufr.md>), replacing the ruined phasing stone with a new one, [recovered from Hralgar's ancient mountain home](<../../campaigns/dunmari-frontier/session-notes/session-67-dufr.md>). 
+[Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) restored Vindristjarna in the course of their adventures, replacing the ruined phasing stone with a new one, recovered from Hralgar's ancient mountain home. 
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold currently unimproved, a lower deck, and an upper deck. 
 
@@ -93,11 +94,11 @@ UNNAMED (unknown). A halfling storyteller.
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
 ### Pitcher of Purity
-A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. [Recovered from the Edge of Echoes](<../../campaigns/dunmari-frontier/session-notes/session-80-dufr.md>). Drankorian make. 
+A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. Recovered from the Edge of Echoes. Drankorian make. 
 ### Cleansing Stone
 A polished stone sphere, 1 foot in diameter, embedded on top of short marble pedestal. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. Originally located in Eudomes' bedroom in the Stormcaller Tower; recovered upon the destruction of the tower by Hralgar when he was freed from imprisonment. Drankorian make. 
 ### Cold Chest
-A 3 foot deep by 4 foot wide stone chest, [recovered](<../../campaigns/dunmari-frontier/session-notes/session-80-dufr.md>) from an ancient Drankorian workshop and laboratory hidden along an underground portion of the Freccila River in south-central Cymea, historically known as the Elemental Forge, and more recently as the Edge of Echoes. The chest is enchanted. Any food or drink that is placed within the chest will not spoil. Drankorian make. 
+A 3 foot deep by 4 foot wide stone chest, recovered from an ancient Drankorian workshop and laboratory hidden along an underground portion of the Freccila River in south-central Cymea, historically known as the Elemental Forge, and more recently as the Edge of Echoes. The chest is enchanted. Any food or drink that is placed within the chest will not spoil. Drankorian make. 
 ### Planar Prism
 A fine hollow sphere made of wires of [Inkaye](<../materials/inkaye.md>), in which a shimmering crystal prism is mounted. This item is magically linked to the [phasing stone](<../magic-items/phasing-stones.md>) on [Vindristjarna](<./vindristjarna.md>): if you are attuned to the phasing stone, you are considered attuned to the rainbow prism, and vice versa. 
 

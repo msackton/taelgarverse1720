@@ -10,7 +10,6 @@ partOf: Barony of Aveil
 pronunciation: Rin-burg
 title: Rinburg
 ---
-
 # Rinburg
 :speaker:{ .middle } *(Rin-burg)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

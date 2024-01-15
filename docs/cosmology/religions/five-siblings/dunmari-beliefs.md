@@ -3,7 +3,6 @@ tags: [religion/fivesiblings, background, status/unknown]
 title: Dunmari Beliefs
 ---
 
-
 # Creation Story
 
 What follows is the creation story of the Dunmari, told in brief.

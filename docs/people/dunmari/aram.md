@@ -12,18 +12,19 @@ whereabouts:
 - {type: home, location: Havdar's Warband}
 title: Aram
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Aram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1717 (32 years old)  
+    Born DR 1717 (3 years old)  
     Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
 
-    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>)
+    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>), in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

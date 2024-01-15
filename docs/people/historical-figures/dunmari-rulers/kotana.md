@@ -13,8 +13,9 @@ affiliations:
 title: Samraat Kotana
 aliases: [Samraat Kotana]
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samraat Kotana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

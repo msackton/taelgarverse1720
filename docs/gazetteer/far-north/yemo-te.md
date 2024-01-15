@@ -7,7 +7,6 @@ partOf: Forest of Nightmares
 pronunciation: yeh-moh-TEH
 title: Yemo'te
 ---
-
 # Yemo'te
 *(yeh-moh-TEH)*
 >[!info]+ Summary

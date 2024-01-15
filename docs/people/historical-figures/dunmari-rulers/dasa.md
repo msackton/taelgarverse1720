@@ -13,8 +13,9 @@ affiliations:
 - {org: Dunmar, start: 1385, type: leader}
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samraat Aatmaj Dasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

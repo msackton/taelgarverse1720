@@ -3,7 +3,6 @@ tags: [background, status/tim]
 title: Dunmari Architecture
 ---
 
-
 Some notes on historical architectural styles in Dunmar.
 ## Aatmajic
 

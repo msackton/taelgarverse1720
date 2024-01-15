@@ -2,7 +2,6 @@
 tags: ['#event-source', status/unknown]
 title: History of the Northern Deno'qai
 ---
-
 # The History of the Northern Deno'qai
 
 

@@ -8,8 +8,9 @@ name: Abha
 affiliations: [Sonkar Mystai]
 title: Abha
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Abha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

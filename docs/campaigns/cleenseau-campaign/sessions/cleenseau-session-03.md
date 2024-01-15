@@ -6,7 +6,6 @@ sessionNumber: 3
 players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 03
 ---
-
 # Cleenseau - Session 3
 >_in Taelgar from the October 25th through the late afternoon of the [Festival of the Bridge](<../../../time/holidays-and-festivals/festival-of-the-bridge.md>), on November 3rd
 >7 Robert I / DR 1719

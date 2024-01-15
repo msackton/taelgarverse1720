@@ -7,7 +7,6 @@ aliases: [plains of Karawa]
 tags: [place, status/unknown]
 title: Samtal
 ---
-
 # Samtal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A plain in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  

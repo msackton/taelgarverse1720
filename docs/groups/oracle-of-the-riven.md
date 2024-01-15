@@ -5,7 +5,6 @@ name: Oracle of the Riven
 partOf: Tyrwingha
 title: Oracle of the Riven
 ---
-
 # Oracle of the Riven
 
 The royal electors of [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). There are six of these royal electors:

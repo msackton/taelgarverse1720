@@ -3,7 +3,6 @@ tags: [species, status/unknown]
 title: Derro
 ---
 
-
 # Derro
 Twisted dwarves, the results of [mind flayer](<./ithilids.md>) experiments to create slave races. Severed from any connection to their firstborn and manipulated by mind flayers into their current form.
 

@@ -8,8 +8,9 @@ rarity: uncommon
 whereabouts: Robin of Abenfyrd
 title: Hammer of Vigilance
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Hammer of Vigilance
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Uncommon Hammer__  

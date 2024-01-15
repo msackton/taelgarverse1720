@@ -5,7 +5,6 @@ typeOf: region
 partOf: Sembara
 title: Western Marches
 ---
-
 # The Western Marches
 >[!info]+ Information
 > A  region in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)

@@ -6,7 +6,6 @@ typeOf: gate
 partOf: Cleenseau
 title: North Gate of Cleenseau
 ---
-
 # The North Gate of Cleenseau
 >[!info]+ Information
 > A  gate in [Cleenseau](<./cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), the [Western Green Sea Region](<../../../../../western-green-sea/western-green-sea-region.md>)

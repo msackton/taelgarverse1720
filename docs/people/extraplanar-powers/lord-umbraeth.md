@@ -11,8 +11,9 @@ whereabouts:
 - {type: home, start: '', end: '', location: Duskmire}
 title: Lord Umbraeth
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Lord Umbraeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

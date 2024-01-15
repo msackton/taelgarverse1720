@@ -2,7 +2,6 @@
 tags: [species, status/unknown]
 title: Kobolds
 ---
-
 # Kobolds
 
 This page contains lore information about kobodls. For details on character creation and playing a kobold, see [Playing a Kobold](<../../../campaigns/mechanics/species/playing-a-kobold.md>). 

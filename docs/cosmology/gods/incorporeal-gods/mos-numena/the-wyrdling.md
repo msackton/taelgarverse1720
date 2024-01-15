@@ -5,7 +5,6 @@ displayDefaults: {defArt: ''}
 gender: nonbinary
 title: The Wyrdling
 ---
-
 # The Wyrdling
 
 One of the [Eight Divines](<../../../religions/mos-numena.md>) of the [Mos Numena](<../../../religions/mos-numena.md>), the religious tradition that spread from [Drankor](<../../../../history/drankorian-era/drankorian-empire.md>) into much of the western world of Taelgar. 

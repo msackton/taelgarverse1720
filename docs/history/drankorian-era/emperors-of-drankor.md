@@ -4,7 +4,6 @@ title: Emperors of Drankor
 ---
 
 
-
 # Emperors of Drankor
 
 (based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon, but may not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors)

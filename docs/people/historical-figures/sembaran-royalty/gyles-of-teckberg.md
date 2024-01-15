@@ -12,8 +12,9 @@ affiliations:
 - {org: House of Teckberg, type: leader}
 title: Gyles
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

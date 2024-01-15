@@ -3,7 +3,6 @@ tags: [status/unknown, source]
 title: The Founding of Dunmar
 ---
 
-
 This is the story of the founding of [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), as told by the Dunmari:
 
 

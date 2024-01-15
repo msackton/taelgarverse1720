@@ -10,7 +10,6 @@ population: 392
 pronunciation: BUH-ree
 title: Beury
 ---
-
 # Beury
 :speaker:{ .middle } *(BUH-ree)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

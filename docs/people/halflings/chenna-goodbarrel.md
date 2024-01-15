@@ -18,28 +18,22 @@ whereabouts:
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 title: Chenna Goodbarrel
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Chenna Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
-    Born DR 1688 (61 years old)  
+    Born DR 1688 (32 years old)  
     Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
     { .bio }
 
-    Originally from: [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-    Based at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 
-
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) around DR 1730 at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 Chenna Goodbarrel owns a small and charming halfling tavern in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>) called *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.

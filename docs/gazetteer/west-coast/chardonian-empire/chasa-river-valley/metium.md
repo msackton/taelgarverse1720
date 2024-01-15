@@ -5,7 +5,6 @@ typeOf: city
 partOf: Chasa River Valley
 title: Metium
 ---
-
 # Metium
 >[!info]+ Summary
 > a city in [the Chasa River Valley](<./chasa-river-valley.md>), [The Chardonian Empire](<../chardonian-empire.md>)

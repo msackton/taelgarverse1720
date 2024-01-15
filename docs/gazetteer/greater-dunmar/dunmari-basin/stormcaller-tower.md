@@ -9,12 +9,10 @@ typeOf: tower
 partOf: Eastern Dunmar
 title: Stormcaller Tower
 ---
-
 # Stormcaller Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Destroyed November 23rd, 1748  
-    :octicons-location-24:{ .lg .middle } destroyed tower in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A tower in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

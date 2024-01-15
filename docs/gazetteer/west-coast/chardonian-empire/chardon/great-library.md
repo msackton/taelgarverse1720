@@ -7,7 +7,6 @@ partOf: Chardon
 typeOf: library
 title: Great Library
 ---
-
 # The Great Library
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A library in [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  

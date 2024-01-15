@@ -10,7 +10,6 @@ whereabouts:
 - {type: home, location: Tokra-Darba Road}
 title: Akela Inn
 ---
-
 # The Akela Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) caravanserai on the [Tokra-Darba Road](<../../../roads/tokra-darba-road.md>), in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  

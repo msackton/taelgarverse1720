@@ -5,7 +5,6 @@ aliases: [Eight Divines]
 title: Mos Numena
 ---
 
-
 # Mos Numena
 
 The practices and traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine, although in common usage these worship traditions are usually just called ‘the Way’.

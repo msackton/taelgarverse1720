@@ -11,14 +11,15 @@ gender: female
 whereabouts: Karawa
 title: Kisa
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Kisa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1680 (69 years old)  
+    Born DR 1680 (40 years old)  
     { .bio }
 
     Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

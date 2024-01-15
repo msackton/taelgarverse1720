@@ -4,7 +4,6 @@ name:
 DR: 1719-10-20
 title: First Spider Attack on Tavoise
 ---
-
 ### First Spider Attack on Taviose
 *October 20th, 1719; 10am*
 

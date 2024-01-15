@@ -10,8 +10,9 @@ affiliations:
 - {org: Redpeaks, type: primary}
 title: Vondal Redpeak
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Vondal Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

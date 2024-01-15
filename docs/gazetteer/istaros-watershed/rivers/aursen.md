@@ -7,7 +7,6 @@ partOf:
 aliases: [Aursen River, River Aursen]
 title: Aursen
 ---
-
 ### River Aursen
 The Aursen falls rapidly out of the [Sentinel Range](<../../sentinel-range/sentinel-range.md>) before become wide and gentle as it flows east. Once the [Douren](<./douren.md>) joins it, it falls rapidly through a series of six large waterfalls before joining the [Masance](<./masance.md>) to become the [Ardonne](<./ardonne.md>).
 

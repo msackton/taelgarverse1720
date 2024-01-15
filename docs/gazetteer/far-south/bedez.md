@@ -8,6 +8,5 @@ partOf: Orekatu
 title: Bedez
 ---
 
-
 Bedez is a village in the lizardfolk kingdom of [Orekatu](<./orekatu.md>). 
 

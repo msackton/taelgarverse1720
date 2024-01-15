@@ -12,17 +12,17 @@ family: Hardstone
 whereabouts: Tokra
 title: Dag Hardstone
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
-    Born DR 1729 (20 years old)  
+    **(page is future dated)**  
     { .bio }
 
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

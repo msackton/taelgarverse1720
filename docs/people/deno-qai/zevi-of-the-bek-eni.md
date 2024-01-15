@@ -13,17 +13,17 @@ whereabouts:
 - {type: home, start: '', end: '', location: Elderwood}
 title: Zevi
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Zevi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Died DR 1748  
     { .bio }
 
-    Lived in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+    Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
 </div>
 
 

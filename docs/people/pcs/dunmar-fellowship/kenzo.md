@@ -11,8 +11,9 @@ gender: male
 player: David Kong
 title: Kenzo
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -27,7 +28,7 @@ hide_toc: true
 
 > [!warning]- Kenzo's Backstory
 > 
-> Kenzo was born in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only polished shard of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) passed down from his family to remember his parents by.
+> Kenzo was born in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only polished shard of Jade Piece of Rai's Hand passed down from his family to remember his parents by.
 > 
 > The next few years of his life were rough. Kenzo was different from most children -- not only was he Dunmari, and an orphan, but he had exceptionally vivid dreams. A few times a year, he would wake from sleep confused, totally convinced he had been teleported to some strange, silent place. Sometimes these were new, but a few always recurred: a forest, lush and vibrant, surrounded by high mountain peaks; an island, barren except for a single tall dark tower; a perfectly circular hill, covered in small white flowers, in the middle of a desert; an impossibly vast forest, stretching without end as far as the eye could see.
 > 
@@ -54,27 +55,27 @@ hide_toc: true
 
 > [!WARNING]- Kenzo's Meeting with Candrosa, Session 5
 > 
-> ### Kenzo and [Candrosa](<../../dunmari/candrosa.md>), [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), [Session 5 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-5-dufr.md>)
+> ### Kenzo and [Candrosa](<../../dunmari/candrosa.md>), [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), Session 5 (DuFr)
 > 
 > In the predawn hours, you awake suddenly to a gentle tapping on your door. Standing outside is [Candrosa](<../../dunmari/candrosa.md>), dressed in his silver-trimmed, ochre robe, walking with a sense of purpose and resolve you have not seen before. He carries a staff of white ash with a silver crescent moon design on top.
 > 
 > 'Kenzo. Will you walk with me? I intend to retreat for a day or two, in order to pray and meditate on recent events, but would talk with you before I do.'
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) leads you out of the inn, into the desert to the east, around the village, and to a hidden stairway climbing the side of the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>). The climb is very steep, but short, and just as the sun is rising you ascend to the top, catching the first rays of morning light. [Candrosa](<../../dunmari/candrosa.md>) says, "The view is beautiful up here." The morning light catches off the stones of the desert, bathing everything in warm reds and golds. [Candrosa](<../../dunmari/candrosa.md>) pauses for a moment, then says, "I need to ask you a question. For several weeks, every time I dream I have seen a vision of a [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) hand, reaching out to me. The hand is very lifelike, except for a crack that runs down the palm, as if a deep gash had been cut in the stone. Every night I try to grasp it, and every night my hand passes through it, as if it were an illusion. Last night, you were in my dreams. You did something to the hand -- reached out to it somehow and placed something in the gash -- and then your hand closed around it, and you vanished. This feels significant. Do you know what this might mean?"
+> [Candrosa](<../../dunmari/candrosa.md>) leads you out of the inn, into the desert to the east, around the village, and to a hidden stairway climbing the side of the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>). The climb is very steep, but short, and just as the sun is rising you ascend to the top, catching the first rays of morning light. [Candrosa](<../../dunmari/candrosa.md>) says, "The view is beautiful up here." The morning light catches off the stones of the desert, bathing everything in warm reds and golds. [Candrosa](<../../dunmari/candrosa.md>) pauses for a moment, then says, "I need to ask you a question. For several weeks, every time I dream I have seen a vision of a Jade Piece of Rai's Hand hand, reaching out to me. The hand is very lifelike, except for a crack that runs down the palm, as if a deep gash had been cut in the stone. Every night I try to grasp it, and every night my hand passes through it, as if it were an illusion. Last night, you were in my dreams. You did something to the hand -- reached out to it somehow and placed something in the gash -- and then your hand closed around it, and you vanished. This feels significant. Do you know what this might mean?"
 > 
-> Learning that you carry this [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) shard, he holds up his staff, which seems to pulse with the light of dawn. It seems to have grown, becoming larger and yet also more insubstantial, as if you are seeing it through a faint mist. "I can connect your soul to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) if you wish. This is not a thing to do lightly, as the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) has its own perils. But it may be the only way to learn more about this item you carry."
+> Learning that you carry this Jade Piece of Rai's Hand shard, he holds up his staff, which seems to pulse with the light of dawn. It seems to have grown, becoming larger and yet also more insubstantial, as if you are seeing it through a faint mist. "I can connect your soul to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) if you wish. This is not a thing to do lightly, as the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) has its own perils. But it may be the only way to learn more about this item you carry."
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) touches the staff to your forehead, and you feel yourself falling away from your body. The world turns faint and insubstantial around you, everything fading to mist except the staff and your [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) amulet. A voice, in the distance: 'Remember the staff, remember your body, or you may not be able to find your way back.'
+> [Candrosa](<../../dunmari/candrosa.md>) touches the staff to your forehead, and you feel yourself falling away from your body. The world turns faint and insubstantial around you, everything fading to mist except the staff and your Jade Piece of Rai's Hand amulet. A voice, in the distance: 'Remember the staff, remember your body, or you may not be able to find your way back.'
 > 
-> The amulet is pulsing with a bright green light, brief flashes of images streaming out of it with each beat, too fast for you to see. As the pace of the beats increase, the images start to stabilize, and you realize you are looking at a hand made of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>), reaching out as if you take your hand. There is a deep gash down the palm, exactly as [Candrosa](<../../dunmari/candrosa.md>) described.
+> The amulet is pulsing with a bright green light, brief flashes of images streaming out of it with each beat, too fast for you to see. As the pace of the beats increase, the images start to stabilize, and you realize you are looking at a hand made of Jade Piece of Rai's Hand, reaching out as if you take your hand. There is a deep gash down the palm, exactly as [Candrosa](<../../dunmari/candrosa.md>) described.
 > 
-> As you place your shard of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) in the gash, the hand feels warm to the touch, almost like a person. Grasping the hand, you feel yourself pulled through a vortex. You see a brief glimpse of a vast formless expanse, filled with pulsing, flashing, multicolored and vibrantly alive points of color, drifting across the space in impossible ways. For a moment this galaxy of lights assaults your senses and you are overwhelmed. Then a hand is guiding you, pushing you and drawing you in at the same time, until your vision shifts and you are standing on a flat colorless plain. Standing before you is a man, robed and hooded, holding a staff in one hand. His other hand, and seemingly part or all of his arm, is made of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>).
+> As you place your shard of Jade Piece of Rai's Hand in the gash, the hand feels warm to the touch, almost like a person. Grasping the hand, you feel yourself pulled through a vortex. You see a brief glimpse of a vast formless expanse, filled with pulsing, flashing, multicolored and vibrantly alive points of color, drifting across the space in impossible ways. For a moment this galaxy of lights assaults your senses and you are overwhelmed. Then a hand is guiding you, pushing you and drawing you in at the same time, until your vision shifts and you are standing on a flat colorless plain. Standing before you is a man, robed and hooded, holding a staff in one hand. His other hand, and seemingly part or all of his arm, is made of Jade Piece of Rai's Hand.
 > 
-> He looks at you for a long moment, then in a movement so quick it seems like teleportation, he is standing directly in front of you, his [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) hand moving towards, and then through, your forehead, as he says "Kenzo, open your eyes and see." You are knocked back, momentarily feeling as though your eyes are opening again, despite being open already, and see yourself and this man standing next to each other, both surrounded by a nimbus of light. This vision lasts for a moment, and then the man in front of you is shattered, split into many pieces, which are held in place for a brief moment and then begin to fly in all directions, visions flashing across your mind's eye too fast to understand. You feel yourself being draw back to your body, as if being pulled by a cord, faster and faster. As you return to your body, in that moment before you are fully conscious, the voice of the man echoes in your mind: "You are not alone. Seek the stories of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)." As your eyes open, you realize that you can still sense the energy of wherever you were, you can feel your mind's eye waiting for you to call upon it, and the force of the extraplanar power joining with your ki.
+> He looks at you for a long moment, then in a movement so quick it seems like teleportation, he is standing directly in front of you, his Jade Piece of Rai's Hand hand moving towards, and then through, your forehead, as he says "Kenzo, open your eyes and see." You are knocked back, momentarily feeling as though your eyes are opening again, despite being open already, and see yourself and this man standing next to each other, both surrounded by a nimbus of light. This vision lasts for a moment, and then the man in front of you is shattered, split into many pieces, which are held in place for a brief moment and then begin to fly in all directions, visions flashing across your mind's eye too fast to understand. You feel yourself being draw back to your body, as if being pulled by a cord, faster and faster. As you return to your body, in that moment before you are fully conscious, the voice of the man echoes in your mind: "You are not alone. Seek the stories of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)." As your eyes open, you realize that you can still sense the energy of wherever you were, you can feel your mind's eye waiting for you to call upon it, and the force of the extraplanar power joining with your ki.
 
 > [!WARNING]- Private Discussion with Vola, Session 11
 > 
-> ### Kenzo and [Vola](<../../chardonians/vola.md>), [Session 11 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-11-dufr.md>)
+> ### Kenzo and [Vola](<../../chardonians/vola.md>), Session 11 (DuFr)
 > 
 > [Vola](<../../chardonians/vola.md>) comes to sit next to you.
 > “Fuck, that was awful”
@@ -97,7 +98,7 @@ hide_toc: true
 
 > [!warning]- The [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), Session 22
 > 
-> Kenzo's Experience of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), [Session 22 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-22-dufr.md>)
+> Kenzo's Experience of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), Session 22 (DuFr)
 > 
 > During the initiation ritual of the [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) mystai, as the story of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) concludes and you agree to sacrifice yourself for [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>), you feel your heart stop, the life fading from you. For a brief moment you see a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone. After a timeless moment, something grasps your hand, you feel warmth, and realize that for some eternal time you had felt nothing at all. The presence whispers, "Will you come back with me?"
 > 
@@ -105,11 +106,11 @@ hide_toc: true
 
 > [!warning]- Kenzo's Dream Staff Journey, Session 32
 > 
-> #### Kenzo's Dream Staff Journey, [Session 32 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-32-dufr.md>)
+> #### Kenzo's Dream Staff Journey, Session 32 (DuFr)
 > 
 > You hold the image of [Dimitaur](<../great-war/companions/dimitaur.md>) and the robed figures in the circular room in your mind as [Candrosa](<../../dunmari/candrosa.md>) raises up the staff and begins to chant. You find yourself slipping into a trance, floating in a weightless space, a constellation of multicolored points of light all around you.
 > 
-> Behind you, a thin line of energy stretches, anchoring you to [Candrosa](<../../dunmari/candrosa.md>), the staff, and your body. This is what you experienced before, when you had the vision of the [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) hand a few months ago.
+> Behind you, a thin line of energy stretches, anchoring you to [Candrosa](<../../dunmari/candrosa.md>), the staff, and your body. This is what you experienced before, when you had the vision of the Jade Piece of Rai's Hand hand a few months ago.
 > 
 > [Candrosa](<../../dunmari/candrosa.md>)’s voice behind you, echoing faintly, “Concentrate on your anchor!”
 > 
@@ -137,13 +138,13 @@ hide_toc: true
 > 
 > One of the tendrils of blue light reaches for you, and suddenly both figures notice you. They tower above you, at least 20 feet tall. As both figures look down at you, you see them for a moment not as giants, but as strands of history, threads of [Drankor](<../../../history/drankorian-era/drankor.md>). As the blue tendrils reaches you, you feel a burning sensation, but rapidly it cools, feels almost like a gentle, relaxing breeze. You see the line of your ancestors going back to [Hkar](<../../../history/pre-downfall/hkar.md>), the human figure pleased for a moment, until [Rai](<../great-war/rai.md>) grows, filling the form of the elvish figure, and leaps, crying “This one is not for you!” as the blue white tendrils of light shatters against [Rai](<../great-war/rai.md>).
 > 
-> You can feel the [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) growing heavy on your neck, and see battle after battle: always [Rai](<../great-war/rai.md>), or someone looking like him, rising up in battle against this human giant. The [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) is definitely drawn to [Rai](<../great-war/rai.md>), not the human figure. And, in every battle, the human figure remains you of the things you don’t like about [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), and the [Rai](<../great-war/rai.md>) figure reminds you of [Kaeso](<../../chardonians/kaeso.md>).
+> You can feel the Jade Piece of Rai's Hand growing heavy on your neck, and see battle after battle: always [Rai](<../great-war/rai.md>), or someone looking like him, rising up in battle against this human giant. The Jade Piece of Rai's Hand is definitely drawn to [Rai](<../great-war/rai.md>), not the human figure. And, in every battle, the human figure remains you of the things you don’t like about [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), and the [Rai](<../great-war/rai.md>) figure reminds you of [Kaeso](<../../chardonians/kaeso.md>).
 > 
 > Time speeds up, and you see the temple room you are in fall into ruin, fall into decay. The statues crumble. The giant forms shrink, collapsing on themselves. First the human, then the elf/[Rai](<../great-war/rai.md>), but the human falls harder, faster. As the [Rai](<../great-war/rai.md>)/elf figure falls, he throws out a hand, and grabs the floor of the temple, stopping himself from falling away to nothing. He has shrunk now, to a normal size, and pulls himself to standing, in the center of the temple, looking at you.
 > 
-> You pause for a moment, feel intently into the [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) and into this figure in front of you, seeing how your aura connects with the [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) and with [Rai](<../great-war/rai.md>). As you do, you feel almost in the way that the [Rai](<../great-war/rai.md>) figure is claiming you. This figure is not just [Rai](<../great-war/rai.md>), but somehow a thread of people, connected by a common history, or aura, in some way. The [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>), itself, seems to be part of this history. It is a history, an aura that reminds of you [Kaeso](<../../chardonians/kaeso.md>), most closely, but also the ghost of [Karmana](<../../dunmari/karmana.md>), and [Rishi](<../../dunmari/rishi.md>).
+> You pause for a moment, feel intently into the Jade Piece of Rai's Hand and into this figure in front of you, seeing how your aura connects with the Jade Piece of Rai's Hand and with [Rai](<../great-war/rai.md>). As you do, you feel almost in the way that the [Rai](<../great-war/rai.md>) figure is claiming you. This figure is not just [Rai](<../great-war/rai.md>), but somehow a thread of people, connected by a common history, or aura, in some way. The Jade Piece of Rai's Hand, itself, seems to be part of this history. It is a history, an aura that reminds of you [Kaeso](<../../chardonians/kaeso.md>), most closely, but also the ghost of [Karmana](<../../dunmari/karmana.md>), and [Rishi](<../../dunmari/rishi.md>).
 > 
-> As you contemplate auras, the Rai|/elf figure raises his hand, which you see is now [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>), and a pale green light begins to expand from this temple, twisting and encapsulating the human form that fell. The greenish light pulses slowly, almost forming a shield or a barrier.
+> As you contemplate auras, the Rai|/elf figure raises his hand, which you see is now Jade Piece of Rai's Hand, and a pale green light begins to expand from this temple, twisting and encapsulating the human form that fell. The greenish light pulses slowly, almost forming a shield or a barrier.
 > 
 > Still looking at you, the [Rai](<../great-war/rai.md>)/elf figure speaks: “The legacy of Drankor still balances on a knife’s edge, teetering while we were fighting other fights. Will this be your burden? Is the legacy knowledge, shared with all, or the strength and might of Hkaran purity?
 > 
@@ -151,15 +152,15 @@ hide_toc: true
 > 
 > As your vision clears, you speak, asking him, "This stone -- I believe it to be a part of you. Where are you now? Can I reunite this piece for you?"
 > 
-> The figure holds up his hand, which you is made of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>). As you watch, it slowly shatters into five pieces, which drift apart, one fading and merging with the stone in your hand. [Rai](<../great-war/rai.md>) watches, in fascination: “This has not happened yet. You bring a vision of a future yet to occur."
+> The figure holds up his hand, which you is made of Jade Piece of Rai's Hand. As you watch, it slowly shatters into five pieces, which drift apart, one fading and merging with the stone in your hand. [Rai](<../great-war/rai.md>) watches, in fascination: “This has not happened yet. You bring a vision of a future yet to occur."
 > 
 > “I do not know where I am, in your time, in the time after this. In this now, I am here, in this place, in this same place in all the echo realms, at the heart of [Drankor](<../../../history/drankorian-era/drankor.md>), watching.”
 > 
 > As he speaks, you can see the pale green light that extends from [Rai](<../great-war/rai.md>)’s hand, spreading from the temple, expanding, twisting to encapsulate the human form that fell. It pulses slowly, almost forming a shield, but as the hand fragments, so does the shield. 
 > 
-> Watching this [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) hand shatter, you ask him, “How can I reunite this shield, how fix what has happened?”
+> Watching this Jade Piece of Rai's Hand hand shatter, you ask him, “How can I reunite this shield, how fix what has happened?”
 > 
-> [Rai](<../great-war/rai.md>) pauses for a moment, watching in concern, and then speaks. “This has not happened for me yet. Time moves in unpredictable ways here. The me you see, and the me from which that shattered piece of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) came, come from different places in the stream of time. You must find what did this in your time, to understand how to undo it.”
+> [Rai](<../great-war/rai.md>) pauses for a moment, watching in concern, and then speaks. “This has not happened for me yet. Time moves in unpredictable ways here. The me you see, and the me from which that shattered piece of Jade Piece of Rai's Hand came, come from different places in the stream of time. You must find what did this in your time, to understand how to undo it.”
 > 
 > Kenzo: “What force could possibly break this shield?”
 > 
@@ -199,7 +200,7 @@ hide_toc: true
 
 > [!WARNING]- Jungle Ki Lore
 > 
-> ### Jungle Ki Lore, [Session 55-56 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-55-56-dufr.md>)
+> ### Jungle Ki Lore, Session 55-56 (DuFr)
 > 
 > In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [Elazar](<../../lizardfolk/elazar.md>). 
 > 
@@ -230,7 +231,7 @@ hide_toc: true
 
 > [!warning]- Letter from Kaeso to Kenzo, Session 61
 > 
-> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, [Session 61 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>)
+> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, Session 61 (DuFr)
 > 
 > this is a letter that [Riswynn](<./riswynn.md>) got from [Rishi](<../../dunmari/rishi.md>), in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), still sealed, addressed to Kenzo, and written in Dunmari
 > 

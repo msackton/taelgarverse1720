@@ -12,8 +12,9 @@ player: Eric Rosenbaum
 affiliations:
 title: Seeker
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 ### Seeker
 
 ![Seeker](../../../assets/seeker.jpg){width="400"}

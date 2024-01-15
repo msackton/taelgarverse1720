@@ -9,8 +9,9 @@ ancestry: Dunmari
 gender: male
 title: Karmana
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Karmana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

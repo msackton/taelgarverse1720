@@ -15,7 +15,6 @@ title: Havdar's Warband
 ---
 
 
-
 # Havdar's Warband
 
 

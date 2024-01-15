@@ -14,8 +14,9 @@ whereabouts:
 - {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
 title: Quetin
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Quetin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -27,6 +28,9 @@ hide_toc: true
     Based in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on November 28th, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
 

@@ -7,7 +7,6 @@ partOf:
 title: Zovcka
 ---
 
-
 # Zovcka
 
 

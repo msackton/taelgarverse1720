@@ -12,14 +12,15 @@ affiliations:
 - {place: Beury}
 whereabouts: Beury
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Lord Erick Murtha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1671 (78 years old)  
+    Born DR 1671 (49 years old)  
     Lord of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>)  
     { .bio }
 

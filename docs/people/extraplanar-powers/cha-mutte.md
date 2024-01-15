@@ -9,8 +9,9 @@ gender: male
 died: 1545
 title: Cha'mutte
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Cha'mutte
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

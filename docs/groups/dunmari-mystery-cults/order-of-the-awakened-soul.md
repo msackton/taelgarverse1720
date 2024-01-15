@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes]
 title: Order of the Awakened Soul
 ---
-
 # The Order of the Awakened Soul
 
 The mystery cult dedicated to the Dunmari god [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). Dedicated to collecting the stories of the Dunmari and secondarily making sure the souls of the dead are not forgotten and lost. 
@@ -12,7 +11,7 @@ Mostly vanished.
 
 > [!warning]- Kenzo's conversation with Pava 
 > 
-> ### [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) and [Pava](<../../people/dunmari/pava.md>), [Session 20 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-20-dufr.md>)
+> ### [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) and [Pava](<../../people/dunmari/pava.md>), Session 20 (DuFr)
 > 
 > [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) spoke with [Pava](<../../people/dunmari/pava.md>) to ask him what he knew of the Order of the Awakened Soul. During this conversation, he learned the following:
 > 

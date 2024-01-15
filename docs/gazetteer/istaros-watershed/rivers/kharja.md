@@ -9,7 +9,6 @@ whereabouts: Istaros Watershed
 pronunciation: KHAAr-jaa
 title: Kharja
 ---
-
 # Kharja
 :speaker:{ .middle } *(KHAAr-jaa)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

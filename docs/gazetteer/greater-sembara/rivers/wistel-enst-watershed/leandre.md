@@ -7,7 +7,6 @@ whereabouts: Enst
 pronunciation: Leh-ahn-dray
 title: Leandre
 ---
-
 # The Leandre
 :speaker:{ .middle } *(Leh-ahn-dray)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

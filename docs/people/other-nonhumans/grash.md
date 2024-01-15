@@ -18,28 +18,20 @@ whereabouts:
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 title: Grash
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Grash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A skeletal [undead](<../../species/children-of-the-embodied-gods/undead.md>) (he/him)  
-    Killed January 20th, 1749  
     { .bio }
 
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Killed in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
 
-
-
-:octicons-location-24:{ .lg .middle } Scryed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 28th, 1748 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Defeated by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 20th, 1749 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
 
 
 Known as Grash the Undying, an undead warrior and commander of a large [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) army in Kharsan. He possessed the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and used it to create a large army of orcs and undead. 

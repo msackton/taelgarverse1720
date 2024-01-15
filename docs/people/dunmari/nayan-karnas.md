@@ -17,19 +17,18 @@ whereabouts:
 - {type: home, start: '', end: 1737, location: Darba}
 - {type: home, start: 1738, end: '', location: Nayahar}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samraat Nayan Karnas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
-    Born DR 1716 (33 years old)  
-    Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (since DR 1740)  
+    Born DR 1716 (4 years old)  
     { .bio }
 
-    Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

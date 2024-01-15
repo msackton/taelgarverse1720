@@ -4,7 +4,6 @@ name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 title: Dwarves
 ---
-
 # Dwarf
 
 This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [Playing a Dwarf](<../../../campaigns/mechanics/species/playing-a-dwarf.md>).

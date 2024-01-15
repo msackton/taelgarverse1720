@@ -14,8 +14,9 @@ affiliations:
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
 title: Morgaine
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Morgaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -2,7 +2,6 @@
 tags: [deity, religion/mosnumena, status/unknown]
 title: The Night Queen
 ---
-
 # The Night Queen
 *she/her*
 

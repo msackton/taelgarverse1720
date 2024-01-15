@@ -10,7 +10,6 @@ typeOfAlias: village
 population: 62
 title: Ganboa
 ---
-
 # Ganboa
 :speaker:{ .middle } *(Gan-bo-a)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

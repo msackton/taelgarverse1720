@@ -12,22 +12,21 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Illoria}
 title: Servius
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Servius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1689 (60 years old)  
+    Born DR 1689 (31 years old)  
     Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
     { .bio }
 
     Originally from: Unknown
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of November 23rd, 1748): [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
 
 
 A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. Currently hunting rumors of treasure in Illoria. 

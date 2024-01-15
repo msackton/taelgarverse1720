@@ -25,8 +25,9 @@ whereabouts:
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ''}
 title: Dee Wildcloak
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Dee Wildcloak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -36,21 +37,11 @@ hide_toc: true
     { .bio }
 
     
+    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } 
 
 
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22nd, 1748 [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21st, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier/letters-notes-and-tales/letter-from-dee-wildcloak.md>) on November 15th, 1748  
 
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
@@ -59,27 +50,7 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
 - Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including [Arcus](<../chardonians/arcus.md>) and  [Vola](<../chardonians/vola.md>). She is particularly friendly with Vola. 
 
-- Aug 22, 1748 DR: Dee Wildcloak has a short romantic encounter with [Wellby](<../pcs/dunmar-fellowship/wellby.md>)
 
 
 
 
-
-
-## Event
-Dee was part of a party of adventurers (herself, [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<../chardonians/alban.md>)) who traveled to [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and returned to Chardon with several treasures, including [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>). 
-
-- Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<../chardonians/fausto.md>).
-- Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in Songara.
-- Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius. 
-- Mar 13, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban find the [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and make plans to explore. 
-- Mar 18, 1748 DR: Alban, Dee Wildcloak, and Dain Goldhammer loot [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), taking [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>), which awakens [Hralgar](<../giants/hralgar.md>) in a confused, disturbed state. In the chaos of fleeing, Alban is killed.
-- Mar 19, 1748 DR: Dee Wildcloak and Dain Goldhammer bury Alban outside Stormcaller Tower, and depart for Chardon
-- Apr 22, 1748 DR: Dee Wildcloak and Dain Goldhammer arrive in Chardon with [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>), and give them to [Fausto](<../chardonians/fausto.md>). 
-
-After the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) acquired [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) from [Fausto](<../chardonians/fausto.md>) and caused a stir in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), Dee decided to flee south and get out of [Fausto](<../chardonians/fausto.md>)'s control, first traveling to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) and then booking passage south, past the [Sea of Storms](<../../gazetteer/greater-dunmar/sea-of-storms.md>). 
-- Sep 12, 1748 DR: Dee Wildcloak leaves Chardon quietly, heading for Darba, hoping to escape Fausto's influence
-- Oct 19, 1748 DR: Dee Wildcloak writes to the Dunmar Fellowship and Wellby from the Green Leaf Inn, Darba. 
-- Oct 21, 1748 DR: Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba
-
-`

@@ -14,14 +14,15 @@ whereabouts:
 - {type: away, start: 1718, end: 9999, prefix: roaming around, location: Barony of Aveil}
 title: Raoul Bûcheron
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Raoul Bûcheron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1666 (83 years old)  
+    Born DR 1666 (54 years old)  
     Member of the Order of the Charitable Wanderer  
     { .bio }
 

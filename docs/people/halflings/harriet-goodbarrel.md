@@ -19,14 +19,15 @@ whereabouts:
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 title: Harriet Goodbarrel
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Harriet Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
-    Born DR 1685 (64 years old)  
+    Born DR 1685 (35 years old)  
     Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
     Member of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
     { .bio }
@@ -36,12 +37,6 @@ hide_toc: true
 </div>
 
 
-
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on DR 1730 at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.

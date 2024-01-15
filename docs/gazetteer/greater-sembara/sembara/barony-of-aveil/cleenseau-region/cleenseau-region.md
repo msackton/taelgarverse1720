@@ -6,7 +6,6 @@ typeOf: region
 partOf: Barony of Aveil
 title: Cleenseau Region
 ---
-
 # The Cleenseau Region
 >[!info]+ Information
 > A  region in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)

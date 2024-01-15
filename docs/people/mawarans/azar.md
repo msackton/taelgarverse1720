@@ -9,8 +9,9 @@ ancestry:
 gender: male
 title: Azar
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Azar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -21,4 +22,4 @@ hide_toc: true
 </div>
 
 
-See: [Azar's Tale](<../../campaigns/mawar-confederacy/notes/azar-s-tale.md>)
+See: Azar's Tale

@@ -15,8 +15,9 @@ whereabouts:
 pronunciation: meh-LIN-deer
 title: Melindir
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Melindir
 :speaker:{ .middle } *(meh-LIN-deer)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,9 +30,6 @@ hide_toc: true
     Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 Melindr is the Ambassador to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).

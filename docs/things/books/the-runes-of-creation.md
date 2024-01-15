@@ -7,8 +7,9 @@ whereabouts: Seeker
 displayDefaults: {defArt: ''}
 title: The Runes of Creation
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Runes of Creation
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Book__  

@@ -5,7 +5,6 @@ typeOf: magical place
 whereabouts: Feywild
 title: Sunset Gate
 ---
-
 # The Sunset Gate
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A magical place in the [Feywild](<./feywild.md>), the [Echo Realms](<../echo-realms.md>)  

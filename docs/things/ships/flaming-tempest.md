@@ -5,8 +5,9 @@ typeOf: vehicle
 subTypeOf: boat
 title: Flaming Tempest
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Flaming Tempest
 :octicons-info-24:{ .lg .middle } **Boat Vehicle**  
 

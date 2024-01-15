@@ -6,7 +6,6 @@ partOf: Sentinel Range
 title: Dwarven Kingdoms
 ---
 
-
 The Dwarven kingdoms of the [Sentinel Range](<../sentinel-range.md>) have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [Urlich Pass](<../urlich-pass.md>). 
 
 During [The Downfall](<../../../events/ancient/the-downfall.md>), when [Hkar](<../../../history/pre-downfall/hkar.md>) fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../sentinel-range.md>).
@@ -18,7 +17,7 @@ In the far south, south of [Urlich Pass](<../urlich-pass.md>), is [Ardith](<./ar
 ## [Khatridun](<./khatridun.md>)
 _Labeled DK2 on the map_
 
-North of [Ardith](<./ardith.md>) is the kingdom of [Khatridun](<./khatridun.md>), centered on the great city of [~DwCity1~](<./dwcity1.md>), one of the oldest Dwarven cities in the world during the Drankorian Era. During the [Great War](<../../../events/1500s/great-war.md>), [Khatridun](<./khatridun.md>) was devastated, and [~DwCity1~](<./dwcity1.md>) was destroyed. Now, a remnant of this ancient kingdom survives on the border of [Sembara](<../../greater-sembara/sembara/sembara.md>). Once rich and prosperous on the trade between [Sembara](<../../greater-sembara/sembara/sembara.md>) and [Chardon](<../../west-coast/chardonian-empire/chardon/chardon.md>), [Khatridun](<./khatridun.md>) now looks inward to Dwarven history and the legends of the past.  
+North of [Ardith](<./ardith.md>) is the kingdom of [Khatridun](<./khatridun.md>), centered on the great city of ~DwCity1~, one of the oldest Dwarven cities in the world during the Drankorian Era. During the [Great War](<../../../events/1500s/great-war.md>), [Khatridun](<./khatridun.md>) was devastated, and ~DwCity1~ was destroyed. Now, a remnant of this ancient kingdom survives on the border of [Sembara](<../../greater-sembara/sembara/sembara.md>). Once rich and prosperous on the trade between [Sembara](<../../greater-sembara/sembara/sembara.md>) and [Chardon](<../../west-coast/chardonian-empire/chardon/chardon.md>), [Khatridun](<./khatridun.md>) now looks inward to Dwarven history and the legends of the past.  
 
 ## [Am'khazar](<./am-khazar.md>)
 _Labeled DK3 on the map_

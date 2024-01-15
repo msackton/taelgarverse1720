@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Level 1 Feats
 ---
-
 FEAT DESCRIPTIONS
 Here are the descriptions of Feats mentioned in
 this document’s Backgrounds. The Feats are

@@ -6,7 +6,6 @@ sessionNumber: 2
 players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 02
 ---
-
 # Cleenseau - Session 2
 >_in Taelgar from the pre-dawn of October 22nd until the morning of October 25th
 >7 Robert I / DR 1719

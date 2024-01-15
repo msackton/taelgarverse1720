@@ -14,15 +14,16 @@ whereabouts:
 - {type: home, location: Chardon}
 pronunciation: CRIS-pus
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Crispus
 :speaker:{ .middle } *(CRIS-pus)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1697 (52 years old)  
+    Born DR 1697 (23 years old)  
     Senior Archivist of the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>)  
     { .bio }
 

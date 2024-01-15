@@ -6,7 +6,6 @@ typeOf: island
 partOf: Skaerhem
 title: Antaka
 ---
-
 # Antaka
 >[!info]+ Information
 > An island in [Skaerhem](<./skaerhem.md>)

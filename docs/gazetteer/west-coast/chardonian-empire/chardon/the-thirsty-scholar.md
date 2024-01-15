@@ -7,7 +7,6 @@ typeOf: inn
 partOf: Chardon
 title: The Thirsty Scholar
 ---
-
 # The Thirsty Scholar
 >[!info]+ Information
 > An  inn in [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)

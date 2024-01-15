@@ -6,10 +6,9 @@ typeOf: inn
 partOf: Wahacha
 title: Dolphin’s Rest Inn
 ---
-
 # The Dolphin’s Rest Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An inn in [Wahacha](<./wahacha.md>), the [Vermillion Isles](<./vermillion-isles.md>), [~Eastern Islands~](<./eastern-islands.md>)  
+-    :octicons-location-24:{ .lg .middle } An inn in [Wahacha](<./wahacha.md>), the [Vermillion Isles](<./vermillion-isles.md>), the ~Eastern Islands~  
 </div>
 
 

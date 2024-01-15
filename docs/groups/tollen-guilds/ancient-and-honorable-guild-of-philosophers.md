@@ -9,7 +9,6 @@ typeOf: guild
 whereabouts: Skepwalk
 title: Ancient and Honorable Guild of Philosophers
 ---
-
 # The Ancient and Honorable Guild of Philosophers
 
 
@@ -26,5 +25,5 @@ Rumored to trade information, especially rare and hard to acquire information, f
 People who deal with the guild often receive letters from strange sources with the information they requested, which arrive via magic. Whether the writers of the letters are aliases, members of the guild, or something stranger is not know. Rumored letter writers include.
 
 - The Flamewarden, the writer of the letter sent to the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) concerning Frankar and the [Elemental Plane of Fire](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>)
-- The Ninth Artificer, the writer of a letter sent to the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) concerning an ancient magical item know as the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>). 
+- The Ninth Artificer, the writer of a letter sent to the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) concerning an ancient magical item know as the Binding Stones. 
 

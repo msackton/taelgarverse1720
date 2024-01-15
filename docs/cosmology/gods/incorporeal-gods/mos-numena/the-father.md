@@ -2,7 +2,6 @@
 tags: [deity, religion/mosnumena, status/unknown]
 title: The Father
 ---
-
 # The Father
 *he/him*
 

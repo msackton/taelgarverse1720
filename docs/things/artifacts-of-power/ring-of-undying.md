@@ -8,13 +8,13 @@ destroyed: 1749-01-20
 whereabouts: Grash
 title: Ring of Undying
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Ring of Undying
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Ring__  
-   destroyed by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) on January 20th, 1749  
-   Was owned by: [Grash](<../../people/other-nonhumans/grash.md>)  
+   Owned by [Grash](<../../people/other-nonhumans/grash.md>)  
 </div>
 
 

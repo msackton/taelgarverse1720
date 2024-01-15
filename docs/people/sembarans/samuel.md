@@ -11,14 +11,15 @@ affiliations:
 - {org: Essfords, title: Kitchen Boy}
 title: Samuel
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1700 (49 years old)  
+    Born DR 1700 (20 years old)  
     Kitchen Boy of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     { .bio }
 

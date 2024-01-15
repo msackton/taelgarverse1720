@@ -5,4 +5,3 @@ whereabouts: Chardon
 typeOf: precinct
 title: Precinct IV
 ---
-

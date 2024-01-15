@@ -8,7 +8,6 @@ whereabouts: Barony of Aveil
 population: 987
 title: Aslain
 ---
-
 # Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

@@ -5,7 +5,6 @@ typeOf: canal
 partOf:
 title: Old Chardon Canal
 ---
-
 # The Old Chardon Canal
 >[!info]+ Summary
 

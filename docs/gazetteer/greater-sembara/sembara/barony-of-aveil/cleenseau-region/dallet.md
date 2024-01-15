@@ -9,7 +9,6 @@ whereabouts: Barony of Aveil
 pronunciation: da-LEH
 title: Dallet
 ---
-
 # Dallet
 :speaker:{ .middle } *(da-LEH)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

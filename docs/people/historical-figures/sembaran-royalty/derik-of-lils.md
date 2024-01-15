@@ -11,8 +11,9 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Derik
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Derik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

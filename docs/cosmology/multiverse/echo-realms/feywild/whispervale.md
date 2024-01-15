@@ -5,7 +5,6 @@ typeOf: realm
 title: Whispervale
 ---
 
-
 # Whispervale
 
 A fey domain.

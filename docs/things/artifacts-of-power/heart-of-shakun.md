@@ -7,8 +7,9 @@ typeOf: wonderous item
 subTypeOf: ' '
 title: Heart of Shakun
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Heart of Shakun
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Wonderous Item__  

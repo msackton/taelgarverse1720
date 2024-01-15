@@ -7,7 +7,6 @@ DR: 1709-06
 DR_end: 1709-08
 title: Summer of Red Storms
 ---
-
 # The Summer of Red Storms
 
 In the year 1709 DR, the monsoons brought not just rain but rampaging half-human, half-hyena creatures (gnolls), who raided villages as far west as the [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river valley for two months before they were stopped. 

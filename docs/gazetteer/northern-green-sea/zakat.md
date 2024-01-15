@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Ursk, startFilter: f}
 title: Zakat
 ---
-
 # Zakat
 :speaker:{ .middle } *(zuh-KAHT)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

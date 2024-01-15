@@ -11,14 +11,15 @@ whereabouts:
 - {type: home, location: Ursk}
 title: Radomir
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Radomir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1710 (39 years old)  
+    Born DR 1710 (10 years old)  
     { .bio }
 
     Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
@@ -29,4 +30,4 @@ A man from a strange place to the east.
 
 ## Safri's Tale 
 
-Maybe 10 or 15 years ago she met a strange man, maybe 25 at the time, from somewhere faraway to the east. Ursk, he said, and he spoke halting Common with a strange accent. He said his name was Radomir. He had run a long way, across the empty plains of the kenku and over the mountains, fleeing home, he claimed. He carried with him a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) that he said he found in the far north, in the ice. The full tale is his to tell, not mine. But he also asked about destroying artifacts, for this [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) he carried haunted his dreams.
+Maybe 10 or 15 years ago she met a strange man, maybe 25 at the time, from somewhere faraway to the east. Ursk, he said, and he spoke halting Common with a strange accent. He said his name was Radomir. He had run a long way, across the empty plains of the kenku and over the mountains, fleeing home, he claimed. He carried with him a Jade Piece of Rai's Hand that he said he found in the far north, in the ice. The full tale is his to tell, not mine. But he also asked about destroying artifacts, for this Jade Piece of Rai's Hand he carried haunted his dreams.

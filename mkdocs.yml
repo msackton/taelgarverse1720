@@ -1,4 +1,4 @@
-site_name: TaelgarVerse
+site_name: TaelgarVerse 1720
 theme:
   name: material
   custom_dir: overrides
@@ -51,14 +51,14 @@ plugins:
 
 # Custom Homepage Elements
 home_cover_image: assets/site-img/banner-map.png # This path starts at your root mkdocs directory.
-home_tagline: TaelgarVerse
+home_tagline: TaelgarVerse 1720
 home_description: The home of the world of Taelgar on the internet
 
 # Custom Homepage Button(s)
 home_button1_name: Campaign&nbsp;Info                 # Comment this parameter out to remove the button.
-home_button1_url: campaigns/dunmari-frontier/dunmari-frontier-campaign/    # This path starts at your root mkdocs directory.
+home_button1_url: campaigns/cleenseau-campaign/cleenseau-campaign/    # This path starts at your root mkdocs directory.
 home_button1_theme: md-button # Options: "md-button", "md-button md-button--primary"
-home_button1_title: Information about the Dunmari Frontier campaign
+home_button1_title: Information about the Cleenseau campaign
 
 home_button2_name: Gazetteer   # Comment this parameter out to remove the button.
 home_button2_url: campaigns/player-s-guide/    # This path starts at your root mkdocs directory.

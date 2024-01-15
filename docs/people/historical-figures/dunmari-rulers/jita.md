@@ -18,8 +18,9 @@ whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Samraat Dharajun Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -30,7 +31,7 @@ hide_toc: true
     Member of the [Dharajun dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>) (until DR 1460)  
     { .bio }
 
-    Originally from: the [plains of Songara](<../../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Originally from: plains of [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 

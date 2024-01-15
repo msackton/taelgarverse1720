@@ -10,7 +10,6 @@ whereabouts:
 - {type: away, location: Dunfry}
 title: Army Garrison of Cleenseau
 ---
-
 # The Army Garrison of Cleenseau
 :octicons-location-24:{ .lg .middle } Currently in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 

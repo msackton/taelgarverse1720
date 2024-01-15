@@ -5,8 +5,9 @@ typeOf: staff
 whereabouts: Candrosa
 title: Dreamweaver Staff
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Dreamweaver Staff
 >[!info]+ Information
 > (unique magical staff)

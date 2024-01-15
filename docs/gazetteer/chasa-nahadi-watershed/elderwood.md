@@ -9,10 +9,9 @@ partOf: Ainumarya
 aliases:
 title: Elderwood
 ---
-
 # The Elderwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest [Ainumarya](<./ainumarya.md>)  
+-    :octicons-location-24:{ .lg .middle } A forest in [Ainumarya](<./ainumarya.md>), the Chasa-Nahadi Watershed  
 </div>
 
 

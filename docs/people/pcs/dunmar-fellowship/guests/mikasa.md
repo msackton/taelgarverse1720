@@ -10,8 +10,9 @@ gender:
 player:
 title: Mikasa
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 <% tp.user.generateHeader(tp) %>
 ## Mikasa
 (she/her)

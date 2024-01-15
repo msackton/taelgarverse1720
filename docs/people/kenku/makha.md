@@ -12,23 +12,21 @@ whereabouts: Wahacha
 pronunciation: MAH-kah
 title: Makha
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Makha
 :speaker:{ .middle } *(MAH-kah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>) (he/him)  
-    Born DR 1712 (37 years old)  
+    Born DR 1712 (8 years old)  
     { .bio }
 
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~
 </div>
 
-
-
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)  
 
 
 The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  

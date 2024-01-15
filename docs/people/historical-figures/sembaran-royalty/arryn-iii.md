@@ -15,15 +15,15 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Arryn III
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Arryn III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
-    Born DR 1702 (47 years old)  
-    Leader of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (since DR 1745)  
+    Born DR 1702 (18 years old)  
     { .bio }
 
 </div>

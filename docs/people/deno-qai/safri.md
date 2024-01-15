@@ -12,8 +12,9 @@ whereabouts:
 - {type: away, start: 1748-10-25, end: '', prefix: forest valleys of, location: Sentinel Range}
 title: Safri
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Safri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -23,8 +24,6 @@ hide_toc: true
 
     Originally from: Unknown
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of October 25th, 1748): the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>)
 
 
 ![Safri](../../assets/safri.png){align="right"; width="500"}An old Deno'qai druid with many stories and rumors to her name.

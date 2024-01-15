@@ -8,6 +8,5 @@ ancestry: halfling
 typeOf: family
 title: Honeyhills
 ---
-
 # The Honeyhills
 

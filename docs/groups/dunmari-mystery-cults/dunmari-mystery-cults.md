@@ -3,7 +3,6 @@ tags: [organization, religion/fivesiblings, status/unknown]
 title: Dunmari Mystery Cults
 ---
 
-
 The Dunmari mystery cults are magical, semi-secret organizations dedicated to the worship and service of the [Five Siblings](<../../cosmology/religions/five-siblings/five-siblings.md>), as well as associated demigods. 
 
 While the existence of mystery cults is well known, the exact magic and practices of each cult is generally kept secret. 

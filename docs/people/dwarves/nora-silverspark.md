@@ -14,14 +14,14 @@ whereabouts:
 - {type: away}
 title: Nora Silverspark
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Nora Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
-    Passed on November 23rd, 1748  
     { .bio }
 
     Originally from: Unknown

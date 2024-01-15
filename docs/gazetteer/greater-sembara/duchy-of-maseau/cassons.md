@@ -6,7 +6,6 @@ typeOf: town
 partOf: Duchy of Maseau
 title: Cassons
 ---
-
 # Cassons
 >[!info]+ Information
 > A town in the [Duchy of Maseau](<./duchy-of-maseau.md>)

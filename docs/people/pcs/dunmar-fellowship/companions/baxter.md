@@ -9,8 +9,9 @@ player: Dave Schwartz
 affiliations:
 title: Baxter
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 ### Baxter the Axebeak
 
 [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. ![Baxter Portrait](../../../../assets/baxter-portrait.jpg)

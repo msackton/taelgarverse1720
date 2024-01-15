@@ -9,8 +9,9 @@ ancestry:
 gender: male
 title: Rurik
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 ## Rurik
 
 [Tak](<./tak.md>)'s father, from [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>).

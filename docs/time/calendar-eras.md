@@ -2,7 +2,6 @@
 tags: [background, status/tim]
 title: Calendar Eras
 ---
-
 # Calendar Eras
 > Note: This article discusses the numbering of years. The actual division of the calendar into months and weeks is not covered here.
 

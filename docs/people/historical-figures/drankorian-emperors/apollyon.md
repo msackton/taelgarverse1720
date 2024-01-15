@@ -15,8 +15,9 @@ whereabouts:
 - {type: away, start: 1053}
 - {type: away, start: 1060}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Emperor Apollyon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

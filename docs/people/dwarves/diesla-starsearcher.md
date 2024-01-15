@@ -13,14 +13,15 @@ whereabouts:
 - {type: home, location: Taviose}
 title: Diesla Starsearcher
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Diesla Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
-    Born DR 1512 (237 years old)  
+    Born DR 1512 (208 years old)  
     { .bio }
 
     Originally from: [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)

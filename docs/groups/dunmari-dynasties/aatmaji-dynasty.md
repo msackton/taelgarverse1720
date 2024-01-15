@@ -6,7 +6,6 @@ typeOf: family
 subTypeOf: dynasty
 title: Aatmaji Dynasty
 ---
-
 # The Aatmaji Dynasty
 
 

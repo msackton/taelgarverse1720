@@ -7,7 +7,6 @@ typeOf: river
 whereabouts: Mawakel Peninsula
 title: Mirmir
 ---
-
 # Mirmir
 :speaker:{ .middle } *(MEER-meer)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

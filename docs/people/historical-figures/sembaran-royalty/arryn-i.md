@@ -13,8 +13,9 @@ affiliations:
 - {place: Tyrwingha, start: 1592}
 died: 1600
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # King Arryn I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -7,7 +7,6 @@ whereabouts: Cleenseau
 aliases: [Essford]
 title: Essfords
 ---
-
 # The Essfords
 
 

@@ -8,7 +8,6 @@ typeOf: adventuring party
 excludeRooted: [Clee]
 title: Dunmar Fellowship
 ---
-
 # The Dunmar Fellowship
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
@@ -27,7 +26,7 @@ In the fall of 1748, they were split up due to magical effects. During this time
 - Kenzo traveled with [Izzarak](<guests/izzarak.md>) in the lizardfolk jungles to the south
 - Delwath traveled with [Iascaire](<guests/iascaire.md>) and [Aristaea](<guests/aristaea.md>) in the battlefields of the far north
 - Wellby traveled with [Artem](<guests/artem-novolozek.md>), [Rufus](<guests/rufus.md>), [Shoal](<guests/shoal.md>), and [Alimash](<guests/alimash.md>) in the eastern isles. 
-- Riswynn traveled with [Thror](<guests/thror.md>), [Rothfis](<guests/rothfis.md>), and [Merash](<guests/merash.md>) in the shadowfell domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
+- Riswynn traveled with [Thror](<guests/thror.md>), [Rothfis](<guests/rothfis.md>), and [Merash](<guests/merash.md>) in the [shadowfell](<../../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
 
 Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [Caulaus](<guests/caulaus.md>) briefly.
 

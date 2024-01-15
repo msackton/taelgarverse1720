@@ -11,8 +11,9 @@ died: 1545
 affiliations: [The Rangers]
 title: Beryl
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Beryl
 >[!info]+ Biographical Info
 > [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/humans/humans.md>), he/him

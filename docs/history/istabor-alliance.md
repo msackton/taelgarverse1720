@@ -5,7 +5,6 @@ campaignInfo: []
 name: Istabor Alliance
 title: Istabor Alliance
 ---
-
 # The Istabor Alliance
 </div>
 

@@ -7,7 +7,6 @@ typeOf: region
 partOf: Sembara
 title: Heartlands
 ---
-
 # The Heartlands
 >[!info]+ Information
 > A region in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)

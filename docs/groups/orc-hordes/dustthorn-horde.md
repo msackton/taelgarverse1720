@@ -5,7 +5,6 @@ name: Dustthorn Horde
 typeOf: horde
 title: Dustthorn Horde
 ---
-
 # Dustthorn Horde
 
 The group of orcs gathered under the leadership of Agata Dustmother, who served as her allies and servants when needed, and were in turn supported by her in the desert. 

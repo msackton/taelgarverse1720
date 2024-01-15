@@ -7,4 +7,3 @@ subTypeOf: haunted
 partOf:
 title: Darkwood
 ---
-

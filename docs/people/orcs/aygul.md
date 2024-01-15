@@ -12,15 +12,16 @@ whereabouts:
 - {type: away, location: Vindristjarna, end: 9999}
 title: Aygul
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Aygul
 :speaker:{ .middle } *(EYE-gool)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
-    Born DR 1698 (51 years old)  
+    Born DR 1698 (22 years old)  
     { .bio }
 
     Originally from: Gorzum

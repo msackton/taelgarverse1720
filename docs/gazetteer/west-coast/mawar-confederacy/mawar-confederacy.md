@@ -6,7 +6,6 @@ typeOf: realm
 partOf: Mawakel Peninsula
 title: Mawar Confederacy
 ---
-
 # The Mawar Confederacy
 >[!info]+ Information
 > A  realm in the [Mawakel Peninsula](<./mawakel-peninsula.md>)

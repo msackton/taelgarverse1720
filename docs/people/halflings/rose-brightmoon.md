@@ -16,8 +16,9 @@ whereabouts:
 - {type: home, location: Wave Dancer}
 title: Rose Brightmoon
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Rose Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -30,12 +31,6 @@ hide_toc: true
 </div>
 
 
-
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
 Rose in an elderly halfling woman who sails with the Wave Dancer as a musician. She is a brilliant guitarist.

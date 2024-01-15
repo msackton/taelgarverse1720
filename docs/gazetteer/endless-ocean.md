@@ -7,7 +7,6 @@ typeOf: ocean
 partOf: Taelgar
 title: Endless Ocean
 ---
-
 # The Endless Ocean
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } An ocean [Taelgar](<./gazetteer.md>)  

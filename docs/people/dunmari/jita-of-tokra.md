@@ -10,17 +10,18 @@ whereabouts:
 - {type: home, start: '', end: '', location: plains north of Tokra}
 title: Jita
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1713 (36 years old)  
+    Born DR 1713 (7 years old)  
     { .bio }
 
-    Based in the [plains north of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based plains north of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

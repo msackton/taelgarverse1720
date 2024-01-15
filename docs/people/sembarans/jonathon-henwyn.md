@@ -13,14 +13,15 @@ affiliations:
 - {org: Essfords, title: Steward}
 title: Jonathon Henwyn
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Jonathon Henwyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1690 (59 years old)  
+    Born DR 1690 (30 years old)  
     Steward of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     { .bio }
 

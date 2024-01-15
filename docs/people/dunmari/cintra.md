@@ -11,14 +11,15 @@ affiliations: [Shakun Mystai]
 whereabouts: Karawa
 title: Cintra
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Cintra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1705 (44 years old)  
+    Born DR 1705 (15 years old)  
     Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }
 

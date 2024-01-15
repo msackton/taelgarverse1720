@@ -6,7 +6,6 @@ typeOf: settlement
 typeOfAlias: village
 title: Aursen Crossing
 ---
-
 # Aursen Crossing
 </div>
 

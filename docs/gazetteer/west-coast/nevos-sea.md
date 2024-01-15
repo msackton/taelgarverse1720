@@ -6,7 +6,6 @@ typeOf: sea
 partOf:
 title: Nevos Sea
 ---
-
 # The Nevos Sea
 >[!info]+ Summary
 

@@ -5,5 +5,4 @@ typeOf: plane
 title: Ethereal Plane
 ---
 
-
 # Ethereal Plane

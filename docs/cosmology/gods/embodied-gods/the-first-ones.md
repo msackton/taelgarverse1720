@@ -3,7 +3,6 @@ tags: [deity, religion/halflings, status/unknown]
 title: The FIrst Ones
 ---
 
-
 #### The First Ones
 
 The halfling people worship three gods, known collectively as the First Ones or the First Ancestors: Nwana, the Stranger and Child; Obito, the Music Maker and Merchant; and Jemghari, the Storyteller and Traveler. 

@@ -14,23 +14,21 @@ whereabouts:
 - {type: away, start: 1748-05-01, prefix: western part of, location: Garamjala Desert}
 title: Camana
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Camana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    b. DR 1721 - d. May 1st, 1748, died at age 27 years  
-    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>) (until May 1st, 1748)  
+    **(page is future dated)**  
+    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
 
-    Lived , in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Died in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
 
 
 A Dunmari warrior, archer, and scout. She is associated with [Havdar](<./havdar.md>) and his warrior band, and functions as the leader of his scouting group. 
 
-In May 1748, she died in battle fighting [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) affiliated with [Grash](<../other-nonhumans/grash.md>) in the desert west of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). [Havdar](<./havdar.md>) gifted her [Flaming Bowstring](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/flaming-bowstring.md>) to [Wellby](<../pcs/dunmar-fellowship/wellby.md>) in thanks for the aid of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in battle. 
+In May 1748, she died in battle fighting [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) affiliated with [Grash](<../other-nonhumans/grash.md>) in the desert west of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). [Havdar](<./havdar.md>) gifted her Flaming Bowstring to [Wellby](<../pcs/dunmar-fellowship/wellby.md>) in thanks for the aid of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in battle. 

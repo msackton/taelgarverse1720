@@ -1,14 +1,19 @@
 ---
-rooted: true
-hide: [navigation]
+tags: [meta]
+hide: [toc, navigation]
 template: home.html
 title: Index
 ---
 
+This website is the campaign bible for the Cleenseau Campaign, a set in the world of Taelgar, a magical shared world developed by my brother and I. 
 
-This is the "Campaign Bible" for Taelgar, a collection of notes, information, and facts about the world that have been introduced in play. 
+Please note that some information here is intended to be for certain players only. That information will be in a spoiler warning block, like so:
 
-Currently, this i almost entirely derived from my long-running [Dunmari Frontier Campaign](<campaigns/dunmari-frontier/dunmari-frontier-campaign.md>), but also includes some world lore originally developed many years ago for the adventures of [Heroes of the Great War](<people/pcs/great-war/heroes-of-the-great-war.md>), as well as lore from the [Mawar Adventures](<campaigns/mawar-confederacy/mawar-adventures.md>), from my brother's [campaign](https://msackton.github.io/taelgar1720/), set in the same world, and from a few [short adventures](<campaigns/labyrinths-of-the-lost/labyrinths-of-the-lost.md>). Eventually, this will grow to include world lore from other campaigns and one-shots, as I update and convert my notes. 
+>[!INFO]- Delwaths's Background (For Mike's Eyes Only)
+> Some secret information about Delwath.
 
-Over the years, we have created a lot of lore for the world of Taelgar. A good place to start is the [Player's Guide](<campaigns/player-s-guide.md>), which is a gentle introduction to the world of Taelgar, its history and gods, and the sentient species that live there. 
+When you see this, please don't expand the spoiler block unless you are the target player.
 
+You most likely want to start with the NPCs, session notes, and other information about the [Cleenseau Campaign](<campaigns/cleenseau-campaign/cleenseau-campaign.md>). Then you might want to read about [Sembara](<gazetteer/greater-sembara/sembara/sembara.md>) and [Tyrwingha](<gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), two of the major realms. Or you might want to read about the religion of [Mos Numena](<cosmology/religions/mos-numena.md>) or just explorer the [Gazetteer](<gazetteer/gazetteer.md>). 
+
+For more information about mechanics and other world background for players specifically, see the [Player's Guide](<campaigns/player-s-guide.md>). We have a [house rules document](https://docs.google.com/document/d/1yVZ-wvLodiXYqgxTJCLqjPWtgJBmd9kNPK7-YVML1Ew/edit#heading=h.o36t6owema04) and a [party loot document](https://docs.google.com/document/d/1-LoEf5ddTwTO3LwS4oW8D2tpVK5rwzbiPwBnROLus3k/edit#heading=h.xnigrp14kb5p) on Google Drive as well.

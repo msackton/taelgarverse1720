@@ -8,8 +8,9 @@ species: human
 ancestry:
 gender: female
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Emperor Helea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

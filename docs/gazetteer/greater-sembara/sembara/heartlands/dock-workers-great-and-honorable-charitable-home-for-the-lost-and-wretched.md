@@ -5,7 +5,6 @@ partOf: Embry
 typeOf: orphanage
 title: Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
 ---
-
 # The Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
 >[!info]+ Information
 > An  orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)

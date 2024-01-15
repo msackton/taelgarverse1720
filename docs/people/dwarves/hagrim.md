@@ -10,8 +10,9 @@ gender: male
 whereabouts: Morkalan
 title: Hagrim
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 ## Hagrim of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>)
 
 A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [Great War](<../../events/1500s/great-war.md>), but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>). Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 

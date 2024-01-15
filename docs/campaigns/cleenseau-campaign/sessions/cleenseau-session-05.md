@@ -6,7 +6,6 @@ sessionNumber: 5
 players: [Robin, Viepuck, Celyn]
 title: Cleenseau Session 05
 ---
-
 # Cleenseau - Session 5
 >_in Taelgar from December 4th to December 6th
 >7 Robert I / DR 1719

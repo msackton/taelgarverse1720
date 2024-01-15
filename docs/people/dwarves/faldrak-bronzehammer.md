@@ -18,25 +18,22 @@ whereabouts:
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 title: Faldrak Bronzehammer
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Faldrak Bronzehammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
-    Born DR 1516 (233 years old)  
+    Born DR 1516 (204 years old)  
     { .bio }
 
-    Originally from: [Fahnukan](<../../gazetteer/sentinel-range/dwarven-kingdoms/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in [Fahnukan](<../../gazetteer/sentinel-range/dwarven-kingdoms/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of January 1st, 1698): the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)  
 
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.

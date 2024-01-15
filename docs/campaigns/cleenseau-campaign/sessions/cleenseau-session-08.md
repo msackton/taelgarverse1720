@@ -6,7 +6,6 @@ sessionNumber: 8
 players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 08
 ---
-
 # Cleenseau - Session 8
 >_in Taelgar from January 6st - January 7th
 >7 Robert I / DR 1720

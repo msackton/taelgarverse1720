@@ -3,7 +3,6 @@ tags: [background, status/tim]
 title: Dunmari Economy
 ---
 
-
 # The Economy of Dunmar
 
 Dunmar is a society of largely nomadic animal herders in the arid grasslands and deserts of the east, but increasingly a rich agricultural society in the west, on the fertile Nayan Floodplains.

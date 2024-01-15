@@ -5,7 +5,6 @@ typeOf: realm
 title: Fortune's Rest
 ---
 
-
 # Fortune's Rest
 
 A fey realm.

@@ -15,23 +15,20 @@ whereabouts:
 - {type: home, start: 1732, location: Tollen}
 title: Umli the Exile
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Umli the Exile
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (she/her)  
-    Born DR 1666 (83 years old)  
+    Born DR 1666 (54 years old)  
     { .bio }
 
-    Originally from: ~VostokMountains~
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based ~VostokMountains~
 </div>
 
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 Umli is a stoneborn exile living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), a master metalworker, and a teacher. 

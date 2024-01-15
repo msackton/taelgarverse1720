@@ -9,7 +9,8 @@ ancestry: marid
 gender: female
 title: Nimessa
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 
 

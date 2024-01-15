@@ -7,7 +7,6 @@ name: Bahrazel
 aliases: [Bahrâzel]
 title: Bahrazel
 ---
-
 # The Bahrazel
 
 The embodied gods of the [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) and the mystical firstborn of their race. Legend says the seven Bahrâzel were created from living rock, given form and magic and empowered to create the dwarven people in their image.

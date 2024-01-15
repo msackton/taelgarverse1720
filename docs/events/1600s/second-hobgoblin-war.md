@@ -3,7 +3,6 @@ tags: [event, status/unknown]
 title: Second Hobgoblin War
 ---
 
-
 ### The Second Hobgoblin War
 
 

@@ -7,6 +7,5 @@ partOf:
 title: Refounded Alliance of Aurbez
 ---
 
-
 ### The Refounded Alliance of Aurbez
 

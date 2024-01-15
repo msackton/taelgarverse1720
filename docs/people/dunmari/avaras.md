@@ -15,14 +15,15 @@ whereabouts:
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House}
 title: Avaras
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Avaras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1676 (73 years old)  
+    Born DR 1676 (44 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
@@ -44,10 +45,5 @@ Avaras grew up on the plains near [Karawa](<../../gazetteer/greater-dunmar/realm
 
 It is a quiet life, with time for contemplation. With [Pava](<./pava.md>) and the occasional apprentice, he has sought out the many stories of lives lived on these lands that are forgotten, and sought to quiet the restless and forgotten dead who died in the chaos of the Great War and the Blood Years with no one to mark their lives. 
 
-
-### Recents Happenings
-* Aug 19, 1747 DR Avaras and Pava found an elf, Delwath, wandering confused in the desert west of Kharsan, dying of thirst and delirious. They took him in, and removed his armor which seemed to be smoking with some kind of shadows. 
-* Aug 21, 1747 DR Delwath left in the night a few days later. 
-* May 02, 1748 DR Delwath returns and [meets Avaras again](<../../campaigns/dunmari-frontier/session-notes/session-19-dufr.md>), with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 
 

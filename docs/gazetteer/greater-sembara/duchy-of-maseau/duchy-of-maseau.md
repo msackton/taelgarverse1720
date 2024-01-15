@@ -5,7 +5,6 @@ typeOf: realm
 aliases: [Maseau]
 title: Duchy of Maseau
 ---
-
 # The Duchy of Maseau
 
 This land is a borderland and was essentially depopulated during the Great War. It was never a land blessed with rich natural resources, and before the Great War thrived on the trade flowing through the gap in the Mostreve Hills. During the war it suffered significant population loses, and to the extent that it recovered, it was from refugees who fled north from the fall of [Isingue](<../../istaros-watershed/isingue.md>) and the [Istabor Alliance](<../../../history/istabor-alliance.md>).

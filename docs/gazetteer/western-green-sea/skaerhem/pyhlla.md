@@ -7,7 +7,6 @@ partOf: Skaerhem
 population: 800
 title: Pyhlla
 ---
-
 # Pyhlla
 >[!info]+ Information
 > pop. 800

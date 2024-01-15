@@ -5,7 +5,6 @@ partOf: Five Siblings
 title: Aagir
 ---
 
-
 ### Aagir
 
 One of [the Five Siblings](<../../../religions/five-siblings/five-siblings.md>) of the Dunmari religion, an Incorporeal God of humanity. 

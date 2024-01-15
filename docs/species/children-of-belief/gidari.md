@@ -6,7 +6,6 @@ title: Gidari
 ---
 
 
-
 # Gidari
 
 The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. 

@@ -2,7 +2,6 @@
 tags: [meta, status/needswork/collate]
 title: PCs
 ---
-
 # Players of Taelgar
 
 Many groups have adventured in Taelgar over the years. 

@@ -14,14 +14,15 @@ affiliations:
 whereabouts: Cleenseau
 title: Béatrix of Cleenseau
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Béatrix of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1698 (51 years old)  
+    Born DR 1698 (22 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 2nd, 1719)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) (since November 23rd, 1719)  
     { .bio }

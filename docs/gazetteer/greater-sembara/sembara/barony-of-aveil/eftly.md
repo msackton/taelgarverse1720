@@ -7,7 +7,6 @@ population: 192
 whereabouts: Barony of Aveil
 title: Eftly
 ---
-
 # Eftly
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

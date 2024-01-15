@@ -5,7 +5,6 @@ typeOf: ridge
 whereabouts: Barony of Aveil
 title: Aveil Ridge
 ---
-
 # The Aveil Ridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A ridge [Barony of Aveil](<./barony-of-aveil.md>)  

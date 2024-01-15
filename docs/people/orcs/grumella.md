@@ -13,18 +13,18 @@ whereabouts:
 - {type: home, prefix: northern, location: Voltara Plains}
 title: Grumella the Vengeful
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Grumella the Vengeful
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
-    Died DR 1747  
-    Leader of the [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) (until DR 1747)  
+    Leader of the [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>)  
     { .bio }
 
-    Lived in the [Voltara Plains](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara-plains.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based the Voltara Plains
 </div>
 
 

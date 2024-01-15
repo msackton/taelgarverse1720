@@ -4,4 +4,3 @@ whereabouts: Chardon
 title: Sybil's Hall
 ---
 
-

@@ -17,26 +17,20 @@ whereabouts:
 - {type: away, location: Havdar's Warband, wCurrent: ''}
 title: Havdar
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Havdar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1724 (25 years old)  
+    **(page is future dated)**  
     Commander of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
 
-    Originally from: [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } 
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), on December 27th, 1748  
 
 
 
@@ -57,7 +51,7 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 - Nayan [Sura](<./sura.md>): As her chief general and most trusted advisor, Havdar is unwavering in his loyalty to Nayan [Sura](<./sura.md>). Their bond is strong, and he's fully committed to supporting her claim against her brother, even if it leads to civil war. Havdar first met her when she traveled in the east when he was young, and as a teenager was devastated by the news of her disappearance. He considers her rescue and reappearance a blessing from the gods. 
 - [Nayan Karnas](<./nayan-karnas.md>): Havdar is disdainful of [Nayan Karnas](<./nayan-karnas.md>), feeling him a weak ruler who has abandoned the traditions that made [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) great. Has often pushed for war, thinking Karnas will be unable to command the loyalty of enough warriors to fight back. 
 - [Havdar's Warband](<../../groups/havdar-s-warband.md>): Originally a close-knit group, they have grown under Havdar's leadership into a force that stands against threats from the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>) and elsewhere. Havdar's troops now serve as elite warriors in [Sura](<./sura.md>)'s service. People in Havdar's band include [Aram](<./aram.md>) and [Camana](<./camana.md>) (deceased). 
-- [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>): Initially indifferent, perhaps even skeptical, of the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), grew to respect and greatly value them over the course of a month traveling in the eastern deserts together, during which [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) [helped defend his camp from orc attackers](<../../campaigns/dunmari-frontier/session-notes/session-20-dufr.md>). 
+- [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>): Initially indifferent, perhaps even skeptical, of the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), grew to respect and greatly value them over the course of a month traveling in the eastern deserts together, during which [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) helped defend his camp from orc attackers. 
 ## Events
 
 - In March/April 1748, was heavily involved in defending [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from gnoll attacks. 

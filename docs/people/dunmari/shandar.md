@@ -9,8 +9,9 @@ ancestry: Dunmari
 gender: male
 title: Shandar
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Shandar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -21,5 +22,5 @@ hide_toc: true
 </div>
 
 
-An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in [Session 30 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>).
+An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in Session 30 (DuFr).
 

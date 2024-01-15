@@ -7,7 +7,6 @@ typeOf: city
 whereabouts: Xurkhaz
 title: Uzgukhar
 ---
-
 # Uzgukhar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A city [Xurkhaz](<./xurkhaz.md>)  
@@ -22,4 +21,4 @@ The palace, located near the center of the city and set on a small hill, has an 
 
 The hall of ancestors is a large, imposing structure made of sandstone, adorned with intricate carvings depicting both the ancient legends of the origin of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>), and the founding of [Xurkhaz](<./xurkhaz.md>) under the leadership of [Uzgash](<../../../people/orcs/uzgash.md>). 
 
-Outside the hall of ancestors is the Plaza of Freedom, the central public square of Uzgukhar. The plaza of freedom celebrates the refugees who kept the dream of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>) alive during the dark years when the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) was lost, and also includes a monument to all [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) that still suffer under [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s chains. 
+Outside the hall of ancestors is the Plaza of Freedom, the central public square of Uzgukhar. The plaza of freedom celebrates the refugees who kept the dream of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>) alive during the dark years when the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) was lost, and also includes a monument to all orcs that still suffer under [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s chains. 

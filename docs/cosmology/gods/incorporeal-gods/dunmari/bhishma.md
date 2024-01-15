@@ -5,7 +5,6 @@ pronunciation: BHEESH-ma
 name: Bhishma
 title: Bhishma
 ---
-
 # Bhishma
 :speaker:{ .middle } *(BHEESH-ma)*  
 

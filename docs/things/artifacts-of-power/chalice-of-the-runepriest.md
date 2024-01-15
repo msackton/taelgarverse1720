@@ -14,15 +14,16 @@ whereabouts:
 - {type: away, start: 1748-10-05, end: 9999, location: Tharn Todor}
 title: Chalice of the Runepriest
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Chalice of the Runepriest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Chalice__  
-   Created in DR 1547 by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) (202 years ago)  
+   Created in DR 1547 by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) (173 years ago)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+:octicons-location-24:{ .lg .middle } Currently lost
 
 
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
@@ -44,6 +45,6 @@ It was found when the [Dwarves](<../../species/children-of-the-embodied-gods/dwa
 - Feb 04, 1748 DR: The Chalice of the Runepriest arrives in Chardon
 - Apr 11, 1748 DR: The Chalice of the Runepriest is purchased by [Galen](<../../people/chardonians/galen.md>) for his private study
 - Aug 23, 1748 DR: Galen argrees to sell the Chalice of the Runepriest to Riswynn, a dwarf of Nardith
-- Aug 24, 1748 DR: Riswynn purchases the Chalice of the Runepriest for 8000 gold pieces and a minor magic item, a [Black Light Candle](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/black-light-candle.md>). Riswynn attempts to use the chalice to teleport [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) to safety, but is instead transported to the [Heart of the Mountain](<../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>)
-- Aug 25, 1748 DR: Riswynn and companions [take the Chalice of the Runepriest into Morkalan](<../../campaigns/dunmari-frontier/session-notes/session-53-54-dufr.md>), where they use it destroy [Hagrim](<../../people/dwarves/hagrim.md>) and the shadowfell domain of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>)
+- Aug 24, 1748 DR: Riswynn purchases the Chalice of the Runepriest for 8000 gold pieces and a minor magic item, a Black Light Candle. Riswynn attempts to use the chalice to teleport [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) to safety, but is instead transported to the [Heart of the Mountain](<../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>)
+- Aug 25, 1748 DR: Riswynn and companions take the Chalice of the Runepriest into Morkalan, where they use it destroy [Hagrim](<../../people/dwarves/hagrim.md>) and the shadowfell domain of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>)
 - Oct 05, 1748 DR: The Chalice of the Runepriest is returned to its rightful place in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>)

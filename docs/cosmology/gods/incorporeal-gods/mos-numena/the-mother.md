@@ -3,7 +3,6 @@ tags: [deity, religion/mosnumena, status/unknown]
 title: The Mother
 ---
 
-
 # The Mother
 *she/her*
 

@@ -1,9 +1,9 @@
 ---
 tags: [meta]
 hide: [toc, navigation]
+template: home.html
 title: Home
 ---
-
 
 This website is the campaign bible for the Cleenseau Campaign, a set in the world of Taelgar, a magical shared world developed by my brother and I. 
 

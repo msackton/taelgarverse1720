@@ -11,8 +11,9 @@ player:
 affiliations:
 title: Dimitaur
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 
 ### Dimitaur
 

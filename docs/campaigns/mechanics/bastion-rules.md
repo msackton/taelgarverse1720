@@ -3,7 +3,6 @@ tags: [status/needswork]
 title: Bastion Rules
 ---
 
-
 # Sanctuary
 Level 5 Bastion Facility
 Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus

@@ -7,6 +7,5 @@ typeOf: road
 partOf:
 title: Great South Road
 ---
-
 # Great South Road
 

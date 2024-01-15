@@ -5,7 +5,6 @@ typeOf: village
 partOf: Marches of Enford
 title: Enford
 ---
-
 # Enford
 >[!info]+ Information
 > A village in the [Marches of Enford](<./marches-of-enford.md>)

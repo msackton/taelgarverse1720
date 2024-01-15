@@ -6,7 +6,6 @@ typeOf: ruin
 partOf: Lakan Monastery
 title: Ruined Elven Workshop (near Tokra)
 ---
-
 # The Ruined Elven Workshop (near Tokra)
 >[!info]+ Information
 > A  ruin in the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>), [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)

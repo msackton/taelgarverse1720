@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, start: 1545, location: Plaguelands}
 title: Isingue
 ---
-
 # Isingue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

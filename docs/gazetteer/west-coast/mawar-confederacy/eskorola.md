@@ -5,7 +5,6 @@ typeOf: village
 partOf: Mawar Confederacy
 title: Eskorola
 ---
-
 # Eskorola
 >[!info]+ Summary
 > a village in the [Mawar Confederacy](<./mawar-confederacy.md>), the [West Coast Region](<../west-coast-region.md>)

@@ -4,7 +4,6 @@ partOf: Children of Belief
 title: Devils
 ---
 
-
 # Devils
 
 Devils are the personification of tyranny, of endless domination and power. Devils seek to tempt mortal souls to power, granting them strength in life in exchange for eternal servitude in death. 

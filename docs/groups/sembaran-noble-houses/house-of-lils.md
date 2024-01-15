@@ -4,7 +4,6 @@ typeOf: family
 created: 1594
 title: House of Lils
 ---
-
 # The House of Lils
 >[!info]+ Summary
 >

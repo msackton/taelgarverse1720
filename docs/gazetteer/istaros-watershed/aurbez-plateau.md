@@ -6,10 +6,9 @@ typeOf: region
 partOf: Aurbez and the Ardonne
 title: Aurbez Plateau
 ---
-
 # The Aurbez Plateau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Aurbez and the Ardonne](<./aurbez-and-the-ardonne.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Aurbez and the Ardonne](<./aurbez-and-the-ardonne.md>), the [Istaros Watershed](<./istaros-watershed.md>)  
 </div>
 
 

@@ -5,7 +5,6 @@ pronouns: it
 aliases: [The First and the Last]
 title: Anida
 ---
-
 # Anida
 
 Called the "the First and the Last" by the Deno'qai. Interpreted by modern theologians as a form of the Divinity itself, the duality of [Arha](<./arha.md>) and [Malik](<./malik.md>). 

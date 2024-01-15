@@ -8,7 +8,6 @@ partOf: Borderlands
 pronunciation: Broom-cliff
 title: Barony of Brumecliff
 ---
-
 # The Barony of Brumecliff
 :speaker:{ .middle } *(Broom-cliff)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

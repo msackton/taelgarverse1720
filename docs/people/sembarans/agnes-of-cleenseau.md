@@ -16,19 +16,23 @@ whereabouts:
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
 title: Agnés of Cleenseau
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Agnés of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born April 3rd, 1690 (58 years old)  
+    Born April 3rd, 1690 (29 years old)  
     { .bio }
 
     Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
 </div>
 
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on December 7th, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
 Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)

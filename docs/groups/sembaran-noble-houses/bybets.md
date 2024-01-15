@@ -7,5 +7,4 @@ whereabouts: Ainwick
 aliases: [Bybet]
 title: Bybets
 ---
-
 # The Bybets

@@ -5,7 +5,6 @@ name: The Wanderer
 pronunciation: he/him
 title: The Wanderer
 ---
-
 # The Wanderer
 *(he/him)*
 

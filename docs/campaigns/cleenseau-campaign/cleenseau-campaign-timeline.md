@@ -5,7 +5,6 @@ tags: [timeline]
 title: Cleenseau Campaign - Timeline
 ---
 
-
 # 7 Robert I / 1719 DR
 
 ### March

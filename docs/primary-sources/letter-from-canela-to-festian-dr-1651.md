@@ -2,7 +2,6 @@
 tags: [status/needswork/wip, source]
 title: Letter from Canela to Festian, DR 1651
 ---
-
  
 May 29th,1651
 

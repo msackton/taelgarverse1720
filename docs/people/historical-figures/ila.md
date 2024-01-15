@@ -12,8 +12,9 @@ title: Commander Ila
 whereabouts:
 - {type: home, prefix: somewhere in, location: Central Dunmar, formatSpecifier: ''}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Commander Ila
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

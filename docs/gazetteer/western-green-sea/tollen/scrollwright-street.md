@@ -7,7 +7,6 @@ typeOf: street
 partOf: Tollen
 title: Scrollwright Street
 ---
-
 # The Scrollwright Street
 >[!info]+ Information
 > A street in [Tollen](<./tollen.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)

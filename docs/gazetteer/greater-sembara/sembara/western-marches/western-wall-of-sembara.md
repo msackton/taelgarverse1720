@@ -6,4 +6,3 @@ title: Western Wall of Sembara
 ---
 
 
-

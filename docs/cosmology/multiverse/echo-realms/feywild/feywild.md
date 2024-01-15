@@ -6,7 +6,6 @@ partOf: Echo Realms
 typeOf: plane
 title: Feywild
 ---
-
 # The Feywild
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } One of the [Echo Realms](<../echo-realms.md>)  

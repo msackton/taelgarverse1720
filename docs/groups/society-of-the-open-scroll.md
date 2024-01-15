@@ -8,7 +8,6 @@ name: Society of the Open Scroll
 typeOf: scholary society
 title: Society of the Open Scroll
 ---
-
 # The Society of the Open Scroll
 
 A scholarly society founded in the aftermath of the [Great War](<../events/1500s/great-war.md>), to preserve and protect knowledge against future disaster, and to learn the secrets of the past to better protect [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and the world from existential magical threats.

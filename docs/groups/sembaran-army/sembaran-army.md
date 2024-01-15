@@ -9,7 +9,6 @@ typeOf: army
 partOf: Sembara
 title: Sembaran Army
 ---
-
 # The Sembaran Army
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:

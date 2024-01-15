@@ -7,7 +7,6 @@ timelineDescriptor: Sembaran History
 title: Timeline of Sembaran History
 ---
 
-
 # The Drankorian Conquest
 DR 300 - DR 431
 

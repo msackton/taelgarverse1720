@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Playing a Lizardfolk
 ---
 
-
 [Lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) live in widespread communities, sometimes primarily with their own species, sometimes near other races. They are semi-aquatic, and rarely make their homes far from water, however. 
 ## Lizardfolk Traits
 #### Age

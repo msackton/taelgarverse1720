@@ -11,7 +11,6 @@ affiliations:
 partOf: Tollen
 title: Temple of Kaikkea
 ---
-
 # The Temple of Kaikkea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [Skaer](<../skaerhem/skaerhem.md>) temple of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>) in the [Free City of Tollen](<./tollen.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  

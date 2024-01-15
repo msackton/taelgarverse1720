@@ -5,7 +5,6 @@ name: The Sibyl
 aliases: [Sibyl]
 title: The Sibyl
 ---
-
 # The Sibyl
 *she/her*
 

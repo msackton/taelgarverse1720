@@ -9,8 +9,9 @@ ancestry: Dunmari
 gender: female
 title: Kaya
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Kaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -21,5 +22,5 @@ hide_toc: true
 </div>
 
 
-A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. Freed in [Session 31 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-31-dufr.md>).
+A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. Freed in Session 31 (DuFr).
 

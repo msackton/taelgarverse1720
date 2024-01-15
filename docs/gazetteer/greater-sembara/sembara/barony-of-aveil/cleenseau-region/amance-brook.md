@@ -6,7 +6,6 @@ typeOf: brook
 partOf: Cleenseau Region
 title: Amance Brook
 ---
-
 # The Amance Brook
 >[!info]+ Information
 > A brook in the [Cleenseau Region](<./cleenseau-region.md>), the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)

@@ -8,7 +8,6 @@ partOf: Cleenseau
 title: Lord's Council of Cleenseau
 ---
 
-
 The Lord's Council is an advisory group to the lord of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), currently [Rosalind Essford](<../../people/sembarans/rosalind-essford.md>) for all practical purposes. 
 
 It is advisory, but Rosalind convenes it before important decisions and respects the advice she receives. It consists of:

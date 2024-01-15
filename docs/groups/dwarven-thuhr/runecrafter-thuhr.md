@@ -4,7 +4,6 @@ typeOf: thuhr
 name: Runecrafter Thuhr
 title: Runecrafter Thuhr
 ---
-
 # The Runecrafter Thuhr
 
 (stub)

@@ -10,17 +10,18 @@ gender: male
 whereabouts: Te'kula village
 title: Obel
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1688 (61 years old)  
+    Born DR 1688 (32 years old)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based the Te'kula village
 </div>
 
 

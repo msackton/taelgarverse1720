@@ -5,7 +5,6 @@ subTypeOf: dynasty
 name: Dharajun dynasty
 title: Dharajun Dynasty
 ---
-
 # The Dharajun Dynasty
 
 

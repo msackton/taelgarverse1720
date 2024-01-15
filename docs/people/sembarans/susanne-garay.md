@@ -9,14 +9,15 @@ gender: female
 whereabouts: Embry
 title: Susanne Garay
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Susanne Garay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1666 (83 years old)  
+    Born DR 1666 (54 years old)  
     { .bio }
 
     Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

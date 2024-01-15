@@ -10,7 +10,6 @@ ancestry: Dunmari
 partOf: Garamjala Desert
 title: Monastery of Bhishma
 ---
-
 # The Monastery of Bhishma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
@@ -28,10 +27,6 @@ The monastery served as the headquarters of the Bhishma Mystai, also known as th
 
 ## Events
 
-
-In 1748, [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) came to the monastery, seeking to learn more about the history of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), among other things. While there, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) documented the buildings, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) mapped the complex. Their notes are reproduced below:
-
-![Monastery Backdrop](../../../assets/monastery-backdrop.png)
 
 
 

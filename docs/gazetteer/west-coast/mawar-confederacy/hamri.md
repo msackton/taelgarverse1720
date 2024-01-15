@@ -6,7 +6,6 @@ partOf: Mawar Confederacy
 population: 3500
 title: Hamri
 ---
-
 # Hamri
 >[!info]+ Information
 > pop. 3,500

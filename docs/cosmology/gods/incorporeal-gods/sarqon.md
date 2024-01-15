@@ -3,7 +3,6 @@ tags: [deity, status/unknown]
 title: Sarqon
 ---
 
-
 # Sarqon
 *sahr-kon*
 

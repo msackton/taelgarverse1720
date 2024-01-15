@@ -7,7 +7,6 @@ whereabouts: Barony of Aveil
 population: 534
 title: Windlea
 ---
-
 # Windlea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

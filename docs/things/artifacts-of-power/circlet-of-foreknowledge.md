@@ -10,8 +10,9 @@ whereabouts:
 - {type: away}
 title: Circlet of Foreknowledge
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # The Circlet of Foreknowledge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Mythical [Elven](<../../species/children-of-the-embodied-gods/elves/elves.md>) Circlet__  

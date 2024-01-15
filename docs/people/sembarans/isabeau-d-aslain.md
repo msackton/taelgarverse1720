@@ -13,14 +13,15 @@ whereabouts:
 affiliations:
 - {org: Barony of Aveil, start: 1719-04, type: leader}
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Baroness Isabeau D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1672 (77 years old)  
+    Born DR 1672 (48 years old)  
     Baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (since April 1719)  
     { .bio }
 

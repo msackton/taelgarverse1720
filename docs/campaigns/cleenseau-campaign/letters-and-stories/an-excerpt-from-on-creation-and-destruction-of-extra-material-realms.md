@@ -2,7 +2,6 @@
 {tags: !!null '', title: An Excerpt from on Creation and Destruction of Extra Material Realms}
 ---
 
-
 You discover an excerpt from a Drankorian tome, [On the Creation and Destruction of Extra-Material Realms](<../../../things/books/on-the-creation-and-destruction-of-extra-material-realms.md>), embedded in a Insinguen translation of a review of critical reactions to a famous Drankorian play, [A Fool's Fortune](<../../../things/books/a-fool-s-fortune.md>). 
 
 The translation is not perfect, so it is a little hard to follow but it reads roughly:

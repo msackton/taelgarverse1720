@@ -2,7 +2,6 @@
 tags: [background, status/tim]
 title: Taxes in Sembara
 ---
-
 # Taxes in Sembara
 
 The system of feudal lords in Sembara is maintained by a series of financial obligations from the general populace to the peerage, including the manoral lords as well as the nobles. Additionally, the dukes and the crown are supported by a baronial tax, that is due from barons.

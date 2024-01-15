@@ -12,17 +12,18 @@ whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Kaslan
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Kaslan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1699 (50 years old)  
+    Born DR 1699 (21 years old)  
     { .bio }
 
-    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
+    Based the Ko'zula village
 </div>
 
 

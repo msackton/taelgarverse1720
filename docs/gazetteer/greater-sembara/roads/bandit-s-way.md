@@ -9,7 +9,6 @@ whereabouts:
 - {location: Great South Road, prefix: of}
 title: Bandit's Way
 ---
-
 # The Bandit's Way
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -   :octicons-location-24:{ .lg .middle }   

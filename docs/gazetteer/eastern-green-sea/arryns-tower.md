@@ -8,10 +8,9 @@ typeOf: tower
 partOf: ~Eastern Islands~
 title: Arryn’s Tower
 ---
-
 # Arryn’s Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A tower [~Eastern Islands~](<./eastern-islands.md>)  
+-    :octicons-location-24:{ .lg .middle } A tower the ~Eastern Islands~  
 </div>
 
 

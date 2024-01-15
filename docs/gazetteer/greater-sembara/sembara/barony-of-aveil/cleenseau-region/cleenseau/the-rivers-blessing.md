@@ -7,7 +7,6 @@ typeOf: inn
 partOf: Cleenseau
 title: The River’s Blessing
 ---
-
 # The River’s Blessing
 >[!info]+ Information
 > An  inn in [Cleenseau](<./cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), the [Western Green Sea Region](<../../../../../western-green-sea/western-green-sea-region.md>)

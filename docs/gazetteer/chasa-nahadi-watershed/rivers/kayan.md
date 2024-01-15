@@ -6,7 +6,6 @@ partOf: Elderwood
 pronunciation: KAH-yan
 title: Kayan
 ---
-
 # Kayan
 *(KAH-yan)*
 >[!info]+ Summary

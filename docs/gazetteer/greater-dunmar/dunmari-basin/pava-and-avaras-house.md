@@ -8,7 +8,6 @@ typeOf: house
 whereabouts: Garamjala Desert
 title: Pava and Avaras' House
 ---
-
 # Pava and Avaras' House
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A house in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  

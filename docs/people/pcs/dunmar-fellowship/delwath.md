@@ -17,14 +17,15 @@ whereabouts:
 - {type: away}
 title: Delwath
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
-    Born DR 1472 (277 years old)  
+    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
+    Born DR 1472 (248 years old)  
     { .bio }
 
     Originally from: [Ainumarya](<../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
@@ -55,7 +56,7 @@ hide_toc: true
 
 > [!WARNING]- Delwath's Dream of the Shadow Realm, Session 5
 >
-> ## Dream of the Shadow Realm [Session 5 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-5-dufr.md>)
+> ## Dream of the Shadow Realm Session 5 (DuFr)
 >
 >As you drift off to sleep, everything fades, and you see before you an androgynous figure, standing, wreathed in shadows. Tendrils of darkness seem to be pouring off of them, pooling at their feet. You cannot tell if they are trapped, or if they are controlling the darkness. When they speak, it is in the voice you have heard since you found a way to leave the shadow realm: "Delwath. You can see me."
 >
@@ -65,13 +66,13 @@ hide_toc: true
 
 > [!WARNING]- Tharandos' Warning, Session 7
 > 
-> ## Centaur's Warning, [Session 7 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-7-dufr.md>)
+> ## Centaur's Warning, Session 7 (DuFr)
 > 
 > [Tharandros](<../../other-nonhumans/tharandros.md>), leader of a centaur tribe traveling in the north of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>): "You are tethered to shadow, elf. If you are not careful, this thread will grow to destroy you and the godling you serve."
 
 > [!WARNING]- The Shadow Voice Returns, Session 19
 > 
-> ## The Shadow Voice Returns, [Session 19 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-19-dufr.md>)
+> ## The Shadow Voice Returns, Session 19 (DuFr)
 > 
 > As you are drifting off to sleep, the gravely shadow-voice that you have not heard in since you left [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to hunt gnolls begins to whisper in the back of your mind. 
 > 
@@ -104,7 +105,7 @@ hide_toc: true
 > 
 > In any case, both [Alesh](<../../dunmari/alesh.md>) and [Havdar](<../../dunmari/havdar.md>) think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
-> [Jasu](<../../dunmari/jasu.md>) is happy to work on the [Dunmari Shield](<../../../campaigns/dunmari-frontier/treasure/treasure-from-agata/dunmari-shield.md>), and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
+> [Jasu](<../../dunmari/jasu.md>) is happy to work on the Dunmari Shield, and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
 > 
 > ### Closing Affairs
 > 

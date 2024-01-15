@@ -11,8 +11,9 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', location: Tokra}
 title: Amay
 hide_toc: true
+hide_backlinks: true
+hide: [toc]
 ---
-
 # Amay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -22,8 +23,6 @@ hide_toc: true
 
     Originally from: Unknown
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of November 15th, 1748): [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
 A captain in the Dunmari army camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 

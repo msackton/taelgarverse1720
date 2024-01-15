@@ -4,7 +4,6 @@ title: Day of Renewal
 ---
 
 
-
 # The Day of Renewal
 
 Celebrated on the day following the first monsoon rains of the season. 

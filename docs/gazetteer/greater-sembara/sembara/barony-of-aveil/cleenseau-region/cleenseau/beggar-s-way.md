@@ -4,4 +4,3 @@ whereabouts: Cleenseau
 displayDefaults: {defArt: '', linkText: 'on'}
 title: Beggar's Way
 ---
-

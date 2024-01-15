@@ -6,6 +6,5 @@ typeOf: regiment
 partOf: Army of the West
 title: Dunfry Regiment
 ---
-
 # The Dunfry Regiment
 
