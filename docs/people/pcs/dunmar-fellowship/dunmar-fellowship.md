@@ -9,6 +9,9 @@ excludeRooted: [Clee]
 title: Dunmar Fellowship
 ---
 # The Dunmar Fellowship
+>[!info]+ Information
+> An adventuring party
+> 
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

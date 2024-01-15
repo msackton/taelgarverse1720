@@ -16,15 +16,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Kaslan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1699 (21 years old)  
-    { .bio }
-
-    Based the Ko'zula village
-</div>
-
+>[!info]+ Biographical Info  
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 Experienced in woodcraft; leader of the hunting camp [Delwath](<../pcs/dunmar-fellowship/delwath.md>) first found after arriving in the north. 

@@ -9,6 +9,9 @@ DR_end: 1553-07-10
 title: Fire War
 ---
 # The Fire War
+>[!info]+ Information
+> 
+
 
 A short war between the Dunmari and a horde of orcs, trolls, and ogres led by the fire giant [Mavdyr](<../../people/historical-figures/mavdyr.md>), between DR 1552-53.
 

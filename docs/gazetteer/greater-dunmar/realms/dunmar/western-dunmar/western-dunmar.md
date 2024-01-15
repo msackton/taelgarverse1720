@@ -8,10 +8,9 @@ partOf: Dunmar
 title: Western Dunmar
 ---
 # Western Dunmar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 Western Dunmar is a productive agricultural region, occupying the flat lands west of the [Yuvanti Mountains](<../../../yuvanti-mountains.md>) and east of the [Nevos Sea](<../../../../west-coast/nevos-sea.md>). The densest settlement is in the Nayan river valley, which contains the largest city in the region, [Nayahar](<./nayahar.md>), which also serves as the administrative center and Samraat court of [Dunmar](<../dunmar.md>). 
 

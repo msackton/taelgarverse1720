@@ -8,5 +8,8 @@ ancestry: halfling
 typeOf: family
 title: Honeyhills
 ---
-# The Honeyhills
+# Honeyhills
+>[!info]+ Information
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) family
+> 
 

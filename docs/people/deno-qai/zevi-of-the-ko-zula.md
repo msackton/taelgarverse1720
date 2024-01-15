@@ -16,14 +16,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Zevi
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 Guide who brought [Delwath](<../pcs/dunmar-fellowship/delwath.md>) to the Ko’zula village and later to meet [Aristaea](<../pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../pcs/dunmar-fellowship/guests/iascaire.md>).

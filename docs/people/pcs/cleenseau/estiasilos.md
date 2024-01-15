@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [person, pc/companion, status/unknown]
 name: Es\*tiasilos
 aliases: [Es*tiasilos]
@@ -9,12 +9,5 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Es\*tiasilos
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
 
 https://www.dndbeyond.com/monsters/3502311-es-tiasilos

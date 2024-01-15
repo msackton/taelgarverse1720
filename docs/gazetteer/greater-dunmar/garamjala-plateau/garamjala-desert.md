@@ -10,12 +10,10 @@ pronunciation: ga-RUM-ja-la
 title: Garamjala Desert
 ---
 # The Garamjala Desert
-:speaker:{ .middle } *(ga-RUM-ja-la)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--   :octicons-location-24:{ .lg .middle }   
-    :octicons-location-24:{ .lg .middle } A desert in the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
-</div>
-
+*(ga-RUM-ja-la)*
+>[!info]+ Information
+> 
+>> 
 
 The Garamjala is a vast arid desert that stretches from the [Yuvanti Mountains](<../yuvanti-mountains.md>) to the eastern banks of the [Istaros](<../../istaros-watershed/rivers/istaros.md>), and beyond. It was formed in the aftermath of the [Great War](<../../../events/1500s/great-war.md>) as the upheavals in [Dunmar](<../realms/dunmar/dunmar.md>) raised the [Yuvanti Mountains](<../yuvanti-mountains.md>) mountains, and lifted the central grasslands. As the rains stopped, the land turned dusty and rocky. 
 

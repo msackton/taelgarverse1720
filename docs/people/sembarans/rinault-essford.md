@@ -17,16 +17,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Lord Rinault Essford
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
-    Born DR 1688 (32 years old)  
-    { .bio }
-
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)
+> 
+> 
+>> 
 
 The younger brother of [Rosalind](<./rosalind-essford.md>) he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 

@@ -20,17 +20,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Lerry Wildheart
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
-    { .bio }
-
-    Sails in the [Wave Dancer](<../../things/ships/wave-dancer.md>)
-</div>
-
-
-
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)
+> 
+>> 
+>> 
+>> 
 
 Lerry Wildheart is the quartermaster of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>), promoted to the role a few years ago. 
 ## Relationships

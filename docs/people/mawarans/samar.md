@@ -14,13 +14,7 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Samar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [human](<../../species/humans/humans.md>) (she/her)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [human](<../../species/humans/humans.md>) (she/her)
 
 Orphaned twin girls who lives in the Drowned Flats. Wazir feeds them once a week, and in turn they keep an ear to the ground for him.

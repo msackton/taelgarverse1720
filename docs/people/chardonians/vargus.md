@@ -18,17 +18,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Vargus
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    Member of the [Chardonian Legion](<../../groups/chardonian-legion.md>), and the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
+>> 
 
 
 

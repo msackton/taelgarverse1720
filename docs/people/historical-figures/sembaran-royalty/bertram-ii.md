@@ -23,17 +23,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # King Bertram II
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
-    b. DR 1537 - d. January 17th, 1561, died at age 24 years  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkovia/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>), and [Zovcka](<../../../gazetteer/greater-sembara/zimkovia/zovcka.md>) (DR 1555 - January 17th, 1561)  
-    Member of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) (until January 17th, 1561)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+>   
+> 
 
 The eldest child of [Reginald](<./reginald.md>), he was a ruler of Sembara in the 1550s. 
 

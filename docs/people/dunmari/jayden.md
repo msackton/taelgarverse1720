@@ -15,15 +15,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Jayden
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
 
 >Location (updated November 15, 1748): unknown
 

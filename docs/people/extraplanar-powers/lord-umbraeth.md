@@ -15,16 +15,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Lord Umbraeth
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (he/him)  
-    { .bio }
-
-    Originally from: [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (he/him)  
+>> 
 
 Lord Umbraeth, the Gloomshaper, is the ruler of [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>). 
 

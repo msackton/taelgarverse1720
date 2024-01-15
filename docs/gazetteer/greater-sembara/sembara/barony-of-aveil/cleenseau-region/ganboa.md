@@ -11,13 +11,11 @@ population: 62
 title: Ganboa
 ---
 # Ganboa
-:speaker:{ .middle } *(Gan-bo-a)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-    :octicons-people-24: pop. 62  
-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) village in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
-</div>
-
+*(Gan-bo-a)*
+>[!info]+ Information
+> pop. 62
+> 
+>> 
 
 A small lizardfolk village a few miles downstream on the Enst, known in [Cleenseau Region](<./cleenseau-region.md>) as a good source of healing herbs. Several lizardfolk from Ganboa are regulars at the markets in [Cleenseau](<cleenseau/cleenseau.md>) and [Beury](<./beury.md>).  Ganboa is built on a cul-de-sac in the [Enst](<../../../rivers/wistel-enst-watershed/enst.md>) where the banks become very marshy and the river splits and northly channel meanders through several large marshy flats. It is a small village of only about a two dozen huts, about half scattered across the semi-permanent marsh islands, and the other half along the banks of the river. 
 

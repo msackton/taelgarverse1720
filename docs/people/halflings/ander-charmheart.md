@@ -25,17 +25,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Ander Charmheart
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
-
-
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)
+> 
+> 
+>> 
+>> 
+>> 
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 

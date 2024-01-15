@@ -14,14 +14,8 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Rufus
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [kenku](<../../../../species/unusual-species/kenku/kenku.md>) (he/him)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [kenku](<../../../../species/unusual-species/kenku/kenku.md>) (he/him)
 
 ![Rufus](../../../../assets/rufus.png){align="right"; width="320"}Kenku monster hunter and unofficial protector of [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>). Excellent with bow and arrow. Helped kill the aboleth. Now returned to [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>), continuing to guard against monsters of the deeps. Hates crabs. 
 

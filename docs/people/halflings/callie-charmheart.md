@@ -23,18 +23,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Callie Charmheart
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
-    **(page is future dated)**  
-    Member of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    { .bio }
-
-</div>
-
-
-
+>[!info]+ Biographical Info  
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+>   
+>   
+>>   
+>>   
+>> 
 
 One of the Charmhearts, a halfling family of long-distance merchants and traders, who make a living trading between [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). 
 

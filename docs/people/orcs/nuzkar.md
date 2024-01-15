@@ -16,20 +16,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Nuzkar
-:speaker:{ .middle } *(NUZ-car)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
-    Born DR 1698 (22 years old)  
-    { .bio }
-
-    Originally from: Gorzum
-    Based in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
-
+*(NUZ-car)*
+>[!info]+ Biographical Info
+> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)
+> 
+>> 
 
 An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how Thark's enslavement works, and how to free more of her people. 
 

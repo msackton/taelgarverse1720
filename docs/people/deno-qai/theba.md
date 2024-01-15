@@ -20,17 +20,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Theba
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1717 (3 years old)  
-    { .bio }
-
-    Based the Bek'eni village
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>> 
 
 
 

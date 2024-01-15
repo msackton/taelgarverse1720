@@ -10,10 +10,9 @@ whereabouts: Tokra
 title: The Red Lily Inn
 ---
 # The Red Lily Inn
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn [Tokra](<./tokra.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 A halfling inn, also on the west side of town, just inside the walls, near the western gate. Run by [Wes Strongbones](<../../../../../../people/halflings/wes-strongbones.md>) and his twin sons Tye and Cade. 
 

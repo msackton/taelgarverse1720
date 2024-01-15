@@ -8,10 +8,9 @@ typeOf: library
 title: Great Library
 ---
 # The Great Library
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A library in [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
-</div>
-
+>[!info]+ Information  
+>   
+>> 
 
 The oldest building and organization in Chardon, dedicated to collecting and preserving knowledge, often in the form of books and scholarly works, though the Great Library also funds adventuring expeditions to recover more esoteric treasure. 
 

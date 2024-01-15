@@ -15,17 +15,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Padma
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1720 (11 days old)  
-    { .bio }
-
-    Based an unnamed caravanserai, the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>> 
 
 An innkeeper and master of a caravanserai waystation on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), running one of the first waystations on the west side of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).  Generally well positioned to receive and pass along news. 
 

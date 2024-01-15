@@ -17,16 +17,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Skoda
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>) (she/her)  
-    Born DR 1700 (20 years old)  
-    { .bio }
-
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~
-</div>
-
+>[!info]+ Biographical Info
+> An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>) (she/her)
+> 
+>> 
 
 A kenku woman in late middle age, who travels the islands of the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>) with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
 

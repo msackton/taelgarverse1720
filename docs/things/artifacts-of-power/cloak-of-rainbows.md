@@ -18,19 +18,17 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The Cloak of Rainbows
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Cloak__  
-   Created DR 917 (803 years ago)  
-   Created by [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>), in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)  
-   Owned by [Chief Lubash](<../../people/orcs/lubash.md>)  
-</div>
-
+>[!info]+ Information
+> (unique magical cloak)
+> 
+> 
+>> 
 
 
 
 The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the Cloudspinner, and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. 
 
-[Cintra](<../../people/dunmari/cintra.md>) believed [Agata](<../../people/fey/agata.md>) was searching for it, and had heard it was supposedly created by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). It was originally a gift to allow these orcs to live free of [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s gaze. It was stolen by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), and then lost, and rediscovered by the Dunmari in the years before the Great War, only to be lost again during the Great War. 
+[Cintra](<../../people/dunmari/cintra.md>) believed [Agata](<../../people/fey/agata.md>) was searching for it, and had heard it was supposedly created by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). It was originally a gift to allow these orcs to live free of [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s gaze. It was stolen by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), and then lost, and [rediscovered](<../../campaigns/dunmari-frontier/letters-notes-and-tales/letter-from-govir.md>) by the Dunmari in the years before the Great War, only to be lost again during the Great War. 
 
 Now, it is worn by the chiefs of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), currently Chief [Lubash](<../../people/orcs/lubash.md>). 
 

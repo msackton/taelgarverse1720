@@ -16,16 +16,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Itar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1716 (4 years old)  
-    { .bio }
-
-    Based the Bek'eni village
-</div>
-
+>[!info]+ Biographical Info
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 The Godcaller of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>) tribe of Deno'qai, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>).
 

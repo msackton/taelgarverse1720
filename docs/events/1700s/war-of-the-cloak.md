@@ -12,6 +12,9 @@ whereabouts: Xurkhaz
 title: War of the Cloak
 ---
 # The War of the Cloak
+>[!info]+ Information
+> 
+>> 
 
 A war fought between the armies of [Grash](<../../people/other-nonhumans/grash.md>) and the orcs of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), aided by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), over the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>). 
 

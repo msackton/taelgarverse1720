@@ -21,17 +21,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Commander Vorgaz
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    Born DR 1707 (13 years old)  
-    { .bio }
-
-    Based in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)
+> 
+> 
+>> 
+>> 
 
 Vorgaz was a skilled [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) warrior and the commander of the garrison at [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>), on the western border of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), known for his tactical brilliance but lack of political acumen. 
 

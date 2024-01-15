@@ -21,20 +21,14 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Urgall
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1720 (11 days old)  
-    { .bio }
-
-    Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
+>> 
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
 
 Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [Green Sea](<../../gazetteer/green-sea.md>), eventually turning to piracy, and pledging himself to a demon as a warlock.
 
-In DR 1748, he was trapped on the holy island of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) by [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>)'s curse, and was eventually killed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+In DR 1748, he was trapped on the holy island of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) by [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>)'s curse, and was eventually [killed](<../../campaigns/dunmari-frontier/session-notes/session-75-dufr.md>) by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 

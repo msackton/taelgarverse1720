@@ -22,17 +22,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Grash
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A skeletal [undead](<../../species/children-of-the-embodied-gods/undead.md>) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-
-
+>[!info]+ Biographical Info
+> A skeletal [undead](<../../species/children-of-the-embodied-gods/undead.md>), he/him
+> 
+>> 
+>> 
+>> 
 
 Known as Grash the Undying, an undead warrior and commander of a large [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) army in Kharsan. He possessed the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and used it to create a large army of orcs and undead. 
 

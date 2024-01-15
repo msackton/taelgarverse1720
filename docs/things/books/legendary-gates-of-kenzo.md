@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [item/book, status/unknown]
 typeOf: book
 displayDefaults: {startStatus: written and drawn}
@@ -14,9 +14,8 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The Legendary Gates of Kenzo
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Book__  
-   **(page is future dated)**  
-</div>
-
+>[!info]+ Information
+> (unique book)
+> 
+>> 
 

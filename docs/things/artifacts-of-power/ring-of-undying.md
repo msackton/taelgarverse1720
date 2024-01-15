@@ -12,11 +12,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The Ring of Undying
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Ring__  
-   Owned by [Grash](<../../people/other-nonhumans/grash.md>)  
-</div>
-
+>[!info]+ Information
+> (unique ring)
+> 
+> 
+>> 
 
 A ring, worn by [Grash](<../../people/other-nonhumans/grash.md>), that supposedly lets one cheat death forever, and control death around you. Presumably the source of [Grash](<../../people/other-nonhumans/grash.md>)'s ability to resurrect dead [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) into undead. 
 

@@ -17,21 +17,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Cloudspinner
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)  
-    { .bio }
-
-    Originally from: [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1002): imprisoned
-
+>[!info]+ Biographical Info
+> A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)
+>> 
 
 The Queen of Sunset was once the ruler of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
-Her memories opened Session 61 (DuFr): ^97cec2
+Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>): ^97cec2
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 

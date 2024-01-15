@@ -17,15 +17,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Dunmari Werewolf Woman
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>> 
 
 The unnamed woman who was cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), one of the few survivors of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>). 

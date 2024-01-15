@@ -16,16 +16,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Inakara
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
-    Born DR 1702 (18 years old)  
-    { .bio }
-
-    Based in [Dwarven Outpost (Raven's Hold)](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
+>   
+>> 
 
 A mad twisted creature and sorcerer living in the old [dwarven outpost](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) near Raven's Hold. 
 

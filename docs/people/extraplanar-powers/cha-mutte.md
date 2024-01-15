@@ -13,15 +13,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Cha'mutte
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dragon](<../../species/children-of-the-divine/dragons.md>) (elder wyrm) (he/him)  
-    Died DR 1545  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> an elder wyrm (he/him)
+> 
 
 An elder wyrm, one of the original children of [Arha](<../../cosmology/gods/high-gods/arha.md>) and [Malik](<../../cosmology/gods/high-gods/malik.md>).
 

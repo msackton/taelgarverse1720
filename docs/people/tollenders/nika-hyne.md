@@ -20,16 +20,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Nika Hyne
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info  
+> A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (she/her)  
+>   
+>>   
+>> 
 
 ![Nika Hyne](../../assets/nika-hyne.png){align="right"; width="320"} Nika Hyne, is a sly young woman in her early twenties known to frequent The Windward Sail, listening to stories and doing odd jobs for coin. She was a student at the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>): although she dropped out, she knows the area and the people well. She is a bit of a hustler. 
 

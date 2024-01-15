@@ -17,17 +17,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Kaupa
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1710 (10 years old)  
-    { .bio }
-
-    Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
+>> 
 
 A diligent representative of the Skaer Trade Mission, Kaupa's role in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) is vital in ensuring that trade relations between Skaerhem and [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) remain strong and beneficial for both parties.
 

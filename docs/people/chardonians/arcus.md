@@ -23,17 +23,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Arcus
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
+>> 
 
 An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), found petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
 

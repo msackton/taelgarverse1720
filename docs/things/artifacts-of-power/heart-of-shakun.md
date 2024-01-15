@@ -11,11 +11,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The Heart of Shakun
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Wonderous Item__  
-   Owned by [Cintra](<../../people/dunmari/cintra.md>)  
-</div>
-
+>[!info]+ Information  
+> (unique wonderous item)  
+>   
+>> 
 
 A rough hewn ochre stone heart, a focus for [Shakun](<../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>)'s power in the mortal realm. 
 

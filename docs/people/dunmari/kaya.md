@@ -13,14 +13,8 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Kaya
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    { .bio }
-
-</div>
-
-
-A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. Freed in Session 31 (DuFr).
+A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. Freed in [Session 31 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-31-dufr.md>).
 

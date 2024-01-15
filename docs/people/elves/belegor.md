@@ -22,20 +22,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Belegor
-:speaker:{ .middle } *(beh-leh-GOR)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
-    Born DR 1468 (252 years old)  
-    { .bio }
-
-    Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1712): [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-
-
+*(beh-leh-GOR)*
+>[!info]+ Biographical Info
+> An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)
+> 
+>> 
+>> 
 
 Belegor is a solitary [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [Great War](<../../events/1500s/great-war.md>). 
 ## Overview

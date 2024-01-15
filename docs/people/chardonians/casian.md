@@ -18,16 +18,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Casian
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
 
 A powerful wizard and evoker, companion to [Kadmos](<./kadmos.md>), and member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>). A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly pouring over. Doesn’t talk much except to argue.
 

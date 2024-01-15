@@ -8,10 +8,9 @@ whereabouts: Western Green Sea Region
 title: Sembara
 ---
 # Sembara
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in the [Western Green Sea Region](<../../western-green-sea/western-green-sea-region.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
@@ -38,7 +37,7 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
             var bounds = [[[0, 0], [2468, 2308]]];
 
             // this has to be the path, i.e. what was working for me was /assets/world-map-01-02.png
-            var image = L.imageOverlay('/assets/sembara-regions.png', bounds).addTo(map);
+            var image = L.imageOverlay('/taelgarverse1720/assets/sembara-regions.png', bounds).addTo(map);
             map.setView( [1200, 1200], 0);
         })
 </script>

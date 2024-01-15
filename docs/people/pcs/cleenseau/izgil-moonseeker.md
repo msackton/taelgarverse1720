@@ -21,18 +21,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Izgil Moonseeker
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dwarf](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/clans/gemcrafters.md>)  
-    Born DR 1453 (267 years old)  
-    { .bio }
-
-    Based in [Nidzahar](<../../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range/sentinel-range.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of October 19th, 1719): [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-
+>[!info]+ Biographical Info
+> a [dwarf](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/clans/gemcrafters.md>)
+> 
+> 
+>> 
 
 Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [Gemcrafters](<../../../groups/clans/gemcrafters.md>) clan in [Nidzahar](<../../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>).
 

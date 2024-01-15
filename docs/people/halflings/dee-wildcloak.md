@@ -29,20 +29,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Dee Wildcloak
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Wildcloaks](<../../groups/halfling-families/wildcloaks.md>)  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
-    { .bio }
-
-    
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
-
-
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Wildcloaks](<../../groups/halfling-families/wildcloaks.md>)
+> 
+>> 
+>> 
+>> 
+>> 
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships

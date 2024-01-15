@@ -16,15 +16,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Typhina
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+>[!info]+ Biographical Info  
+> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+>   
+>> 
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
-    Killed by [Agata](<./agata.md>)  
-    { .bio }
-
-    Lived in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-</div>
-
-
-A member of the court of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>) and guardian of the Heartwood Grove. She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the Ring of the Warded Mind.
+A member of the court of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>) and guardian of the Heartwood Grove. She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/ring-of-the-warded-mind.md>).

@@ -16,17 +16,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Enon
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+>[!info]+ Biographical Info
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1688 (32 years old)  
-    { .bio }
-
-    Based the Ko'zula village
-</div>
-
-
-Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his Deno'qai Scale Mail and Deno'qai Lynx Shield prior to Delwath's solo adventure to free the Meswati.
+Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his [Deno'qai Scale Mail](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and [Deno'qai Lynx Shield](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier/session-notes/session-51-52-dufr.md>)
 
 

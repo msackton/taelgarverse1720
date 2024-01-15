@@ -1,4 +1,5 @@
 site_name: TaelgarVerse 1720
+base_path: /taelgarverse1720/
 theme:
   name: material
   custom_dir: overrides

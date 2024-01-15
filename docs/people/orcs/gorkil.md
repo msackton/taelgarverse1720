@@ -18,16 +18,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Gorkil
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of [Grash's Horde](<../../groups/orc-hordes/grash-s-horde.md>)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info
+> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of [Grash's Horde](<../../groups/orc-hordes/grash-s-horde.md>)
+> 
+> 
+>> 
+>> 
 
 An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) cleric in [Grash's army](<../../groups/orc-hordes/grash-s-horde.md>). 
 

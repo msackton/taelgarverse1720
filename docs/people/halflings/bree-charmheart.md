@@ -23,19 +23,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Bree Charmheart
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
-    Born DR 1644 (76 years old)  
-    Member of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-
-
+>[!info]+ Biographical Info  
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+>   
+>   
+>>   
+>>   
+>> 
 
 The matriarch of the Charmheart trading clan of halflings.
 

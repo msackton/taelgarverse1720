@@ -7,10 +7,9 @@ partOf: Western Green Sea
 title: Western Gulf
 ---
 # The Western Gulf
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A gulf in the [Western Green Sea](<./western-green-sea.md>), the [Green Sea](<../green-sea.md>)  
-</div>
-
+>[!info]+ Information  
+>   
+>> 
 
 The Western Gulf is the inland sea at the far western edge of the [Green Sea](<../green-sea.md>) Separated from [Green Sea](<../green-sea.md>) proper by the narrow [Straits of Cymea](<./straits-of-cymea.md>), the Western Gulf tends to milder weather and easier navigation. 
 

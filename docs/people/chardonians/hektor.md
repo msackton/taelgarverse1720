@@ -16,15 +16,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Hektor
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 
 

@@ -19,19 +19,13 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Ewen Silversong
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
-    Born DR 1649 (71 years old)  
-    Songmaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
-    { .bio }
-
-    Based in the [Emerald Song](<../../things/ships/emerald-song.md>)
-</div>
-
-
-
+>[!info]+ Biographical Info
+> a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>), he/him of the [Silversongs](<../../groups/halfling-families/silversongs.md>)
+> 
+> 
+>> 
+>> 
+>> 
 
 Songmaster and storyteller on the [Emerald Song](<../../things/ships/emerald-song.md>).
 ## Relationships

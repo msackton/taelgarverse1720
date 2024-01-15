@@ -14,11 +14,10 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The Circlet of Foreknowledge
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Mythical [Elven](<../../species/children-of-the-embodied-gods/elves/elves.md>) Circlet__  
-   Created Unknown  
-</div>
-
+>[!info]+ Information
+> (mythical [elven](<../../species/children-of-the-embodied-gods/elves/elves.md>) circlet)
+> 
+>> 
 
 A circlet set with a single white gem that supposedly gives perfect foreknowledge, known from elven lore but unclear if it is real or mythical. 
 

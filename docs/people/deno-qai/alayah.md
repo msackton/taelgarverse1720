@@ -15,17 +15,12 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Alayah
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
+>   
+>> 
 
 The young Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>) tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
 
-Gave her Jade Piece of Rai's Hand to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) after [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>). 
+Gave her [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) after [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>). 
 

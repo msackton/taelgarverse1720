@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [deity, religion/skaer, status/unknown]
 gender: female
 title: Kaikkea

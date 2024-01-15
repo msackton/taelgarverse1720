@@ -19,16 +19,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Justan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    **(page is future dated)**  
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>>   
+>> 
 
 A Dunmari man, from a family of horse herders traveling on the lands around Tokra. 
 

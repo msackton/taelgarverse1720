@@ -9,10 +9,9 @@ partOf: Cleenseau
 title: Essford Manor
 ---
 # The Essford Manor
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A manor house [Cleenseau](<./cleenseau.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
 

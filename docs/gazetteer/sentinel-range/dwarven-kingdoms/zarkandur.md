@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [place, status/unknown]
 campaignInfo: []
 name: Zarkandur
@@ -9,9 +9,8 @@ partOf: Am'khazar
 title: Zarkandur
 ---
 # Zarkandur
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) city in [Am'khazar](<./am-khazar.md>), [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)  
-</div>
+>[!info]+ Information
+> A city in [Am'khazar](<./am-khazar.md>), [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)
 
 
 ## Overview 

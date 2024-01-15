@@ -9,7 +9,9 @@ hide_backlinks: true
 hide: [toc]
 ---
 # The On the Lost People of the Forests
-:octicons-info-24:{ .lg .middle } **Book**  
+>[!info]+ Information  
+> (book)  
+> 
 
 Written by the scholar [Gnaeus](<../../people/chardonians/gnaeus.md>), of [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), disgraced for using enchanment magic in his research. 
 

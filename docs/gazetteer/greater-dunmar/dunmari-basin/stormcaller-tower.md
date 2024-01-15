@@ -10,11 +10,10 @@ partOf: Eastern Dunmar
 title: Stormcaller Tower
 ---
 # Stormcaller Tower
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-    :octicons-location-24:{ .lg .middle } A tower in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
-</div>
-
+>[!info]+ Information
+> 
+> 
+>> 
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies, powered by [Phasing Stones](<../../../things/magic-items/phasing-stones.md>) that could remake reality around them. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.
 

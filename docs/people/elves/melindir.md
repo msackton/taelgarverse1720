@@ -19,18 +19,11 @@ hide_backlinks: true
 hide: [toc]
 ---
 # Melindir
-:speaker:{ .middle } *(meh-LIN-deer)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 35)  
-    { .bio }
-
-    Originally from: [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
-</div>
-
-
+*(meh-LIN-deer)*
+>[!info]+ Biographical Info
+> an [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 35)
+>> 
+>> 
 
 Melindr is the Ambassador to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).
 
