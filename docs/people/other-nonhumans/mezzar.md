@@ -15,8 +15,6 @@ whereabouts:
 - {type: home, location: Elderwood}
 title: Grimbaskal
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Grimbaskal
 >[!info]+ Biographical Info

@@ -7,7 +7,5 @@ ancestry: Maseuan
 gender: male
 title: Lucas
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 

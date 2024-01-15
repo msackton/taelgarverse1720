@@ -11,8 +11,6 @@ gender: female
 died: 1747
 title: Sefa
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Sefa
 >[!info]+ Biographical Info  

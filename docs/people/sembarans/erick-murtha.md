@@ -12,8 +12,6 @@ affiliations:
 - {place: Beury}
 whereabouts: Beury
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Info

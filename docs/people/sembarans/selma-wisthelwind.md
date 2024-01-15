@@ -15,8 +15,6 @@ whereabouts:
 - {type: home, start: 1712, location: The Fox's Flagon}
 title: Selma Wisthelwind
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Info

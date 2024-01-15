@@ -12,8 +12,6 @@ whereabouts:
 - {type: away, location: Vindristjarna, end: 9999}
 title: Nuzkar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Nuzkar
 *(NUZ-car)*

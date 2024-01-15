@@ -11,8 +11,6 @@ gender: male
 whereabouts: Ganboa
 title: Erdu
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Erdu
 >[!info]+ Biographical Info

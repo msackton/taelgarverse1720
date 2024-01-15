@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Lubash}
 title: Cloak of Rainbows
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Cloak of Rainbows
 >[!info]+ Information

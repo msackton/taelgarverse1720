@@ -11,8 +11,6 @@ affiliations: [Shakun Mystai]
 whereabouts: Karawa
 title: Cintra
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Cintra
 >[!info]+ Biographical Info  

@@ -16,8 +16,6 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 title: Viepuck
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Viepuck
 >[!info]+ Biographical Info  

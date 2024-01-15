@@ -15,8 +15,6 @@ affiliations:
 - {org: Essords, type: primary}
 whereabouts: Cleenseau
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lord Wymar Essford
 >[!info]+ Biographical Info

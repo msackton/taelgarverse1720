@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, location: Wave Dancer, wHome: 'Sails <home:qr>'}
 title: Lerry Wildheart
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lerry Wildheart
 >[!info]+ Biographical Info

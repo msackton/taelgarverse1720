@@ -13,8 +13,6 @@ affiliations:
 whereabouts: Kunda
 title: Drikod
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Drikod
 >[!info]+ Biographical Info  

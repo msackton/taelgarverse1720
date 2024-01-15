@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 title: Cecilia Lister
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Cecilia Lister
 >[!info]+ Biographical Info

@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Marion
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Marion
 >[!info]+ Biographical Info

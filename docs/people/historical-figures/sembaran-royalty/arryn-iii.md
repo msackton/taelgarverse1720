@@ -15,8 +15,6 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Arryn III
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Arryn III
 >[!info]+ Biographical Info

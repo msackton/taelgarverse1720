@@ -5,8 +5,6 @@ aliases: [Phasing Stone]
 typeOf: stone
 title: Phasing Stones
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Phasing Stones
 >[!info]+ Information

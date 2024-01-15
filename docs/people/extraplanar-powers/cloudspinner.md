@@ -13,8 +13,6 @@ whereabouts:
 - {type: away, start: 1002, location: imprisoned}
 title: Cloudspinner
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Cloudspinner
 >[!info]+ Biographical Info

@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, start: 1731-01-02, end: '', location: Antaka}
 title: Skalme
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Skalme
 >[!info]+ Biographical Info  

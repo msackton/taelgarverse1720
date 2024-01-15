@@ -11,8 +11,6 @@ gender: female
 whereabouts: Amberglow
 title: Melusine
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Melusine
 >[!info]+ Biographical Info

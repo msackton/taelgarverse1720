@@ -4,8 +4,6 @@ tags: [person]
 gender: male
 title: Jon Thorne
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jon Thorne
 >[!info]+ Biographical Info

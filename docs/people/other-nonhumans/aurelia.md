@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, start: 1733, location: Tollen}
 title: Aurelia
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Aurelia
 >[!info]+ Biographical Info  

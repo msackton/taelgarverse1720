@@ -11,8 +11,6 @@ gender: female
 whereabouts: Tokra
 title: Kaleha
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kaleha
 >[!info]+ Biographical Info

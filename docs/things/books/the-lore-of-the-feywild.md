@@ -3,8 +3,6 @@ tags: [item/book, status/unknown]
 typeOf: book
 title: The Lore of the Feywild
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 
 ### The Lore of the Feywild

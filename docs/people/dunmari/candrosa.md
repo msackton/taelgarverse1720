@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Karawa}
 title: Candrosa
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Candrosa
 >[!info]+ Biographical Info

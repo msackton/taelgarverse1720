@@ -13,8 +13,6 @@ affiliations: [University of Tollen]
 whereabouts: Tollen
 title: Thomas Hawke
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Thomas Hawke
 >[!info]+ Biographical Info  

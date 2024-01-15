@@ -8,8 +8,6 @@ rarity: unique
 whereabouts: Beryl
 title: Analadin
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Analadin
 >[!info]+ Information

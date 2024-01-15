@@ -11,8 +11,6 @@ affiliations:
 - {org: House of Sewick, type: primary}
 title: Eloise
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Eloise
 >[!info]+ Biographical Info

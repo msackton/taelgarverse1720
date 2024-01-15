@@ -10,8 +10,6 @@ gender: male
 whereabouts: Tharn Todor
 title: Magran Boulderbeard
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Magran Boulderbeard
 >[!info]+ Biographical Info  

@@ -12,8 +12,6 @@ affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
 title: Basu
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Basu
 >[!info]+ Biographical Info  

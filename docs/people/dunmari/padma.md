@@ -11,8 +11,6 @@ gender: female
 whereabouts: an unnamed caravanserai, Tokra-Darba Road
 title: Padma
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Padma
 >[!info]+ Biographical Info

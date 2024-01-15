@@ -9,8 +9,6 @@ ancestry:
 gender:
 title: Khathayi the Flametongue
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Khathayi the Flametongue
 

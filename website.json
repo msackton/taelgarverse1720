@@ -21,5 +21,8 @@
     "hide_backlinks_tags": [],
     "exclude_tildes": true,
     "abs_path_root": "/taelgarverse1720/",
-    "ignore_file": "excludes.txt"
+    "ignore_file": "excludes.txt",
+    "delete_unlinked_images": false,
+    "resize_images": false,
+    "obsidian_vault_id": "91b5140a7ac9885f"
 }

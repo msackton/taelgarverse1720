@@ -11,8 +11,6 @@ whereabouts:
 - {type: home, location: Chardon}
 title: Agon
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Agon
 >[!info]+ Biographical Info
@@ -21,5 +19,5 @@ hide: [toc]
 > 
 >> 
 
-[Vola](<./vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 
+Vola's mentor, a member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 
 

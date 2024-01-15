@@ -11,8 +11,6 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Derik
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Derik
 >[!info]+ Biographical Info

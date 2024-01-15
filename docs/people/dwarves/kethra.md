@@ -14,8 +14,6 @@ gender: female
 born: 1701
 title: Kethra Silverspark
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kethra Silverspark
 >[!info]+ Biographical Info

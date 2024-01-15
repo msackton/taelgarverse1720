@@ -17,8 +17,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Marigold Stonebridge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Marigold Stonebridge
 >[!info]+ Biographical Info

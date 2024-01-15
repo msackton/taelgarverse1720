@@ -11,8 +11,6 @@ whereabouts:
 - {type: home, location: Izgil Moonseeker}
 title: Brot's Telescope (Small)
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Brot's Telescope (small)
 >[!info]+ Information  

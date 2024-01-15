@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 title: Faldrak Bronzehammer
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Faldrak Bronzehammer
 >[!info]+ Biographical Info

@@ -12,8 +12,6 @@ player: Kate Sackton
 affiliations:
 title: Nerissa
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Nerissa
 >[!info]+ Biographical Info  

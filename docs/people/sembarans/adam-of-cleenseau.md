@@ -16,8 +16,6 @@ whereabouts:
 - {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
 title: Adam
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Adam
 >[!info]+ Biographical Info

@@ -8,8 +8,6 @@ name: Abha
 affiliations: [Sonkar Mystai]
 title: Abha
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Abha
 >[!info]+ Biographical Info

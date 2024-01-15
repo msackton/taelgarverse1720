@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Bek'eni village}
 title: Itar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Itar
 >[!info]+ Biographical Info

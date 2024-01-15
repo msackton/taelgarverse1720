@@ -14,8 +14,6 @@ whereabouts:
 - {type: away, location: Cleenseau, start: 1719-11-04, end: 1719-11-09}
 title: Jerome
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jerome
 >[!info]+ Biographical Info

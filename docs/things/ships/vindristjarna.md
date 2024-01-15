@@ -20,8 +20,6 @@ aliases: [Star on the Wind]
 subTypeOf: magical
 title: Vindristjarna
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*
@@ -72,7 +70,7 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [Faldrak Bronzehammer](<../../people/dwarves/faldrak-bronzehammer.md>) (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
 
-[Amil](<../../people/dunmari/amil.md>) (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
+Amil (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
 [Kethra Silverspark](<../../people/dwarves/kethra.md>) (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
 

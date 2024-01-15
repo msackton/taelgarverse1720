@@ -12,8 +12,6 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Tharn Todor}
 title: Delig Firebrand
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Delig Firebrand
 >[!info]+ Biographical Info

@@ -12,8 +12,6 @@ gender: male
 whereabouts: Cleenseau
 title: Harold Stonebridge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Harold Stonebridge
 >[!info]+ Biographical Info

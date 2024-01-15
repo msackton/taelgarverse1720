@@ -16,8 +16,6 @@ whereabouts:
 - {location: Emerald Song, type: home, prefix: sailing}
 title: Harol Silversong
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Harol Silversong
 >[!info]+ Biographical Info

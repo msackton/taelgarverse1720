@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, start: 1748-10-01, location: Bek'eni village}
 title: Theba
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Theba
 >[!info]+ Biographical Info

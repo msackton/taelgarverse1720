@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, prefix: northern, location: Voltara Plains}
 title: Grumella the Vengeful
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Grumella the Vengeful
 >[!info]+ Biographical Info  

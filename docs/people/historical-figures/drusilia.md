@@ -7,8 +7,6 @@ gender: female
 died: 1
 title: Drusilia
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Drusilia
 >[!info]+ Biographical Info  

@@ -14,8 +14,6 @@ pronunciation: AR-hes-teh
 gender: female
 title: Arheste
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Arheste
 *(AR-hes-teh)*

@@ -16,8 +16,6 @@ affiliations:
 whereabouts: Wave Dancer
 title: Wella Brightmoon
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Wella Brightmoon
 >[!info]+ Biographical Info

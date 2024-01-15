@@ -17,8 +17,6 @@ affiliations:
 - {place: Zovcka, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # King Bertram I
 >[!info]+ Biographical Info

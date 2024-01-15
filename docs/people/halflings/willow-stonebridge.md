@@ -12,8 +12,6 @@ gender: male
 whereabouts: Cleenseau
 title: Willow Stonebridge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Willow Stonebridge
 >[!info]+ Biographical Info

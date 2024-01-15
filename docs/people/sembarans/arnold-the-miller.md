@@ -11,8 +11,6 @@ gender: male
 whereabouts: Asineau
 title: Arnold the Miller
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Arnold the Miller
 >[!info]+ Biographical Info

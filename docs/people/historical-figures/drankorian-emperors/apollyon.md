@@ -15,8 +15,6 @@ whereabouts:
 - {type: away, start: 1053}
 - {type: away, start: 1060}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Info

@@ -7,8 +7,6 @@ gender: male
 name: Kecha
 title: Kecha
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kecha
 >[!info]+ Biographical Info

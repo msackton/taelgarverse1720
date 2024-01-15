@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Chardon}
 title: Dain Goldhammer
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Dain Goldhammer
 >[!info]+ Biographical Info

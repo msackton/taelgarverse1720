@@ -25,8 +25,6 @@ whereabouts:
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ''}
 title: Dee Wildcloak
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info
@@ -41,7 +39,7 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 ## Relationships
 - Dee has traveled and adventured with the dwarf [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) and the Chardonian [Alban](<../chardonians/alban.md>). 
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
-- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including [Arcus](<../chardonians/arcus.md>) and  [Vola](<../chardonians/vola.md>). She is particularly friendly with Vola. 
+- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including Arcus and  Vola. She is particularly friendly with Vola. 
 
 
 

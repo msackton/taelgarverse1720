@@ -18,8 +18,6 @@ whereabouts:
 timelineDescriptor: Belegor
 title: Belegor
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Belegor
 *(beh-leh-GOR)*

@@ -14,8 +14,6 @@ whereabouts:
 - {type: away, start: 1748-10-05, end: 9999, location: Tharn Todor}
 title: Chalice of the Runepriest
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Chalice of the Runepriest
 >[!info]+ Information

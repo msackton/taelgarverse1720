@@ -12,8 +12,6 @@ player:
 affiliations:
 title: Alimash
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Alimash
 >[!info]+ Biographical Info  

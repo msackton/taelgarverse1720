@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Pava and Avaras' House}
 title: Pava
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Pava
 >[!info]+ Biographical Info

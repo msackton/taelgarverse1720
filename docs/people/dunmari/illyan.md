@@ -10,8 +10,6 @@ whereabouts:
 - {type: away, start: 1748-11-23, location: Tokra}
 title: Illyan
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Illyan
 >[!info]+ Biographical Info  

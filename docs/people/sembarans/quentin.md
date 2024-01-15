@@ -14,8 +14,6 @@ whereabouts:
 - {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
 title: Quetin
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Quetin
 >[!info]+ Biographical Info

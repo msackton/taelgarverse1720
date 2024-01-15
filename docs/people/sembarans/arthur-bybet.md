@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 title: Arthur Bybet
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Arthur Bybet
 >[!info]+ Biographical Info

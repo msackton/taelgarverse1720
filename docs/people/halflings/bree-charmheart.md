@@ -19,8 +19,6 @@ whereabouts:
 - {type: away, start: 1748-08-13, location: Darba}
 title: Bree Charmheart
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Bree Charmheart
 >[!info]+ Biographical Info  
@@ -34,8 +32,8 @@ hide: [toc]
 The matriarch of the Charmheart trading clan of halflings.
 
 ## Relationships
-- [Callie Charmheart](<./callie-charmheart.md>), granddaughter
-- [Ander Charmheart](<./ander-charmheart.md>), grandson
+- Callie Charmheart, granddaughter
+- Ander Charmheart, grandson
 
 
 

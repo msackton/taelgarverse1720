@@ -15,8 +15,6 @@ affiliations:
 leaderOf:
 - {place: Sembara}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # King Wisym I
 >[!info]+ Biographical Info

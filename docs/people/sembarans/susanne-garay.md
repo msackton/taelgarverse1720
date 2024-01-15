@@ -9,8 +9,6 @@ gender: female
 whereabouts: Embry
 title: Susanne Garay
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Susanne Garay
 >[!info]+ Biographical Info  

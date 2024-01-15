@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Averil
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 
 

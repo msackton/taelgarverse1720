@@ -9,8 +9,6 @@ ancestry: Dunmari
 gender: female
 title: Kaya
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kaya
 >[!info]+ Biographical Info  

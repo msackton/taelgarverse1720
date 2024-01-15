@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Te'kula village}
 title: Jordo
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jordo
 >[!info]+ Biographical Info  

@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: plains north of Tokra}
 title: Kiran
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kiran
 >[!info]+ Biographical Info

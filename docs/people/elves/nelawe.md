@@ -6,8 +6,6 @@ ka: 31
 gender: female
 title: Nelawe
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Nelawe
 >[!info]+ Biographical Info

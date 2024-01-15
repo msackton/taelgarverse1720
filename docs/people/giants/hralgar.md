@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, start: 1748-11-24, alias: drifting on the storm across the world}
 title: Hralgar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Hralgar
 >[!info]+ Biographical Info

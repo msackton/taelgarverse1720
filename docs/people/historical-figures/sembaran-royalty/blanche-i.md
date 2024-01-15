@@ -16,8 +16,6 @@ affiliations:
 - {place: Breva, title: High Queen, start: 1561-02-13}
 - {org: House of Sewick, type: primary}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Queen Blanche I
 >[!info]+ Biographical Info

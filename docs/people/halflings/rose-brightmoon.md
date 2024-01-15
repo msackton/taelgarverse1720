@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, location: Wave Dancer}
 title: Rose Brightmoon
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Rose Brightmoon
 >[!info]+ Biographical Info

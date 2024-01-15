@@ -9,8 +9,6 @@ player: Dave Schwartz
 affiliations:
 title: Baxter
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 ### Baxter the Axebeak
 

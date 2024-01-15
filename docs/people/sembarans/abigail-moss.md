@@ -11,8 +11,6 @@ gender: female
 whereabouts: Taviose
 title: Abigail Moss
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Abigail Moss
 >[!info]+ Biographical Info

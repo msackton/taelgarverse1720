@@ -11,8 +11,6 @@ gender: female
 whereabouts: Darba
 title: Finellen Silverstone
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Info

@@ -12,8 +12,6 @@ whereabouts:
 - {type: away, start: 1748-10-25, end: '', prefix: forest valleys of, location: Sentinel Range}
 title: Safri
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Safri
 >[!info]+ Biographical Info  

@@ -6,8 +6,6 @@ name: Égnir
 species: elf
 title: Égnir
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Égnir
 

@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, start: 1721, location: Erelion}
 title: Vahaiya
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Vahaiya
 *(va-HAI-ya)*

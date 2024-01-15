@@ -11,8 +11,6 @@ gender: male
 affiliations: [The People of the Rainbow]
 title: Uzgash
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Uzgash
 >[!info]+ Biographical Info

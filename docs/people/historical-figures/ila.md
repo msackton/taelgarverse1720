@@ -12,8 +12,6 @@ title: Commander Ila
 whereabouts:
 - {type: home, prefix: somewhere in, location: Central Dunmar, formatSpecifier: ''}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Commander Ila
 >[!info]+ Biographical Info

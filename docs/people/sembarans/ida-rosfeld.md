@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Captain Ida Rosfeld
 >[!info]+ Biographical Info

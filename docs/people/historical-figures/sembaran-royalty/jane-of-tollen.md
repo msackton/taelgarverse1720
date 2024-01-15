@@ -18,8 +18,6 @@ leaderOf:
 died: 1559
 title: Jane of Tollen
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jane of Tollen
 >[!info]+ Biographical Info  

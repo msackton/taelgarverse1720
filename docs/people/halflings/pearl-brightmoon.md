@@ -15,8 +15,6 @@ affiliations:
 whereabouts: Wave Dancer
 title: Pearl Brightmoon
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Pearl Brightmoon
 >[!info]+ Biographical Info

@@ -11,8 +11,6 @@ gender: male
 player: David Kong
 title: Kenzo
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kenzo
 >[!info]+ Biographical Info
@@ -69,9 +67,9 @@ hide: [toc]
 
 > [!WARNING]- Private Discussion with Vola, Session 11
 > 
-> ### Kenzo and [Vola](<../../chardonians/vola.md>), Session 11 (DuFr)
+> ### Kenzo and Vola, Session 11 (DuFr)
 > 
-> [Vola](<../../chardonians/vola.md>) comes to sit next to you.
+> Vola comes to sit next to you.
 > “Fuck, that was awful”
 > I don’t answer but grasp her hand and bring her into meditation with me if she chooses
 > She talks quietly, not expecting a response. “I saw some shit growing up in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). Near the chalyte refineries.”

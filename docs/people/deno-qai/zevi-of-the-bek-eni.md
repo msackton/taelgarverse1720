@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Elderwood}
 title: Zevi
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Zevi
 >[!info]+ Biographical Info  

@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 title: Grash
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Grash
 >[!info]+ Biographical Info

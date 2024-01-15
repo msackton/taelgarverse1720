@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: 1730, end: '', location: Darba}
 title: Albus
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Albus
 >[!info]+ Biographical Info

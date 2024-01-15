@@ -6,8 +6,6 @@ title: Duke Jacques Bellemont
 affiliations:
 - {type: leader, org: Duchy of Wisford, start: 1700}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jacques Bellemont
 >[!info]+ Biographical Info

@@ -9,8 +9,6 @@ whereabouts:
 - {type: away, location: Voltara Plains, prefix: southern}
 title: Herasto
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Herasto
 >[!info]+ Biographical Info  

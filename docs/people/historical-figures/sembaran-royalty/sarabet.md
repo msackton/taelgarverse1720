@@ -9,8 +9,6 @@ gender: female
 died: 1529
 title: Sarabet
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Sarabet
 >[!info]+ Biographical Info  

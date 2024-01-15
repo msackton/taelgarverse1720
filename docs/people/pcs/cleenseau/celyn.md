@@ -15,8 +15,6 @@ whereabouts:
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 title: Celyn
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Celyn
 >[!info]+ Biographical Info  

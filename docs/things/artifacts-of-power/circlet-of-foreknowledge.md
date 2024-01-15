@@ -10,8 +10,6 @@ whereabouts:
 - {type: away}
 title: Circlet of Foreknowledge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Circlet of Foreknowledge
 >[!info]+ Information

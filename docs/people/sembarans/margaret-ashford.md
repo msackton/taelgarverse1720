@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Margaret Ashford
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Margaret Ashford
 >[!info]+ Biographical Info  

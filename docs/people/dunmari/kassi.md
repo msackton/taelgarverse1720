@@ -10,8 +10,6 @@ gender: female
 whereabouts: Lakan Monastery
 title: Kassi
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kassi
 >[!info]+ Biographical Info

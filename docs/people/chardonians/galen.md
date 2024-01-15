@@ -11,8 +11,6 @@ affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scro
 whereabouts: Chardon
 title: Galen
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Galen
 >[!info]+ Biographical Info  

@@ -11,8 +11,6 @@ whereabouts:
 - {type: away, start: 1748-10-14, end: '', location: Quanyi, prefix: sea elf village in}
 title: Nahto
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Nahto
 >[!info]+ Biographical Info

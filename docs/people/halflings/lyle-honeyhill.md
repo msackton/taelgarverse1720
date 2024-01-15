@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, start: 1744, location: Emerald Song, wHome: 'Sails <home:qr>'}
 title: Lyle Honeyhill
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lyle Honeyhill
 >[!info]+ Biographical Info

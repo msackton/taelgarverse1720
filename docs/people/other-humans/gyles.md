@@ -9,8 +9,6 @@ ancestry:
 gender: male
 title: Gyles
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 ## Gyles
 

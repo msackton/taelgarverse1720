@@ -14,8 +14,6 @@ whereabouts:
 pronunciation: tha-RAN-dros
 title: Tharandros
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Tharandros
 *(tha-RAN-dros)*

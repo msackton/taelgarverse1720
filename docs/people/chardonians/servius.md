@@ -12,8 +12,6 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Illoria}
 title: Servius
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Servius
 >[!info]+ Biographical Info

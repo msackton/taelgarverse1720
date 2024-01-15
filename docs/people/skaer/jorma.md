@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: 1737, location: Vetta}
 title: Jorma
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jorma
 >[!info]+ Biographical Info

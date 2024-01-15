@@ -12,8 +12,6 @@ affiliations:
 whereabouts: Cleenseau
 title: Jon
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jon
 >[!info]+ Biographical Info

@@ -11,8 +11,6 @@ gender: male
 whereabouts: Cleenseau
 title: Aldric Tannen
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Aldric Tannen
 >[!info]+ Biographical Info  

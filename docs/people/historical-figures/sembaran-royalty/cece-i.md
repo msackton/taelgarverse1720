@@ -14,8 +14,6 @@ leaderOf:
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  

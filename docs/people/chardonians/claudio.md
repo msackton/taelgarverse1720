@@ -12,8 +12,6 @@ whereabouts:
 - {type: away, start: 1748-03-11, end: '', location: ''}
 title: Claudio
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Claudio
 >[!info]+ Biographical Info
@@ -21,4 +19,4 @@ hide: [toc]
 > 
 >> 
 
-Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is [Lucius](<./lucius.md>)'s father, but does not currently live with his family. 
+Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is Lucius's father, but does not currently live with his family. 

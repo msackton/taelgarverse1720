@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Mermin Stonebridge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Mermin Stonebridge
 >[!info]+ Biographical Info  

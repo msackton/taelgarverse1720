@@ -8,8 +8,6 @@ rarity: uncommon
 whereabouts: Robin of Abenfyrd
 title: Hammer of Vigilance
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Hammer of Vigilance
 >[!info]+ Information  

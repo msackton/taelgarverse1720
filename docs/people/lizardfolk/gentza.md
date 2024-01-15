@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Ganboa}
 title: Gentza
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Gentza
 >[!info]+ Biographical Info

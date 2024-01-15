@@ -17,8 +17,6 @@ whereabouts:
 pronunciation: EL-wiss
 title: Elwis
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Elwis
 *(EL-wiss)*

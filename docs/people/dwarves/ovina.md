@@ -10,8 +10,6 @@ ancestry:
 gender: female
 title: Ovina
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ovina
 >[!info]+ Biographical Info  

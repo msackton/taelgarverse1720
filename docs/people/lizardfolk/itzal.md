@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Eskorola}
 title: Itzal
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Itzal
 >[!info]+ Biographical Info  

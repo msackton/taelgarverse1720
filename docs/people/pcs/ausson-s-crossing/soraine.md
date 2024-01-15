@@ -10,8 +10,6 @@ gender: male
 player: Matt Rand
 title: Soraine
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Soraine
 >[!info]+ Biographical Info  

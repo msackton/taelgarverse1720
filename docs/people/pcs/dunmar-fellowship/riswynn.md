@@ -12,8 +12,6 @@ player: Kate Sackton
 affiliations:
 title: Riswynn
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 ### Riswynn
 

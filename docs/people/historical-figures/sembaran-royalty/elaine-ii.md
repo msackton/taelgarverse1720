@@ -16,8 +16,6 @@ leaderOf:
 affiliations:
 - {org: House of Lils, type: primary}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Queen Elaine II
 >[!info]+ Biographical Info

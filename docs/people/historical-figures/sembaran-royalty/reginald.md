@@ -12,8 +12,6 @@ affiliations:
 - {org: House of Sewick, type: primary}
 title: Reginald
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Reginald
 >[!info]+ Biographical Info

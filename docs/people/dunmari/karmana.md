@@ -9,8 +9,6 @@ ancestry: Dunmari
 gender: male
 title: Karmana
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Karmana
 >[!info]+ Biographical Info

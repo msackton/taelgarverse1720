@@ -7,8 +7,6 @@ gender: male
 player: Mike Sackton
 title: Willow Wind
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 ### Willow Wind
 

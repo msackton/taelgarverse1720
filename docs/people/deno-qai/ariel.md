@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, location: Te'kula village}
 title: Ariel
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ariel
 >[!info]+ Biographical Info

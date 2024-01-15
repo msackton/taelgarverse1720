@@ -17,8 +17,6 @@ whereabouts:
 - {type: away, start: 1748-05-01, end: '1748-12-22', location: Vetta}
 title: Urgall
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Urgall
 >[!info]+ Biographical Info

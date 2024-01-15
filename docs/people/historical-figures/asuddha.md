@@ -12,8 +12,6 @@ whereabouts:
 - {location: Dunmar, type: home}
 title: Asuddha
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Asuddha
 >[!info]+ Biographical Info

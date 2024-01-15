@@ -10,8 +10,6 @@ whereabouts:
 - {type: home, location: Tokra}
 title: Govir
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Govir
 >[!info]+ Biographical Info

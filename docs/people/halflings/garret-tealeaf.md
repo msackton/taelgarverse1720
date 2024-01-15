@@ -22,8 +22,6 @@ whereabouts:
 - {type: away, start: 1748-08-13, location: Darba}
 title: Garret Tealeaf
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Garret Tealeaf
 >[!info]+ Biographical Info

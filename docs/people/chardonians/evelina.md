@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Chardon}
 title: Evelina
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Evelina
 >[!info]+ Biographical Info

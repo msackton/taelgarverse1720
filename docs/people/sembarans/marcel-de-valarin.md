@@ -10,8 +10,6 @@ gender: male
 whereabouts: Valarin
 title: Marcel de Valarin
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Marcel de Valarin
 >[!info]+ Biographical Info

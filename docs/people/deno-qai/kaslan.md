@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Kaslan
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kaslan
 >[!info]+ Biographical Info  

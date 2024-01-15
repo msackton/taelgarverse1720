@@ -12,8 +12,6 @@ player: John Leeker
 affiliations:
 title: Kaleho
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kaleho
 >[!info]+ Biographical Info  

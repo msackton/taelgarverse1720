@@ -11,8 +11,6 @@ gender: male
 whereabouts: Taviose
 title: Grandpa Remy
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Grandpa Remy
 >[!info]+ Biographical Info

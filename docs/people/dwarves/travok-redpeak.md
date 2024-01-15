@@ -9,8 +9,6 @@ ancestry:
 gender: male
 title: Travok Redpeak
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Travok Redpeak
 >[!info]+ Biographical Info  

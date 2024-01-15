@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, start: 1748-08-25, end: '', location: Nardith}
 title: Dworic
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Dworic
 >[!info]+ Biographical Info  

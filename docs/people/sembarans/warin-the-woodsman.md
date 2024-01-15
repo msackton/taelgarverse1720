@@ -10,8 +10,6 @@ gender: male
 whereabouts: Valit
 title: Warin the Woodsman
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Warin the Woodsman
 >[!info]+ Biographical Info

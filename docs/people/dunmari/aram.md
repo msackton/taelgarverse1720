@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, location: Havdar's Warband}
 title: Aram
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Aram
 >[!info]+ Biographical Info
@@ -22,4 +20,4 @@ hide: [toc]
 > 
 >> 
 
-A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>)
+A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in Havdar's service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>)

@@ -17,8 +17,6 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: '', location: Cleenseau}
 title: Izgil Moonseeker
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Izgil Moonseeker
 >[!info]+ Biographical Info

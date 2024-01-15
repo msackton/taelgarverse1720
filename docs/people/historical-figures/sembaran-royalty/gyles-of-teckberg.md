@@ -12,8 +12,6 @@ affiliations:
 - {org: House of Teckberg, type: leader}
 title: Gyles
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Gyles
 >[!info]+ Biographical Info

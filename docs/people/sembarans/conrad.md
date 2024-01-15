@@ -11,8 +11,6 @@ gender: male
 whereabouts: Cleenseau
 title: Conrad
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Conrad
 >[!info]+ Biographical Info

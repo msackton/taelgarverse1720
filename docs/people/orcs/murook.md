@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, location: Nashtkar}
 - {type: home, start: 1724, location: Xurkhaz}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # General Murook
 >[!info]+ Biographical Info  

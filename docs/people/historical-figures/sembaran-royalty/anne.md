@@ -13,8 +13,6 @@ affiliations:
 - {place: Breva, title: Queen, start: 1568}
 title: Anne of Sewick
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Info

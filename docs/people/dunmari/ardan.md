@@ -10,8 +10,6 @@ title: Head Archivist Ardan
 gender: male
 whereabouts: Tokra
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Head Archivist Ardan
 >[!info]+ Biographical Info

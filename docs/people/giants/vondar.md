@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: 1700, location: Amberglow}
 title: Vondar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Vondar
 >[!info]+ Biographical Info  

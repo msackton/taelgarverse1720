@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Tokra}
 title: Kirian
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Kirian
 >[!info]+ Biographical Info

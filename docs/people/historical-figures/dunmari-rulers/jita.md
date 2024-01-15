@@ -18,8 +18,6 @@ whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Info

@@ -13,8 +13,6 @@ affiliations:
 - {place: Tyrwingha, start: 1648-10}
 - {org: House of Sewick, type: primary}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Queen Charlotte II
 >[!info]+ Biographical Info

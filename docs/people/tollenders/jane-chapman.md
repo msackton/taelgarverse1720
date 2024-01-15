@@ -16,8 +16,6 @@ whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Captain Jane Chapman
 >[!info]+ Biographical Info  

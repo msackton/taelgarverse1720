@@ -16,8 +16,6 @@ whereabouts:
 pronunciation: FAHL-thrah
 title: Fallthra Hardstone
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Fallthra Hardstone
 *(FAHL-thrah)*
@@ -30,7 +28,7 @@ hide: [toc]
 
 Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
 ## Relationships:
-- Mother to [Dag Hardstone](<./dag-hardstone.md>)
+- Mother to Dag Hardstone
 - Sister of [Morkral Hardstone](<./morkral-hardstone.md>)
 - Wife of [Delig Hardstone](<./delig-hardstone.md>)
 - Colleague of archivists at the Tokra Archives, including [Govir](<../dunmari/govir.md>) and [Ardan](<../dunmari/ardan.md>)

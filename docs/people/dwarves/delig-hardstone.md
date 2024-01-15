@@ -10,12 +10,10 @@ gender: male
 whereabouts: Tokra
 title: Delig Hardstone
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Delig Hardstone
 >[!info]+ Biographical Info
 > a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
 >> 
 
-Patriach of the Hardstone clan, father to [Dag Hardstone](<./dag-hardstone.md>). 
+Patriach of the Hardstone clan, father to Dag Hardstone. 

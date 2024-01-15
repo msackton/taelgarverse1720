@@ -10,8 +10,6 @@ ancestry: Dunmari
 gender: male
 title: Selkan
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Selkan
 >[!info]+ Biographical Info  

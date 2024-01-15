@@ -10,8 +10,6 @@ whereabouts:
 - {type: home, location: plains north of Tokra}
 title: Saka
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Saka
 >[!info]+ Biographical Info

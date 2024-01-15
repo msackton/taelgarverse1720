@@ -11,8 +11,6 @@ gender: male
 died: 1748
 title: Umber
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Umber
 >[!info]+ Biographical Info  

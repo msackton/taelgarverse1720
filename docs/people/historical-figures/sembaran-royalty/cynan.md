@@ -12,8 +12,6 @@ title: King Cynan
 reignStart: 1571
 died: 1589
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # King Cynan
 >[!info]+ Biographical Info

@@ -12,8 +12,6 @@ affiliations:
 whereabouts: Cleenseau
 title: Colin
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Colin
 >[!info]+ Biographical Info

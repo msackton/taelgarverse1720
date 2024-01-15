@@ -12,8 +12,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Bedez}
 title: Arrosa
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Arrosa
 >[!info]+ Biographical Info  

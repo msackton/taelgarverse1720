@@ -8,8 +8,6 @@ gender: enby
 player: Kiya Nicoll
 title: Izar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Izar
 >[!info]+ Biographical Info

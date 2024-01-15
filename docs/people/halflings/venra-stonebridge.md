@@ -12,8 +12,6 @@ affiliations:
 whereabouts: Cleenseau
 title: Venra Stonebridge
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Venra Stonebridge
 >[!info]+ Biographical Info

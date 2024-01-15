@@ -10,8 +10,6 @@ ancestry:
 gender: male
 title: Emperor Vestian
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Emperor Vestian
 >[!info]+ Biographical Info  

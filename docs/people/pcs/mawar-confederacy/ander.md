@@ -11,8 +11,6 @@ player: David Schwartz
 affiliations:
 title: Ander
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ander
 >[!info]+ Biographical Info  

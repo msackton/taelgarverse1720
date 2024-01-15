@@ -15,8 +15,6 @@ affiliations:
 whereabouts: Emerald Song
 title: Pearl Copperharp
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Pearl Copperharp
 >[!info]+ Biographical Info

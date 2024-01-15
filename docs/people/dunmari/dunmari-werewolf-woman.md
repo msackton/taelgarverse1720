@@ -13,8 +13,6 @@ gender: female
 whereabouts: Tokra
 title: Dunmari Werewolf Woman
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Dunmari Werewolf Woman
 >[!info]+ Biographical Info

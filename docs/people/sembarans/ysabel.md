@@ -15,8 +15,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Ysabel
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ysabel
 >[!info]+ Biographical Info

@@ -8,8 +8,6 @@ ancestry:
 gender: male
 title: Morkral Hardstone
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Morkral Hardstone
 >[!info]+ Biographical Info  

@@ -9,7 +9,5 @@ ancestry:
 gender:
 title: Yerkir-khor
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 

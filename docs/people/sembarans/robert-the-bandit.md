@@ -10,8 +10,6 @@ gender: male
 died: 1719
 title: Robert
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Robert
 >[!info]+ Biographical Info

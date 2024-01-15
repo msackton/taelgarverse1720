@@ -12,8 +12,6 @@ died: 1748-07
 whereabouts: Dwarven Outpost (Raven's Hold)
 title: Inakara
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Inakara
 >[!info]+ Biographical Info  

@@ -10,8 +10,6 @@ aliases: [Queen of the Evening Mist]
 whereabouts: Twilight's Grace
 title: Archfey Ethlenn
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Archfey Ethlenn
 >[!info]+ Biographical Info

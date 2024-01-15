@@ -14,8 +14,6 @@ whereabouts:
 - {type: home, start: 1547-01-01, end: '', location: Tharn Todor}
 title: Eberk Brawnanvil
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Eberk Brawnanvil
 >[!info]+ Biographical Info

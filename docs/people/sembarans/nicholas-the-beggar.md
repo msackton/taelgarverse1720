@@ -15,8 +15,6 @@ whereabouts:
 - {type: away, start: 1719-10-14, end: 1719-10-30, location: Cleenseau Wood}
 title: Nicholas the Beggar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Nicholas the Beggar
 >[!info]+ Biographical Info

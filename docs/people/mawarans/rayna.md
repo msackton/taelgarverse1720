@@ -10,8 +10,6 @@ ancestry: Mawaran
 gender: female
 title: Rayna
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Rayna
 >[!info]+ Biographical Info  

@@ -9,8 +9,6 @@ whereabouts: Erelion
 gender: male
 pronunciation: erd-HEEN
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Caretaker Erdhin
 *(erd-HEEN)*

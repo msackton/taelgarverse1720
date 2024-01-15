@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 title: Chenna Goodbarrel
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Chenna Goodbarrel
 >[!info]+ Biographical Info

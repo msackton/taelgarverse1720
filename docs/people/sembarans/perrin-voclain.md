@@ -13,8 +13,6 @@ whereabouts:
 - {type: away, start: 1719-10-21, end: 1719-10-26, location: Valit}
 title: Perrin Voclain
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Perrin Voclain
 >[!info]+ Biographical Info

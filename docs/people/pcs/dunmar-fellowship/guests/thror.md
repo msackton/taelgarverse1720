@@ -11,8 +11,6 @@ gender:
 player:
 title: Thror
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Thror
 >[!info]+ Biographical Info  

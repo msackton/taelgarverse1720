@@ -14,8 +14,6 @@ affiliations:
 - {place: Duchy of Telham, title: Duke, start: 1429}
 title: King Derik I
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # King Derik I
 >[!info]+ Biographical Info

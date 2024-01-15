@@ -15,8 +15,6 @@ whereabouts:
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
 title: Lyle Greenleaf
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lyle Greenleaf
 >[!info]+ Biographical Info

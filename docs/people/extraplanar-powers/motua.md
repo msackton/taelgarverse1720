@@ -14,8 +14,6 @@ whereabouts:
 pronunciation: moh-TOO-ah
 title: Motua
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Motua
 *(moh-TOO-ah)*

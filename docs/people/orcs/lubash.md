@@ -13,8 +13,6 @@ title: Chief Lubash
 affiliations: [People of the Rainbow]
 whereabouts: Uzgukhar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Chief Lubash
 >[!info]+ Biographical Info
@@ -33,7 +31,7 @@ Chief Lubash ascended to the throne of [Xurkhaz](<../../gazetteer/istaros-waters
 Lubash has a pale green complexion and is bald. His features are striking, characterized by a long, stern face and a notably large nose.
 ## Relationships
 
-- **[Uzgul](<./uzgul.md>)**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of [Uzgul](<./uzgul.md>) since his sister passed away due to sickness when [Uzgul](<./uzgul.md>) was young.
+- **Uzgul**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of Uzgul since his sister passed away due to sickness when Uzgul was young.
 - **[Murook](<./murook.md>)**: Lubash's chief general and confidante. 
 - **[Azogar](<./azogar.md>)**: Lubash's loremaster and confidante. 
 ## Events

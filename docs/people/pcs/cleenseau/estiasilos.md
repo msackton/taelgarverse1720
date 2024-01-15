@@ -5,8 +5,6 @@ name: Es\*tiasilos
 aliases: [Es*tiasilos]
 title: Es\*tiasilos
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Es\*tiasilos
 

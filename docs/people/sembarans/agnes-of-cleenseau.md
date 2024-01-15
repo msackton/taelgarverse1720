@@ -16,8 +16,6 @@ whereabouts:
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
 title: Agnés of Cleenseau
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Agnés of Cleenseau
 >[!info]+ Biographical Info

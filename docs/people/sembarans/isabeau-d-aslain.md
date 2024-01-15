@@ -13,8 +13,6 @@ whereabouts:
 affiliations:
 - {org: Barony of Aveil, start: 1719-04, type: leader}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info

@@ -9,8 +9,6 @@ gender: male
 died: 1674
 title: Cedric Cyfenwid
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Cedric Cyfenwid
 >[!info]+ Biographical Info  

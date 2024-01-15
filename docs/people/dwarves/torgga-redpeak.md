@@ -11,8 +11,6 @@ affiliations:
 gender: female
 title: Torgga Redpeak
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Torgga Redpeak
 >[!info]+ Biographical Info  

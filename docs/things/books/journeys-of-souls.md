@@ -5,8 +5,6 @@ typeOf: book
 name: Journey of the Souls
 title: Journey of the Souls
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # The Journey of the Souls
 >[!info]+ Information

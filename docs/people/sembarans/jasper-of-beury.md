@@ -13,8 +13,6 @@ whereabouts:
 - {type: away, location: Cleenseau, start: 1719-11-28, end: 1719-12-11}
 title: Jasper
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Jasper
 >[!info]+ Biographical Info  

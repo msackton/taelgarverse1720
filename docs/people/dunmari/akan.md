@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1748-06-15, end: 1748-06-22, location: Karawa}
 title: Akan
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Akan
 >[!info]+ Biographical Info

@@ -13,8 +13,6 @@ whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary}
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Info

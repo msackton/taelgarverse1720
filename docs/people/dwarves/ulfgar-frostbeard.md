@@ -12,8 +12,6 @@ affiliations: [Faculty of Metaphysics, University of Chardon, Society of the Ope
 whereabouts: Chardon
 title: Ulfgar Frostbeard
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ulfgar Frostbeard
 >[!info]+ Biographical Info

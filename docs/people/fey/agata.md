@@ -18,8 +18,6 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
 title: Agata Dustmother
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Agata Dustmother
 >[!info]+ Biographical Info
@@ -49,7 +47,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 
 ## **Other Notes**
 
-- Agata possessed a magical substance called living wood, that she used to turn her victims into wooden puppets and worse. [Jumi](<../dunmari/jumi.md>), [Cintra](<../dunmari/cintra.md>)'s daughter, was in the process of being turned into a wooden mannequin when she was rescued by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in  May 1748. Also freed were:
+- Agata possessed a magical substance called living wood, that she used to turn her victims into wooden puppets and worse. Jumi, [Cintra](<../dunmari/cintra.md>)'s daughter, was in the process of being turned into a wooden mannequin when she was rescued by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in  May 1748. Also freed were:
 	- [Garret Tealeaf](<../halflings/garret-tealeaf.md>), who had been forced into Agata's service as a wooden scarecrow before being turned back by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2, 1748
 	- [Shandar](<../dunmari/shandar.md>), an old man who had been trapped as a table for decades, freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 4, 1748
 	- [Kaya](<../dunmari/kaya.md>), a Dunmari woman who had been trapped as a chair for decades, freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 8, 1748

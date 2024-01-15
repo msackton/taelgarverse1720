@@ -15,8 +15,6 @@ whereabouts:
 - {type: away, location: Army Garrison of Cleenseau}
 title: Ancer Benthey
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Ancer Benthey
 >[!info]+ Biographical Info

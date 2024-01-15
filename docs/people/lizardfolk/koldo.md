@@ -9,8 +9,6 @@ gender: male
 whereabouts: Ganboa
 title: Koldo
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Koldo
 >[!info]+ Biographical Info

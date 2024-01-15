@@ -10,8 +10,6 @@ player: Mike Sackton
 affiliations:
 title: Caulaus
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Caulaus
 >[!info]+ Biographical Info  

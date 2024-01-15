@@ -13,8 +13,6 @@ whereabouts:
 - {type: home, start: '', end: 1730, location: Darakan}
 title: Frankar
 hide_toc: true
-hide_backlinks: true
-hide: [toc]
 ---
 # Frankar
 >[!info]+ Biographical Info
