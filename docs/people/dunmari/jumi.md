@@ -19,4 +19,4 @@ hide: [toc]
 > 
 >> 
 
-[Cintra](<./cintra.md>)'s daughter. Kidnapped by [Agata](<../fey/agata.md>) and partially turned to wood, but freed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in [Session 29 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-29-dufr.md>). 
+[Cintra](<./cintra.md>)'s daughter. Kidnapped by [Agata](<../fey/agata.md>) and partially turned to wood, but freed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in Session 29 (DuFr). 

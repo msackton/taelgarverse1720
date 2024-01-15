@@ -10,7 +10,7 @@ title: Arryn’s Tower
 ---
 # Arryn’s Tower
 >[!info]+ Information
-> A tower in the [~Eastern Islands~](<./eastern-islands.md>)
+> A tower in the ~Eastern Islands~
 
 
 

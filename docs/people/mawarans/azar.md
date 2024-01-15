@@ -16,4 +16,4 @@ hide: [toc]
 >[!info]+ Biographical Info  
 > A [human](<../../species/humans/humans.md>) (he/him)
 
-See: [Azar's Tale](<../../campaigns/mawar-confederacy/notes/azar-s-tale.md>)
+See: Azar's Tale

@@ -25,4 +25,4 @@ hide: [toc]
 
 An adventurer, working for the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
 
-Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>) back to [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).
+Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought Hralgar's Eyes and the Binding Stones back to [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).

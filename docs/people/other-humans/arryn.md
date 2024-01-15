@@ -21,6 +21,6 @@ hide: [toc]
 > A [human](<../../species/humans/humans.md>) (he/him)  
 >> 
 
-A wizard of significant power, originally from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>); dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) in particular. Freed from the [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>), [Alimash](<../pcs/dunmar-fellowship/guests/alimash.md>), and [Shoal](<../pcs/dunmar-fellowship/guests/shoal.md>) during [Wellby's adventures in the eastern Green Sea](<../../campaigns/dunmari-frontier/session-notes/session-57-58-dufr.md>)
+A wizard of significant power, originally from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>); dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) in particular. Freed from the [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>), [Alimash](<../pcs/dunmar-fellowship/guests/alimash.md>), and [Shoal](<../pcs/dunmar-fellowship/guests/shoal.md>) during Wellby's adventures in the eastern Green Sea
 
 ![Arryn The Wanderer Portrait](../../assets/arryn-the-wanderer-portrait.png){width="500"}

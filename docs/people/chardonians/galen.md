@@ -22,6 +22,6 @@ hide: [toc]
 
 A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/ulfgar-frostbeard.md>), and member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>). 
 
-Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. The party saw a lecture in [Session 49 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-49-dufr.md>). 
+Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. The party saw a lecture in Session 49 (DuFr). 
 
-Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in [Session 49 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-49-dufr.md>). 
+Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in Session 49 (DuFr). 

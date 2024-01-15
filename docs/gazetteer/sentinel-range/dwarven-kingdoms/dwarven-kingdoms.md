@@ -17,7 +17,7 @@ In the far south, south of [Urlich Pass](<../urlich-pass.md>), is [Ardith](<./ar
 ## [Khatridun](<./khatridun.md>)
 _Labeled DK2 on the map_
 
-North of [Ardith](<./ardith.md>) is the kingdom of [Khatridun](<./khatridun.md>), centered on the great city of [~DwCity1~](<./dwcity1.md>), one of the oldest Dwarven cities in the world during the Drankorian Era. During the [Great War](<../../../events/1500s/great-war.md>), [Khatridun](<./khatridun.md>) was devastated, and [~DwCity1~](<./dwcity1.md>) was destroyed. Now, a remnant of this ancient kingdom survives on the border of [Sembara](<../../greater-sembara/sembara/sembara.md>). Once rich and prosperous on the trade between [Sembara](<../../greater-sembara/sembara/sembara.md>) and [Chardon](<../../west-coast/chardonian-empire/chardon/chardon.md>), [Khatridun](<./khatridun.md>) now looks inward to Dwarven history and the legends of the past.  
+North of [Ardith](<./ardith.md>) is the kingdom of [Khatridun](<./khatridun.md>), centered on the great city of ~DwCity1~, one of the oldest Dwarven cities in the world during the Drankorian Era. During the [Great War](<../../../events/1500s/great-war.md>), [Khatridun](<./khatridun.md>) was devastated, and ~DwCity1~ was destroyed. Now, a remnant of this ancient kingdom survives on the border of [Sembara](<../../greater-sembara/sembara/sembara.md>). Once rich and prosperous on the trade between [Sembara](<../../greater-sembara/sembara/sembara.md>) and [Chardon](<../../west-coast/chardonian-empire/chardon/chardon.md>), [Khatridun](<./khatridun.md>) now looks inward to Dwarven history and the legends of the past.  
 
 ## [Am'khazar](<./am-khazar.md>)
 _Labeled DK3 on the map_

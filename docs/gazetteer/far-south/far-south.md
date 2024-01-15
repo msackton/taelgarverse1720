@@ -18,8 +18,8 @@ Largely untouched by the [Great War](<../../events/1500s/great-war.md>), the lan
 
 ## Boundaries
 
-- To the north, this region is bordered by the northern edge of the [~Great Desert~](<./great-desert.md>).
-- To the east, this region is bordered by the [~Eastern Ocean~](<../eastern-ocean.md>).
+- To the north, this region is bordered by the northern edge of the ~Great Desert~.
+- To the east, this region is bordered by the ~Eastern Ocean~.
 - To the west, this region is bordered by the eastern edge of the [Sea of Storms](<../greater-dunmar/sea-of-storms.md>) and the hills and badlands that mark the eastern edge of the [Istaros Watershed](<../istaros-watershed/istaros-watershed.md>)
 
 Little is known about the southern reaches of this region.
@@ -28,7 +28,7 @@ Little is known about the southern reaches of this region.
 
 This region is shrouded in mystery, and only a few features are rumored. 
 
-- [~Great Desert~](<./great-desert.md>): *A vast desert, analogous to something like the Sahara.*
+- ~Great Desert~: *A vast desert, analogous to something like the Sahara.*
 - [Orekatu](<./orekatu.md>): *Lizardfolk jungle from Kenzo solo, described as analogous to something like Panama, generally tropical jungle of some kind.*
 
 ## Climate

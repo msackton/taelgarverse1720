@@ -23,7 +23,7 @@ hide: [toc]
 
 The Queen of Sunset was once the ruler of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
-Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>): ^97cec2
+Her memories opened Session 61 (DuFr): ^97cec2
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 

@@ -17,16 +17,16 @@ The Istaros is a major river that flows several thousand miles from its source i
 
 The source of the Istaros is [Lake Aeulian](<./lake-aeulian.md>), which in turn is fed by the [Ardonne](<./ardonne.md>) and the [Valmont](<./valmont.md>), which flow from the Sentinels and the Mostreve Hills, respectively. Here, the Istaros once flowed through riparian forests and scenic river valleys dotted with productive agricultural villages and minor tributaries. Now, this land is cursed, and few dare venture through the now-haunted, ash-choked landscape. 
 
-Near [Isingue](<../isingue.md>), the Istaros is joined by the [~Orenlas Tributary~](<./orenlas-tributary.md>), a major tributary from the east. The waters at this confluence were long known to be magically blessed, giving exceptional fertility to the soils of this land, which was the culturally and mystical center of the [Istabor Alliance](<../../../history/istabor-alliance.md>). Now, the city of Isingue is ruined, consumed by the Cha'mutte's Plague, and the fate of the life-giving magic of the land is unknown. 
+Near [Isingue](<../isingue.md>), the Istaros is joined by the ~Orenlas Tributary~, a major tributary from the east. The waters at this confluence were long known to be magically blessed, giving exceptional fertility to the soils of this land, which was the culturally and mystical center of the [Istabor Alliance](<../../../history/istabor-alliance.md>). Now, the city of Isingue is ruined, consumed by the Cha'mutte's Plague, and the fate of the life-giving magic of the land is unknown. 
 
-The upper Istaros ends a hundred miles or so south of Isingue, at the confluence of with the [~Southern Plaguelands Tributary~](<./southern-plaguelands-tributary.md>), where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
+The upper Istaros ends a hundred miles or so south of Isingue, at the confluence of with the ~Southern Plaguelands Tributary~, where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
 
 
 ## Middle Istaros
 
-The Middle Istaros, known as the Drogar to the orcs of Xurkhaz, starts just south of the confluence with the [~Southern Plaguelands Tributary~](<./southern-plaguelands-tributary.md>), among the rocky hills of the southern Plaguelands. The river flows through a series of gorges cut into the uplifted land, with several dramatic waterfalls created during the cataclysm after the Great War. 
+The Middle Istaros, known as the Drogar to the orcs of Xurkhaz, starts just south of the confluence with the ~Southern Plaguelands Tributary~, among the rocky hills of the southern Plaguelands. The river flows through a series of gorges cut into the uplifted land, with several dramatic waterfalls created during the cataclysm after the Great War. 
 
-Here, the Istaros forms the eastern border of the [Xurkhaz](<../xurkhaz/xurkhaz.md>), as it enters a rocky desert for a hundred miles before spilling onto the flat arid landscape of the eastern Garamjala. Here, the river makes a wide bend around the Garamjala Plateau, before turning southwest and joining the [~Eastern Mountain Tributary~](<./eastern-mountain-tributary.md>). This is the section of the Istaros known as the Mahar to the Dunmari. 
+Here, the Istaros forms the eastern border of the [Xurkhaz](<../xurkhaz/xurkhaz.md>), as it enters a rocky desert for a hundred miles before spilling onto the flat arid landscape of the eastern Garamjala. Here, the river makes a wide bend around the Garamjala Plateau, before turning southwest and joining the ~Eastern Mountain Tributary~. This is the section of the Istaros known as the Mahar to the Dunmari. 
 ## Lower Istaros
 
 Once, the Istaros joined the Hara, forming a broad river that flowed past the famous city of Drankor, the center of the Drankorian Empire. Now, none know what remains of the lower Istaros, or if the Hara even still reaches the Istaros. 

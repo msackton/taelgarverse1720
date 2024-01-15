@@ -27,5 +27,5 @@ A centaur, the leader of a herd who the party met traveling across the northern 
 
 ![Tharandros](../../assets/tharandros.png){width="500"}
 
-Left to travel north in [Session 29 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-29-dufr.md>), around 1 June 1748. 
+Left to travel north in Session 29 (DuFr), around 1 June 1748. 
 

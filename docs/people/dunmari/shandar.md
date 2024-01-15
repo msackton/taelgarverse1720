@@ -16,5 +16,5 @@ hide: [toc]
 >[!info]+ Biographical Info  
 > A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
 
-An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in [Session 30 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>).
+An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in Session 30 (DuFr).
 

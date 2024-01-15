@@ -14,7 +14,7 @@ title: Agata's Lair
 > 
 >> 
 
-The home of the hag [Agata](<../../../people/fey/agata.md>) Dustmother. Looted, but not destroyed, by the party in [Session 30 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>)
+The home of the hag [Agata](<../../../people/fey/agata.md>) Dustmother. Looted, but not destroyed, by the party in Session 30 (DuFr)
 
 ### Description
 

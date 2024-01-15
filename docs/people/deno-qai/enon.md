@@ -21,6 +21,6 @@ hide: [toc]
 > 
 >> 
 
-Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his [Deno'qai Scale Mail](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and [Deno'qai Lynx Shield](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier/session-notes/session-51-52-dufr.md>)
+Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his Deno'qai Scale Mail and Deno'qai Lynx Shield prior to Delwath's solo adventure to free the Meswati.
 
 

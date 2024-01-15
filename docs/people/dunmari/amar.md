@@ -23,4 +23,4 @@ hide: [toc]
 
 The innkeeper of a caravanserai on the road from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), near the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). 
 
-His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) on 19 July 1748, and recorded: [Amar's Story](<../../campaigns/dunmari-frontier/collected-stories/amar-s-story.md>).
+His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) on 19 July 1748, and recorded: Amar's Story.
