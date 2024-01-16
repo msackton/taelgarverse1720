@@ -12,10 +12,11 @@ whereabouts:
 title: Praznitsky
 ---
 # Praznitsky
-*(PRAZ-niht-skee)*
->[!info]+ Information
-> 
->> 
+:speaker:{ .middle } *(PRAZ-niht-skee)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 Praznitsky is a mysterious city on the north coast of the [Eastern Green Sea](<../eastern-green-sea/eastern-green-sea.md>), and one of the few ports where foreigners are allowed to trade in the country of [Ursk](<./ursk.md>). 
 

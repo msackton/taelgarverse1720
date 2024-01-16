@@ -13,9 +13,12 @@ title: Samuel
 hide_toc: true
 ---
 # Samuel
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A kitchen boy in [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), witnessed the birth of [Viepuck's](<../pcs/cleenseau/viepuck.md>) familar.

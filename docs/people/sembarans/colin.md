@@ -14,8 +14,11 @@ title: Colin
 hide_toc: true
 ---
 # Colin
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 

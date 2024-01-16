@@ -19,12 +19,15 @@ title: Elwis
 hide_toc: true
 ---
 # Elwis
-*(EL-wiss)*
->[!info]+ Biographical Info  
-> An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 37)  
->   
->>   
->> 
+:speaker:{ .middle } *(EL-wiss)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. 
 

@@ -16,10 +16,15 @@ whereabouts:
 - {type: away, start: 1060}
 hide_toc: true
 ---
-# Emperor Apollyon
->[!info]+ Biographical Info
-> lich ([undead](<../../../species/children-of-the-embodied-gods/undead.md>)), he/him
->> 
+# The Emperor Apollyon
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    lich ([undead](<../../../species/children-of-the-embodied-gods/undead.md>)), he/him  
+    { .bio }
+
+</div>
+
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>), and perhaps other artifacts of power. Was a very successful general and commander. 
 

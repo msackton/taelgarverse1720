@@ -14,15 +14,17 @@
     "export_date": "1720-01-12",
     "fix_links": true,
     "strip_comments": true,
+    "clean_inline_tags" : true,
     "slugify": true,
     "clean_build": true,    
-    "keep_only_rooted": false,
     "hide_toc_tags": ["person", "item"],
     "hide_backlinks_tags": [],
     "exclude_tildes": true,
     "abs_path_root": "/taelgarverse1720/",
     "ignore_file": "excludes.txt",
-    "delete_unlinked_images": false,
-    "resize_images": false,
-    "obsidian_vault_id": "91b5140a7ac9885f"
+    "delete_unlinked_images": true,
+    "resize_images": true,
+    "obsidian_vault_id": "91b5140a7ac9885f",
+    "unnamed_files": "skip",
+    "stub_files": "skip"
 }

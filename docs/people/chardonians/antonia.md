@@ -20,13 +20,15 @@ title: Antonia
 hide_toc: true
 ---
 # Antonia
-*(An-ton-ia)*
->[!info]+ Biographical Info  
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
->   
->   
->>   
->> 
+:speaker:{ .middle } *(An-ton-ia)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 ![Antonia Portrait](../../assets/antonia-portrait.png){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 

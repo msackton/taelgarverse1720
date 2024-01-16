@@ -19,10 +19,13 @@ died: 1559
 title: Jane of Tollen
 hide_toc: true
 ---
-# Jane of Tollen
->[!info]+ Biographical Info  
-> A [Tollender](<../../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../../species/humans/humans.md>) (she/her)  
->   
-> 
+# The Jane of Tollen
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The second wife of [Derik III](<./derik-iii.md>), from a powerful and rich merchant family in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).

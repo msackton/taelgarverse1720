@@ -15,12 +15,14 @@ whereabouts:
 title: Raoul Bûcheron
 hide_toc: true
 ---
-# Raoul Bûcheron
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+# The Raoul Bûcheron
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. 
 

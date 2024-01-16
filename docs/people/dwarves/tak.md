@@ -14,8 +14,12 @@ title: Tak
 hide_toc: true
 ---
 # Tak
->[!info]+ Biographical Info  
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A young dwarf, living in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) but hoping for something better and wondering about the lives of dwarves outside [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), even before he knew such dwarves existed. 

@@ -16,13 +16,18 @@ affiliations:
 whereabouts: Cleenseau
 hide_toc: true
 ---
-# Lord Wymar Essford
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of Essords
-> 
-> 
->> 
->>  Roused by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) 
+# The Lord Wymar Essford
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle }   
+
 
 The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<./rosalind-essford.md>) and [Rinault Essford](<./rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 

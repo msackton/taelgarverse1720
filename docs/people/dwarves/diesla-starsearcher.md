@@ -14,10 +14,13 @@ whereabouts:
 title: Diesla Starsearcher
 hide_toc: true
 ---
-# Diesla Starsearcher
->[!info]+ Biographical Info  
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
->   
->> 
+# The Diesla Starsearcher
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 [Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.

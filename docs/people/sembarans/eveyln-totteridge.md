@@ -16,11 +16,13 @@ whereabouts:
 - {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
 hide_toc: true
 ---
-# Sergeant Eveyln Totteridge
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>), she/her
-> 
-> 
->> 
+# The Sergeant Eveyln Totteridge
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The sergeant of the [River Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.

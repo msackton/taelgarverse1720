@@ -14,10 +14,12 @@ died: 991
 whereabouts: Drankor
 hide_toc: true
 ---
-# Emperor Akaston
->[!info]+ Biographical Info
-> A Hkaran [human](<../../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+# The Emperor Akaston
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 

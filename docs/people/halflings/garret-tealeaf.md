@@ -23,14 +23,16 @@ whereabouts:
 title: Garret Tealeaf
 hide_toc: true
 ---
-# Garret Tealeaf
->[!info]+ Biographical Info
-> a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>), he/him of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)
-> 
-> 
->> 
->> 
->> 
+# The Garret Tealeaf
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
 
 Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to Songara, Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 

@@ -9,9 +9,11 @@ timelineDescriptor: University of Chardon
 title: University of Chardon
 ---
 # The University of Chardon
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-   :octicons-location-24:{ .lg .middle }   
+    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [Precinct IV](<./precinct-iv.md>) in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [Great Library](<./great-library.md>), as well as the [Hetaeri Magica](<../../../../groups/hetaeri-magica.md>) and the [Society of the Open Scroll](<../../../../groups/society-of-the-open-scroll.md>), but has its own independent rules and governance. 
 

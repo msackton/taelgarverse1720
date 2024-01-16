@@ -14,9 +14,12 @@ title: Kaslan
 hide_toc: true
 ---
 # Kaslan
->[!info]+ Biographical Info  
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Experienced in woodcraft; leader of the hunting camp [Delwath](<../pcs/dunmar-fellowship/delwath.md>) first found after arriving in the north. 

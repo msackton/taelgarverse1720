@@ -16,10 +16,13 @@ affiliations:
 title: Arryn III
 hide_toc: true
 ---
-# Arryn III
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)
-> 
-> 
+# The Arryn III
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The king of Sembara in the 1740s, he is a quiet ruler and has largely maintained the peace and prosperity of his mother, [Elaine II](<./elaine-ii.md>). He came to the throne in DR 1745 on her death.

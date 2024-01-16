@@ -14,10 +14,13 @@ title: Asuddha
 hide_toc: true
 ---
 # Asuddha
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A warrior and battle commander of the Dunmari during the [The Founding of Dunmar](<../../primary-sources/the-founding-of-dunmar.md>). The brother of [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). Known for leading the first army of the Dunmari, that swept across the land renewed by Jeevali's sacrifice, claiming it for to be their own kingdom. 
 

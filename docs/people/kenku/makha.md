@@ -14,12 +14,15 @@ title: Makha
 hide_toc: true
 ---
 # Makha
-*(MAH-kah)*
->[!info]+ Biographical Info
-> An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>), he/him
-> 
->> 
->> 
+:speaker:{ .middle } *(MAH-kah)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
 

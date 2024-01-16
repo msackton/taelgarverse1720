@@ -11,10 +11,6 @@ whereabouts:
 title: Army Garrison of Cleenseau
 ---
 # The Army Garrison of Cleenseau
->[!info]+ Information
-> 
-> a garrison of the [Dunfry Regiment](<./dunfry-regiment.md>), the [Army of the West](<./army-of-the-west.md>), the [Sembaran Army](<./sembaran-army.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
->> 
 
 The Cleenseau Garrison is the furthest east-most garrison of the [Army of the West](<./army-of-the-west.md>). It is commanded by [Captain Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>) and consists of two patrols:
 

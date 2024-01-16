@@ -11,9 +11,10 @@ partOf: Tokra
 title: The Iron Swan
 ---
 # The Iron Swan
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 A dwarven tavern, towards the northern part of town, in the (small) dwarven quarters behind the [Archives](<./archives.md>). Has a few rooms reserved for traveling dwarves; otherwise, exclusively a tavern. Dark, cramped, interior, but serves great beer. Run by [Vistra Fireforge](<../../../../../../people/dwarves/vistra-fireforge.md>), a retired mercenary / adventurer. 
 

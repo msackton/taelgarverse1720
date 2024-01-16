@@ -10,10 +10,13 @@ whereabouts: Embry
 title: Susanne Garay
 hide_toc: true
 ---
-# Susanne Garay
->[!info]+ Biographical Info  
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
->   
->> 
+# The Susanne Garay
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A wealthy cloth merchant from [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), she sponsors many causes including the [Lord Mayor’s Workhouse](<../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>), an orphanage. 

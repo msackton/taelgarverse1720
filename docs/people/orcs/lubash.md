@@ -14,13 +14,15 @@ affiliations: [People of the Rainbow]
 whereabouts: Uzgukhar
 hide_toc: true
 ---
-# Chief Lubash
->[!info]+ Biographical Info
-> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him)
-> 
-> 
->> 
->> 
+# The Chief Lubash
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 Chief Lubash is the stern and protective ruler of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and by extension the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He is also the bearer of the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>).  Lubash holds immense pride for his kingdom, [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and resides in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>).
 ## Overview

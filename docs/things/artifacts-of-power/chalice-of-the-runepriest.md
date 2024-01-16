@@ -16,11 +16,11 @@ title: Chalice of the Runepriest
 hide_toc: true
 ---
 # The Chalice of the Runepriest
->[!info]+ Information
-> (unique chalice)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Chalice__  
+   in DR 1547 by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) (173 years ago)  
+</div>
+
 
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
 

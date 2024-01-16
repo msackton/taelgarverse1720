@@ -16,10 +16,13 @@ title: Morgaine
 hide_toc: true
 ---
 # Morgaine
->[!info]+ Biographical Info
-> A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>), she/her of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)
-> 
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 One of the founders of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), originally an [Oracle of the Riven](<../../../groups/oracle-of-the-riven.md>).
 

@@ -17,11 +17,14 @@ leaderOf:
 affiliations: [House of Sewick]
 hide_toc: true
 ---
-# Queen Blanche II
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her)
-> 
-> 
+# The Queen Blanche II
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The second child of [Elaine I](<./elaine-i.md>) and [Cynan](<./cynan.md>). Her son, [Arryn II](<./arryn-ii.md>), succeeds her to the united crowns.
 

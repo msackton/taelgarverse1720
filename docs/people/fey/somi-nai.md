@@ -14,9 +14,13 @@ title: Somi-nai
 hide_toc: true
 ---
 # Somi-nai
->[!info]+ Biographical Info  
-> An [elemental](<../../species/children-of-the-divine/elementals.md>) ([fire elemental](<../../species/children-of-the-divine/elementals.md>)) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Somi-nai, also known as Ember, or Sugarra among the [Lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>), stands as the personification of the volcanic essence and a spirit of the encompassing jungle.
 ## Overview

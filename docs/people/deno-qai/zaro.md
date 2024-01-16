@@ -14,8 +14,12 @@ title: Zaro
 hide_toc: true
 ---
 # Zaro
->[!info]+ Biographical Info  
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The chief of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>) village, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>). 

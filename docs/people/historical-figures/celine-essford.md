@@ -10,9 +10,13 @@ died: 1699
 title: Celine Essford
 hide_toc: true
 ---
-# Celine Essford
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
+# The Celine Essford
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The wife of [Reginald Essford](<./reginald-essford.md>) and mother of [Wymar Essford](<../sembarans/wymar-essford.md>).

@@ -18,11 +18,14 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-# Queen Charlotte I
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
-> 
-> 
+# The Queen Charlotte I
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 An early ruler of Sembara, of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). She ruled from the death of her father, [Derik II](<./derik-ii.md>),  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [Derik III](<./derik-iii.md>), who succeeded her to the throne, and for the [Highland Kingdoms](<../../../gazetteer/greater-sembara/zimkovia/zimkovia.md>) accepting her overlordship.
 

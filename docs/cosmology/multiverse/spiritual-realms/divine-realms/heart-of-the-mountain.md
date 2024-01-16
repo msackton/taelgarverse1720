@@ -1,13 +1,15 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 partOf: Divine Realms
 typeOf: plane
 title: Heart of the Mountain
 ---
 # The Heart of the Mountain
->[!info]+ Information
-> A plane in the [Divine Realms](<./divine-realms.md>), the [Spiritual Realms](<../spiritual-realms.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 The divine realm of the [Bahrazel](<../../../gods/embodied-gods/bahrazel.md>). 
 

@@ -14,11 +14,14 @@ title: Cirdore
 hide_toc: true
 ---
 # Cirdore
-*(KEER-doh-reh)*
->[!info]+ Biographical Info  
-> An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 37)  
->   
->>   
->> 
+:speaker:{ .middle } *(KEER-doh-reh)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 A poet and historian, curious to speak with outsiders. Young, and not confident in his talents yet.

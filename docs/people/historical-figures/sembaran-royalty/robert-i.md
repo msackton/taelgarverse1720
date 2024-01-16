@@ -13,11 +13,14 @@ affiliations:
 - {place: Sembara, start: 1713-09-12}
 hide_toc: true
 ---
-# King Robert I
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
-> 
-> 
+# The King Robert I
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A ruler of Sembara, son of [Cece I](<./cece-i.md>).  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [Elaine II](<./elaine-ii.md>). 
 

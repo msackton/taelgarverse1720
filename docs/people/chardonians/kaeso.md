@@ -21,12 +21,14 @@ title: Kaeso
 hide_toc: true
 ---
 # Kaeso
->[!info]+ Biographical Info
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<./roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 

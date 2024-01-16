@@ -14,10 +14,13 @@ title: Gentza
 hide_toc: true
 ---
 # Gentza
->[!info]+ Biographical Info
-> A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies.
 

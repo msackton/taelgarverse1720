@@ -18,15 +18,17 @@ whereabouts:
 title: Wendel Quickstep
 hide_toc: true
 ---
-# Wendel Quickstep
->[!info]+ Biographical Info
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Quicksteps](<../../groups/halfling-families/quicksteps.md>)
-> 
-> 
->> 
->> 
->> 
->> 
+# The Wendel Quickstep
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
+
 
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in Fiskurth. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships

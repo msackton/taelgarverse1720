@@ -17,13 +17,15 @@ whereabouts:
 title: Guy Marchand
 hide_toc: true
 ---
-# Guy Marchand
->[!info]+ Biographical Info
-> An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
->> 
+# The Guy Marchand
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 Guy Marchand is a mapmaker from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), known for his meticulous craftsmanship and his thriving shop in Nordgate.
 ## Overview

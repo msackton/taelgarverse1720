@@ -12,9 +12,13 @@ title: Eudomes
 hide_toc: true
 ---
 # Eudomes
->[!info]+ Biographical Info
-> A [Drankorian](<../../history/drankorian-era/drankorian-empire.md>) [human](<../../species/humans/humans.md>), he/him
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A wizard from the last days of the [Drankorian Empire](<../../history/drankorian-era/drankorian-empire.md>). Trapped the storm giant [Hralgar](<../giants/hralgar.md>) using powerful magic. 
 

@@ -14,11 +14,13 @@ title: Basu
 hide_toc: true
 ---
 # Basu
->[!info]+ Biographical Info  
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
->   
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 

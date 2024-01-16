@@ -14,10 +14,13 @@ title: Inakara
 hide_toc: true
 ---
 # Inakara
->[!info]+ Biographical Info  
-> A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A mad twisted creature and sorcerer living in the old [dwarven outpost](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) near Raven's Hold. 
 

@@ -8,9 +8,6 @@ typeOf: adventuring party
 title: Heroes of Cleenseau
 ---
 # The Heroes of Cleenseau
->[!info]+ Information
-> An adventuring party
-> 
 
 A group of four fate-blown adventures who met in [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) during the [First Spider Attack on Tavoise](<../../../events/1700s/1719/10/first-spider-attack-on-tavoise.md>). Since then, have become well-known in the region. 
 

@@ -8,9 +8,10 @@ whereabouts: Monastery of Bhishma
 title: Hall of Stories
 ---
 # The Hall of Stories
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 The Hall of Stories is a a large structure, part of the [Monastery of Bhishma](<./monastery-of-bhishma.md>), that houses the stories of the Dunmari. 
 

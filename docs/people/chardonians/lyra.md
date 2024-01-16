@@ -20,13 +20,15 @@ title: Lyra
 hide_toc: true
 ---
 # Lyra
->[!info]+ Biographical Info
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
-> 
->> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>).
 

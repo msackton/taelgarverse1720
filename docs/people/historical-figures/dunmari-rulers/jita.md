@@ -19,12 +19,14 @@ whereabouts:
 - {type: home, location: Tokra}
 hide_toc: true
 ---
-# Samraat Dharajun Jita
->[!info]+ Biographical Info
-> A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (she/her)
-> 
-> 
->> 
+# The Samraat Dharajun Jita
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya](<../../../cosmology/gods/incorporeal-gods/dunmari/chidya.md>) and often called the dynasty of the horse. 
 

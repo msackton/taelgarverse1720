@@ -10,8 +10,12 @@ gender: male
 pronunciation: erd-HEEN
 hide_toc: true
 ---
-# Caretaker Erdhin
-*(erd-HEEN)*
->[!info]+ Biographical Info  
-> An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) unknown)  
->> 
+# The Caretaker Erdhin
+:speaker:{ .middle } *(erd-HEEN)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+

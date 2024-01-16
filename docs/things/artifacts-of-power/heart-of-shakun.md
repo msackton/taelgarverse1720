@@ -9,10 +9,11 @@ title: Heart of Shakun
 hide_toc: true
 ---
 # The Heart of Shakun
->[!info]+ Information  
-> (unique wonderous item)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Wonderous Item__  
+     
+</div>
+
 
 A rough hewn ochre stone heart, a focus for [Shakun](<../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>)'s power in the mortal realm. 
 

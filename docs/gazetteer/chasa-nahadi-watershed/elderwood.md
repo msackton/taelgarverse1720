@@ -10,8 +10,10 @@ aliases:
 title: Elderwood
 ---
 # The Elderwood
->[!info]+ Information
-> A forest in [Ainumarya](<./ainumarya.md>), [Central Highlands Region](<../sentinel-range/central-highlands-region.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 Once the southern extent of [Ainumarya](<./ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/deno-qai/te-kula.md>), [Baz'aku](<../../groups/deno-qai/baz-aku.md>), [Bek'eni](<../../groups/deno-qai/bek-eni.md>).
 

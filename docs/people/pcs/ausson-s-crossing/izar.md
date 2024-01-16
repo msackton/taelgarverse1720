@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, pc/aussons, status/needswork/notes]
 name: Izar
 born:
@@ -10,5 +10,10 @@ title: Izar
 hide_toc: true
 ---
 # Izar
->[!info]+ Biographical Info
-> [lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>), they/them
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+

@@ -15,10 +15,13 @@ title: Jordo
 hide_toc: true
 ---
 # Jordo
->[!info]+ Biographical Info  
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The old Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>), who found a Jade Piece of Rai's Hand. Refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../cosmology/gods/tanshi/aasimti.md>) to work together to protect the Te'kula in a pocket dimension. 
 

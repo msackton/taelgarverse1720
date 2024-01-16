@@ -13,11 +13,12 @@ title: Brot's Telescope (Small)
 hide_toc: true
 ---
 # The Brot's Telescope (small)
->[!info]+ Information  
-> (unique mundane telescope)  
->   
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Mundane Telescope__  
+     
+     
+</div>
+
 
 A clever spyglass that [Brot Starsearcher](<../../../people/dwarves/brot-starsearcher.md>) gave to [Izgil](<../../../people/pcs/cleenseau/izgil-moonseeker.md>) after he promised to seek funding for Brot's large telescope project.
 

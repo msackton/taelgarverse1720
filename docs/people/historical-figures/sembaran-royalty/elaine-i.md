@@ -16,11 +16,14 @@ affiliations:
 - {place: Tyrwingha, start: 1589, title: Queen}
 hide_toc: true
 ---
-# Queen Elaine I
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
-> 
-> 
+# The Queen Elaine I
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The twin sister of [Anne](<./anne.md>), her disputes with her sister over the throne dominated the 1560s and 1580s.
 

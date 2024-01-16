@@ -17,9 +17,13 @@ title: Wellby
 hide_toc: true
 ---
 # Wellby
->[!info]+ Biographical Info  
-> A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Goodbarrels](<../../../groups/halfling-families/goodbarrels.md>)  
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 ![Welby Full](../../../assets/welby-full.jpg){width="400"}
 

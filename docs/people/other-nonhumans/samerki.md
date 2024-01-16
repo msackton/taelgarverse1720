@@ -18,10 +18,14 @@ title: Samerki
 hide_toc: true
 ---
 # Samerki
->[!info]+ Biographical Info
-> oni ([giant](<../../species/children-of-the-divine/giants.md>)), he/him
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    oni ([giant](<../../species/children-of-the-divine/giants.md>)), he/him  
+    { .bio }
+
+</div>
+
+
 
 A servant of [Agata](<../fey/agata.md>). 

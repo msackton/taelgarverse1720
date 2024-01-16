@@ -11,3 +11,6 @@ popd
 python run.py
 git add .
 git commit -m "Autobuild website"
+pushd taelgar
+git reset --hard
+popd 

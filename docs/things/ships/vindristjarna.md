@@ -22,11 +22,13 @@ title: Vindristjarna
 hide_toc: true
 ---
 # Vindristjarna
-*(vin-dree-SHAR-na)*
->[!info]+ Information
-> (unique magical skyship)
-> 
->> 
+:speaker:{ .middle } *(vin-dree-SHAR-na)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
+     
+     
+</div>
+
 
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
 

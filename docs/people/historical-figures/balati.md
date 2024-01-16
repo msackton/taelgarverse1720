@@ -16,11 +16,13 @@ title: Balati
 hide_toc: true
 ---
 # Balati
->[!info]+ Biographical Info
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A hero of the [Deno'qai](<../../groups/deno-qai/deno-qai.md>) during the [Great War](<../../events/1500s/great-war.md>), and the man who once bore the armor and shield [Delwath](<../pcs/dunmar-fellowship/delwath.md>) now carries.
 

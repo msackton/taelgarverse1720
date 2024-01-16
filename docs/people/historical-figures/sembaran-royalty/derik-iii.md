@@ -20,11 +20,14 @@ title: King Derik III
 died: 1549
 hide_toc: true
 ---
-# King Derik III
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)
-> 
-> 
+# The King Derik III
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The king of Sembara during the [Great War](<../../../events/1500s/great-war.md>); of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). He reigned from his mother [Charlotte I's](<./charlotte-i.md>) death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 

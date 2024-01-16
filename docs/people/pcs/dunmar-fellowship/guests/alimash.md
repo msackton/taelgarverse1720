@@ -14,7 +14,12 @@ title: Alimash
 hide_toc: true
 ---
 # Alimash
->[!info]+ Biographical Info  
-> A [human](<../../../../species/humans/humans.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Middle aged human marine and warrior from the Republic of Svolhas. Aided in the destruction of the aboleth and helped rescue Arryn from the mirror realm. Now potentially joining the service of [Arryn](<../../../other-humans/arryn.md>) the Wanderer.

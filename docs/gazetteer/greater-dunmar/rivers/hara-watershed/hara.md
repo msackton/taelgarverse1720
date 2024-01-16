@@ -8,9 +8,10 @@ whereabouts: Hara Watershed
 title: Hara
 ---
 # Hara
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 The Hara flows 750 miles through the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>), from its source in the foothills of the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) to the ~Hara River Gorge~. Once, it flowed more than twice that length in total, joining the [Istaros](<../../../istaros-watershed/rivers/istaros.md>) north of [Drankor](<../../../../history/drankorian-era/drankor.md>). Whether it still does after the cataclysms and upheavals following the [Great War](<../../../../events/1500s/great-war.md>), no one knows.
 

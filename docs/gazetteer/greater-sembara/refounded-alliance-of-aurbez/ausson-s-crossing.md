@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
 name: Ausson's Crossing
 displayDefaults: {defArt: ''}
@@ -9,7 +9,9 @@ partOf: Laicon
 title: Ausson's Crossing
 ---
 # Ausson's Crossing
->[!info]+ Information
-> 
-> An inn in [Laicon](<./laicon.md>), the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-location-24:{ .lg .middle }   
+</div>
+
 

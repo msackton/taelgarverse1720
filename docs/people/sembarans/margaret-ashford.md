@@ -13,12 +13,18 @@ whereabouts:
 title: Margaret Ashford
 hide_toc: true
 ---
-# Margaret Ashford
->[!info]+ Biographical Info  
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
->   
->>   
->>  Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 4th, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) 
+# The Margaret Ashford
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle }   
+
 
 Midwife
 

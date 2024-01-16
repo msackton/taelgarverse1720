@@ -13,11 +13,14 @@ title: Padma
 hide_toc: true
 ---
 # Padma
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 An innkeeper and master of a caravanserai waystation on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), running one of the first waystations on the west side of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).  Generally well positioned to receive and pass along news. 
 

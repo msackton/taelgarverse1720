@@ -15,11 +15,14 @@ title: Tulvak
 hide_toc: true
 ---
 # Tulvak
->[!info]+ Biographical Info
-> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 Tulvak is a skilled sailor hailing from the island of [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>) in Skaerhem, in the Western [Green Sea](<../../gazetteer/green-sea.md>). He has for many years served as the ferry captain guiding pilgrims to [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), and knows the coast of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) like the back of his hand. 
 ## Description

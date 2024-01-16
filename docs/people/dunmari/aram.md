@@ -14,10 +14,12 @@ title: Aram
 hide_toc: true
 ---
 # Aram
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in Havdar's service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>)

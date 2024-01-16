@@ -14,10 +14,13 @@ title: Jotha
 hide_toc: true
 ---
 # Jotha
-*(yo-TAH)*
->[!info]+ Biographical Info  
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
->   
->> 
+:speaker:{ .middle } *(yo-TAH)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Warrior, who was gravely wounded in battle against a deathless warlock and then vanished, presumably into a shadow realm. May be wandering Taelgar confused somewhere, if she was ejected from shadow realm when the armband the deathless warlock carried was destroyed.

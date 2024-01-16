@@ -9,11 +9,12 @@ pronunciation: ZURK-kaz
 title: Xurkhaz
 ---
 # Xurkhaz
-*(ZURK-kaz)*
->[!info]+ Information
-> 
-> 
->> 
+:speaker:{ .middle } *(ZURK-kaz)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>).
 ## Geography

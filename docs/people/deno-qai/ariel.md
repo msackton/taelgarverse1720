@@ -15,11 +15,14 @@ title: Ariel
 hide_toc: true
 ---
 # Ariel
->[!info]+ Biographical Info
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [Great War](<../../events/1500s/great-war.md>)
 

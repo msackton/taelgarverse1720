@@ -11,10 +11,6 @@ whereabouts: Nidzahar
 title: Gemcrafters
 ---
 # The Gemcrafters
->[!info]+ Information
-> A [dwarven](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) clan
-> 
->> 
 
 *in dwarvish, Barzinduk*
 

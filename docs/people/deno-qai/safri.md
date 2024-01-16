@@ -14,9 +14,13 @@ title: Safri
 hide_toc: true
 ---
 # Safri
->[!info]+ Biographical Info  
-> A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 ![Safri](../../assets/safri.png){align="right"; width="500"}An old Deno'qai druid with many stories and rumors to her name.
 

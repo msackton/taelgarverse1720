@@ -8,10 +8,11 @@ pronunciation: t-HAHN-dur
 title: Thandar
 ---
 # Thandar
-*(t-HAHN-dur)*
->[!info]+ Information
-> 
->> 
+:speaker:{ .middle } *(t-HAHN-dur)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 The Thandar flows about 240 miles from its source in the Sentinels to its confluence with the Hara on the ~North Tokra Plains~. The upper reaches of the Thandar are swift flowing and marked by rapids and gorges as the river cascades from the steep slopes of the Sentinels to the plains below. 
 

@@ -11,11 +11,15 @@ whereabouts: Amberglow
 title: Lady Eventide
 hide_toc: true
 ---
-# Lady Eventide
->[!info]+ Biographical Info
-> a [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)
->> 
->> 
+# The Lady Eventide
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 Lady Eventide is a fey who once held significant influence in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) as a member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
 ## Overview

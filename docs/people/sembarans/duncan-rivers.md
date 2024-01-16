@@ -13,12 +13,17 @@ whereabouts: The Bandit’s End
 title: Duncan Rivers
 hide_toc: true
 ---
-# Duncan Rivers
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
->>  Helped with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 4th, 1720 in [The Bandit’s End](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-bandits-end.md>), [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) 
+# The Duncan Rivers
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle }   
+
 
 

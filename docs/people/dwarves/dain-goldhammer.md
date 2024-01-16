@@ -14,12 +14,15 @@ whereabouts:
 title: Dain Goldhammer
 hide_toc: true
 ---
-# Dain Goldhammer
->[!info]+ Biographical Info
-> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
-> 
->> 
->> 
+# The Dain Goldhammer
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
 
 An adventurer, working for the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
 

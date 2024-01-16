@@ -9,9 +9,13 @@ title: Kecha
 hide_toc: true
 ---
 # Kecha
->[!info]+ Biographical Info
-> A [kenku](<../../species/unusual-species/kenku/kenku.md>) (he/him)
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A young kenku scout. 
 

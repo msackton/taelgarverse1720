@@ -14,11 +14,14 @@ affiliations:
 title: Anne of Sewick
 hide_toc: true
 ---
-# Anne of Sewick
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
-> 
-> 
+# The Anne of Sewick
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The twin sister of [Elaine I](<./elaine-i.md>) and daughter of [Reginald](<./reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic.
 

@@ -7,7 +7,7 @@ typeOfAlias: village
 title: Aursen Crossing
 ---
 # Aursen Crossing
->[!info]+ Information
-> 
+</div>
+
 
 

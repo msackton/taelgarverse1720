@@ -10,10 +10,11 @@ aliases: [The Fox’s Flagon]
 title: The Fox’s Flagon
 ---
 # The Fox’s Flagon
->[!info]+ Information
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
  A three story inn popular with traders and merchants, but often quiet when no caravan is in town. Known for neither its food (go to [The River’s Blessing](<./the-rivers-blessing.md>) for that), or drink ([The Bandit’s End](<./the-bandits-end.md>) is recommended), it is nonetheless a comfortable, secure, and dry place to sleep, and it has a large innyard and stables for traveler's horses. The owner, [Selma Wisthelwind](<../../../../../../people/sembarans/selma-wisthelwind.md>) does host storytellers and music, although it is distinctly second to [The Crossroads Inn](<./the-crossroads-inn.md>) in that regard. The main gathering room however is large and cheerful, and Selma tends bar most evenings herself. 
 

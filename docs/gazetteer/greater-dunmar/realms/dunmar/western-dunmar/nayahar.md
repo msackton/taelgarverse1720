@@ -10,10 +10,11 @@ whereabouts: Western Dunmar
 title: Nayahar
 ---
 # Nayahar
->[!info]+ Information
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 A Dunmari city located close to the head of navigation of the [Nayan](<../../../rivers/nayan.md>) river. The administrative center of the [Nayan Dynasty](<../../../../../groups/dunmari-dynasties/nayan-dynasty.md>), home of the Samraat court. 
 

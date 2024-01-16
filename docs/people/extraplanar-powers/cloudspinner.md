@@ -15,9 +15,13 @@ title: Cloudspinner
 hide_toc: true
 ---
 # Cloudspinner
->[!info]+ Biographical Info
-> A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The Queen of Sunset was once the ruler of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 

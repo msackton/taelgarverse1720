@@ -16,14 +16,16 @@ whereabouts: Emerald Song
 title: Dani Silversong
 hide_toc: true
 ---
-# Dani Silversong
->[!info]+ Biographical Info  
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
->   
->   
->>   
->>   
->> 
+# The Dani Silversong
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
+
+
 
 Quartermaster and chief trader on the [Emerald Song](<../../things/ships/emerald-song.md>). Dani Silversong serves as the main spokesperson for the family and is the face of the Emerald Song.
 ## Relationships

@@ -18,11 +18,13 @@ title: Viepuck
 hide_toc: true
 ---
 # Viepuck
->[!info]+ Biographical Info  
-> A [human](<../../../species/humans/humans.md>) (he/him)  
->   
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Najeer Garay is the fourth son of [Susanne Garay](<../../sembarans/susanne-garay.md>), the matriarch of a wealthy cloth merchant family in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
 

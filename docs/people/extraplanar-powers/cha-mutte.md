@@ -11,9 +11,13 @@ title: Cha'mutte
 hide_toc: true
 ---
 # Cha'mutte
->[!info]+ Biographical Info
-> an elder wyrm (he/him)
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 An elder wyrm, one of the original children of [Arha](<../../cosmology/gods/high-gods/arha.md>) and [Malik](<../../cosmology/gods/high-gods/malik.md>).
 

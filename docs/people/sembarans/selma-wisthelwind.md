@@ -16,12 +16,13 @@ whereabouts:
 title: Selma Wisthelwind
 hide_toc: true
 ---
-# Selma Wisthelwind
->[!info]+ Biographical Info
-> A Highlander [human](<../../species/humans/humans.md>) (she/her)
-> 
-> 
->> 
+# The Selma Wisthelwind
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
 
 
 ![Selma Wisthelwind](../../assets/selma-wisthelwind.png)

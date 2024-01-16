@@ -15,6 +15,7 @@ with open((configfile), 'r', 2048, "utf-8") as f:
 obs_json_path = 'obsidian-template-config.json'  # Replace with the actual path to obs.json
 target_data_path = Path('taelgar', '.obsidian', 'plugins', 'templater-obsidian', 'data.json')  # Replace with the target path
 
+shutil.copy(target_data_path, "~templaterback.json")
 shutil.copy(obs_json_path, target_data_path)
 
 vault_id = data["obsidian_vault_id"]
@@ -37,6 +38,9 @@ while True:
     except KeyboardInterrupt:
         # Handle keyboard interrupt (Ctrl+C) to exit the script
         break
+
+
+shutil.move("~templaterback.json", target_data_path)
 
 # Step 3: Run another Python script (export_vault.py)
 export_script_path = 'taelgarverse-site-generator/scripts/export_vault.py'  # Replace with the actual path to export_vault.py

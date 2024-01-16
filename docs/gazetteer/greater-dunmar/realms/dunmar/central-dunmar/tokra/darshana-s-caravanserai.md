@@ -10,9 +10,10 @@ whereabouts: Tokra
 title: Darshana's Caravanserai
 ---
 # Darshana's Caravanserai
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 Darshana's is a large, two-story complex outside the walls on the west side of [Tokra](<./tokra.md>). Rooms and stables surround a bustling open courtyard that serves as the central gathering place, dining room, and marketplace of the complex. A large stables sits just outside the main building. 
 

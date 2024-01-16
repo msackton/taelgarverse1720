@@ -11,9 +11,12 @@ whereabouts: Valarin
 title: Marcel de Valarin
 hide_toc: true
 ---
-# Marcel de Valarin
->[!info]+ Biographical Info
-> An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
->> 
+# The Marcel de Valarin
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 

@@ -10,8 +10,9 @@ partOf: Fiskurth
 title: The Windward Sail
 ---
 # The Windward Sail
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 A bustling halfling inn and tavern in [Fiskurth](<./fiskurth.md>), known as a place to tell and hear stories. 

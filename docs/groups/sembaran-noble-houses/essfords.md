@@ -8,9 +8,6 @@ aliases: [Essford]
 title: Essfords
 ---
 # The Essfords
->[!info]+ Information
-> 
->> 
 
 
 

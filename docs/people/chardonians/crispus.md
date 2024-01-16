@@ -16,12 +16,14 @@ pronunciation: CRIS-pus
 hide_toc: true
 ---
 # Crispus
-*(CRIS-pus)*
->[!info]+ Biographical Info
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+:speaker:{ .middle } *(CRIS-pus)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A senior Archivist at the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>), in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 
 

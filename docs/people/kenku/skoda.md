@@ -15,10 +15,13 @@ title: Skoda
 hide_toc: true
 ---
 # Skoda
->[!info]+ Biographical Info
-> An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>) (she/her)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A kenku woman in late middle age, who travels the islands of the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>) with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
 

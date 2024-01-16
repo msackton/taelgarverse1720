@@ -13,3 +13,7 @@ title: Aerin
 hide_toc: true
 ---
 
+# Aerin
+
+A kenku, rogue, and traveler. Current whereabouts are unknown. 
+

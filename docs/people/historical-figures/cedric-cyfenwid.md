@@ -10,9 +10,13 @@ died: 1674
 title: Cedric Cyfenwid
 hide_toc: true
 ---
-# Cedric Cyfenwid
->[!info]+ Biographical Info  
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-> 
+# The Cedric Cyfenwid
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Paladin of the Wyrdling for Tyrwingha.

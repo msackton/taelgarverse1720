@@ -12,10 +12,14 @@ whereabouts:
 title: Lord Umbraeth
 hide_toc: true
 ---
-# Lord Umbraeth
->[!info]+ Biographical Info  
-> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (he/him)  
->> 
+# The Lord Umbraeth
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Lord Umbraeth, the Gloomshaper, is the ruler of [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>). 
 

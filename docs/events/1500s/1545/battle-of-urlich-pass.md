@@ -10,8 +10,4 @@ whereabouts: Urlich Pass
 title: Battle of Urlich Pass
 ---
 # The Battle of Urlich Pass
->[!info]+ Information
-> 
-> Part of The [Great War](<../great-war.md>)
->> 
 

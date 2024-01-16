@@ -18,12 +18,14 @@ whereabouts:
 title: Izgil Moonseeker
 hide_toc: true
 ---
-# Izgil Moonseeker
->[!info]+ Biographical Info
-> a [dwarf](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/clans/gemcrafters.md>)
-> 
-> 
->> 
+# The Izgil Moonseeker
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [Gemcrafters](<../../../groups/clans/gemcrafters.md>) clan in [Nidzahar](<../../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>).
 

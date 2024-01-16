@@ -18,10 +18,12 @@ title: Sarabeth
 hide_toc: true
 ---
 # Sarabeth
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>).

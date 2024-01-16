@@ -13,10 +13,13 @@ title: Eloise
 hide_toc: true
 ---
 # Eloise
->[!info]+ Biographical Info
-> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
-> 
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 The youngest daughter of [Charlotte I](<./charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 

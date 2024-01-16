@@ -16,10 +16,15 @@ title: Motua
 hide_toc: true
 ---
 # Motua
-*(moh-TOO-ah)*
->[!info]+ Biographical Info
-> a [gidari](<../../species/children-of-belief/gidari.md>) ([celestial](<../../species/children-of-belief/celestials.md>)), they/them
->> 
+:speaker:{ .middle } *(moh-TOO-ah)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    a [gidari](<../../species/children-of-belief/gidari.md>) ([celestial](<../../species/children-of-belief/celestials.md>)), they/them  
+    { .bio }
+
+</div>
+
 
 One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-belief/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
 
