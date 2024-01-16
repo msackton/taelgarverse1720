@@ -10,6 +10,7 @@ gender: female
 whereabouts: Amberglow
 title: Lady Eventide
 hide_toc: true
+hide: [navigation]
 ---
 # Lady Eventide
 >[!info]+ Biographical Info

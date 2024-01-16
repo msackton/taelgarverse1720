@@ -7,6 +7,7 @@ gender: male
 ancestry: Tollender
 title: Adam Gower
 hide_toc: true
+hide: [navigation]
 ---
 # Adam Gower
 >[!info]+ Biographical Info  

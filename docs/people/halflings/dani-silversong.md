@@ -15,6 +15,7 @@ affiliations: [Silversongs]
 whereabouts: Emerald Song
 title: Dani Silversong
 hide_toc: true
+hide: [navigation]
 ---
 # Dani Silversong
 >[!info]+ Biographical Info  

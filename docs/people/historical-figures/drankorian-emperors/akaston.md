@@ -13,6 +13,7 @@ affiliations:
 died: 991
 whereabouts: Drankor
 hide_toc: true
+hide: [navigation]
 ---
 # Emperor Akaston
 >[!info]+ Biographical Info

@@ -10,6 +10,7 @@ ancestry: Mawaran
 gender: male
 title: Jaeson
 hide_toc: true
+hide: [navigation]
 ---
 # Jaeson
 >[!info]+ Biographical Info  

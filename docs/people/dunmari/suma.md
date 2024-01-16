@@ -10,6 +10,7 @@ gender: female
 whereabouts: Karawa
 title: Suma
 hide_toc: true
+hide: [navigation]
 ---
 # Suma
 >[!info]+ Biographical Info

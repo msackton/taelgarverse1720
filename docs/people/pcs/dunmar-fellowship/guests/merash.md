@@ -11,6 +11,7 @@ gender:
 player: Sara Smith
 title: Merash
 hide_toc: true
+hide: [navigation]
 ---
 # Merash
 >[!info]+ Biographical Info  

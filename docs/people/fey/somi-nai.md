@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Azta Lekua}
 title: Somi-nai
 hide_toc: true
+hide: [navigation]
 ---
 # Somi-nai
 >[!info]+ Biographical Info  

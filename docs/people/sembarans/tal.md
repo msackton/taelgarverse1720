@@ -12,6 +12,7 @@ whereabouts:
 - {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
 title: Tal
 hide_toc: true
+hide: [navigation]
 ---
 # Tal
 >[!info]+ Biographical Info

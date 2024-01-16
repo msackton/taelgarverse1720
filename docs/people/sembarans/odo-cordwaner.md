@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
 - {type: home, start: 1719-11-16, location: Taviose}
 hide_toc: true
+hide: [navigation]
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Info

@@ -10,6 +10,7 @@ ancestry:
 gender: female
 title: Ovina
 hide_toc: true
+hide: [navigation]
 ---
 # Ovina
 >[!info]+ Biographical Info  

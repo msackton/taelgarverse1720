@@ -10,6 +10,7 @@ gender: male
 player: Eric Rosenbaum
 title: Rufus
 hide_toc: true
+hide: [navigation]
 ---
 # Rufus
 >[!info]+ Biographical Info  

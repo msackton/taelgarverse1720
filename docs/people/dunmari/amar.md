@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, location: Akela Inn}
 title: Amar
 hide_toc: true
+hide: [navigation]
 ---
 # Amar
 >[!info]+ Biographical Info

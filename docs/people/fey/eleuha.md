@@ -11,6 +11,7 @@ gender: female
 whereabouts: Azta Lekua
 title: Eleuha
 hide_toc: true
+hide: [navigation]
 ---
 # Eleuha
 >[!info]+ Biographical Info

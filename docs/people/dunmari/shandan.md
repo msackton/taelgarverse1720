@@ -13,6 +13,7 @@ whereabouts:
 pronunciation: Shun-dhun
 title: Shandan
 hide_toc: true
+hide: [navigation]
 ---
 # Shandan
 *(Shun-dhun)*

@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
 title: Vistra Fireforge
 hide_toc: true
+hide: [navigation]
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Info  

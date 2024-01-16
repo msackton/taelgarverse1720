@@ -10,6 +10,7 @@ gender: male
 player: David Kong
 title: Kenzo
 hide_toc: true
+hide: [navigation]
 ---
 # Kenzo
 >[!info]+ Biographical Info

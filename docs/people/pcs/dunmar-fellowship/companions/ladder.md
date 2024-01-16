@@ -11,6 +11,7 @@ player:
 affiliations:
 title: Ladder
 hide_toc: true
+hide: [navigation]
 ---
 # Ladder
 

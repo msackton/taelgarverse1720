@@ -12,6 +12,7 @@ player: Eric Rosenbaum
 affiliations: [Heroes of the Great War]
 title: Kyr
 hide_toc: true
+hide: [navigation]
 ---
 # Kyr
 >[!info]+ Biographical Info  

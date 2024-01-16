@@ -11,6 +11,7 @@ gender: male
 died: 1545
 title: Zegron
 hide_toc: true
+hide: [navigation]
 ---
 # Zegron
 >[!info]+ Biographical Info  

@@ -5,6 +5,7 @@ name: On the Lost People of the Forests
 typeOf: book
 title: On the Lost People of the Forests
 hide_toc: true
+hide: [navigation]
 ---
 # The On the Lost People of the Forests
 >[!info]+ Information  

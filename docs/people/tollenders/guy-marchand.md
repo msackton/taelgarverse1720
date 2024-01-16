@@ -16,6 +16,7 @@ whereabouts:
 - {type: home, start: 1687-01-02, end: '', location: Nordgate}
 title: Guy Marchand
 hide_toc: true
+hide: [navigation]
 ---
 # Guy Marchand
 >[!info]+ Biographical Info

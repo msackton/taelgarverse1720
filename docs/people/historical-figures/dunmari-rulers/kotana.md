@@ -13,6 +13,7 @@ affiliations:
 title: Samraat Kotana
 aliases: [Samraat Kotana]
 hide_toc: true
+hide: [navigation]
 ---
 # Samraat Kotana
 >[!info]+ Biographical Info  

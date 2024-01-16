@@ -10,6 +10,7 @@ gender: male
 whereabouts: Cleenseau
 title: Anselm
 hide_toc: true
+hide: [navigation]
 ---
 # Anselm
 >[!info]+ Biographical Info

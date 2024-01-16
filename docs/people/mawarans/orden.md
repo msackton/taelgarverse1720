@@ -10,6 +10,7 @@ ancestry: Mawaran
 gender: male
 title: Orden
 hide_toc: true
+hide: [navigation]
 ---
 # Orden
 >[!info]+ Biographical Info  

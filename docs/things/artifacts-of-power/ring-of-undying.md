@@ -8,6 +8,7 @@ destroyed: 1749-01-20
 whereabouts: Grash
 title: Ring of Undying
 hide_toc: true
+hide: [navigation]
 ---
 # The Ring of Undying
 >[!info]+ Information

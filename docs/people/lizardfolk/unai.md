@@ -11,6 +11,7 @@ gender: female
 whereabouts: Ganboa
 title: Unai
 hide_toc: true
+hide: [navigation]
 ---
 # Unai
 >[!info]+ Biographical Info

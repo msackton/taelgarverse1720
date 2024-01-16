@@ -10,6 +10,7 @@ gender: male
 whereabouts: Morkalan
 title: Hagrim
 hide_toc: true
+hide: [navigation]
 ---
 ## Hagrim of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>)
 

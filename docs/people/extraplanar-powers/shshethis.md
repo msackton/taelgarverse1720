@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: 1000, end: 1749-01-08, location: Elemental Forge}
 title: Sh’shethis
 hide_toc: true
+hide: [navigation]
 ---
 # Sh’shethis
 >[!info]+ Biographical Info

@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: 1748-11-01, end: 1749-12-01, location: Bedez}
 title: Enari
 hide_toc: true
+hide: [navigation]
 ---
 # Enari
 >[!info]+ Biographical Info

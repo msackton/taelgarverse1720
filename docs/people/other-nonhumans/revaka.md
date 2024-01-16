@@ -12,6 +12,7 @@ whereabouts:
 - {type: away, location: Mirror of Soul Trapping}
 title: Revaka
 hide_toc: true
+hide: [navigation]
 ---
 # Revaka
 >[!info]+ Biographical Info  

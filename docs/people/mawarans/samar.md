@@ -10,6 +10,7 @@ ancestry:
 gender: female
 title: Samar
 hide_toc: true
+hide: [navigation]
 ---
 # Samar
 >[!info]+ Biographical Info  

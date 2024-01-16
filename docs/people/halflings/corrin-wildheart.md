@@ -16,6 +16,7 @@ whereabouts:
 - {type: home, location: Wave Dancer, format: '<linktext> <name>, <ancestry:a> <maintype>'}
 title: Corrin Wildheart
 hide_toc: true
+hide: [navigation]
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Info

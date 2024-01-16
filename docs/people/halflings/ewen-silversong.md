@@ -15,6 +15,7 @@ affiliations:
 whereabouts: Emerald Song
 title: Ewen Silversong
 hide_toc: true
+hide: [navigation]
 ---
 # Ewen Silversong
 >[!info]+ Biographical Info

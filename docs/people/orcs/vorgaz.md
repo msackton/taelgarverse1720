@@ -17,6 +17,7 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: home, start: 1741-01-01, end: '', location: Khumarz}
 hide_toc: true
+hide: [navigation]
 ---
 # Commander Vorgaz
 >[!info]+ Biographical Info

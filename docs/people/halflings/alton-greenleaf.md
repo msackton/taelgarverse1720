@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
 title: Alton Greenleaf
 hide_toc: true
+hide: [navigation]
 ---
 # Alton Greenleaf
 >[!info]+ Biographical Info

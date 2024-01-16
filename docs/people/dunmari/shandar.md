@@ -9,6 +9,7 @@ ancestry: Dunmari
 gender: male
 title: Shandar
 hide_toc: true
+hide: [navigation]
 ---
 # Shandar
 >[!info]+ Biographical Info  

@@ -17,6 +17,7 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 title: Ames Benthey
 hide_toc: true
+hide: [navigation]
 ---
 # Ames Benthey
 >[!info]+ Biographical Info

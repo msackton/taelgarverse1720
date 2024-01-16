@@ -20,6 +20,7 @@ whereabouts:
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
 title: Kadmos
 hide_toc: true
+hide: [navigation]
 ---
 # Kadmos
 >[!info]+ Biographical Info

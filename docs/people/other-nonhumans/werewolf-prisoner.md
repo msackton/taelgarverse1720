@@ -10,6 +10,7 @@ gender: male
 died: 1748
 title: Werewolf Prisoner
 hide_toc: true
+hide: [navigation]
 ---
 ### The Unnamed Werewolf
 

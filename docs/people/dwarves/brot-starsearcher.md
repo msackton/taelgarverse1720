@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, start: 1719-11-21, end: 1719-12-23, location: Dunfry}
 title: Brot Starsearcher
 hide_toc: true
+hide: [navigation]
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Info

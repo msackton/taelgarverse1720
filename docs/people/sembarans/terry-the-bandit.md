@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, linkText: at, alias: bandit lair upriver of Cleenseau, location: Cleenseau, start: 1719-11-03}
 title: Terry the Bandit
 hide_toc: true
+hide: [navigation]
 ---
 # Terry the Bandit
 >[!info]+ Biographical Info

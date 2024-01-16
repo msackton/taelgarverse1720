@@ -17,6 +17,7 @@ whereabouts:
 - {type: home, start: 1718, location: The Windward Sail}
 title: Wendel Quickstep
 hide_toc: true
+hide: [navigation]
 ---
 # Wendel Quickstep
 >[!info]+ Biographical Info

@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, location: Taviose}
 title: Diesla Starsearcher
 hide_toc: true
+hide: [navigation]
 ---
 # Diesla Starsearcher
 >[!info]+ Biographical Info  

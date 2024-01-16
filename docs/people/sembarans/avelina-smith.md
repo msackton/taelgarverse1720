@@ -9,6 +9,7 @@ ancestry: Highlander
 gender: female
 title: Avelina Smith
 hide_toc: true
+hide: [navigation]
 ---
 # Avelina Smith
 >[!info]+ Biographical Info

@@ -12,6 +12,7 @@ affiliations: [Shakun Mystai]
 whereabouts: Karawa
 title: Beli
 hide_toc: true
+hide: [navigation]
 ---
 # Beli
 >[!info]+ Biographical Info  

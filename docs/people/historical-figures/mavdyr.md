@@ -10,6 +10,7 @@ ancestry:
 gender: male
 title: Mavdyr
 hide_toc: true
+hide: [navigation]
 ---
 # Mavdyr
 >[!info]+ Biographical Info  

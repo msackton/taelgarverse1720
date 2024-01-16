@@ -11,6 +11,7 @@ subspecies: fire giant
 gender: male
 title: Odim Mavdyrson
 hide_toc: true
+hide: [navigation]
 ---
 # Odim Mavdyrson
 >[!info]+ Biographical Info  

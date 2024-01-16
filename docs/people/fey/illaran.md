@@ -11,6 +11,7 @@ gender: male
 whereabouts: Crystal Peak
 title: Illaran
 hide_toc: true
+hide: [navigation]
 ---
 # Illaran
 >[!info]+ Biographical Info

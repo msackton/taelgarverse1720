@@ -9,6 +9,7 @@ gender: male
 whereabouts: Karawa
 title: Jasu
 hide_toc: true
+hide: [navigation]
 ---
 # Jasu
 >[!info]+ Biographical Info

@@ -7,6 +7,7 @@ whereabouts: Seeker
 displayDefaults: {defArt: ''}
 title: The Runes of Creation
 hide_toc: true
+hide: [navigation]
 ---
 # The Runes of Creation
 >[!info]+ Information

@@ -16,6 +16,7 @@ whereabouts:
 - {type: away}
 title: Delwath
 hide_toc: true
+hide: [navigation]
 ---
 # Delwath
 >[!info]+ Biographical Info

@@ -13,6 +13,7 @@ affiliations:
 - {org: People of the Rainbow, type: primary}
 whereabouts: Uzgukhar
 hide_toc: true
+hide: [navigation]
 ---
 
 # Loremaster Azogar

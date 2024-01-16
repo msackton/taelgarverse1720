@@ -5,6 +5,7 @@ typeOf: staff
 whereabouts: Candrosa
 title: Dreamweaver Staff
 hide_toc: true
+hide: [navigation]
 ---
 # The Dreamweaver Staff
 >[!info]+ Information

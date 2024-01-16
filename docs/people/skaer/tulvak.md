@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Pyhlla}
 title: Tulvak
 hide_toc: true
+hide: [navigation]
 ---
 # Tulvak
 >[!info]+ Biographical Info

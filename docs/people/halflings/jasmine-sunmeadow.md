@@ -17,6 +17,7 @@ whereabouts:
 - {type: away, start: 1748-08-22, location: Chardon}
 title: Jasmine Sunmeadow
 hide_toc: true
+hide: [navigation]
 ---
 # Jasmine Sunmeadow
 >[!info]+ Biographical Info  

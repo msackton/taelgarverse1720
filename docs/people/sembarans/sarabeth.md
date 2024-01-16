@@ -16,6 +16,7 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Sarabeth
 hide_toc: true
+hide: [navigation]
 ---
 # Sarabeth
 >[!info]+ Biographical Info

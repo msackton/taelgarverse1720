@@ -13,6 +13,7 @@ gender: female
 whereabouts: Erelion
 title: Ealwen
 hide_toc: true
+hide: [navigation]
 ---
 # Ealwen
 *(EY-ahl-wen)*

@@ -10,6 +10,7 @@ gender: female
 player: Kate Sackton
 title: Spirala
 hide_toc: true
+hide: [navigation]
 ---
 # Spirala
 >[!info]+ Biographical Info  

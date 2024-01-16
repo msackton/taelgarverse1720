@@ -16,6 +16,7 @@ whereabouts:
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
 title: Scepter of Command
 hide_toc: true
+hide: [navigation]
 ---
 # The Scepter of Command
 >[!info]+ Information

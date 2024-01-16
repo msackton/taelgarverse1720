@@ -12,6 +12,7 @@ aliases: [François the Bandit]
 died: 1719-11-05
 title: François the Bandit
 hide_toc: true
+hide: [navigation]
 ---
 # François the Bandit
 >[!info]+ Biographical Info

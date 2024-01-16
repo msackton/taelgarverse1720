@@ -15,6 +15,7 @@ whereabouts:
 pronunciation: meh-LIN-deer
 title: Melindir
 hide_toc: true
+hide: [navigation]
 ---
 # Melindir
 *(meh-LIN-deer)*

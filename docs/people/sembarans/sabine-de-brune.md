@@ -11,6 +11,7 @@ affiliations:
 whereabouts: Valit
 title: Sabine de Brune
 hide_toc: true
+hide: [navigation]
 ---
 # Sabine De Brune
 >[!info]+ Biographical Info

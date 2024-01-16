@@ -15,6 +15,7 @@ whereabouts:
 - {type: home, start: 1732, location: Tollen}
 title: Umli the Exile
 hide_toc: true
+hide: [navigation]
 ---
 # Umli the Exile
 >[!info]+ Biographical Info  

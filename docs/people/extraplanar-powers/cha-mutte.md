@@ -9,6 +9,7 @@ gender: male
 died: 1545
 title: Cha'mutte
 hide_toc: true
+hide: [navigation]
 ---
 # Cha'mutte
 >[!info]+ Biographical Info

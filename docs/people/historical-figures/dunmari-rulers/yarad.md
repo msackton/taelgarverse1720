@@ -12,6 +12,7 @@ title: Samraat Nayan Yarad
 affiliations:
 - {org: Nayan Dynasty, type: primary}
 hide_toc: true
+hide: [navigation]
 ---
 # Samraat Nayan Yarad
 >[!info]+ Biographical Info  

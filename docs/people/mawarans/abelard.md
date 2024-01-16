@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Hamri}
 title: Abelard
 hide_toc: true
+hide: [navigation]
 ---
 # Abelard
 >[!info]+ Biographical Info

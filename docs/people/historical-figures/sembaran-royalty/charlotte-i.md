@@ -17,6 +17,7 @@ leaderOf:
 affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
+hide: [navigation]
 ---
 # Queen Charlotte I
 >[!info]+ Biographical Info

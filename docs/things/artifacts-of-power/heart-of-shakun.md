@@ -7,6 +7,7 @@ typeOf: wonderous item
 subTypeOf: ' '
 title: Heart of Shakun
 hide_toc: true
+hide: [navigation]
 ---
 # The Heart of Shakun
 >[!info]+ Information  

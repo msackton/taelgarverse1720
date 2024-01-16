@@ -13,6 +13,7 @@ title: Chief Lubash
 affiliations: [People of the Rainbow]
 whereabouts: Uzgukhar
 hide_toc: true
+hide: [navigation]
 ---
 # Chief Lubash
 >[!info]+ Biographical Info

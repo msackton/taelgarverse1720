@@ -14,6 +14,7 @@ affiliations:
 whereabouts: Cleenseau
 title: Béatrix of Cleenseau
 hide_toc: true
+hide: [navigation]
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Info

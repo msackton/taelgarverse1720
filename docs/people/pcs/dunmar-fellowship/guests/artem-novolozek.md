@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1748-10-06, location: ''}
 title: Artem Novolozek
 hide_toc: true
+hide: [navigation]
 ---
 # Artem Novolozek
 >[!info]+ Biographical Info  

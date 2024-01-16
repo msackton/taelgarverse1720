@@ -10,6 +10,7 @@ whereabouts:
 - {type: home, location: plains of Karawa, alias: plains north-west of Karawa}
 title: Devana
 hide_toc: true
+hide: [navigation]
 ---
 # Devana
 >[!info]+ Biographical Info

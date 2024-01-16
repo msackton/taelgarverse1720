@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, location: Ganboa}
 title: Izoko
 hide_toc: true
+hide: [navigation]
 ---
 # Izoko
 >[!info]+ Biographical Info

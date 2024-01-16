@@ -8,6 +8,7 @@ name: Abha
 affiliations: [Sonkar Mystai]
 title: Abha
 hide_toc: true
+hide: [navigation]
 ---
 # Abha
 >[!info]+ Biographical Info

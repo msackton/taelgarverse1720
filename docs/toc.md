@@ -42,12 +42,11 @@
         - [Letter from the Oracle of the Red to the Mostreve Warlocks](campaigns/cleenseau-campaign/letters-and-stories/letter-from-the-oracle-of-the-red-to-the-mostreve-warlocks.md)
         - [Report on the Bogblight](campaigns/cleenseau-campaign/letters-and-stories/report-on-the-bogblight.md)
         - [Stories of Tyrwingha for Profit](campaigns/cleenseau-campaign/letters-and-stories/stories-of-tyrwingha-for-profit.md)
-    - [Treasure](campaigns/cleenseau-campaign/treasure/party-loot.md)
+    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure/)
         - [Brot's Telescope (Small)](campaigns/cleenseau-campaign/treasure/brot-s-telescope-small.md)
         - [Hammer of Vigilance](campaigns/cleenseau-campaign/treasure/hammer-of-vigilance.md)
         - [Lantern of the Bright Hearth](campaigns/cleenseau-campaign/treasure/lantern-of-the-bright-hearth.md)
         - [Silverthorn](campaigns/cleenseau-campaign/treasure/silverthorn.md)
-        - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)
     - Mechanics
         - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
         - Species
@@ -595,4 +594,4 @@
         - [Story about Halfling Merchants](primary-sources/story-about-halfling-merchants.md)
         - [The Founding of Dunmar](primary-sources/the-founding-of-dunmar.md)
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
-- [Party Loot](campaigns/cleenseau-campaign/treasure/party-loot.md)
+- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure/)

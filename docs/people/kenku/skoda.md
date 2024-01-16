@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: 1748-10-14, prefix: sea elf village in, location: Quanyi}
 title: Skoda
 hide_toc: true
+hide: [navigation]
 ---
 # Skoda
 >[!info]+ Biographical Info

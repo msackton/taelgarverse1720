@@ -8,6 +8,7 @@ title: Emperor Avatus
 gender: male
 aliases:
 hide_toc: true
+hide: [navigation]
 ---
 ### Emperor Avatus
 

@@ -14,6 +14,7 @@ affiliations:
 - {org: Goodbarrels, type: primary}
 title: Wellby
 hide_toc: true
+hide: [navigation]
 ---
 # Wellby
 >[!info]+ Biographical Info  

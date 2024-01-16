@@ -9,6 +9,7 @@ whereabouts:
 - {type: home, start: 1748-11-24, location: Dunmar Fellowship}
 title: Enchiridion of the Occulta Ludum
 hide_toc: true
+hide: [navigation]
 ---
 # The Enchiridion of the Occulta Ludum
 >[!info]+ Information

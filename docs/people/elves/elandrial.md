@@ -15,6 +15,7 @@ affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
 title: Elandrial
 hide_toc: true
+hide: [navigation]
 ---
 # Elandrial
 *(eh-LAN-dree-ahl)*

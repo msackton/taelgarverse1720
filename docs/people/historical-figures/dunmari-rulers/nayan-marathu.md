@@ -9,6 +9,7 @@ died: 1740
 name: Nayan Marathu
 affiliations: [Nayan Dynasty]
 hide_toc: true
+hide: [navigation]
 ---
 # Samraat Nayan Marathu
 >[!info]+ Biographical Info

@@ -13,6 +13,7 @@ affiliations: [Ancient and Honorable Guild of Philosophers]
 whereabouts: Tollen
 title: Delios the Sage
 hide_toc: true
+hide: [navigation]
 ---
 # Delios the Sage
 >[!info]+ Biographical Info

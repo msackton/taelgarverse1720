@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Chardon}
 title: Agon
 hide_toc: true
+hide: [navigation]
 ---
 # Agon
 >[!info]+ Biographical Info

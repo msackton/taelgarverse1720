@@ -15,6 +15,7 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Annet Bybet
 hide_toc: true
+hide: [navigation]
 ---
 # Annet Bybet
 >[!info]+ Biographical Info

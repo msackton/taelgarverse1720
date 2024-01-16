@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Te'kula village}
 title: Yota
 hide_toc: true
+hide: [navigation]
 ---
 # Yota
 >[!info]+ Biographical Info  

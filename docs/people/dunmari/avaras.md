@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House}
 title: Avaras
 hide_toc: true
+hide: [navigation]
 ---
 # Avaras
 >[!info]+ Biographical Info

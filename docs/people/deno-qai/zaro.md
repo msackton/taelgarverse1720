@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Bek'eni village}
 title: Zaro
 hide_toc: true
+hide: [navigation]
 ---
 # Zaro
 >[!info]+ Biographical Info  

@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Ko'zula village}
 title: Ninu
 hide_toc: true
+hide: [navigation]
 ---
 # Ninu
 >[!info]+ Biographical Info

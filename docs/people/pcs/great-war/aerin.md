@@ -11,6 +11,7 @@ player: David Schwartz
 affiliations:
 title: Aerin
 hide_toc: true
+hide: [navigation]
 ---
 
 # Aerin

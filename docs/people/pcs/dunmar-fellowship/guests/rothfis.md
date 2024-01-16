@@ -10,6 +10,7 @@ gender:
 player:
 title: Rothfis
 hide_toc: true
+hide: [navigation]
 ---
 ## Rothfis
 

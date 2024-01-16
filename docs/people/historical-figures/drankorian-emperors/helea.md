@@ -8,6 +8,7 @@ species: human
 ancestry:
 gender: female
 hide_toc: true
+hide: [navigation]
 ---
 # Emperor Helea
 >[!info]+ Biographical Info  

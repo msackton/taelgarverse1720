@@ -5,6 +5,7 @@ typeOf: vehicle
 subTypeOf: boat
 title: Flaming Tempest
 hide_toc: true
+hide: [navigation]
 ---
 # Flaming Tempest
 

@@ -11,6 +11,7 @@ affiliations:
 - {org: House of Wisenfold, type: primary}
 title: Hugh
 hide_toc: true
+hide: [navigation]
 ---
 # Hugh
 >[!info]+ Biographical Info

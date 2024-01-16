@@ -10,6 +10,7 @@ gender: male
 whereabouts: Evis
 title: Peyre Vayler
 hide_toc: true
+hide: [navigation]
 ---
 # Peyre Vayler
 >[!info]+ Biographical Info

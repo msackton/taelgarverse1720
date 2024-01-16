@@ -10,6 +10,7 @@ ancestry: Drankorian
 gender: male
 title: Eudomes
 hide_toc: true
+hide: [navigation]
 ---
 # Eudomes
 >[!info]+ Biographical Info

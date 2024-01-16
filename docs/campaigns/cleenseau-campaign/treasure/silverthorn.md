@@ -8,6 +8,7 @@ whereabouts: Celyn
 ddbLink: https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise
 title: Silverthorn
 hide_toc: true
+hide: [navigation]
 ---
 # Silverthorn
 >[!info]+ Information  

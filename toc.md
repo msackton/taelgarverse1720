@@ -8,8 +8,8 @@
         - {glob: people/pcs/cleenseau/, exclude: heroes-of-cleenseau.md}
     - Letters and Stories
         - {glob: campaigns/cleenseau-campaign/letters-and-stories}
-    - [Treasure](campaigns/cleenseau-campaign/treasure/party-loot.md)
-        - {glob: campaigns/cleenseau-campaign/treasure}
+    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure/)
+        - {glob: campaigns/cleenseau-campaign/treasure, exclude: treasure.md}
     - Mechanics
         - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
         - [Languages](species/languages.md)
@@ -70,4 +70,4 @@
     - Primary Sources
         - {glob: primary-sources/}
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
-- [Party Loot](campaigns/cleenseau-campaign/treasure/party-loot.md)
+- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure/)

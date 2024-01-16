@@ -9,6 +9,7 @@ gender: male
 whereabouts: Cleenseau
 title: Nicholas Wysson
 hide_toc: true
+hide: [navigation]
 ---
 # Nicholas Wysson
 >[!info]+ Biographical Info

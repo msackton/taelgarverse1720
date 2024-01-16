@@ -11,6 +11,7 @@ player: Eric Rosenbaum
 affiliations:
 title: Trok
 hide_toc: true
+hide: [navigation]
 ---
 
 A lizardfolk warrior, covered in tattoos, who lives on the beach north of the Drowned Flats neighborhood of Hamri. Recovering gatza addict who is somewhat estranged from his family.

@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, start: 1719-12-01, location: Cleenseau}
 title: Guy de Varan
 hide_toc: true
+hide: [navigation]
 ---
 # Guy De Varan
 >[!info]+ Biographical Info

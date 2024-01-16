@@ -9,6 +9,7 @@ ancestry: Mawaran
 gender: female
 title: Hiyasa
 hide_toc: true
+hide: [navigation]
 ---
 # Hiyasa
 >[!info]+ Biographical Info  

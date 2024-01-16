@@ -10,6 +10,7 @@ gender: male
 whereabouts: Karawa
 title: Ikram
 hide_toc: true
+hide: [navigation]
 ---
 # Ikram
 >[!info]+ Biographical Info

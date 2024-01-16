@@ -10,6 +10,7 @@ gender:
 player:
 title: Iascaire
 hide_toc: true
+hide: [navigation]
 ---
 # Iascaire
 

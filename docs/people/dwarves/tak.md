@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: 1748, location: Tharn Todor}
 title: Tak
 hide_toc: true
+hide: [navigation]
 ---
 # Tak
 >[!info]+ Biographical Info  

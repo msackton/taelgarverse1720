@@ -21,6 +21,7 @@ whereabouts:
 - {type: away, start: 1720-01-08, location: Fellburn}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 hide_toc: true
+hide: [navigation]
 ---
 # Lady Rosalind Essford
 >[!info]+ Biographical Info

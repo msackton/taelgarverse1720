@@ -12,6 +12,7 @@ whereabouts:
 - {type: away, start: 1748-05-01, location: Tokra}
 title: Drusa
 hide_toc: true
+hide: [navigation]
 ---
 # Drusa
 >[!info]+ Biographical Info  

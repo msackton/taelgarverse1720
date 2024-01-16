@@ -19,6 +19,7 @@ whereabouts:
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 title: Harriet Goodbarrel
 hide_toc: true
+hide: [navigation]
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Info

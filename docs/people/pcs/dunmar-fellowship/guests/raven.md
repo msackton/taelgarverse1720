@@ -11,6 +11,7 @@ gender: enby
 player:
 title: Raven
 hide_toc: true
+hide: [navigation]
 ---
 # Raven
 >[!info]+ Biographical Info  

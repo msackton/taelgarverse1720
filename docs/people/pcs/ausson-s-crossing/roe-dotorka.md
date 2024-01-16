@@ -9,6 +9,7 @@ gender: male
 player: Chris Kelly
 title: Roe DoTorka
 hide_toc: true
+hide: [navigation]
 ---
 # Roe DoTorka
 >[!info]+ Biographical Info

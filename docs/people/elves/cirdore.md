@@ -12,6 +12,7 @@ campaignInfo:
 - {campaign: dufr, date: 1749-01-15, type: Hosted for dinner}
 title: Cirdore
 hide_toc: true
+hide: [navigation]
 ---
 # Cirdore
 *(KEER-doh-reh)*

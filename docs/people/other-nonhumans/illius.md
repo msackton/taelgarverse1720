@@ -10,6 +10,7 @@ ancestry:
 gender: nonbinary
 title: Illius
 hide_toc: true
+hide: [navigation]
 ---
 # Illius
 >[!info]+ Biographical Info  

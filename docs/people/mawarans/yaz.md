@@ -9,6 +9,7 @@ ancestry:
 gender: male
 title: Yaz
 hide_toc: true
+hide: [navigation]
 ---
 # Yaz
 >[!info]+ Biographical Info  

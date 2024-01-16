@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1719-10-19, location: Cleenseau Wood}
 title: Edur
 hide_toc: true
+hide: [navigation]
 ---
 # Edur
 >[!info]+ Biographical Info  

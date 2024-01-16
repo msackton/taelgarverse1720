@@ -19,6 +19,7 @@ whereabouts:
 - {type: away, start: 1748-08-13, location: Darba}
 title: Bree Charmheart
 hide_toc: true
+hide: [navigation]
 ---
 # Bree Charmheart
 >[!info]+ Biographical Info  

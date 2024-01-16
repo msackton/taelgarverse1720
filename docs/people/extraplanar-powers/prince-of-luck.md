@@ -10,6 +10,7 @@ gender: male
 aliases: [Chanceweaver]
 title: Prince of Luck
 hide_toc: true
+hide: [navigation]
 ---
 # Prince of Luck
 >[!info]+ Biographical Info

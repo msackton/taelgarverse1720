@@ -10,6 +10,7 @@ gender: male
 whereabouts: Lakan Monastery
 title: Rishi
 hide_toc: true
+hide: [navigation]
 ---
 # Rishi
 >[!info]+ Biographical Info

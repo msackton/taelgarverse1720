@@ -11,6 +11,7 @@ player: David Kong
 affiliations:
 title: Ryu
 hide_toc: true
+hide: [navigation]
 ---
 # Ryu
 

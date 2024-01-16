@@ -11,6 +11,7 @@ player: Eric Rosenbaum
 affiliations:
 title: Seeker
 hide_toc: true
+hide: [navigation]
 ---
 ### Seeker
 

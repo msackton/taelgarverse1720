@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: 1748-08-09, location: Albus}
 title: Lyrics of a New Age
 hide_toc: true
+hide: [navigation]
 ---
 # The Lyrics of a New Age
 >[!info]+ Information

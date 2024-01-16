@@ -10,6 +10,7 @@ gender: male
 player: David Kong
 title: Rai
 hide_toc: true
+hide: [navigation]
 ---
 ### Rai
 

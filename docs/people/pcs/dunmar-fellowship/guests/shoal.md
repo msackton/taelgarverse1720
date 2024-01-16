@@ -14,6 +14,7 @@ whereabouts:
 - {type: home, location: Quanyi}
 title: Shoal
 hide_toc: true
+hide: [navigation]
 ---
 # Shoal
 >[!info]+ Biographical Info

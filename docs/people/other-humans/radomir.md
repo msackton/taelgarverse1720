@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Ursk}
 title: Radomir
 hide_toc: true
+hide: [navigation]
 ---
 # Radomir
 >[!info]+ Biographical Info  

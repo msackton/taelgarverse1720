@@ -9,6 +9,7 @@ gender: male
 whereabouts: Tokra
 title: Ashar
 hide_toc: true
+hide: [navigation]
 ---
 # Ashar
 >[!info]+ Biographical Info

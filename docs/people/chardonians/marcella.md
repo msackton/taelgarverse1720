@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ''}
 title: Marcella
 hide_toc: true
+hide: [navigation]
 ---
 # Marcella
 >[!info]+ Biographical Info

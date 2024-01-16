@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, location: Mirror of Soul Trapping, start: 1660, end: 1748-12-05}
 title: Orc in the Mirror
 hide_toc: true
+hide: [navigation]
 ---
 # Orc in the Mirror
 >[!info]+ Biographical Info  

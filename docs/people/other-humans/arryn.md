@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: '', end: '', location: Eastern Green Sea}
 title: Arryn
 hide_toc: true
+hide: [navigation]
 ---
 # Arryn
 >[!info]+ Biographical Info  

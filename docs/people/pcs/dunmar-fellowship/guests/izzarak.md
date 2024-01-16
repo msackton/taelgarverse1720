@@ -9,6 +9,7 @@ gender: male
 player:
 title: Izzarak
 hide_toc: true
+hide: [navigation]
 ---
 # Izzarak
 >[!info]+ Biographical Info  

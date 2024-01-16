@@ -11,6 +11,7 @@ gender: male
 whereabouts: Hamri
 title: Benat
 hide_toc: true
+hide: [navigation]
 ---
 # Benat
 >[!info]+ Biographical Info  

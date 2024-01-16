@@ -11,6 +11,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 title: Hugh of Sewick
 hide_toc: true
+hide: [navigation]
 ---
 # Hugh of Sewick
 >[!info]+ Biographical Info

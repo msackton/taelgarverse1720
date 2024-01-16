@@ -7,6 +7,7 @@ gender: female
 died: 1719-10-21
 title: Nicole of Tavoise
 hide_toc: true
+hide: [navigation]
 ---
 # Nicole of Tavoise
 >[!info]+ Biographical Info  

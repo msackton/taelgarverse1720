@@ -9,6 +9,7 @@ ancestry:
 gender: male
 title: Rurik
 hide_toc: true
+hide: [navigation]
 ---
 ## Rurik
 

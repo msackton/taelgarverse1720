@@ -19,6 +19,7 @@
     "clean_build": true,    
     "hide_toc_tags": ["person", "item"],
     "hide_backlinks_tags": [],
+    "hide_nav_tags" : ["person", "item"],
     "exclude_tildes": true,
     "abs_path_root": "/taelgarverse1720/",
     "ignore_file": "excludes.txt",

@@ -11,6 +11,7 @@ affiliations:
 player: Kate Sackton
 title: Aristaea
 hide_toc: true
+hide: [navigation]
 ---
 # Aristaea
 >[!info]+ Biographical Info  

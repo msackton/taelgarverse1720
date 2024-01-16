@@ -14,6 +14,7 @@ whereabouts:
 - {type: away}
 title: Nora Silverspark
 hide_toc: true
+hide: [navigation]
 ---
 # Nora Silverspark
 >[!info]+ Biographical Info

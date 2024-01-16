@@ -10,6 +10,7 @@ gender: male
 whereabouts: Te'kula village
 title: Obel
 hide_toc: true
+hide: [navigation]
 ---
 # Obel
 >[!info]+ Biographical Info  

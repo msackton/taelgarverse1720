@@ -11,6 +11,7 @@ gender: female
 whereabouts: Karawa
 title: Kisa
 hide_toc: true
+hide: [navigation]
 ---
 # Kisa
 >[!info]+ Biographical Info

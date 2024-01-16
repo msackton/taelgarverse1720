@@ -12,6 +12,7 @@ affiliations:
 - {place: Leviathan Inn, title: Owner}
 title: Wazir
 hide_toc: true
+hide: [navigation]
 ---
 # Wazir
 >[!info]+ Biographical Info

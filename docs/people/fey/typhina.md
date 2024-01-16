@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, location: Amberglow}
 title: Typhina
 hide_toc: true
+hide: [navigation]
 ---
 # Typhina
 >[!info]+ Biographical Info  

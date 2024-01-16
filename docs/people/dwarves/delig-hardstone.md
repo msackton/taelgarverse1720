@@ -10,6 +10,7 @@ gender: male
 whereabouts: Tokra
 title: Delig Hardstone
 hide_toc: true
+hide: [navigation]
 ---
 # Delig Hardstone
 >[!info]+ Biographical Info

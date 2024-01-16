@@ -10,6 +10,7 @@ whereabouts: Taviose
 died: 1719-10-21
 title: Denis Moss
 hide_toc: true
+hide: [navigation]
 ---
 # Denis Moss
 >[!info]+ Biographical Info

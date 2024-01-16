@@ -11,6 +11,7 @@ affiliations:
 - {place: Lakan Mystai}
 whereabouts: Lakan Monastery
 hide_toc: true
+hide: [navigation]
 ---
 # Speaker Lara
 >[!info]+ Biographical Info

@@ -11,6 +11,7 @@ whereabouts:
 - {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: '2'}
 title: Wave Dancer
 hide_toc: true
+hide: [navigation]
 ---
 # The Wave Dancer
 >[!info]+ Information

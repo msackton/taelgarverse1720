@@ -11,6 +11,7 @@ gender:
 player:
 title: Thror
 hide_toc: true
+hide: [navigation]
 ---
 # Thror
 >[!info]+ Biographical Info  

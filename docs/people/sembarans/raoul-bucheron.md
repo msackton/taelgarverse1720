@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1718, end: 9999, prefix: roaming around, location: Barony of Aveil}
 title: Raoul Bûcheron
 hide_toc: true
+hide: [navigation]
 ---
 # Raoul Bûcheron
 >[!info]+ Biographical Info

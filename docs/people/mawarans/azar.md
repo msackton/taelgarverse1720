@@ -9,6 +9,7 @@ ancestry:
 gender: male
 title: Azar
 hide_toc: true
+hide: [navigation]
 ---
 # Azar
 >[!info]+ Biographical Info  

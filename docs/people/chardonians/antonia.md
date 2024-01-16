@@ -18,6 +18,7 @@ whereabouts:
 - {type: home, location: Chardon}
 title: Antonia
 hide_toc: true
+hide: [navigation]
 ---
 # Antonia
 *(An-ton-ia)*

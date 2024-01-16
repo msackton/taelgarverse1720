@@ -8,6 +8,7 @@ whereabouts:
 - {type: home, location: Fausto}
 title: Crown of Purity
 hide_toc: true
+hide: [navigation]
 ---
 # The Crown of Purity
 >[!info]+ Information  

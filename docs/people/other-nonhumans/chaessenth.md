@@ -9,6 +9,7 @@ ancestry:
 gender:
 title: Chaessenth
 hide_toc: true
+hide: [navigation]
 ---
 
 Dragon turtle

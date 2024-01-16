@@ -19,6 +19,7 @@ whereabouts:
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
 title: Kaeso
 hide_toc: true
+hide: [navigation]
 ---
 # Kaeso
 >[!info]+ Biographical Info

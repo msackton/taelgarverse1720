@@ -14,6 +14,7 @@ whereabouts:
 - {type: home, location: Chardon}
 pronunciation: CRIS-pus
 hide_toc: true
+hide: [navigation]
 ---
 # Crispus
 *(CRIS-pus)*

@@ -13,6 +13,7 @@ affiliations:
 - {org: Essfords, title: Steward}
 title: Jonathon Henwyn
 hide_toc: true
+hide: [navigation]
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Info

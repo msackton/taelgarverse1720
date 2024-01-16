@@ -10,6 +10,7 @@ gender: nonbinary
 pronouns: he/him or she/her (as they desire)
 title: Lengau
 hide_toc: true
+hide: [navigation]
 ---
 # Lengau
 >[!info]+ Biographical Info  

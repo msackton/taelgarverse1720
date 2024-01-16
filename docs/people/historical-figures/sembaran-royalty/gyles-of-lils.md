@@ -12,6 +12,7 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Gyles
 hide_toc: true
+hide: [navigation]
 ---
 # Gyles
 >[!info]+ Biographical Info

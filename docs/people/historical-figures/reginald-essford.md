@@ -12,6 +12,7 @@ title: Lord Reginald Essford
 died: 1689
 family: Essford
 hide_toc: true
+hide: [navigation]
 ---
 # Lord Reginald Essford
 >[!info]+ Biographical Info  

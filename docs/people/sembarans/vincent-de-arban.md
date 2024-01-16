@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
 title: Vincent de Arban
 hide_toc: true
+hide: [navigation]
 ---
 # Vincent de Arban
 >[!info]+ Biographical Info  

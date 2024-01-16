@@ -14,6 +14,7 @@ whereabouts:
 - {type: home, start: 1719-12-06, location: Cleenseau}
 title: Balthazar
 hide_toc: true
+hide: [navigation]
 ---
 # Balthazar
 >[!info]+ Biographical Info  

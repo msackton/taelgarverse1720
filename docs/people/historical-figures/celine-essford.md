@@ -9,6 +9,7 @@ gender: female
 died: 1699
 title: Celine Essford
 hide_toc: true
+hide: [navigation]
 ---
 # Celine Essford
 >[!info]+ Biographical Info

@@ -22,6 +22,7 @@ whereabouts:
 - {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
 title: Nayan Sura
 hide_toc: true
+hide: [navigation]
 ---
 # Nayan Sura
 >[!info]+ Biographical Info

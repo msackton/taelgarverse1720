@@ -18,6 +18,7 @@ whereabouts:
 timelineDescriptor: Belegor
 title: Belegor
 hide_toc: true
+hide: [navigation]
 ---
 # Belegor
 *(beh-leh-GOR)*

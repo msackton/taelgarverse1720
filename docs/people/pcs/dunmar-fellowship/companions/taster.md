@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, location: missing and presumed dead}
 title: Taster
 hide_toc: true
+hide: [navigation]
 ---
 # Taster
 >[!info]+ Biographical Info

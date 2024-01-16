@@ -15,6 +15,7 @@ leaderOf:
 whereabouts: The Red Lily Inn
 title: Wes Strongbones
 hide_toc: true
+hide: [navigation]
 ---
 # Wes Strongbones
 >[!info]+ Biographical Info

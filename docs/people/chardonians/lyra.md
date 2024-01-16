@@ -18,6 +18,7 @@ whereabouts:
 - {type: away, start: 1748-08-26, location: Chardon, wLastKnown = "": !!null ''}
 title: Lyra
 hide_toc: true
+hide: [navigation]
 ---
 # Lyra
 >[!info]+ Biographical Info

@@ -11,6 +11,7 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', location: Tokra}
 title: Amay
 hide_toc: true
+hide: [navigation]
 ---
 # Amay
 >[!info]+ Biographical Info  

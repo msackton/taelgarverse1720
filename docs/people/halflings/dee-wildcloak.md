@@ -25,6 +25,7 @@ whereabouts:
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ''}
 title: Dee Wildcloak
 hide_toc: true
+hide: [navigation]
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info

@@ -11,6 +11,7 @@ died: 1748
 whereabouts: Tokra
 title: Hada
 hide_toc: true
+hide: [navigation]
 ---
 # Hada
 >[!info]+ Biographical Info

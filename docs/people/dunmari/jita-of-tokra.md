@@ -10,6 +10,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: plains north of Tokra}
 title: Jita
 hide_toc: true
+hide: [navigation]
 ---
 # Jita
 >[!info]+ Biographical Info

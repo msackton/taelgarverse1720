@@ -12,6 +12,7 @@ affiliations:
 - {org: Runecrafter Thuhr, type: primary}
 title: Daruk
 hide_toc: true
+hide: [navigation]
 ---
 # Daruk
 >[!info]+ Biographical Info

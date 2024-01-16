@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, start: 1737-01-01, end: '', location: Chardon}
 title: Fausto
 hide_toc: true
+hide: [navigation]
 ---
 # Fausto
 >[!info]+ Biographical Info

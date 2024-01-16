@@ -7,6 +7,7 @@ species: human
 gender: female
 title: Reliah
 hide_toc: true
+hide: [navigation]
 ---
 # Reliah
 >[!info]+ Biographical Info

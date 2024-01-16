@@ -12,6 +12,7 @@ whereabouts: Wahacha
 pronunciation: MAH-kah
 title: Makha
 hide_toc: true
+hide: [navigation]
 ---
 # Makha
 *(MAH-kah)*

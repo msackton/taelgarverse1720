@@ -10,6 +10,7 @@ ancestry:
 gender: female
 title: Sulfi Mahadra
 hide_toc: true
+hide: [navigation]
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Info  

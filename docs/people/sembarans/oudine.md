@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, location: Cleenseau}
 title: Oudine
 hide_toc: true
+hide: [navigation]
 ---
 # Oudine
 >[!info]+ Biographical Info

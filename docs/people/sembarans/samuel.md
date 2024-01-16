@@ -11,6 +11,7 @@ affiliations:
 - {org: Essfords, title: Kitchen Boy}
 title: Samuel
 hide_toc: true
+hide: [navigation]
 ---
 # Samuel
 >[!info]+ Biographical Info

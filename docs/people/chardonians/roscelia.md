@@ -11,6 +11,7 @@ affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scro
 whereabouts: Chardon
 title: Roscelia
 hide_toc: true
+hide: [navigation]
 ---
 # Roscelia
 >[!info]+ Biographical Info

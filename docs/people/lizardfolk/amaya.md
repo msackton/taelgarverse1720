@@ -10,6 +10,7 @@ gender: female
 whereabouts: Eskorola
 title: Amaya
 hide_toc: true
+hide: [navigation]
 ---
 # Amaya
 >[!info]+ Biographical Info  

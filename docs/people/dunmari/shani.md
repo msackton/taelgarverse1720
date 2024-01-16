@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, prefix: northern, location: plains of Karawa}
 title: Shani
 hide_toc: true
+hide: [navigation]
 ---
 # Shani
 >[!info]+ Biographical Info

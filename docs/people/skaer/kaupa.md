@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, start: 1745-04-11, end: '', location: Tollen}
 title: Kaupa
 hide_toc: true
+hide: [navigation]
 ---
 # Kaupa
 >[!info]+ Biographical Info

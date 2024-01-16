@@ -17,6 +17,7 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 title: Robin of Abenfyrd
 hide_toc: true
+hide: [navigation]
 ---
 # Robin of Abenfyrd
 >[!info]+ Biographical Info  

@@ -14,6 +14,7 @@ whereabouts:
 - {type: home, location: Tollen}
 title: Caelynn the Seer
 hide_toc: true
+hide: [navigation]
 ---
 # Caelynn the Seer
 >[!info]+ Biographical Info  

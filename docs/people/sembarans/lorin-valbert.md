@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, location: Asineau}
 title: Lorin Valbert
 hide_toc: true
+hide: [navigation]
 ---
 # Lorin Valbert
 >[!info]+ Biographical Info

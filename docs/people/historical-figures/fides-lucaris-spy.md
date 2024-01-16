@@ -4,6 +4,7 @@ species: human
 gender: female
 title: Fides Lucaris Spy
 hide_toc: true
+hide: [navigation]
 ---
 
 (stub)

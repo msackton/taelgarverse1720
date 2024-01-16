@@ -10,6 +10,7 @@ gender: female
 whereabouts: Tokra
 title: Darshana
 hide_toc: true
+hide: [navigation]
 ---
 # Darshana
 >[!info]+ Biographical Info

@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, location: Havdar's Warband}
 title: Aram
 hide_toc: true
+hide: [navigation]
 ---
 # Aram
 >[!info]+ Biographical Info

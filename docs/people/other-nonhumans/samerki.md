@@ -16,6 +16,7 @@ whereabouts:
 - {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
 title: Samerki
 hide_toc: true
+hide: [navigation]
 ---
 # Samerki
 >[!info]+ Biographical Info

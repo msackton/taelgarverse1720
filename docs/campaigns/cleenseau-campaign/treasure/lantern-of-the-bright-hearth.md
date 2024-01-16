@@ -9,6 +9,7 @@ rarity: unique
 whereabouts: Robin of Abenfyrd
 title: Lantern of the Bright Hearth
 hide_toc: true
+hide: [navigation]
 ---
 # The Lantern of the Bright Hearth
 >[!info]+ Information  

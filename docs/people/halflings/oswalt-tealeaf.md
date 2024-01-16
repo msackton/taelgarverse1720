@@ -17,6 +17,7 @@ whereabouts:
 - {type: away, start: 1748-08-22, location: Chardon}
 title: Oswalt Tealeaf
 hide_toc: true
+hide: [navigation]
 ---
 # Oswalt Tealeaf
 >[!info]+ Biographical Info  

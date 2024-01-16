@@ -9,6 +9,7 @@ gender: female
 affiliations: [Order of the Charitable Wanderer]
 title: Narrisa de Abadelle
 hide_toc: true
+hide: [navigation]
 ---
 # Narrisa De Abadelle
 >[!info]+ Biographical Info

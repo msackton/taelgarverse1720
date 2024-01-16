@@ -18,6 +18,7 @@ whereabouts:
 - {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
 title: Alban
 hide_toc: true
+hide: [navigation]
 ---
 # Alban
 >[!info]+ Biographical Info  

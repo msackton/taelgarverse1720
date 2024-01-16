@@ -11,6 +11,7 @@ died: 1545
 affiliations: [The Rangers]
 title: Beryl
 hide_toc: true
+hide: [navigation]
 ---
 # Beryl
 >[!info]+ Biographical Info

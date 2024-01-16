@@ -10,6 +10,7 @@ affiliations:
 - {org: Redpeaks, type: primary}
 title: Vondal Redpeak
 hide_toc: true
+hide: [navigation]
 ---
 # Vondal Redpeak
 >[!info]+ Biographical Info  

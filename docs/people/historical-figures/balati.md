@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
 title: Balati
 hide_toc: true
+hide: [navigation]
 ---
 # Balati
 >[!info]+ Biographical Info

@@ -12,6 +12,7 @@ gender: male
 whereabouts: Bedez
 title: Elazar
 hide_toc: true
+hide: [navigation]
 ---
 # Elazar
 >[!info]+ Biographical Info

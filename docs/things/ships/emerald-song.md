@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1748-08-21, location: Chardon}
 title: Emerald Song
 hide_toc: true
+hide: [navigation]
 ---
 # The Emerald Song
 >[!info]+ Information

@@ -16,6 +16,7 @@ whereabouts:
 pronunciation: FAHL-thrah
 title: Fallthra Hardstone
 hide_toc: true
+hide: [navigation]
 ---
 # Fallthra Hardstone
 *(FAHL-thrah)*

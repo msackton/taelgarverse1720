@@ -12,6 +12,7 @@ whereabouts:
 - {type: away, start: 1748-03-11, end: '', location: ''}
 title: Claudio
 hide_toc: true
+hide: [navigation]
 ---
 # Claudio
 >[!info]+ Biographical Info

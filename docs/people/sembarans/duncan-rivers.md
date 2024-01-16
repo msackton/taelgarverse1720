@@ -12,6 +12,7 @@ affiliations:
 whereabouts: The Bandit’s End
 title: Duncan Rivers
 hide_toc: true
+hide: [navigation]
 ---
 # Duncan Rivers
 >[!info]+ Biographical Info

@@ -19,6 +19,7 @@ leaderOf:
 - {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
 hide_toc: true
+hide: [navigation]
 ---
 # King Bertram II
 >[!info]+ Biographical Info  

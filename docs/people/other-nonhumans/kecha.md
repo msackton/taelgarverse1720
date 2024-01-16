@@ -7,6 +7,7 @@ gender: male
 name: Kecha
 title: Kecha
 hide_toc: true
+hide: [navigation]
 ---
 # Kecha
 >[!info]+ Biographical Info

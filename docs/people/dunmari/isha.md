@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, location: Karawa, start: 1748-06-09}
 title: Isha
 hide_toc: true
+hide: [navigation]
 ---
 # Isha
 >[!info]+ Biographical Info

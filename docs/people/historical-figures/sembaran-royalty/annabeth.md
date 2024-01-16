@@ -12,6 +12,7 @@ affiliations:
 - {org: House of Lils, type: primary}
 title: Annabeth
 hide_toc: true
+hide: [navigation]
 ---
 # Annabeth
 >[!info]+ Biographical Info

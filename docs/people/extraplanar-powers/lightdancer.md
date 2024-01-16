@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, location: Shimmersong}
 title: Lightdancer
 hide_toc: true
+hide: [navigation]
 ---
 # Lightdancer
 >[!info]+ Biographical Info  

@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, location: Chardon}
 title: Gnaeus
 hide_toc: true
+hide: [navigation]
 ---
 # Gnaeus
 >[!info]+ Biographical Info

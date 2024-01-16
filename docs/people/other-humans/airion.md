@@ -10,6 +10,7 @@ gender: male
 died: 1545
 title: Airion
 hide_toc: true
+hide: [navigation]
 ---
 # Airion
 >[!info]+ Biographical Info  

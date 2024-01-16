@@ -13,6 +13,7 @@ affiliations:
 - {org: Dunmar, start: 1385, type: leader}
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 hide_toc: true
+hide: [navigation]
 ---
 # Samraat Aatmaj Dasa
 >[!info]+ Biographical Info

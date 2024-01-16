@@ -18,6 +18,7 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
 title: Agata Dustmother
 hide_toc: true
+hide: [navigation]
 ---
 # Agata Dustmother
 >[!info]+ Biographical Info

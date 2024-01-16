@@ -9,6 +9,7 @@ ancestry: Dunmari
 gender: female
 title: Sajan
 hide_toc: true
+hide: [navigation]
 ---
 # Sajan
 >[!info]+ Biographical Info  

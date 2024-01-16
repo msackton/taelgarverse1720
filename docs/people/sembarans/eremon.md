@@ -14,6 +14,7 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 title: Eremon
 hide_toc: true
+hide: [navigation]
 ---
 # Eremon
 >[!info]+ Biographical Info

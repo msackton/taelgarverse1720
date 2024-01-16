@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Enon
 hide_toc: true
+hide: [navigation]
 ---
 # Enon
 >[!info]+ Biographical Info
