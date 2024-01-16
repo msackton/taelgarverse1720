@@ -16,18 +16,12 @@ whereabouts:
 title: Brot Starsearcher
 hide_toc: true
 ---
-# The Brot Starsearcher
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle }   
-
+# Brot Starsearcher
+>[!info]+ Biographical Info
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (they/them)
+> 
+>> 
+>>  Seen by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) 
 
 A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), a small village on the outskirts of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 

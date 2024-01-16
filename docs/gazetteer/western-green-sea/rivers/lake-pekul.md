@@ -10,7 +10,6 @@ aliases: [Pekul]
 title: Lake Pekul
 ---
 # Lake Pekul
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 

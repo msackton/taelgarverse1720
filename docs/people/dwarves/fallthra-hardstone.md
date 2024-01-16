@@ -17,17 +17,14 @@ pronunciation: FAHL-thrah
 title: Fallthra Hardstone
 hide_toc: true
 ---
-# The Fallthra Hardstone
-:speaker:{ .middle } *(FAHL-thrah)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
+# Fallthra Hardstone
+*(FAHL-thrah)*
+>[!info]+ Biographical Info
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Hardstone Clan
+> 
+>> 
+>> 
+>> 
 
 Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
 ## Relationships:

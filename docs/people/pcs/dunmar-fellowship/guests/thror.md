@@ -13,12 +13,7 @@ title: Thror
 hide_toc: true
 ---
 # Thror
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [dwarf](<../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>)
 
 A sailor and a pirate and a storm sorceror, feeling remose and praying to the [Bahrazel](<../../../../cosmology/gods/embodied-gods/bahrazel.md>) to give him another chance, and nearly instantly pulled away to aid [Riswynn](<../riswynn.md>). 

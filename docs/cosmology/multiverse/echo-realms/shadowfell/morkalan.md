@@ -12,12 +12,8 @@ whereabouts:
 title: Morkalan
 ---
 # Morkalan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-   :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 [Hagrim](<../../../../people/dwarves/hagrim.md>)  
-    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+>> 
 
 Morkalan was created by the dwarf [Hagrim](<../../../../people/dwarves/hagrim.md>) in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
 

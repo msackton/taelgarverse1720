@@ -15,13 +15,10 @@ title: Kirian
 hide_toc: true
 ---
 # Kirian
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 A retired Dunmari solider who spent his early twenties riding in the warband of [Shandan](<./shandan.md>), a charismatic soldier, traveling in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>) and elsewhere. Wounded in a skirmish with kobolds in DR 1728, and returned to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 

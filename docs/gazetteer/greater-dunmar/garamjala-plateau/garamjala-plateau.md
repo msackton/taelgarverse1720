@@ -6,10 +6,9 @@ typeOf: region
 title: Garamjala Plateau
 ---
 # The Garamjala Plateau
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The high interior plateau in the rain shadow of the [Yuvanti Mountains](<../yuvanti-mountains.md>), uplifted in the chaos at the end of the Great War. 
 

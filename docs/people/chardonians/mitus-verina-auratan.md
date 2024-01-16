@@ -8,13 +8,9 @@ species: human
 whereabouts: Chardon
 hide_toc: true
 ---
-# The Magistros Mitus Verina Auratan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Magistros Mitus Verina Auratan
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>)
+>> 
 
 The current Magistros of Chardon and ruler of the Chardonian Empire. 

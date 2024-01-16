@@ -12,13 +12,12 @@ whereabouts:
 title: Zakat
 ---
 # Zakat
-:speaker:{ .middle } *(zuh-KAHT)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
+*(zuh-KAHT)*
+>[!info]+ Information
+> 
+>> 
 
-
-Zakat is a mysterious city on the north coast of the [Eastern Green Sea](<../eastern-green-sea/eastern-green-sea.md>), and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [Ursk](<./ursk.md>). 
+Zakat is a mysterious city on the north coast of the Eastern Green Sea, and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [Ursk](<./ursk.md>). 
 
 Zakat is a sprawling city with high walls and extensive coastal fortifications, including several massive stone wave breaks. The foreign trading port and related buildings are set on a protected spit of land, but exit from the docks and storehouses of the foreign city is forbidden and the whole area is patrolled by masked wizards. A great gate stands at the end of the peninsula, guarded constantly. 
 

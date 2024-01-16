@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [organization, status/unknown]
 displayDefaults: {partOf: '<typeof:A> in <partof>', boxInfo: ''}
 campaignInfo: []
@@ -10,13 +10,15 @@ partOf: Sembara
 title: Sembaran Army
 ---
 # The Sembaran Army
+>[!info]+ Information
+> an army in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 
 -   The lord of the manor is obligated to maintain defenses for their village or town. The deca (the tenth of the harvest tax due annually) is dedicated to this purpose
 -   The monarchy maintains a professional fighting force of about 7,000 soldiers, divided into four armies: the [Army of Mostreve](<./army-of-mostreve.md>), the [Army of the West](<./army-of-the-west.md>), the [Army of the South](<./army-of-the-south.md>), and the [Army of the North](<./army-of-the-north.md>), plus a small navy of about 20 vessels  
 
-These armies are professional, well-equipped, and well-trained and can be brought together into a large fighting force when a serious threat emerges on the border.  In addition to the major garrisons, a number of border castles and fortifications (including the [Western Wall of Sembara](<../../gazetteer/greater-sembara/sembara/western-marches/western-wall-of-sembara.md>)) are staffed by the military, mostly in the west.
+These armies are professional, well-equipped, and well-trained and can be brought together into a large fighting force when a serious threat emerges on the border.  In addition to the major garrisons, a number of border castles and fortifications (including the Western Wall of Sembara) are staffed by the military, mostly in the west.
 
 Within the army, the Army of the West and the Army of Mostreve are often seen as the ‘real’ armies, and usually has significant skirmishes every year. The armies of the North and South are where the second children of barons go to have an honorable career with just the right amount of risk.
 

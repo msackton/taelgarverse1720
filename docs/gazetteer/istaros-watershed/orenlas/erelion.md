@@ -9,11 +9,10 @@ pronunciation: air-LEE-on
 title: Erelion
 ---
 # Erelion
-:speaker:{ .middle } *(air-LEE-on)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+*(air-LEE-on)*
+>[!info]+ Information
+> 
+>> 
 
 ## Overview
 An ancient elven city in the kingdom of [Orenlas](<./orenlas.md>), claimed by many elves to be the oldest continually occupied settlement on Taelgar. 

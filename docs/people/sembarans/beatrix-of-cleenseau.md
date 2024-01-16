@@ -15,13 +15,10 @@ whereabouts: Cleenseau
 title: Béatrix of Cleenseau
 hide_toc: true
 ---
-# The Béatrix of Cleenseau
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Béatrix of Cleenseau
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>)  (she/her)
+> 
+> 
 
 A solider in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she accompanied the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) into the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) following a trail of spiders. 

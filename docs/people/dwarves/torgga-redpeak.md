@@ -12,13 +12,9 @@ gender: female
 title: Torgga Redpeak
 hide_toc: true
 ---
-# The Torgga Redpeak
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Torgga Redpeak
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Redpeaks  
+> 
 
 The matriach of the Redpeak dwarves of [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).

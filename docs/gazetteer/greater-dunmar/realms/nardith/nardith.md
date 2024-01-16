@@ -10,10 +10,9 @@ ancestry: dwarven
 title: Nardith
 ---
 # Nardith
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information  
+>   
+>> 
 
 The Kingdom of [Ardith](<../../../sentinel-range/dwarven-kingdoms/ardith.md>) was once the great and prosperous southernmost kingdom in the central mountains, trading with the Dunmari, the people of the [Istabor Alliance](<../../../../history/istabor-alliance.md>), and even the mysterious Myraenians. However, during the [Great War](<../../../../events/1500s/great-war.md>) and the destruction that followed, this kingdom was entirely destroyed, and all that remains are ruins, lost mines, and forgotten roads in the deep.
 

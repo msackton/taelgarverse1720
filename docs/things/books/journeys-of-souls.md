@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [item/book, religion, status/unknown]
 typeOf: book
 name: Journey of the Souls
@@ -7,6 +7,8 @@ title: Journey of the Souls
 hide_toc: true
 ---
 # The Journey of the Souls
+>[!info]+ Information
+> (book)
 
 A book written in Hkaran, the first human [language](<../../species/languages.md>), by an unknown author.
 

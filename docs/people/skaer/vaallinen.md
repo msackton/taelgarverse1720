@@ -14,16 +14,13 @@ title: Hakeasa Vaallinen
 whereabouts: Pyhlla
 hide_toc: true
 ---
-# The Hakeasa Vaallinen
-:speaker:{ .middle } *(va-lin-en)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Hakeasa Vaallinen
+*(va-lin-en)*
+>[!info]+ Biographical Info
+> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
+>> 
 
 Vaallinen (va-lin-en), a Skaer man with the traditional blue facial tattoos of Skaer priests, is the hakeasa (speaker to the gods) for [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>). Born and raised in the region, he is locally known for his connection to the divine. 
 

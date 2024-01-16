@@ -6,10 +6,9 @@ whereabouts: West Coast Region
 title: Tawir Forest
 ---
 # The Tawir Forest
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 Tawir forest is east of the Mawakel Peninsula and north of Lake Valandros. It is a dense, ancient forest, characterized by a thick, lush understory and frequent fog. 
 

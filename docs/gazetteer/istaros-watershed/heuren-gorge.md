@@ -4,7 +4,8 @@ tags: [place, status/stub]
 title: Heuren Gorge
 ---
 # The Heuren Gorge
-</div>
+>[!info]+ Information
+> 
 
 
 

@@ -7,10 +7,9 @@ typeOf: realm
 title: Amberglow
 ---
 # Amberglow
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 On the southern and eastern borders of [Shimmersong](<./shimmersong.md>) is the fey realm of Amberglow. Once a place of great beauty, a land of constant sunsets and golden skies on wide open plains of amber grasses and lush flowers, it has fallen into decay.
 

@@ -13,12 +13,8 @@ died: 1719-11-05
 title: François the Bandit
 hide_toc: true
 ---
-# The François the Bandit
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# François the Bandit
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
 

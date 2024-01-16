@@ -15,15 +15,12 @@ title: Ealwen
 hide_toc: true
 ---
 # Ealwen
-:speaker:{ .middle } *(EY-ahl-wen)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+*(EY-ahl-wen)*
+>[!info]+ Biographical Info  
+> An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 37)  
+>   
+>>   
+>> 
 
 A gardener, herbalist, and caretaker of [Arheste](<./arheste.md>). 
 

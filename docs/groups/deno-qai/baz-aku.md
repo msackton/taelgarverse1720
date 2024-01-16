@@ -10,3 +10,7 @@ whereabouts: Elderwood
 title: Baz'aku
 ---
 # The Baz'aku
+>[!info]+ Information
+> A Deno'qai tribe
+> 
+>> 

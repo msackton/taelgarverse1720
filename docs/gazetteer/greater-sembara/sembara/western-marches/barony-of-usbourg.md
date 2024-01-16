@@ -6,9 +6,8 @@ typeOf: barony
 title: Barony of Usbourg
 ---
 # The Barony of Usbourg
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
+>[!info]+ Information
+> 
+>> 
 
-
-The Barony of Usbourg is northern of the two frontier baronies along the [Western Wall of Sembara](<./western-wall-of-sembara.md>).
+The Barony of Usbourg is northern of the two frontier baronies along the Western Wall of Sembara.

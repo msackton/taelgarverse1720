@@ -14,12 +14,10 @@ title: Servius
 hide_toc: true
 ---
 # Servius
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>), he/him
+> 
+> 
+>> 
 
 A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. Currently hunting rumors of treasure in Illoria. 

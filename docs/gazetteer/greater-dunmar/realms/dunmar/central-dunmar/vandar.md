@@ -10,9 +10,8 @@ whereabouts: Copper Hills
 title: Vandar
 ---
 # Vandar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 An abandoned mining village in the [Copper Hills](<../../../darba-highlands/copper-hills.md>).

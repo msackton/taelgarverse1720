@@ -22,13 +22,11 @@ title: Vindristjarna
 hide_toc: true
 ---
 # Vindristjarna
-:speaker:{ .middle } *(vin-dree-SHAR-na)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
-     
-     
-</div>
-
+*(vin-dree-SHAR-na)*
+>[!info]+ Information
+> (unique magical skyship)
+> 
+>> 
 
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
 
@@ -79,7 +77,7 @@ Amil (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Sou
 [Nuzkar](<../../people/orcs/nuzkar.md>) and [Aygul](<../../people/orcs/aygul.md>), orcs and twin sisters. 
 
 (not yet introduced)
-[Égnir](<../../people/elves/egnir.md>) (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
+Égnir (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
 [Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 

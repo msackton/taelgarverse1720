@@ -20,16 +20,14 @@ whereabouts:
 title: Bree Charmheart
 hide_toc: true
 ---
-# The Bree Charmheart
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
+# Bree Charmheart
+>[!info]+ Biographical Info  
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+>   
+>   
+>>   
+>>   
+>> 
 
 The matriarch of the Charmheart trading clan of halflings.
 

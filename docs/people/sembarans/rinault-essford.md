@@ -14,14 +14,12 @@ affiliations:
 - {org: Essfords, title: Heir, type: primary}
 hide_toc: true
 ---
-# The Lord Rinault Essford
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Lord Rinault Essford
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)
+> 
+> 
+>> 
 
 The younger brother of [Rosalind](<./rosalind-essford.md>) he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 

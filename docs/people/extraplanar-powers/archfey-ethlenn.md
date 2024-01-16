@@ -11,12 +11,8 @@ whereabouts: Twilight's Grace
 title: Archfey Ethlenn
 hide_toc: true
 ---
-# The Archfey Ethlenn
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Archfey Ethlenn
+>[!info]+ Biographical Info
+> An [archfey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)
+>> 
 

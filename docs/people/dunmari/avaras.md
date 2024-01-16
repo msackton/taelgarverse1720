@@ -17,13 +17,11 @@ title: Avaras
 hide_toc: true
 ---
 # Avaras
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
 
 Avaras is one of the few remaining masters of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) with his partner [Pava](<./pava.md>) and apprentice Amil, leading an isolated existence, concerned with [Pava](<./pava.md>) and with what is left of the Order's mission. 
 

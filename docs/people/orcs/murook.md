@@ -15,15 +15,13 @@ whereabouts:
 - {type: home, start: 1724, location: Xurkhaz}
 hide_toc: true
 ---
-# The General Murook
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# General Murook
+>[!info]+ Biographical Info  
+> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
+>   
+>   
+>>   
+>> 
 
 Murook, an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) woman from the [Plaguelands](<../../gazetteer/istaros-watershed/plaguelands.md>), was freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s curse in childhood by [Lubash](<./lubash.md>)'s father, Karguk. She now serves as the General of [Lubash](<./lubash.md>)'s army, and the unofficial leader of the Hezguli, the reborn [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) who've been similarly freed.
 ## Overview

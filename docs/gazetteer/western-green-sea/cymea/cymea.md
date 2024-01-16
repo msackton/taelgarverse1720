@@ -8,10 +8,9 @@ partOf: Western Green Sea Region
 title: Cymea
 ---
 # Cymea
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information  
+>   
+>> 
 
 
 

@@ -16,13 +16,10 @@ title: Eremon
 hide_toc: true
 ---
 # Eremon
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [Rosalind's](<./rosalind-essford.md>). He walks with a pronounced limp.  He was from [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) originally and left shortly after [Cece I](<../historical-figures/sembaran-royalty/cece-i.md>) died. What he has been doing for the last seven years is not clear.
 

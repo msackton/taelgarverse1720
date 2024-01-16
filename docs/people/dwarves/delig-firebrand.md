@@ -13,13 +13,9 @@ whereabouts:
 title: Delig Firebrand
 hide_toc: true
 ---
-# The Delig Firebrand
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Delig Firebrand
+>[!info]+ Biographical Info
+> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+>> 
 
 The cousin of [Hagrim](<./hagrim.md>), trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

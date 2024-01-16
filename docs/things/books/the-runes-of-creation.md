@@ -9,11 +9,10 @@ title: The Runes of Creation
 hide_toc: true
 ---
 # The Runes of Creation
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Book__  
-     
-</div>
-
+>[!info]+ Information
+> (unique book)
+> 
+>> 
 
 A seemingly empty book. Found by a Dunmari citizen of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). This man often scavenged for sellable loot in the desert. He had found three books some time ago, two filled with strange writing and one blank, and had sold the ones with writing to [Servius](<../../people/chardonians/servius.md>), a Chardonian who worked for some library in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). He found them on an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>), an ancient individual, with wrinkled skin, dried out almost like leather, who carried nothing but a ripped pouch and these three books. 
 

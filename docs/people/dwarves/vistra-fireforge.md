@@ -14,14 +14,11 @@ whereabouts:
 title: Vistra Fireforge
 hide_toc: true
 ---
-# The Vistra Fireforge
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Vistra Fireforge
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
+>   
+>> 
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). She was born after the [Great War](<../../events/1500s/great-war.md>) and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
 

@@ -13,13 +13,9 @@ title: Amay
 hide_toc: true
 ---
 # Amay
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>> 
 
 A captain in the Dunmari army camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 
 

@@ -18,14 +18,12 @@ whereabouts:
 - {type: home, start: 1738, end: '', location: Nayahar}
 hide_toc: true
 ---
-# The Samraat Nayan Karnas
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Samraat Nayan Karnas
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>), he/him of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)
+> 
+> 
+>> 
 
 The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<./sura.md>), whom he thought dead. 
 

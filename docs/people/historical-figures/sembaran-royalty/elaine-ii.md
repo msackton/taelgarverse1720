@@ -17,14 +17,11 @@ affiliations:
 - {org: House of Lils, type: primary}
 hide_toc: true
 ---
-# The Queen Elaine II
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Queen Elaine II
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)
+> 
+> 
 
 The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<./elaine-i.md>), and [Morgaine](<./morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).
 

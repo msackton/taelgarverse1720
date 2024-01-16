@@ -11,13 +11,8 @@ title: Shandar
 hide_toc: true
 ---
 # Shandar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
 
 An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in Session 30 (DuFr).
 

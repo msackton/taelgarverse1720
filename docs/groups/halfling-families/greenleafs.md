@@ -9,5 +9,8 @@ ancestry: halfling
 title: Greenleafs
 ---
 # The Greenleafs
+>[!info]+ Information
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) family
+> 
 
 

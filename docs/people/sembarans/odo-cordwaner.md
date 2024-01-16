@@ -15,14 +15,11 @@ whereabouts:
 - {type: home, start: 1719-11-16, location: Taviose}
 hide_toc: true
 ---
-# The Sergeant Odo Cordwaner
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Sergeant Odo Cordwaner
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 The sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) and a loyal solider. 
 

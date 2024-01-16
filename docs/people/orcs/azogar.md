@@ -14,15 +14,14 @@ affiliations:
 whereabouts: Uzgukhar
 hide_toc: true
 ---
-# The Loremaster Azogar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    { .bio }
-
-</div>
-
-
+# Loremaster Azogar
+>[!info]+ Biographical Info
+> A free [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)
+> 
+> 
+>> 
+>> 
 
 Azogar is an old [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) loremaster from [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), one of the unchained [orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 

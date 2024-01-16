@@ -19,12 +19,12 @@ title: Scepter of Command
 hide_toc: true
 ---
 # The Scepter of Command
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Scepter__  
-     
-</div>
-
-
+>[!info]+ Information
+> (unique scepter)
+> 
+> 
+>> 
+>> 
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 

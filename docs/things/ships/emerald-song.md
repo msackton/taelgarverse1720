@@ -16,11 +16,10 @@ title: Emerald Song
 hide_toc: true
 ---
 # The Emerald Song
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
-</div>
-
+>[!info]+ Information
+> ([halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat)
+> 
+>> 
 
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.
 
@@ -33,7 +32,7 @@ With a following wind and good conditions, can achieve speeds approaching 8 knot
 In addition to the hold and storage, the lower decks have a galley, mess, crew quarters. There are two larger cabins usually reserved for paying passengers and older halflings. Big folk have little choice but to sleep in hammocks on the top deck, which is the only one sized for big folk. Not super comfortable, and no privacy, but manageable.
 ## Crew
 
-As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the [Silversongs](<../../groups/halfling-families/silversongs.md>), in this case). 
+As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the Silversongs, in this case). 
 
 - [Harol Silversong](<../../people/halflings/harol-silversong.md>), captain
 - [Dani Silversong](<../../people/halflings/dani-silversong.md>), quartermaster and trade master

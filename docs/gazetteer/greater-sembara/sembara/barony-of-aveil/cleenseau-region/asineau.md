@@ -9,9 +9,9 @@ partOf: Barony of Aveil
 title: Asineau
 ---
 # Asineau
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information  
+> pop. 411  
+>   
+>> 
 
 A manorial fishing village on the banks of the Enst, two miles downriver of [Aulout](<./aulout.md>).

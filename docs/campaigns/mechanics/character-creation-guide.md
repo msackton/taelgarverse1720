@@ -19,7 +19,7 @@ Taelgar has extensive homebrewed species options, that exist in various stages o
 
 Playable species include the following, listed in order of unusualness:
 - [Humans](<species/playing-a-human.md>), the most common species across Taelgar, with a variety of diverse cultures and religions.
-- [Elves](<species/playing-an-elf.md>), [Dwarves](<species/playing-a-dwarf.md>), [Lizardfolk](<species/playing-a-lizardfolk.md>), [Stoneborn](<species/playing-a-stoneborn.md>), and [Halflings](<species/playing-a-halfling.md>), known as the [Elder Folk](<../../species/children-of-the-embodied-gods/elder-folk.md>), the creations of the embodied gods, the Firstborn of their people. While Halflings, Dwarves, and Lizardfolk are relatively common travelers among human cities, and can frequently be encountered far from their homelands, Elves and Stoneborn are rare, and many commoners will have never met a member of these species before. 
+- [Elves](<species/playing-an-elf.md>), [Dwarves](<species/playing-a-dwarf.md>), [Lizardfolk](<species/playing-a-lizardfolk.md>), [Stoneborn](<species/playing-a-stoneborn.md>), and [Halflings](<species/playing-a-halfling.md>), known as the Elder Folk, the creations of the embodied gods, the Firstborn of their people. While Halflings, Dwarves, and Lizardfolk are relatively common travelers among human cities, and can frequently be encountered far from their homelands, Elves and Stoneborn are rare, and many commoners will have never met a member of these species before. 
 - The various [Fey](<species/playing-a-fey-species.md>), who are the subject of many wild tales, some true and others not, and while not native to the material plane, are sometimes encountered as visitors to and even residents of human settlements. 
 - [Centaurs](<species/playing-a-centaur.md>), fey who have abandoned the feywild and see themselves as the guardians of Taelgar, are not an unusual sight on their travels across human kingdoms, but rarely stay long in human cities. 
 - The flying [Kenku](<species/playing-a-kenku.md>), mysterious and secretive, who rarely leave their northern homelands, but are sometimes seen in the human cities and settlements, especially along the [Green Sea](<../../gazetteer/green-sea.md>). 
@@ -27,7 +27,7 @@ Playable species include the following, listed in order of unusualness:
 
 While these are theoretically playable races, they should be discussed as they are either extremely unusual, or usually considered evil by humans:
 - Most [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) are mystically bound at birth by a ritual to dedicate their lives to violence in the service of Thark, the god of war without end, but rumors persist across the human world of free orcs who have escaped these bonds. 
-- [Goblins](<../../species/goblinoids/goblins.md>), who were created by a malevolent force to serve their hobgoblin and bugbear masters; those who escape are as likely to be pitied as scorned. 
+- Goblins, who were created by a malevolent force to serve their hobgoblin and bugbear masters; those who escape are as likely to be pitied as scorned. 
 
 Species not listed here are not available to choose as playable race in Taelgar by default. If you would like to play something different from the options here, I am open to discuss whether there is a way for this species to fit into the world of Taelgar, without any promises. 
 ## Backgrounds

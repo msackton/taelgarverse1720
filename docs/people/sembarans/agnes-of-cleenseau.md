@@ -17,17 +17,11 @@ whereabouts:
 title: Agnés of Cleenseau
 hide_toc: true
 ---
-# The Agnés of Cleenseau
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle }   
-
+# Agnés of Cleenseau
+>[!info]+ Biographical Info
+> A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>>  Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on December 7th, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) 
 
 Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)

@@ -11,13 +11,9 @@ whereabouts: Tokra
 title: Delig Hardstone
 hide_toc: true
 ---
-# The Delig Hardstone
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Delig Hardstone
+>[!info]+ Biographical Info
+> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+>> 
 
 Patriach of the Hardstone clan, father to Dag Hardstone. 

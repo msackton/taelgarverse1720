@@ -15,15 +15,11 @@ whereabouts:
 title: Caelynn the Seer
 hide_toc: true
 ---
-# The Caelynn the Seer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Caelynn the Seer
+>[!info]+ Biographical Info  
+> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+>>   
+>> 
 
 A fey woman from across the mountains, from the fey realm of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview

@@ -55,14 +55,14 @@ title: Cleenseau Campaign Index of NPCs
 
 * [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
 * [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
-* [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
+* Wakog, an ogre, now dead
 
 ### Of a Mysterious Nature
 
 * [Narrisa de Abadelle](<../../people/sembarans/narrisa-de-abadelle.md>), a paladin arrived unexpected from the Feywild
 ### In Evis, Maseau and Points South
 
-* [Lucas](<../../people/sembarans/lucas.md>), a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
+* Lucas, a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
 * [Guy de Varan](<../../people/sembarans/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
 
 ### Farther Afield

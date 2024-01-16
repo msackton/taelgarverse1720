@@ -14,13 +14,11 @@ title: Beli
 hide_toc: true
 ---
 # Beli
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+>   
+>   
+>> 
 
 An initiate of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>), a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 

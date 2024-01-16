@@ -8,10 +8,9 @@ whereabouts:
 title: Far South
 ---
 # The Far South
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 ## Overview
 
@@ -21,7 +20,7 @@ Largely untouched by the [Great War](<../../events/1500s/great-war.md>), the lan
 
 - To the north, this region is bordered by the northern edge of the ~Great Desert~.
 - To the east, this region is bordered by the ~Eastern Ocean~.
-- To the west, this region is bordered by the eastern edge of the [Sea of Storms](<../greater-dunmar/sea-of-storms.md>) and the hills and badlands that mark the eastern edge of the [Istaros Watershed](<../istaros-watershed/istaros-watershed.md>)
+- To the west, this region is bordered by the eastern edge of the [Sea of Storms](<../greater-dunmar/sea-of-storms.md>) and the hills and badlands that mark the eastern edge of the Istaros Watershed
 
 Little is known about the southern reaches of this region.
 

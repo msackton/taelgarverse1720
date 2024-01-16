@@ -12,12 +12,9 @@ title: Obel
 hide_toc: true
 ---
 # Obel
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 An old ranger of the Te'kula who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 

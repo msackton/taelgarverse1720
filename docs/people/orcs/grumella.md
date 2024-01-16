@@ -14,13 +14,11 @@ whereabouts:
 title: Grumella the Vengeful
 hide_toc: true
 ---
-# The Grumella the Vengeful
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+# Grumella the Vengeful
+>[!info]+ Biographical Info  
+> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
+>   
+>   
+>> 
 
-    { .bio }
-
-</div>
-
-
-The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Gray Tempest](<../pcs/gray-tempest/gray-tempest.md>) and their allies in the [The Battle of Voltara](<../../events/1700s/1747/10/the-battle-of-voltara.md>). 
+The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the Gray Tempest and their allies in the The Battle of Voltara. 

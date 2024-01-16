@@ -9,7 +9,7 @@ While the existence of mystery cults is well known, the exact magic and practice
 
 The more prominent ones include:
 - [Aagir Mystai](<./aagir-mystai.md>), known as the Aagiri, who patrol the roads of Dunmar and keep the land safe by might of arms. 
-- [Sonkar Mystai](<./sonkar-mystai.md>), who can see the truth of things and are often called to resolve disputes of justice
+- Sonkar Mystai, who can see the truth of things and are often called to resolve disputes of justice
 - [Lakan Mystai](<./lakan-mystai.md>), who keep the secrets of Dunmari history, and also study the secrets of metaphysics and the multiverse
 - [Shakun Mystai](<./shakun-mystai.md>), who magically defend the eastern borders of the [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>).
 - [Bhishma Mystai](<./order-of-the-awakened-soul.md>), known as the Order of the Awakened Soul, who preserve the stories of the Dunmari people

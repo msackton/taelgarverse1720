@@ -26,17 +26,14 @@ whereabouts:
 title: Dee Wildcloak
 hide_toc: true
 ---
-# The Dee Wildcloak
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
-
+# Dee Wildcloak
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Wildcloaks
+> 
+>> 
+>> 
+>> 
+>> 
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships

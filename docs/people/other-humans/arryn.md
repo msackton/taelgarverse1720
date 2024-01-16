@@ -15,13 +15,9 @@ title: Arryn
 hide_toc: true
 ---
 # Arryn
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [human](<../../species/humans/humans.md>) (he/him)  
+>> 
 
 A wizard of significant power, originally from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>); dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) in particular. Freed from the [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>), [Alimash](<../pcs/dunmar-fellowship/guests/alimash.md>), and [Shoal](<../pcs/dunmar-fellowship/guests/shoal.md>) during Wellby's adventures in the eastern Green Sea
 

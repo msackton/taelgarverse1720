@@ -18,16 +18,11 @@ title: Adam
 hide_toc: true
 ---
 # Adam
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Fought alongside Clee on October 21th, 1719 the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
+>>  Fought alongside the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on October 21st, 1719 in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) 
 
 A solider in the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), who went into the forest with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) after the spider attacks on [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He greatly admires [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>).

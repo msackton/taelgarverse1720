@@ -16,15 +16,12 @@ whereabouts:
 title: Alton Greenleaf
 hide_toc: true
 ---
-# The Alton Greenleaf
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Alton Greenleaf
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Greenleafs](<../../groups/halfling-families/greenleafs.md>)
+> 
+>> 
+>> 
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships

@@ -13,13 +13,9 @@ affiliations:
 - {org: Nayan Dynasty, type: primary}
 hide_toc: true
 ---
-# The Samraat Nayan Yarad
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Samraat Nayan Yarad
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+> 
 
 The ruler of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) during and after the [Second Hobgoblin War](<../../../events/1600s/second-hobgoblin-war.md>).

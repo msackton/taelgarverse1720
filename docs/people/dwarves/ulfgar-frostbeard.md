@@ -13,14 +13,12 @@ whereabouts: Chardon
 title: Ulfgar Frostbeard
 hide_toc: true
 ---
-# The Ulfgar Frostbeard
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Ulfgar Frostbeard
+>[!info]+ Biographical Info
+> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+> 
+> 
+>> 
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>).  Author of [The Lore of the Feywild](<../../things/books/the-lore-of-the-feywild.md>). 
 

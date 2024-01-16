@@ -8,12 +8,11 @@ whereabouts: Xurkhaz
 title: Uzgukhar
 ---
 # Uzgukhar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
+>[!info]+ Information
+> 
+>> 
 
-
-Uzgukhar is the capitol and primary city of the kingdom of [Xurkhaz](<./xurkhaz.md>), home of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>). It is a desert city, nestled between the [Kulthul](<../rivers/kulthul.md>) and the [Istaros](<../rivers/istaros.md>) rivers, consisting largely of mud brick buildings decorated with colorful murals and intricate carvings. 
+Uzgukhar is the capitol and primary city of the kingdom of [Xurkhaz](<./xurkhaz.md>), home of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>). It is a desert city, nestled between the Kulthul and the [Istaros](<../rivers/istaros.md>) rivers, consisting largely of mud brick buildings decorated with colorful murals and intricate carvings. 
 ## Landmarks
 Notable landmarks in Uzgukhar include the palace, a large cattle market, the plaza of freedom, and the hall of the ancestors. 
 

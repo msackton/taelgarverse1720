@@ -14,12 +14,9 @@ title: Claudio
 hide_toc: true
 ---
 # Claudio
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is Lucius's father, but does not currently live with his family. 

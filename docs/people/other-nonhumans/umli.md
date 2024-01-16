@@ -16,15 +16,12 @@ whereabouts:
 title: Umli the Exile
 hide_toc: true
 ---
-# The Umli the Exile
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Umli the Exile
+>[!info]+ Biographical Info  
+> A [stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (she/her)  
+>   
+>>   
+>> 
 
 Umli is a stoneborn exile living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), a master metalworker, and a teacher. 
 

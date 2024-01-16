@@ -19,18 +19,16 @@ whereabouts:
 title: Chenna Goodbarrel
 hide_toc: true
 ---
-# The Chenna Goodbarrel
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+# Chenna Goodbarrel
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Goodbarrels
+> 
+> 
+>> 
+>> 
+>> 
 
-    { .bio }
-
-</div>
-
-
-
-
-Chenna Goodbarrel owns a small and charming halfling tavern in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>) called *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
+Chenna Goodbarrel owns a small and charming halfling tavern in Fairgate Outer called *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships
 - [Harriet Goodbarrel](<./harriet-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed

@@ -13,13 +13,11 @@ title: Roscelia
 hide_toc: true
 ---
 # Roscelia
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+> 
+>> 
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.
 

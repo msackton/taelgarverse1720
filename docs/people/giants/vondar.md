@@ -15,12 +15,8 @@ title: Vondar
 hide_toc: true
 ---
 # Vondar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [giant](<../../species/children-of-the-divine/giants.md>) (cursed) (he/him)  
+>> 
 
 A cursed giant who guards the passes from [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>) into [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), asking for a toll of a memory in order to pass. Killed, but presumably not permanently, by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and friends.

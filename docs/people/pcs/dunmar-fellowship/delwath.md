@@ -19,13 +19,12 @@ title: Delwath
 hide_toc: true
 ---
 # Delwath
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> an [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>), he/him of the [Dunmar Fellowship](<./dunmar-fellowship.md>)
+([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)
+> 
+> 
+>> 
 
 ![Delwath Portrait](../../../assets/delwath-portrait.jpg)
 

@@ -14,14 +14,11 @@ affiliations:
 died: 1496
 hide_toc: true
 ---
-# The King Derik II
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# King Derik II
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
 The second king of modern Sembara. He reigned from his father's death in DR 1462 until his death in DR 1496. 
 

@@ -9,10 +9,9 @@ pronunciation: Broom-cliff
 title: Barony of Brumecliff
 ---
 # The Barony of Brumecliff
-:speaker:{ .middle } *(Broom-cliff)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
+*(Broom-cliff)*
+>[!info]+ Information
+> 
+>> 
 
-
-Brumecliff is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) and north of the [March of Mostreve](<./march-of-mostreve.md>). It is primar
+Brumecliff is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) and north of the March of Mostreve. It is primar

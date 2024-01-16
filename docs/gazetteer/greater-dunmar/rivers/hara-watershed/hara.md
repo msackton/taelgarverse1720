@@ -8,10 +8,9 @@ whereabouts: Hara Watershed
 title: Hara
 ---
 # Hara
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Hara flows 750 miles through the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>), from its source in the foothills of the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) to the ~Hara River Gorge~. Once, it flowed more than twice that length in total, joining the [Istaros](<../../../istaros-watershed/rivers/istaros.md>) north of [Drankor](<../../../../history/drankorian-era/drankor.md>). Whether it still does after the cataclysms and upheavals following the [Great War](<../../../../events/1500s/great-war.md>), no one knows.
 
@@ -19,7 +18,7 @@ At its source, the Hara is a swift flowing mountain river, descending to the  fl
 
 South of the confluence with the [Thandar](<./thandar.md>), the Hara turns broad and sluggish as it flows through the ~North Tokra Plains~. Here, the Hara frequently floods during the monsoon season. 
 
-The region in the immediate vicinity of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) is rocky and hard, especially just south of the city, where the rocky land of the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) protrudes into the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>). Here, the river widens again as it passes beneath the ~Tokra Bridge~. 
+The region in the immediate vicinity of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) is rocky and hard, especially just south of the city, where the rocky land of the Darba Highlands protrudes into the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>). Here, the river widens again as it passes beneath the ~Tokra Bridge~. 
 
 South of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), the river passes through a series of small canyons on the rugged ~Southern Tokra Plains~. The [Sukal](<./sukal.md>) joins between [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) and [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>), and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 

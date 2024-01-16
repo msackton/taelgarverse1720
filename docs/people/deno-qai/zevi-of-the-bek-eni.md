@@ -15,13 +15,10 @@ title: Zevi
 hide_toc: true
 ---
 # Zevi
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 A scout and warrior of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>). Part of the patrol that originally found the party in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). 
 

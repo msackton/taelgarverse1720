@@ -15,15 +15,12 @@ title: Skoda
 hide_toc: true
 ---
 # Skoda
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+>[!info]+ Biographical Info
+> An Islander kenku (she/her)
+> 
+>> 
 
-    { .bio }
-
-</div>
-
-
-A kenku woman in late middle age, who travels the islands of the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>) with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
+A kenku woman in late middle age, who travels the islands of the Eastern Green Sea with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
 
 In early October 1748, she was captured by a recently awakened aboleth and dragged to its undersea lair with [Nahto](<./nahto.md>). She was rescued, along with other captives, by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) and his companions on October 14, 1748. However, she suffered from the aboleth's curse, and could no longer survive without frequently being immersed in water. After telling [Wellby](<../pcs/dunmar-fellowship/wellby.md>) of her friend [Arryn the Wanderer](<../other-humans/arryn.md>), a wizard living in the northern part of the islands who could aid him with magic to make his way to the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), she traveled with other victims of the aboleth to the sea [Elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) village off the coast of [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), where she remains a guest until a cure for the aboleth's curse can be found. 
 

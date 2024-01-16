@@ -8,13 +8,8 @@ ancestry: Tollender
 title: Adam Gower
 hide_toc: true
 ---
-# The Adam Gower
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Adam Gower
+>[!info]+ Biographical Info  
+> A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)
 
 Factor, treasurer, and agent for the Dunmar Fellowship in Tollen

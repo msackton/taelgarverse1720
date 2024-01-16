@@ -9,9 +9,8 @@ aliases: [North Fork, North Fork of the Enst]
 title: Enst (North Fork)
 ---
 # The Enst (North Fork)
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 One of the three rivers (the others being the [South Fork](<./enst-south-fork.md>) and [Middle Fork](<./enst-middle-fork.md>)) that join to form the [Enst](<./enst.md>) just west of Lysandale.

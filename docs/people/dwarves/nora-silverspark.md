@@ -15,13 +15,10 @@ whereabouts:
 title: Nora Silverspark
 hide_toc: true
 ---
-# The Nora Silverspark
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Nora Silverspark
+>[!info]+ Biographical Info
+> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)
+> 
+>> 
 
 A dwarven warrior, once a ghost in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 

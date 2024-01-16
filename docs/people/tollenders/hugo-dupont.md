@@ -16,15 +16,13 @@ whereabouts:
 title: Hugo Dupont
 hide_toc: true
 ---
-# The Hugo Dupont
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Hugo Dupont
+>[!info]+ Biographical Info  
+> An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>   
+>>   
+>> 
 
 
 

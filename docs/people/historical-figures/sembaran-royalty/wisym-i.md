@@ -16,13 +16,10 @@ leaderOf:
 - {place: Sembara}
 hide_toc: true
 ---
-# The King Wisym I
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+# King Wisym I
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
-    { .bio }
-
-</div>
-
-
-The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the [Interregum of 1568](<../../../events/1500s/1568/interregum-of-1568.md>). He was a mostly ineffectual king and was partly selected as a compromise king because as a gay man he had never had children with his husband and thus had no immediate heir.
+The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the Interregum of 1568. He was a mostly ineffectual king and was partly selected as a compromise king because as a gay man he had never had children with his husband and thus had no immediate heir.

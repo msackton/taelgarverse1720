@@ -8,19 +8,18 @@ typeOf: realm
 title: Dunmar
 ---
 # Dunmar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+> 
+>> 
 
 Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands of ~Northern Continent~, bordered by the coast of the [Nevos Sea](<../../../west-coast/nevos-sea.md>) and the [Myraeni Gap](<../../myraeni-gap.md>) in the west, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) in the north, and the  barren wastelands of the [Nashtkar](<../../dunmari-basin/nashtkar.md>) and the [Garamjala Desert](<../../garamjala-plateau/garamjala-desert.md>) in the east and south. Founded in DR 1173 by the great leader and first Samraat [Bhishma](<../../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [Great War](<../../../../events/1500s/great-war.md>) and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
 
-Dunmar was founded on the territory that was formerly the heartland of the [Drankorian Empire](<../../../../history/drankorian-era/drankorian-empire.md>), but left largely, although not entirely, empty by the [First Plague](<../../../../events/1000s/1059/first-plague.md>). The palace and administrative center of the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), the founding dynasty of Dunmar, was [Kharsan](<../../dunmari-basin/kharsan.md>) and the [Kharja](<../../../istaros-watershed/rivers/kharja.md>) river valley. When the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>) was ended after a disastrous attempt to invade and cleanse [Drankor](<../../../../history/drankorian-era/drankor.md>), after a short period of chaos, the political and cultural center of the country moved west under the [Dharajun Dynasty](<../../../../groups/dunmari-dynasties/dharajun-dynasty.md>), to the city of [Tokra](<central-dunmar/tokra/tokra.md>). Dunmar reached its peak of power and influence during this time, thanks in part to its agricultural wealth (largely in horses and sheep) and overland trade network connecting the east and west. 
+Dunmar was founded on the territory that was formerly the heartland of the [Drankorian Empire](<../../../../history/drankorian-era/drankorian-empire.md>), but left largely, although not entirely, empty by the [First Plague](<../../../../events/1000s/1059/first-plague.md>). The palace and administrative center of the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), the founding dynasty of Dunmar, was [Kharsan](<../../dunmari-basin/kharsan.md>) and the [Kharja](<../../../istaros-watershed/rivers/kharja.md>) river valley. When the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>) was ended after a disastrous attempt to invade and cleanse [Drankor](<../../../../history/drankorian-era/drankor.md>), after a short period of chaos, the political and cultural center of the country moved west under the Dharajun Dynasty, to the city of [Tokra](<central-dunmar/tokra/tokra.md>). Dunmar reached its peak of power and influence during this time, thanks in part to its agricultural wealth (largely in horses and sheep) and overland trade network connecting the east and west. 
 
-During the [Great War](<../../../../events/1500s/great-war.md>), however, Dunmar suffered terribly. The [Dharajun Dynasty](<../../../../groups/dunmari-dynasties/dharajun-dynasty.md>) was destroyed, many Dunmari died in battle against [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s armies, and the eastern part of the country was destroyed. After [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s defeat, the land itself was reshaped: the [Garamjala Plateau](<../../garamjala-plateau/garamjala-plateau.md>) and the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rose violently and suddenly, shifting the course of the [Mahar](<../../../istaros-watershed/rivers/istaros.md>) and creating the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>). Yet the Dunmari survived, and built a new country in the changed land. 
+During the [Great War](<../../../../events/1500s/great-war.md>), however, Dunmar suffered terribly. The Dharajun Dynasty was destroyed, many Dunmari died in battle against [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s armies, and the eastern part of the country was destroyed. After [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s defeat, the land itself was reshaped: the [Garamjala Plateau](<../../garamjala-plateau/garamjala-plateau.md>) and the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rose violently and suddenly, shifting the course of the [Mahar](<../../../istaros-watershed/rivers/istaros.md>) and creating the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>). Yet the Dunmari survived, and built a new country in the changed land. 
 
-Now, Dunmar is culturally divided by the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>). To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>) maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
+Now, Dunmar is culturally divided by the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the Darba Highlands. To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>) maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
 
 Nonetheless, the Dunmari remain united by their worship of the [Five Siblings](<../../../../cosmology/religions/five-siblings/five-siblings.md>), the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
 
@@ -30,7 +29,7 @@ Nonetheless, the Dunmari remain united by their worship of the [Five Siblings](<
 
 Dunmar is the largest and most significant populated realm in the [Greater Dunmar](<../../greater-dunmar.md>) region, covering nearly 400,000 square miles, although much of that territory is sparsely settled or uninhabited desert.  
 
-On the western coast, the broad, flat [Nayan Floodplains](<../../nayan-floodplains.md>) stretch between the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Nevos Sea](<../../../west-coast/nevos-sea.md>), a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) stretch between the northern edge of the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the ~Darba Coastal Mountains~. 
+On the western coast, the broad, flat Nayan Floodplains stretch between the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Nevos Sea](<../../../west-coast/nevos-sea.md>), a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the Darba Highlands stretch between the northern edge of the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the ~Darba Coastal Mountains~. 
 
 Inland, Dunmar is dominated by the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>), a flat depression surrounded by the [Copper Hills](<../../darba-highlands/copper-hills.md>), the ~Darba Coastal Mountains~, the [Myraeni Gap](<../../myraeni-gap.md>), the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>), and the high interior [Garamjala Plateau](<../../garamjala-plateau/garamjala-plateau.md>), now extremely arid and primarily [desert](<../../garamjala-plateau/garamjala-desert.md>).
 
@@ -38,16 +37,16 @@ Inland, Dunmar is dominated by the [Dunmari Basin](<../../dunmari-basin/dunmari-
 
 Dunmar is a subtropical country, with hot, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [Nevos Sea](<../../../west-coast/nevos-sea.md>) inland during the summer months, and the [Yuvanti Mountains](<../../yuvanti-mountains.md>), which create a rain shadow over the Garamajala. 
 
-The [Nayan Floodplains](<../../nayan-floodplains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>) is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
+The Nayan Floodplains and the Darba Highlands generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>) is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 
 ### Regions
 
 Although there are no formal administrative units within Dunmar larger than individual temple districts, conventionally Dunmar consists of four major regions.
 
 - [Eastern Dunmar](<eastern-dunmar/eastern-dunmar.md>), roughly the easternmost third of the country, contains the land around [Karawa](<eastern-dunmar/karawa.md>) and the [Red Mesa](<eastern-dunmar/red-mesa.md>), and the fringes of settled land along the [Garamjala Desert](<../../garamjala-plateau/garamjala-desert.md>), as well as the more habitable [Samtal](<../../dunmari-basin/samtal.md>) north of the ~Karawa Desert~.
-- [Central Dunmar](<central-dunmar/central-dunmar.md>), the largest region by land area, is dominated by the [Hara Watershed](<../../rivers/hara-watershed/hara-watershed.md>), and contains the important cities of [Tokra](<central-dunmar/tokra/tokra.md>), [Askandi](<central-dunmar/askandi.md>), and [Songara](<central-dunmar/songara.md>), as well as the fertile grasslands of the ~Songara Plains~. 
-- [Coastal Dunmar](<coastal-dunmar/coastal-dunmar.md>), the smallest and wealthiest region, is dominated by the port city of [Darba](<coastal-dunmar/darba/darba.md>) and the ~Darba River~, which flows through the [Darba Highlands](<../../darba-highlands/darba-highlands.md>). 
-- [Western Dunmar](<western-dunmar/western-dunmar.md>), the administrative and political capital of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>), and the most populous region of Dunmar, contains the city of [Nayahar](<western-dunmar/nayahar.md>) and the [Nayan Floodplains](<../../nayan-floodplains.md>).
+- [Central Dunmar](<central-dunmar/central-dunmar.md>), the largest region by land area, is dominated by the Hara Watershed, and contains the important cities of [Tokra](<central-dunmar/tokra/tokra.md>), [Askandi](<central-dunmar/askandi.md>), and [Songara](<central-dunmar/songara.md>), as well as the fertile grasslands of the ~Songara Plains~. 
+- [Coastal Dunmar](<coastal-dunmar/coastal-dunmar.md>), the smallest and wealthiest region, is dominated by the port city of [Darba](<coastal-dunmar/darba/darba.md>) and the ~Darba River~, which flows through the Darba Highlands. 
+- [Western Dunmar](<western-dunmar/western-dunmar.md>), the administrative and political capital of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>), and the most populous region of Dunmar, contains the city of [Nayahar](<western-dunmar/nayahar.md>) and the Nayan Floodplains.
 
 Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territory of the realm, are the [Yuvanti Mountains](<../../yuvanti-mountains.md>), home to the dwarves of [Nardith](<../nardith/nardith.md>). 
 
@@ -57,7 +56,7 @@ The southern and eastern borders of Dunmar are dangerous wildlands. To the south
 
 To the west, Dunmar is bordered by the [Nevos Sea](<../../../west-coast/nevos-sea.md>), the ~Darba Coastal Mountains~, and the [Myraeni Gap](<../../myraeni-gap.md>), beyond which lie the islands of [Illoria](<../../../west-coast/illoria.md>), and the [Chardonian Empire](<../../../west-coast/chardonian-empire/chardonian-empire.md>). 
 
-To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  [Greater Sembara](<../../../greater-sembara/greater-sembara.md>) region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
+To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  Greater Sembara region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
 
 ## History
 
@@ -66,23 +65,23 @@ Dunmar was founded in DR 1173, by a people from far to the east and south, who j
 ### Aatmaji Dynasty
 DR 1173 - DR 1395
 
-*See also: [Timeline of the Aatmaji Dynasty](<../../../../history/timeline-of-the-aatmaji-dynasty.md>)*
+*See also: Timeline of the Aatmaji Dynasty*
 
 The first Samraat of Dunmar, the blessed [Bhishma](<../../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) who became a deity after her death, founded the ruling Aatmaji dynasty, which ruled Dunmar for 212 years. During this time, [Kharsan](<../../dunmari-basin/kharsan.md>) was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [Drankor](<../../../../history/drankorian-era/drankor.md>), a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [Dasa](<../../../../people/historical-figures/dunmari-rulers/dasa.md>), the last of the Aatmaji rulers attempted to invade [Drankor](<../../../../history/drankorian-era/drankor.md>), and failed, disastrously, never to return. 
 
 ### Dharajun Dynasty
 DR 1403 - DR 1545
 
-*See also: [Timeline of the Dharajun Dynasty](<../../../../history/timeline-of-the-dharajun-dynasty.md>)*
+*See also: Timeline of the Dharajun Dynasty*
 
-The [Dharajun Dynasty](<../../../../groups/dunmari-dynasties/dharajun-dynasty.md>) was founded by Samraat Dharajun [Jita](<../../../../people/historical-figures/dunmari-rulers/jita.md>), a young woman from the ~Songara Plains~, skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [Tokra](<central-dunmar/tokra/tokra.md>), and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [hobgoblin](<../../../../species/goblinoids/hobgoblins.md>) threat grew in the north, and extensive fortifications along the ~AncientWestRoad~ and the [Sone](<../../rivers/hara-watershed/sone.md>) were constructed. The Dharajun Dynasty fell in the [Great War](<../../../../events/1500s/great-war.md>), as Dunmar faced its greatest threat. 
+The Dharajun Dynasty was founded by Samraat Dharajun [Jita](<../../../../people/historical-figures/dunmari-rulers/jita.md>), a young woman from the ~Songara Plains~, skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [Tokra](<central-dunmar/tokra/tokra.md>), and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the hobgoblin threat grew in the north, and extensive fortifications along the ~AncientWestRoad~ and the [Sone](<../../rivers/hara-watershed/sone.md>) were constructed. The Dharajun Dynasty fell in the [Great War](<../../../../events/1500s/great-war.md>), as Dunmar faced its greatest threat. 
 
 ### Nayan Dynasty
 DR 1557 - 
 
-*See also: [Timeline of the Nayan Dynasty](<../../../../history/timeline-of-the-nayan-dynasty.md>)*
+*See also: Timeline of the Nayan Dynasty*
 
-The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the [Nayan Floodplains](<../../nayan-floodplains.md>) emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the [Nayan](<../../rivers/nayan.md>) River, and slowly reclaims land as far east as the ~Karawa Desert~. 
+The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the Nayan Floodplains emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the Nayan River, and slowly reclaims land as far east as the ~Karawa Desert~. 
 
 The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was marked by a series of wars: 
 - The [Fire War](<../../../../events/1500s/fire-war.md>), against the fire giant [Mavdyr](<../../../../people/historical-figures/mavdyr.md>) and his allies
@@ -103,7 +102,7 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [Five Siblings](<../../../../cosmology/religions/five-siblings/five-siblings.md>). The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [Dunmari architectural styles](<./dunmari-architecture.md>). 
 
-During the Nayan Dynasty, a more sedentary culture has developed on the fertile [Nayan Floodplains](<../../nayan-floodplains.md>) and [Darba Highlands](<../../darba-highlands/darba-highlands.md>). 
+During the Nayan Dynasty, a more sedentary culture has developed on the fertile Nayan Floodplains and Darba Highlands. 
 
 ### Political Organization
 

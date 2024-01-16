@@ -8,9 +8,8 @@ aliases: [River Masance, Masance River]
 title: Masance
 ---
 # Masance
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Masance flows south, and is rocky and shallow.

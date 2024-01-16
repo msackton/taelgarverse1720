@@ -16,14 +16,11 @@ whereabouts: The Red Lily Inn
 title: Wes Strongbones
 hide_toc: true
 ---
-# The Wes Strongbones
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Wes Strongbones
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Strongbones
+> 
+>> 
+>> 
 
 Wes Strongbones runs The Red Lily Inn, a halfling inn in Tokra, with his two sons Cade Strongbones and Tye Strongbones. He is a widower, having lost his wife to illness in the late 1730s. 

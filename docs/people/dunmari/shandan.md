@@ -15,13 +15,11 @@ title: Shandan
 hide_toc: true
 ---
 # Shandan
-:speaker:{ .middle } *(Shun-dhun)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+*(Shun-dhun)*
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+> 
+>> 
 
 A charismatic leader of a warband based near [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). 

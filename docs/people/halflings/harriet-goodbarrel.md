@@ -20,20 +20,18 @@ whereabouts:
 title: Harriet Goodbarrel
 hide_toc: true
 ---
-# The Harriet Goodbarrel
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
+# Harriet Goodbarrel
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)
+> 
+> 
+>> 
+>> 
+>> 
 
 Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
 
-Harriet married into the [Goodbarrel clan](<../../groups/halfling-families/goodbarrels.md>); while she never had her own children, she feels a matronly duty to all the scattered Goodbarrel youth. 
+Harriet married into the Goodbarrel clan; while she never had her own children, she feels a matronly duty to all the scattered Goodbarrel youth. 
 ## Relationships
 - [Chenna Goodbarrel](<./chenna-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed by marriage

@@ -15,13 +15,10 @@ title: Frankar
 hide_toc: true
 ---
 # Frankar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+> 
+>> 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 
 

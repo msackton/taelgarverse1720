@@ -13,14 +13,11 @@ title: Eloise
 hide_toc: true
 ---
 # Eloise
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
 The youngest daughter of [Charlotte I](<./charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
-Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the [Interregum of 1568](<../../../events/1500s/1568/interregum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 
+Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the Interregum of 1568, as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 

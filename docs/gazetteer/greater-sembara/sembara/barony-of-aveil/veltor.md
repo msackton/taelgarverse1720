@@ -9,10 +9,10 @@ population: 399
 title: Veltor
 ---
 # Veltor
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> pop. 399
+> 
+> 
+>> 
 
 Veltor is an ancient fortified village at the base of the [Aveil Ridge](<./aveil-ridge.md>), sitting astride the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). It is the seat of the Baron of Aveil.

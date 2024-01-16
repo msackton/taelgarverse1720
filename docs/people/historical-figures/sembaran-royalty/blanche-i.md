@@ -17,14 +17,11 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-# The Queen Blanche I
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+# Queen Blanche I
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
-    { .bio }
-
-</div>
-
-
-A ruler of Sembara during the 1560s, she was the second child of [Reginald](<./reginald.md>). Her death launched the [Interregum of 1568](<../../../events/1500s/1568/interregum-of-1568.md>), as her sisters, [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>) disputed the succession.
+A ruler of Sembara during the 1560s, she was the second child of [Reginald](<./reginald.md>). Her death launched the Interregum of 1568, as her sisters, [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>) disputed the succession.
 

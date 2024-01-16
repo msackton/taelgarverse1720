@@ -15,12 +15,10 @@ born: 1701
 title: Kethra Silverspark
 hide_toc: true
 ---
-# The Kethra Silverspark
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Kethra Silverspark
+>[!info]+ Biographical Info
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Silverspark Clan
+> 
+> 
+>> 
 

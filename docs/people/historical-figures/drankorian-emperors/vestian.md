@@ -11,14 +11,9 @@ gender: male
 title: Emperor Vestian
 hide_toc: true
 ---
-# The Emperor Vestian
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Emperor Vestian
+>[!info]+ Biographical Info  
+> A [human](<../../../species/humans/humans.md>) (he/him)
 
 A Drankorian emperor, supposedly [Helea](<./helea.md>)'s successor.
 

@@ -10,7 +10,7 @@ title: Cleenseau Campaign - Timeline
 ### March
 * [Wymar Essford](<../../people/sembarans/wymar-essford.md>) and more than a dozen other minor lords in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), and the small baronies south of the Enst and around the [Aine Hills](<../../gazetteer/greater-sembara/sembara/aine-hills.md>) developed dementia and other illnesses
 ### August
-* Mid August: The beginning of [Wakog's](<../../people/other-nonhumans/wakog.md>) raids
+* Mid August: The beginning of Wakog's raids
 ### October
 * October 16th: The [River Enst floods](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>) 
 * October 17th: [Najeer](<../../people/pcs/cleenseau/viepuck.md>) arrives in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
@@ -25,7 +25,7 @@ title: Cleenseau Campaign - Timeline
 * October 23rd: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>), [Najeer](<../../people/pcs/cleenseau/viepuck.md>), and [Celyn](<../../people/pcs/cleenseau/celyn.md>) investigate [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), meet with [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>) and [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>); [Celyn](<../../people/pcs/cleenseau/celyn.md>) communes with fairies;  [Najeer](<../../people/pcs/cleenseau/viepuck.md>) with his egg; [Najeer](<../../people/pcs/cleenseau/viepuck.md>) meets [Conrad](<../../people/sembarans/conrad.md>)
 * October 24th: the party revisits the woods and recovers some spider silk
 * October 22nd - October 28th: [Robin](<../../people/pcs/cleenseau/robin-of-abenfyrd.md>) visits [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>) with [Narrisa](<../../people/sembarans/narrisa-de-abadelle.md>) and hears rumors of an empty and unexpectedly abandoned inn
-* Late October: Many rumors in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>) about [Wakog](<../../people/other-nonhumans/wakog.md>)
+* Late October: Many rumors in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>) about Wakog
 * October 28th: the party hears about the murder of [Gentza](<../../people/lizardfolk/gentza.md>) and visits [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>)
 * October 29th: the party visits [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>)
 * October 30th: the party continues the investigation of [Gentza's](<../../people/lizardfolk/gentza.md>) murder
@@ -41,12 +41,12 @@ title: Cleenseau Campaign - Timeline
 * Week of November 16th: [Abigail Moss](<../../people/sembarans/abigail-moss.md>) first notices blight in her orchard
 * November 26th: [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>) is unexpectedly ordered to [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) by [Quentin](<../../people/sembarans/quentin.md>)
 * November 27th: [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>) marches away
-* November 28th: [Wakog](<../../people/other-nonhumans/wakog.md>) starts marching south towards [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
+* November 28th: Wakog starts marching south towards [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
 * Week of November 28th: The party seeks allies from [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) 
 ### December
 * December 2nd: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>) leaves for [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) with [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>)
-* December 4th: [Guy de Varan](<../../people/sembarans/guy-de-varan.md>) arrives, escaped from [Wakog's](<../../people/other-nonhumans/wakog.md>) camp, telling stories of torture and pillage
-* December 5th: the party prepares and scouts towards [Wakog's](<../../people/other-nonhumans/wakog.md>) camp
+* December 4th: [Guy de Varan](<../../people/sembarans/guy-de-varan.md>) arrives, escaped from Wakog's camp, telling stories of torture and pillage
+* December 5th: the party prepares and scouts towards Wakog's camp
 * December 6th, late afternoon: the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). The party emerges victorious
 * December 10th: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>) returns with rumors of chaos in the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>)
 * December 12th: the party celebrates [Viatela](<../../time/holidays-and-festivals/viatela.md>) and learns of [Eremon's](<../../people/sembarans/eremon.md>) bad dreams of a redcap

@@ -16,13 +16,10 @@ title: Dworic
 hide_toc: true
 ---
 # Dworic
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+>   
+>> 
 
 A dwarven smith, born in [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) before the [Great War](<../../events/1500s/great-war.md>). He was trapped there after the war, but rescued by an expedition sent from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) in DR 1575, led by [Nora](<./nora-silverspark.md>) Silverspark and [Hagrim](<./hagrim.md>) Firebrand. Trapped in the [shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) realm of [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) after the rescue mission failed. 
 

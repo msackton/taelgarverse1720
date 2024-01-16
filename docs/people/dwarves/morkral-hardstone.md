@@ -9,13 +9,8 @@ gender: male
 title: Morkral Hardstone
 hide_toc: true
 ---
-# The Morkral Hardstone
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Morkral Hardstone
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
 
 [Fallthra Hardstone](<./fallthra-hardstone.md>)'s brother. 

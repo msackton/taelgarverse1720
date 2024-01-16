@@ -16,14 +16,10 @@ title: Hralgar
 hide_toc: true
 ---
 # Hralgar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info
+> A [giant](<../../species/children-of-the-divine/giants.md>) (the [storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)
+>> 
+>> 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

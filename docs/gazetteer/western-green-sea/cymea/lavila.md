@@ -6,9 +6,7 @@ typeOf: village
 title: Lavila
 ---
 # Lavila
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> A village in [Cymea](<./cymea.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)
 
 

@@ -15,14 +15,11 @@ affiliations:
 title: King Derik I
 hide_toc: true
 ---
-# The King Derik I
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# King Derik I
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
 The founder of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>), he established modern Sembara at the Treaty of Wisford in the fall of 1429 and reigned over a united Sembara and Tyrwingha until his death in DR 1462.
 

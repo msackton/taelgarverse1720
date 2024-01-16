@@ -11,14 +11,11 @@ whereabouts: Valit
 title: Warin the Woodsman
 hide_toc: true
 ---
-# The Warin the Woodsman
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Warin the Woodsman
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
 
 A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
 

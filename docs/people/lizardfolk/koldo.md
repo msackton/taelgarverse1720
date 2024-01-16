@@ -11,13 +11,10 @@ title: Koldo
 hide_toc: true
 ---
 # Koldo
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)
+> 
+>> 
 
 A reclusive druid, very rarely talks to outsiders.
 

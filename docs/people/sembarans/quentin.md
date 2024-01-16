@@ -16,16 +16,10 @@ title: Quetin
 hide_toc: true
 ---
 # Quetin
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle }   
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
+>> 
+>>  Met with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on November 28th, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) 
 
 

@@ -13,12 +13,9 @@ title: Ninu
 hide_toc: true
 ---
 # Ninu
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A Deno'qai [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
 
 Chief of the largest of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the armbands of Cha’mutte and the lost tanshi.

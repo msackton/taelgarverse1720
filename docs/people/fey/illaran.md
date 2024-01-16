@@ -13,14 +13,10 @@ title: Illaran
 hide_toc: true
 ---
 # Illaran
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+>[!info]+ Biographical Info
+> a korred (he/him)
+>> 
+>> 
 
 Illaran, the guardian of Crystal Peak in the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), is a whimsical fey who wields power over the very stones of his domain.
 ## Overview

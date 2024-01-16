@@ -12,10 +12,9 @@ partOf: Tokra
 title: Lakan Monastery
 ---
 # The Lakan Monastery
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Lakan monastery is set on a hill about 3 1/2 miles south of [Tokra](<./tokra.md>), overlooking the River [Hara](<../../../../rivers/hara-watershed/hara.md>). The ancient road from [Tokra](<./tokra.md>) winds up the cliffs approaching the monastery.
 

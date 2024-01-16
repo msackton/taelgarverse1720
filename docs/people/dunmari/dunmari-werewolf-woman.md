@@ -14,14 +14,11 @@ whereabouts: Tokra
 title: Dunmari Werewolf Woman
 hide_toc: true
 ---
-# The Dunmari Werewolf Woman
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+# Dunmari Werewolf Woman
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>> 
 
 The unnamed woman who was cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), one of the few survivors of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>). 

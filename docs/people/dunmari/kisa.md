@@ -13,12 +13,9 @@ title: Kisa
 hide_toc: true
 ---
 # Kisa
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
 
 A short elderly woman with graying hair and a limp, Kisa, known affectionately as Elder Kisa, is a member of the village council and the unofficial leader of Karawa. She is a slow and deliberate speaker, always thinking first of the safety of the village and its people. 

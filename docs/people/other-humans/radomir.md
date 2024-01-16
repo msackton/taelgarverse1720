@@ -13,13 +13,10 @@ title: Radomir
 hide_toc: true
 ---
 # Radomir
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 A man from a strange place to the east.
 

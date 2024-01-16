@@ -11,14 +11,9 @@ aliases: [Chanceweaver]
 title: Prince of Luck
 hide_toc: true
 ---
-# The Prince of Luck
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Prince of Luck
+>[!info]+ Biographical Info
+> a [archfey](<../../species/children-of-the-divine/fey/fey.md>) (he/him)
 
 The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
 

@@ -12,12 +12,8 @@ title: Robert
 hide_toc: true
 ---
 # Robert
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
+> 
 
 One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He died of wounds inflicted by the enraged ankheg outside the bandit lair. Of unknown origin.

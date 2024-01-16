@@ -14,15 +14,12 @@ title: Makha
 hide_toc: true
 ---
 # Makha
-:speaker:{ .middle } *(MAH-kah)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
-
+*(MAH-kah)*
+>[!info]+ Biographical Info
+> An Islander kenku, he/him
+> 
+>> 
+>> 
 
 The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
 

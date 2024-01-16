@@ -13,13 +13,9 @@ died: 1689
 family: Essford
 hide_toc: true
 ---
-# The Lord Reginald Essford
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Lord Reginald Essford
+>[!info]+ Biographical Info  
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+> 
 
 The father of [Wymar Essford](<../sembarans/wymar-essford.md>) and the founder of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). The husband of [Celine Essford](<./celine-essford.md>)

@@ -7,10 +7,8 @@ partOf: Feywild
 title: Dreamhaven
 ---
 # Dreamhaven
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> A [fey](<../../../../species/children-of-the-divine/fey/fey.md>) realm in the [Feywild](<./feywild.md>), the Echo Realms
 
 
 
@@ -24,7 +22,7 @@ The people of Dreamhaven live in small enclaves, usually hidden out of sight. Th
 
 ## Location
 
-Dreamhaven is north of [Fortune's Rest](<./fortune-s-rest.md>), south of [Whispervale](<./whispervale.md>), and east of [Splendor's Gleam](<./splendor-s-gleam.md>), to the extent that geography can be straightforwardly described in the Feywild. 
+Dreamhaven is north of [Fortune's Rest](<./fortune-s-rest.md>), south of [Whispervale](<./whispervale.md>), and east of Splendor's Gleam, to the extent that geography can be straightforwardly described in the Feywild. 
 
 Dreamhaven is roughly congruent with the  ancient elven kingdom of [Ainumarya](<../../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>) and the northern reaches of the [Chasa River Valley](<../../../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/chasa-river-valley.md>) on the Material Plane. 
 

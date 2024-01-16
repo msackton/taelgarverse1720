@@ -17,13 +17,11 @@ title: Ysabel
 hide_toc: true
 ---
 # Ysabel
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)
+> 
+> 
+>> 
 
 A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and leads a part of the [Lord's Guard](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>). She has many opinions about her employers, in particular [Rinault Essford](<./rinault-essford.md>), and does not always successfully keep them to herself.
 

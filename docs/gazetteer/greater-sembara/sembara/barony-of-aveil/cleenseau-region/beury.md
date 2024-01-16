@@ -11,10 +11,10 @@ pronunciation: BUH-ree
 title: Beury
 ---
 # Beury
-:speaker:{ .middle } *(BUH-ree)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+*(BUH-ree)*
+>[!info]+ Information
+> pop. 392
+> 
+>> 
 
 A large farming village six miles downriver of [Cleenseau](<cleenseau/cleenseau.md>). The seat of [Erick Murtha](<../../../../../people/sembarans/erick-murtha.md>).

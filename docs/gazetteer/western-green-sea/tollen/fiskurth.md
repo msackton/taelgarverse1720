@@ -7,10 +7,9 @@ partOf: Tollen
 title: Fiskurth
 ---
 # Fiskurth
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information  
+>   
+>> 
 
 An ancient district in [Tollen](<./tollen.md>), part of the original Skaer city. Now largely part of the port of [Tollen](<./tollen.md>) and the fishing trade. Contains fish markets, as well as sailor's inns. 
 ### Places

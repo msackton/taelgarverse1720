@@ -12,13 +12,10 @@ affiliations:
 - {org: Dunfry Regiment, type: leader}
 hide_toc: true
 ---
-# The Major Symone Barbet
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    { .bio }
-
-</div>
-
+# Major Symone Barbet
+>[!info]+ Biographical Info  
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+>   
+> 
 
 

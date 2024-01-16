@@ -7,11 +7,9 @@ typeOf: region
 whereabouts: Taelgar
 title: Far North
 ---
-# The Far North
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+# The Far North Region
+>[!info]+ Information
+>> 
 
 ## Overview
 
@@ -28,7 +26,7 @@ This region of Taelgar spans the distant, rumored north, from the polar coasts i
 
 ## Major Features
 
-- ~Kenku Homeland~: *a dry steppe, homeland of the kenku who survived [Pandar](<../../history/pandar.md>); not much worldbuilding detail about it, except that we had imaged it at one point kind of like the interior Canadian plains / northern Great Plains - large mammals, cold winters, mammoths*
+- ~Kenku Homeland~: *a dry steppe, homeland of the kenku who survived Pandar; not much worldbuilding detail about it, except that we had imaged it at one point kind of like the interior Canadian plains / northern Great Plains - large mammals, cold winters, mammoths*
 - ~Northern Boreal Forest~ 1: *there is certainly a large boreal forest somewhere up here, but where is not really decided*
 
 ## Climate

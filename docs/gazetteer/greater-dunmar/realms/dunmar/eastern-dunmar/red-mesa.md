@@ -11,10 +11,9 @@ whereabouts:
 title: Red Mesa
 ---
 # The Red Mesa
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Red Mesa is a large, flat topped mesa of red stone, that rises six hundred feet or more above desert, marked by ochre rock formations that seem almost to pulse with inner life. 
 

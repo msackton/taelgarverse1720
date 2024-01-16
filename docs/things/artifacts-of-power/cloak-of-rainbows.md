@@ -16,12 +16,11 @@ title: Cloak of Rainbows
 hide_toc: true
 ---
 # The Cloak of Rainbows
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Cloak__  
-     
-     
-</div>
-
+>[!info]+ Information
+> (unique magical cloak)
+> 
+> 
+>> 
 
 
 
