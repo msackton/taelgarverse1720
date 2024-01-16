@@ -8,12 +8,13 @@
         - {glob: people/pcs/cleenseau/, exclude: heroes-of-cleenseau.md}
     - Letters and Stories
         - {glob: campaigns/cleenseau-campaign/letters-and-stories}
-    - Treasure
+    - [Treasure](campaigns/cleenseau-campaign/treasure/party-loot.md)
         - {glob: campaigns/cleenseau-campaign/treasure}
     - Mechanics
-        - {glob: campaigns/mechanics/}
+        - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
         - [Languages](species/languages.md)
 - [Gazetteer](campaigns/player-s-guide.md)
+    - [Map](gazetteer/gazetteer.md)
     - [World of Taelgar](gazetteer/geography-of-taelgar.md)
         - {glob: gazetteer, exclude: endless-ocean.md;green-sea.md;geography-of-taelgar.md;gazetteer.md}
         - [Endless Ocean](gazetteer/endless-ocean.md)
@@ -61,14 +62,12 @@
                 - [Kaikkea](cosmology/gods/incorporeal-gods/kaikkea.md)
                 - [Sarqon](cosmology/gods/incorporeal-gods/sarqon.md)
             - [The Fox and Hunter](cosmology/gods/demigods/fox-and-hunter.md)
-- History
+- [History](history/history.md)
     - [Calendar Eras](time/calendar-eras.md)
-    - {glob: history/}
+    - {glob: history/;flatten, exclude: history.md}
     - People
         - {glob: people/historical-figures}
-    - Events
-        - {glob: events/;flatten}
     - Primary Sources
         - {glob: primary-sources/}
-- [House Rules](https://docs.google.com/document/d/1yVZ-wvLodiXYqgxTJCLqjPWtgJBmd9kNPK7-YVML1Ew/edit#heading=h.o36t6owema04)
-- [Party Loot](https://docs.google.com/document/d/1-LoEf5ddTwTO3LwS4oW8D2tpVK5rwzbiPwBnROLus3k/edit#heading=h.xnigrp14kb5p)
+- [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
+- [Party Loot](campaigns/cleenseau-campaign/treasure/party-loot.md)
