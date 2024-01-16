@@ -11,7 +11,11 @@ hide_toc: true
 hide: [navigation]
 ---
 # The Hammer of Vigilance
->[!info]+ Information  
-> (uncommon hammer)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Uncommon Hammer__  
+   Owned by [Robin of Abenfyrd](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>)  
+</div>
+
+
+</div>
+

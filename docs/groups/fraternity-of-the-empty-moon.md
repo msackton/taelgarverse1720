@@ -8,8 +8,6 @@ typeOf: cult
 title: Fraternity of the Empty Moon
 ---
 # The Fraternity of the Empty Moon
->[!info]+ Information
-> 
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [Mad One](<../cosmology/gods/embodied-gods/mad-one.md>) in Taelgar by creating and enhancing connections with the plane of [Pandemonium](<../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>).
 

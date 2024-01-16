@@ -14,10 +14,16 @@ hide_toc: true
 hide: [navigation]
 ---
 # Nahto
->[!info]+ Biographical Info
-> An Islander kenku (he/him)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An Islander kenku (he/him)  
+    Born DR 1700 (20 years old)  
+    { .bio }
+
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), ~Eastern Islands~
+</div>
+
 
 Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [Green Sea](<../../gazetteer/green-sea.md>) with his partner, Skoda. 
 

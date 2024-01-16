@@ -8,9 +8,10 @@ whereabouts: Xurkhaz
 title: Uzgukhar
 ---
 # Uzgukhar
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A city in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>)  
+</div>
+
 
 Uzgukhar is the capitol and primary city of the kingdom of [Xurkhaz](<./xurkhaz.md>), home of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>). It is a desert city, nestled between the Kulthul and the [Istaros](<../rivers/istaros.md>) rivers, consisting largely of mud brick buildings decorated with colorful murals and intricate carvings. 
 ## Landmarks

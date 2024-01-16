@@ -9,10 +9,11 @@ pronunciation: VOS-tok
 title: Vostok
 ---
 # Vostok
-*(VOS-tok)*
->[!info]+ Information  
->   
->> 
+:speaker:{ .middle } *(VOS-tok)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A realm in the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
+
 
 Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and few people, generally defined as the land northeast of the Volta river and southwest of ~VostokMountains~, between the [Green Sea](<../../green-sea.md>) and the cold dry plains of the kenku in the north. 
 

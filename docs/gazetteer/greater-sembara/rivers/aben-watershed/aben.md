@@ -10,9 +10,10 @@ aliases: [Aben River, River Aben]
 title: Aben
 ---
 # The Aben
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A river in [Tyrwingha](<../../tyrwingha/tyrwingha.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 The largest river in Tyrwingha, it runs out of the [Mostreve Hills](<../../mostreve-hills.md>) towards [Tafolwern](<../../tyrwingha/tafolwern.md>). The headwaters of the Aben are a hilly land of many small streams and a major garrison of the [Army of Mostreve](<../../../../groups/sembaran-army/army-of-mostreve.md>), the Aben Garrison.
 

@@ -11,7 +11,18 @@ hide_toc: true
 hide: [navigation]
 ---
 # Morkral Hardstone
->[!info]+ Biographical Info  
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 [Fallthra Hardstone](<./fallthra-hardstone.md>)'s brother. 

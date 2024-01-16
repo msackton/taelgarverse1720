@@ -14,8 +14,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Kaleha
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1699 (21 years old)  
+    { .bio }
+
+    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+    { .bio }
+
+</div>
+
 

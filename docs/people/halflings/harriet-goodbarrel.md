@@ -22,13 +22,21 @@ hide_toc: true
 hide: [navigation]
 ---
 # Harriet Goodbarrel
->[!info]+ Biographical Info
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)
-> 
-> 
->> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+    Born DR 1685 (35 years old)  
+    Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
+    Member of the Goodbarrels  
+    { .bio }
+
+    Originally from: the [Western Gulf](<../../gazetteer/western-green-sea/western-gulf.md>), the [Western Green Sea](<../../gazetteer/western-green-sea/western-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
+    Based at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in Fairgate Outer, the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+</div>
+
+
+
 
 Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
 

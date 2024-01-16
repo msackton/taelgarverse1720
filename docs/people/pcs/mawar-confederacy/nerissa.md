@@ -15,8 +15,13 @@ hide_toc: true
 hide: [navigation]
 ---
 # Nerissa
->[!info]+ Biographical Info  
-> A [human](<../../../species/humans/humans.md>) (she/her)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [human](<../../../species/humans/humans.md>) (she/her)  
+    { .bio }
+
+</div>
 
 
 An older woman, not Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.

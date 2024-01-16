@@ -15,8 +15,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Yota
->[!info]+ Biographical Info  
-> A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+    { .bio }
+
+    Based in Te'kula village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 The chief of the Te'kula village.

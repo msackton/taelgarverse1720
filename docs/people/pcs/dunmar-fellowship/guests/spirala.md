@@ -13,7 +13,13 @@ hide_toc: true
 hide: [navigation]
 ---
 # Spirala
->[!info]+ Biographical Info  
-> A [fey](<../../../../species/children-of-the-divine/fey/fey.md>) (fairy) (she/her)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [fey](<../../../../species/children-of-the-divine/fey/fey.md>) (fairy) (she/her)  
+    { .bio }
+
+</div>
+
 
 A fairy cleric from the fey realm of [Shimmersong](<../../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), dedicated to light and the [Lightdancer](<../../../extraplanar-powers/lightdancer.md>)’s Summer Court. Helped [Seeker](<../seeker.md>) with the wild magic storm and crossing Amberglow, and said goodbye to [Seeker](<../seeker.md>) at Lastlight Falls.

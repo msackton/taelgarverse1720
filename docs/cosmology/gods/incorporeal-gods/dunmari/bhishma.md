@@ -6,7 +6,7 @@ name: Bhishma
 title: Bhishma
 ---
 # Bhishma
-*(BHEESH-ma)*
+:speaker:{ .middle } *(BHEESH-ma)*  
 
 The mortal founder of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the first Samraat (ruler) and the revered mother of the country, now raised to godhood as a demigod. Her order sees to the souls of the Dunmari and preserves the stories of the people of Dunmari. 
 

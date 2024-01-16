@@ -6,6 +6,13 @@ created: 1550
 whereabouts: Barony of Aveil
 title: Manor of Valit
 ---
+# The Manor of Valit
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+   :material-calendar: Founded DR 1550 (170 years ago)  
+    :octicons-location-24:{ .lg .middle } A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 # The Manor of Valit
 >[!info]+ Information

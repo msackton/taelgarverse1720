@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [deity, religion/dwarven, status/needswork/wip]
 displayDefaults: {defArt: the, ltItem: by}
 campaignInfo: []

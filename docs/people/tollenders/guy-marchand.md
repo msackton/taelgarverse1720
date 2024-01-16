@@ -19,12 +19,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Guy Marchand
->[!info]+ Biographical Info
-> An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1687 (33 years old)  
+    Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)  
+    { .bio }
+
+    Originally from: the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based Nordgate
+</div>
+
+
 
 Guy Marchand is a mapmaker from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), known for his meticulous craftsmanship and his thriving shop in Nordgate.
 ## Overview

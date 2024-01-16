@@ -17,11 +17,18 @@ hide_toc: true
 hide: [navigation]
 ---
 # Skalme
->[!info]+ Biographical Info  
-> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (she/her)  
->   
->>   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1707 (13 years old)  
+    { .bio }
+
+    Originally from: Unknown
+    Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+</div>
+
+
 
 Skalme is the Priestess of Fire, the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [Antaka](<../../gazetteer/western-green-sea/skaerhem/antaka.md>). She is a powerful divine magic user. 
 

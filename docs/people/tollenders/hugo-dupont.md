@@ -18,12 +18,18 @@ hide_toc: true
 hide: [navigation]
 ---
 # Hugo Dupont
->[!info]+ Biographical Info  
-> An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
->   
->   
->>   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1691 (29 years old)  
+    Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)  
+    { .bio }
+
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+</div>
+
+
 
 
 

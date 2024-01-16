@@ -13,7 +13,18 @@ hide_toc: true
 hide: [navigation]
 ---
 # Archfey Ethlenn
->[!info]+ Biographical Info
-> An [archfey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [archfey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+    { .bio }
+
+    Based in [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the Feywild
+</div>
+
+
+    { .bio }
+
+</div>
+
 

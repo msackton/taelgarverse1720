@@ -19,13 +19,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Wella Brightmoon
->[!info]+ Biographical Info
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Brightmoons
-> 
-> 
->> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Brightmoons  
+    Born DR 1639 (81 years old)  
+    Captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
+    { .bio }
+
+    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>)
+</div>
+
+
+
 
 Wella is an elderly halfling woman, and the captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>). She is married to [Rose Brightmoon](<./rose-brightmoon.md>), and is the matriarch of the Brightmoon clan. 
 

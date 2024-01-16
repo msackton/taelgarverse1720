@@ -19,10 +19,16 @@ hide_toc: true
 hide: [navigation]
 ---
 # Samerki
->[!info]+ Biographical Info
-> oni ([giant](<../../species/children-of-the-divine/giants.md>)), he/him
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    oni ([giant](<../../species/children-of-the-divine/giants.md>)), he/him  
+    { .bio }
+
+    Originally from: Unknown
+    Based in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
 
 A servant of [Agata](<../fey/agata.md>). 

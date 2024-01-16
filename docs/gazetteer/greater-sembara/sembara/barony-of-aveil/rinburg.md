@@ -11,11 +11,13 @@ pronunciation: Rin-burg
 title: Rinburg
 ---
 # Rinburg
-*(Rin-burg)*
->[!info]+ Information
-> pop. 2,341
-> 
->> 
+:speaker:{ .middle } *(Rin-burg)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-people-24: pop. 2,341  
+    :octicons-location-24:{ .lg .middle } A town in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 A trading town at the head of navigation of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). A busy ferry crosses the river here, and it is one of the few points to cross the river until [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), a hundred miles further west. The landscape around Rinburg is pastrol fields and farms, and there is much good sheepland within two days ride.
 

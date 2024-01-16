@@ -18,11 +18,17 @@ hide_toc: true
 hide: [navigation]
 ---
 # Umli the Exile
->[!info]+ Biographical Info  
-> A [stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (she/her)  
->   
->>   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (she/her)  
+    Born DR 1666 (54 years old)  
+    { .bio }
+
+    Based ~VostokMountains~
+</div>
+
+
 
 Umli is a stoneborn exile living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), a master metalworker, and a teacher. 
 

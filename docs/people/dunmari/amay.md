@@ -14,9 +14,20 @@ hide_toc: true
 hide: [navigation]
 ---
 # Amay
->[!info]+ Biographical Info  
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 A captain in the Dunmari army camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 
 

@@ -10,9 +10,10 @@ partOf: Garamjala
 title: Agata's Lair
 ---
 # Agata's Lair
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A lair in [Garamjala](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
+</div>
+
 
 The home of the hag [Agata](<../../../people/fey/agata.md>) Dustmother. Looted, but not destroyed, by the party in Session 30 (DuFr)
 

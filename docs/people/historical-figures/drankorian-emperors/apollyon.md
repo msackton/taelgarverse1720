@@ -18,9 +18,17 @@ hide_toc: true
 hide: [navigation]
 ---
 # Emperor Apollyon
->[!info]+ Biographical Info
-> lich (undead), he/him
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    lich (undead), he/him  
+    { .bio }
+
+    Originally from: [Drankor](<../../../history/drankorian-era/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1059): [Drankor](<../../../history/drankorian-era/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>)
+
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>), and perhaps other artifacts of power. Was a very successful general and commander. 
 

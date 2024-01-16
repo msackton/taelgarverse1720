@@ -14,10 +14,22 @@ hide_toc: true
 hide: [navigation]
 ---
 # Melusine
->[!info]+ Biographical Info
-> A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([nymph](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([nymph](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)  
+    { .bio }
+
+    Based in Amberglow, the Feywild
+</div>
+
+
+
+    { .bio }
+
+</div>
+
+
 
 A water nymph in Amberglow. She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
 

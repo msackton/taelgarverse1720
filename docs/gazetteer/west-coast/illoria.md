@@ -9,10 +9,11 @@ pronunciation: ih-LOHR-ee-ah
 title: Illoria
 ---
 # Illoria
-*(ih-LOHR-ee-ah)*
->[!info]+ Information  
->   
->> 
+:speaker:{ .middle } *(ih-LOHR-ee-ah)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An archipelago in the [Nevos Sea](<./nevos-sea.md>)  
+</div>
+
 
 A group of islands in the Nevos Sea, recently conquered by Chardon and now govered as a protectorate of the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>). 
 

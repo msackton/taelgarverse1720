@@ -17,9 +17,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Kethra Silverspark
->[!info]+ Biographical Info
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Silverspark Clan
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Silverspark Clan  
+    Born DR 1701 (19 years old)  
+    { .bio }
+
+    Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+</div>
+
+
+    { .bio }
+
+</div>
+
 

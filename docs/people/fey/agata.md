@@ -21,10 +21,24 @@ hide_toc: true
 hide: [navigation]
 ---
 # Agata Dustmother
->[!info]+ Biographical Info
-> hag ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    hag ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
+    { .bio }
+
+    Originally from: Unknown
+    Based in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
+
+    hag ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
+    { .bio }
+
+</div>
+
+
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
 ## Overview

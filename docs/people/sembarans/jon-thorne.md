@@ -7,6 +7,12 @@ hide_toc: true
 hide: [navigation]
 ---
 # Jon Thorne
->[!info]+ Biographical Info
-> (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    (he/him)  
+    { .bio }
+
+</div>
+
 

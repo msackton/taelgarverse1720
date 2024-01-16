@@ -8,9 +8,10 @@ partOf: Taelgar
 title: Endless Ocean
 ---
 # The Endless Ocean
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An ocean [Taelgar](<./gazetteer.md>)  
+</div>
+
 
 The Endless Ocean is the name given to the ocean that stretches west from the [West Coast Region](<west-coast/west-coast-region.md>), forming the primary coastline of the [Chardonian Empire](<west-coast/chardonian-empire/chardonian-empire.md>), the [Mawar Confederacy](<west-coast/mawar-confederacy/mawar-confederacy.md>), and other places in the region. 
 

@@ -13,8 +13,14 @@ hide_toc: true
 hide: [navigation]
 ---
 # Caulaus
->[!info]+ Biographical Info  
-> A [Drankorian](<../../../../history/drankorian-era/drankorian-empire.md>) [human](<../../../../species/humans/humans.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Drankorian](<../../../../history/drankorian-era/drankorian-empire.md>) [human](<../../../../species/humans/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
 
 ![Caulaus Aportino Portrait](../../../../assets/caulaus-aportino-portrait.png){align="right"; width="320"}A human warrior from [Drankor](<../../../../history/drankorian-era/drankor.md>), trapped in the Cosmology/Multiverse/Echo Realms/Feywild/Feywild for nearly 1000 years. Not fully in possession of his wits or memories. A guide and wanderer in Amberglow; sought by [Seeker](<../seeker.md>) as a guide to the fey crossing at Lastlight Falls. 
 

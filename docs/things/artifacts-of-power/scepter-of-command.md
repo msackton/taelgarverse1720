@@ -19,12 +19,15 @@ hide_toc: true
 hide: [navigation]
 ---
 # The Scepter of Command
->[!info]+ Information
-> (unique scepter)
-> 
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Scepter__  
+   Created DR 1053 (667 years ago)  
+   Created by [Emperor Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)  
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../gazetteer/istaros-watershed/desolation-of-cha-mutte.md>)
+
+
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 

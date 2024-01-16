@@ -13,9 +13,20 @@ hide_toc: true
 hide: [navigation]
 ---
 # Jita
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1713 (7 years old)  
+    { .bio }
+
+    Based in the plains north of Tokra, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 A Dunmari herder living on the northern plains, north of Tokra. Niece of [Saka](<./saka.md>), and has generally taken charge of helping Saka around camp. 

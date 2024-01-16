@@ -15,8 +15,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Delig Firebrand
->[!info]+ Biographical Info
-> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 The cousin of [Hagrim](<./hagrim.md>), trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

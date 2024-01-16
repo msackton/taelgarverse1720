@@ -7,8 +7,10 @@ partOf: Tokra
 title: Archives of Tokra
 ---
 # The Archives of Tokra
->[!info]+ Information
-> A building in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), the [Greater Dunmar](<../../../../greater-dunmar.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A library in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+</div>
+
 
 The archives are a large square building with a significant tower rising 100 feet above the city, across the Dharajun Plaza from the temple. Also constructed during the early years of the Dharajun dynasty, this building suffered more damage during the [Fire War](<../../../../../../events/1500s/fire-war.md>) than the temple, and was reconstructed in the simpler, less ostentatious, more flowing, melancholic, and organic style of post-Great-War Dunmari architecture.
 

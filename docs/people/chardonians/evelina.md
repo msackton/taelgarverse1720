@@ -19,11 +19,23 @@ hide_toc: true
 hide: [navigation]
 ---
 # Evelina
->[!info]+ Biographical Info
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)
-> 
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1691 (29 years old)  
+    Member of [The Cleansed](<../../groups/the-cleansed.md>)  
+    { .bio }
+
+    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
+
+    { .bio }
+
+</div>
+
+
 
 A sorcerer and a member of [The Cleansed](<../../groups/the-cleansed.md>).  

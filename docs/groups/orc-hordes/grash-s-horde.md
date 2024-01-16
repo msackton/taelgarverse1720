@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [organization, status/unknown]
 displayDefaults: {defArt: '', endStatus: destroyed in battle on, boxInfo: ''}
 campaignInfo: []
@@ -9,8 +9,6 @@ typeOf: clan
 title: Grash's Horde
 ---
 # Grash's Horde
->[!info]+ Information
-> 
 
 The [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) horde commanded by [Grash](<../../people/other-nonhumans/grash.md>), based out of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). This horde formed in the summer of DR 1747, as [Grash](<../../people/other-nonhumans/grash.md>) began gathering the various scattered minor groups of [orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) that had been scratching out a living in the marginal lands of the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>). 
 

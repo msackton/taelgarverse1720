@@ -17,11 +17,23 @@ hide_toc: true
 hide: [navigation]
 ---
 # Pava
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1673 (47 years old)  
+    Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
+    { .bio }
+
+    Originally from: the plains of Songara, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 

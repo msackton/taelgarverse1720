@@ -17,11 +17,19 @@ hide_toc: true
 hide: [navigation]
 ---
 # Raoul Bûcheron
->[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1666 (54 years old)  
+    Member of the Order of the Charitable Wanderer  
+    { .bio }
+
+    Based in [Windlea](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/windlea.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
 
 Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. 
 

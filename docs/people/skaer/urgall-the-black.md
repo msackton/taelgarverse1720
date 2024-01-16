@@ -20,11 +20,17 @@ hide_toc: true
 hide: [navigation]
 ---
 # Urgall
->[!info]+ Biographical Info
-> A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1720 (11 days old)  
+    { .bio }
+
+    Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+</div>
+
+
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
 

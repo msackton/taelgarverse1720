@@ -8,8 +8,10 @@ aliases: [River Niva, Niva River]
 title: Niva
 ---
 # Niva
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A river in [Vostok](<../vostok/vostok.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
+
+
 
 

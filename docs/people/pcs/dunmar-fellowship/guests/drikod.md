@@ -16,8 +16,14 @@ hide_toc: true
 hide: [navigation]
 ---
 # Drikod
->[!info]+ Biographical Info  
-> A [stoneborn](<../../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [stoneborn](<../../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (he/him)  
+    { .bio }
+
+    Based in [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range/sentinel-range.md>)
+</div>
+
 
 ![Drikod Portrait](../../../../assets/drikod-portrait.jpg){width="400"}

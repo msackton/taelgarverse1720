@@ -17,10 +17,13 @@ hide_toc: true
 hide: [navigation]
 ---
 # The Emerald Song
->[!info]+ Information
-> ([halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
+   Home area: the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location: the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
+
 
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.
 

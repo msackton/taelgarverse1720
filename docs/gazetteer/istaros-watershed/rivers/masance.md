@@ -8,8 +8,9 @@ aliases: [River Masance, Masance River]
 title: Masance
 ---
 # Masance
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A river in the Istaros Watershed  
+</div>
+
 
 The Masance flows south, and is rocky and shallow.

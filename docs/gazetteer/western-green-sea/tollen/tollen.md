@@ -8,8 +8,10 @@ aliases: [Free City of Tollen, Tollen]
 title: Free City of Tollen
 ---
 # The Free City of Tollen
->[!info]+ Information
-> A city in the [Western Green Sea Region](<../western-green-sea-region.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A city in the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
+
 
 
 

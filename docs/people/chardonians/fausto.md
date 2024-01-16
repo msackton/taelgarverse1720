@@ -16,11 +16,22 @@ hide_toc: true
 hide: [navigation]
 ---
 # Fausto
->[!info]+ Biographical Info
-> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>), he/him
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1714 (6 years old)  
+    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), and [The Cleansed](<../../groups/the-cleansed.md>)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+
+    { .bio }
+
+</div>
+
 
 A young, striking man, with fine features, well groomed curly black hair, and elegant dress that clearly yet subtly displays his wealth. Fausto is not from a wealthy background, and he does not speak of his childhoood. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard. 
 

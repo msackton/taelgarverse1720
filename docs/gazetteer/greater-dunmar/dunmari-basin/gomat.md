@@ -9,8 +9,10 @@ aliases: [Gomat, Gomat Oasis]
 title: Gomat
 ---
 # Gomat
->[!info]+ Information
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An oasis in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+</div>
+
 
 A small oasis on the very eastern edge of [Dunmar](<../realms/dunmar/dunmar.md>), about 40 miles east of [Karawa](<../realms/dunmar/eastern-dunmar/karawa.md>). The oasis is a rocky area with a few bits of scrub, around a somewhat muddy open pool. Some trees provide a bit of shade, and the terrain to the north and west is more scrubland that pure desert. 
 

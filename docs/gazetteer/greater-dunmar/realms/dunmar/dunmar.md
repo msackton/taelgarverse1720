@@ -8,10 +8,12 @@ typeOf: realm
 title: Dunmar
 ---
 # Dunmar
->[!info]+ Information
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+   :material-calendar: Founded DR 1173 (547 years ago)  
+    :octicons-location-24:{ .lg .middle } A realm in [Greater Dunmar](<../../greater-dunmar.md>)  
+</div>
+
 
 Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands of ~Northern Continent~, bordered by the coast of the [Nevos Sea](<../../../west-coast/nevos-sea.md>) and the [Myraeni Gap](<../../myraeni-gap.md>) in the west, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) in the north, and the  barren wastelands of the [Nashtkar](<../../dunmari-basin/nashtkar.md>) and the [Garamjala Desert](<../../garamjala-plateau/garamjala-desert.md>) in the east and south. Founded in DR 1173 by the great leader and first Samraat [Bhishma](<../../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [Great War](<../../../../events/1500s/great-war.md>) and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
 

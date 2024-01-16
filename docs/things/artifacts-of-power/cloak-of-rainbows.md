@@ -17,11 +17,13 @@ hide_toc: true
 hide: [navigation]
 ---
 # The Cloak of Rainbows
->[!info]+ Information
-> (unique magical cloak)
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Magical Cloak__  
+   Created DR 917 (803 years ago)  
+   Created by [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>), in Amberglow, the Feywild  
+   Owned by [Chief Lubash](<../../people/orcs/lubash.md>)  
+</div>
+
 
 
 

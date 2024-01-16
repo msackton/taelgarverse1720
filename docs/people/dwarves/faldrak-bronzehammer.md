@@ -21,11 +21,25 @@ hide_toc: true
 hide: [navigation]
 ---
 # Faldrak Bronzehammer
->[!info]+ Biographical Info
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    Born DR 1516 (204 years old)  
+    { .bio }
+
+    Based in [Fahnukan](<../../gazetteer/sentinel-range/dwarven-kingdoms/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of January 1st, 1698): the Feywild
+
+
+
+    { .bio }
+
+</div>
+
+
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

@@ -10,9 +10,10 @@ whereabouts: Karawa
 title: Ikram's
 ---
 # Ikram's
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) caravanserai in [Karawa](<./karawa.md>), [Eastern Dunmar](<./eastern-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+</div>
+
 
 A large caravanserai, inn, and trading post in [Karawa](<./karawa.md>). It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from [Ikram](<../../../../../people/dunmari/ikram.md>), the proprietor. 
 

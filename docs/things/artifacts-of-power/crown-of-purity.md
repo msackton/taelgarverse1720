@@ -11,11 +11,12 @@ hide_toc: true
 hide: [navigation]
 ---
 # The Crown of Purity
->[!info]+ Information  
-> (crown)  
->   
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Crown__  
+   Created Unknown  
+   Owned by [Fausto](<../../people/chardonians/fausto.md>)  
+</div>
+
 
 One of the relics of Apollyon. Now possessed by Fausto, and used to enslave and mind control troublemakers. 
 

@@ -17,9 +17,15 @@ hide_toc: true
 hide: [navigation]
 ---
 # Wellby
->[!info]+ Biographical Info  
-> A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Goodbarrels  
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Goodbarrels  
+    Member of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
 
 ![Welby Full](../../../assets/welby-full.jpg){width="400"}
 

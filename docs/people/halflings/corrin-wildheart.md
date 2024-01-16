@@ -19,12 +19,18 @@ hide_toc: true
 hide: [navigation]
 ---
 # Corrin Wildheart
->[!info]+ Biographical Info
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Wildhearts
-> 
->> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Wildhearts  
+    Navigator of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
+    { .bio }
+
+    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat
+</div>
+
+
+
 
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>). He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
