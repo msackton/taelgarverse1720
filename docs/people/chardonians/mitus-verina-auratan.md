@@ -20,9 +20,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The current Magistros of Chardon and ruler of the Chardonian Empire. 

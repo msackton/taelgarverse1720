@@ -27,11 +27,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 >Location (updated November 15, 1748): Karawa, [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>)
 
 The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.

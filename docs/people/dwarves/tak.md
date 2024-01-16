@@ -25,9 +25,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A young dwarf, living in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) but hoping for something better and wondering about the lives of dwarves outside [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), even before he knew such dwarves existed. 

@@ -23,9 +23,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Patriach of the Hardstone clan, father to Dag Hardstone. 

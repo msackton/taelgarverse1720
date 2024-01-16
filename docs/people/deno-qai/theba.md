@@ -31,12 +31,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 
 
 The formely disgraced Godcaller of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>), out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 

@@ -26,11 +26,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A scout and warrior of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>). Part of the patrol that originally found the party in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). 
 
 Accompanied the party back to the God tree to meet [Mezzar](<../other-nonhumans/mezzar.md>), and killed by [Grimbaskal](<../other-nonhumans/mezzar.md>)'s breath weapon after [Mezzar](<../other-nonhumans/mezzar.md>) dropped his elven form. 

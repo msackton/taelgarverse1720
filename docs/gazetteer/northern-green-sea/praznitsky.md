@@ -14,7 +14,7 @@ title: Praznitsky
 # Praznitsky
 :speaker:{ .middle } *(PRAZ-niht-skee)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An Urskan trading city  
+-    :octicons-location-24:{ .lg .middle } An [Urskan](<./ursk.md>) trading city the Northern Green Sea  
 </div>
 
 

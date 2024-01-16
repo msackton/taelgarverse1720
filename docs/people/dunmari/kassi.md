@@ -24,9 +24,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The librarian at the Lakan monastery in Tokra. 

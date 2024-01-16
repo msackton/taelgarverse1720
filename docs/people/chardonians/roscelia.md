@@ -26,11 +26,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.
 
 Still somewhat friendly with [Kaeso](<./kaeso.md>), despite her disappointment in his path and refusal to share secrets with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>). 

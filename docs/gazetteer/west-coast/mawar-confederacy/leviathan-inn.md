@@ -11,4 +11,3 @@ title: Leviathan Inn
 -    :octicons-location-24:{ .lg .middle } An inn in [Hamri](<./hamri.md>), the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [West Coast Region](<../west-coast-region.md>)  
 </div>
 
-

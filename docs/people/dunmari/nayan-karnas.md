@@ -31,10 +31,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<./sura.md>), whom he thought dead. 
 

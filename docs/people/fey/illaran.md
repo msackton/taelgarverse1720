@@ -25,12 +25,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Illaran, the guardian of Crystal Peak in the Feywild, is a whimsical fey who wields power over the very stones of his domain.
 ## Overview
 

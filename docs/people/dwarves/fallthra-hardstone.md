@@ -32,13 +32,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
-
 Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
 ## Relationships:
 - Mother to Dag Hardstone

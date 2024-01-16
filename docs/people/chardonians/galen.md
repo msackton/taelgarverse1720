@@ -25,11 +25,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/ulfgar-frostbeard.md>), and member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>). 
 
 Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. The party saw a lecture in Session 49 (DuFr). 

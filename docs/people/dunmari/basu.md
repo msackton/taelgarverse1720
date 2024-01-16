@@ -27,11 +27,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 
 With [Kassi](<./kassi.md>), although not formally married. 

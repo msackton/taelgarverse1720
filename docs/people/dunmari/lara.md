@@ -26,9 +26,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The leader of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) in Tokra.

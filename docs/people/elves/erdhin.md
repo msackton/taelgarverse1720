@@ -22,8 +22,3 @@ hide: [navigation]
     Based in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
 </div>
 
-
-    { .bio }
-
-</div>
-

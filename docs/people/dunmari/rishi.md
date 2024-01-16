@@ -24,9 +24,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s teacher at the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), surprisingly skilled fighter for his age. 

@@ -20,7 +20,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A rabbit (they/them)  
-    Member of [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    Member of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

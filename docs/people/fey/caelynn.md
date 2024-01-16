@@ -29,12 +29,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A fey woman from across the mountains, from the fey realm of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview
 

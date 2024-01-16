@@ -28,12 +28,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 

@@ -28,12 +28,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A Chardonian bookseller who lives and works in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). Well connected to the local academic community. 
 
 

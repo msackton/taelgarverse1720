@@ -37,12 +37,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Nayan Sura is the younger sister of Samraat [Nayan Karnas](<./nayan-karnas.md>). Once seen as a future Samraat and a unifier of [eastern](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) and [Western Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/western-dunmar.md>), she vanished eight years ago, trapped by [Agata](<../fey/agata.md>) Dustmother in the Mirror of Soul Trapping. In her absence, her brother, [Nayan Karnas](<./nayan-karnas.md>), claimed the throne of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). In DR 1748, Nayan Sura was freed from [Agata](<../fey/agata.md>)'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview
 

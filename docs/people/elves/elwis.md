@@ -33,12 +33,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. 
 
 

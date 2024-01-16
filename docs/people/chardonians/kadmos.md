@@ -37,18 +37,12 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with Hektor, [Marcella](<./marcella.md>), [Antonia](<./antonia.md>), and Casian. 
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
 
-![Kadmos Portrait](../../assets/kadmos-portrait.png)
+![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}
 
 

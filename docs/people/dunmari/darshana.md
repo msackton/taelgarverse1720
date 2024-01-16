@@ -24,9 +24,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Owner of the eponymously named caravanserai [Darshana's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) outside of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 

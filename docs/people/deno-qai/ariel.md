@@ -29,12 +29,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [Great War](<../../events/1500s/great-war.md>)
 
 She is a member of the [Shu'anra](<../../groups/deno-qai/northern-tribes/shu-anra.md>) tribe, who make their home far to the north, in the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), between theBlackwater Fens and the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>). 

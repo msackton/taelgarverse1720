@@ -29,9 +29,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A charismatic leader of a warband based near [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). 

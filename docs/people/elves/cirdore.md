@@ -28,10 +28,4 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A poet and historian, curious to speak with outsiders. Young, and not confident in his talents yet.

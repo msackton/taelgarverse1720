@@ -36,12 +36,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Belegor is a solitary [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [Great War](<../../events/1500s/great-war.md>). 
 ## Overview
 

@@ -10,7 +10,7 @@ title: Azta Lekua
 ---
 # Azta Lekua
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A place [Orekatu](<./orekatu.md>)  
+-    :octicons-location-24:{ .lg .middle } A place in [Orekatu](<./orekatu.md>), the South Region  
 </div>
 
 

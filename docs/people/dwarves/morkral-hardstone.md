@@ -20,9 +20,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 [Fallthra Hardstone](<./fallthra-hardstone.md>)'s brother. 

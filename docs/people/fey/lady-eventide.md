@@ -24,12 +24,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Lady Eventide is a fey who once held significant influence in Amberglow as a member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
 ## Overview
 

@@ -27,10 +27,4 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 The unnamed woman who was cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), one of the few survivors of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>). 

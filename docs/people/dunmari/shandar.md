@@ -21,10 +21,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table. Freed in Session 30 (DuFr).
 

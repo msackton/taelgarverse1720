@@ -23,10 +23,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 An older man, in his mid-50s, bulky and solidly built, with gray eyes, short black hair, and a beard. He is the blacksmith in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and a common partron of [Ikram’s](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>), where he can often be found drinking in the courtyard in the evenings. 
 

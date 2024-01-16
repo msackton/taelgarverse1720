@@ -21,10 +21,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. Freed in Session 31 (DuFr).
 

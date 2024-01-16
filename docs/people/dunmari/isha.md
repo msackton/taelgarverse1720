@@ -29,11 +29,5 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A Dunmari man trapped for many years in the Mirror of Soul Trapping by [Agata](<../fey/agata.md>). Missing one eye, with gray hair, incoherent. Most recently under the care of [Cintra](<./cintra.md>) after his ordeal. 
 

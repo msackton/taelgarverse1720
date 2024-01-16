@@ -30,10 +30,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A senior Archivist at the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>), in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 
 

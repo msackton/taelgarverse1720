@@ -21,9 +21,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Advisor to [Nayan Karnas](<./nayan-karnas.md>), mystai of Sonkar, and powerful spellcaster. 

@@ -27,11 +27,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>).  Author of [The Lore of the Feywild](<../../things/books/the-lore-of-the-feywild.md>). 
 
 Met [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in December 1747, when [Seeker](<../pcs/dunmar-fellowship/seeker.md>) passed through [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) before arriving in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).

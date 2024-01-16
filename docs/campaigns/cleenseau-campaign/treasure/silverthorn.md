@@ -18,9 +18,6 @@ hide: [navigation]
 </div>
 
 
-</div>
-
-
 A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>).
 
   ![Silverthorn](../../../assets/silverthorn.png){width="300"}

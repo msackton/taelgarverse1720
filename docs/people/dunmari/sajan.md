@@ -21,9 +21,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The former keeper of the [Hall of Stories](<../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>), now lost to madness and trapped in the endless memories and nightmares of that place, always turning tales to the worst possible outcome. 

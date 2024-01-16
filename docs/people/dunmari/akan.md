@@ -33,12 +33,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A Dunmari sheep herder from the area outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
 
 

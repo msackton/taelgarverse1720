@@ -23,9 +23,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The matriach of the Redpeak dwarves of [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).

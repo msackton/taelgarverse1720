@@ -26,11 +26,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his Deno'qai Scale Mail and Deno'qai Lynx Shield prior to Delwath's solo adventure to free the Meswati.
 
 

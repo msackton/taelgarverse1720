@@ -26,10 +26,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 
 

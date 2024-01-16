@@ -26,11 +26,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Supreme Oracle of Shakun.
 
 ![Cintra Portrait](../../assets/cintra-portrait.png)

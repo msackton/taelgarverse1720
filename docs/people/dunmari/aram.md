@@ -27,9 +27,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in Havdar's service, and unofficial spiritual leader of Havdar's Warband

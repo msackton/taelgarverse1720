@@ -28,9 +28,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. Currently hunting rumors of treasure in Illoria. 

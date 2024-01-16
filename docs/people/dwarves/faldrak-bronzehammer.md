@@ -35,12 +35,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview
 

@@ -27,11 +27,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The old Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>), who found a Jade Piece of Rai's Hand. Refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../cosmology/gods/tanshi/aasimti.md>) to work together to protect the Te'kula in a pocket dimension. 
 
 Some of his stories were recorded by [Gnaeus](<../chardonians/gnaeus.md>) in [On the Lost People of the Forests](<../../things/books/on-the-lost-people-of-the-forests.md>). 

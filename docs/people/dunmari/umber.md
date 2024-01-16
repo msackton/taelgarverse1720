@@ -23,9 +23,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A Dunmari suffering under the curse of lycanthropy caused by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 

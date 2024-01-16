@@ -24,10 +24,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The owner of the caravanserai in Karawa, the eponymously named [Ikram’s](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>). He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories. 
 

@@ -19,9 +19,6 @@ hide: [navigation]
 </div>
 
 
-</div>
-
-
 A small lantern carried by [Robin](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>). It gives off a perpetual warm glow that reminds one of home and pleasant things. 
 
 > [!INFO]- Finding the Lantern (For Dan's Eyes Only)

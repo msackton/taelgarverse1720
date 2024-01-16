@@ -25,9 +25,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The chief of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>) village, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>). 

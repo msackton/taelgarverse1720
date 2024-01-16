@@ -37,12 +37,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<./roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 

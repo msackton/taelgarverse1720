@@ -25,11 +25,5 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A water nymph in Amberglow. She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
 

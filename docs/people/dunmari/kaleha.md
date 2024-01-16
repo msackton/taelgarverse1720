@@ -25,8 +25,3 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-

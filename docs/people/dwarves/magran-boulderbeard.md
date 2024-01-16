@@ -23,11 +23,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), and to confront Chardonian interlopers. 
 
 Killed [Inakara](<../other-nonhumans/inakara.md>) and the other denizens of the [dwarven outpost near Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) in late July, 1748.

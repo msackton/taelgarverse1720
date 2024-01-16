@@ -24,11 +24,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A captain in the Dunmari army camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 
 
 ## Chronology

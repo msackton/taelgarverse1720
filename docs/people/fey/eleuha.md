@@ -24,10 +24,4 @@ hide: [navigation]
 </div>
 
 
-    A dryad ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
-    { .bio }
-
-</div>
-
-
 A dryad of the jungle, daughter of a great tree, friend to [Lengau](<../other-nonhumans/lengau.md>). 

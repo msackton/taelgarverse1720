@@ -31,9 +31,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A elf who was active during the Drankorian Era. Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).

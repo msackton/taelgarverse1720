@@ -26,9 +26,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is Lucius's father, but does not currently live with his family. 

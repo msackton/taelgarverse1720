@@ -24,9 +24,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 An old ranger of the Te'kula who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 

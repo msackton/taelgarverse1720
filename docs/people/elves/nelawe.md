@@ -18,10 +18,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A poet and author of [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>).
 

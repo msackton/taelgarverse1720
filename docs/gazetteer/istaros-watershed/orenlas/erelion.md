@@ -11,7 +11,7 @@ title: Erelion
 # Erelion
 :speaker:{ .middle } *(air-LEE-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/children-of-the-embodied-gods/elves/elves.md>) city [Orenlas](<./orenlas.md>)  
+-    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/children-of-the-embodied-gods/elves/elves.md>) city in [Orenlas](<./orenlas.md>), the Istaros Watershed  
 </div>
 
 

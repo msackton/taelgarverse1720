@@ -34,15 +34,6 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Seen by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle }   
-
-
 A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), a small village on the outskirts of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 
 ![Brot Portrait](../../assets/brot-portrait.png)  

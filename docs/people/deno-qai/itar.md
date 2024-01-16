@@ -26,10 +26,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The Godcaller of the [Bek'eni](<../../groups/deno-qai/bek-eni.md>) tribe of Deno'qai, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>).
 

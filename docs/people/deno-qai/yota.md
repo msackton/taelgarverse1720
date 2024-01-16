@@ -25,9 +25,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 The chief of the Te'kula village.

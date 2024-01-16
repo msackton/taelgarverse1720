@@ -22,9 +22,6 @@ hide: [navigation]
 </div>
 
 
-</div>
-
-
 A clever spyglass that [Brot Starsearcher](<../../../people/dwarves/brot-starsearcher.md>) gave to [Izgil](<../../../people/pcs/cleenseau/izgil-moonseeker.md>) after he promised to seek funding for Brot's large telescope project.
 
 Functions as a spyglass with better than usual field of vision.

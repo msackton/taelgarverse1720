@@ -31,12 +31,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Melindr is the Ambassador to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).
 
 ![Melindir](../../assets/melindir.png)

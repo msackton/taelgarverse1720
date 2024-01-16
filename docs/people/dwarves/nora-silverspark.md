@@ -27,9 +27,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A dwarven warrior, once a ghost in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 

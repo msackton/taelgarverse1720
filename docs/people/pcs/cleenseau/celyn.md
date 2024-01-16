@@ -23,7 +23,7 @@ hide: [navigation]
 
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     Born DR 1697 (23 years old)  
-    Member of [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)

@@ -25,11 +25,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Somi-nai, also known as Ember, or Sugarra among the [Lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>), stands as the personification of the volcanic essence and a spirit of the encompassing jungle.
 ## Overview
 

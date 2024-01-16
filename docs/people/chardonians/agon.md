@@ -26,10 +26,5 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Vola's mentor, a member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 
 

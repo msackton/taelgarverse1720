@@ -22,9 +22,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A somewhat disreputable dwarven woman, a smith with a shop near the Shark's Dock. Somewhat isolated from Hamri community. But makes a decent living in trade with ships at dock, especially those who need to get rid of treasure of dubious origin, which she smelts down and resells to the next ship. Friends with Kaleho.

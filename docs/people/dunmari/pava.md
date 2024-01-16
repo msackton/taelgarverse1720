@@ -30,11 +30,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
 ![Pava](../../assets/pava.png){width="500"}

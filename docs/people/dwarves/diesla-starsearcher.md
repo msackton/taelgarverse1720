@@ -28,9 +28,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 [Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.

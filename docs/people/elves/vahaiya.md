@@ -34,12 +34,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 Vahaiya is a warrior, traveler, adventurer, and now artist and collector. After surviving the [Great War](<../../events/1500s/great-war.md>), fighting alongside the Sembaran Army in the Battle of Urlich Pass, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands. They made a name for themselves in the hobgoblin wars, but growing tiring of fighting after many years, decided to settle in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>). 
 
 ![Vahaiya Portrait](../../assets/vahaiya-portrait.png)

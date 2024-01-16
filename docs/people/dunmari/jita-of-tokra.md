@@ -24,9 +24,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A Dunmari herder living on the northern plains, north of Tokra. Niece of [Saka](<./saka.md>), and has generally taken charge of helping Saka around camp. 

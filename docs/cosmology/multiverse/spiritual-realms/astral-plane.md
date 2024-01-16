@@ -10,4 +10,3 @@ title: Astral Plane
 -    :octicons-location-24:{ .lg .middle } A plane in the [Spiritual Realms](<./spiritual-realms.md>)  
 </div>
 
-

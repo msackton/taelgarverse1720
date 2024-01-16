@@ -29,12 +29,6 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A gardener, herbalist, and caretaker of [Arheste](<./arheste.md>). 
 
 ![Ealwen Portrait](../../assets/ealwen-portrait.png)

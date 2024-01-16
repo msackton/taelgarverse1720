@@ -27,11 +27,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 An initiate of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>), a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 
 

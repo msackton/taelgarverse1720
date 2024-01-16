@@ -26,9 +26,4 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 Experienced in woodcraft; leader of the hunting camp [Delwath](<../pcs/dunmar-fellowship/delwath.md>) first found after arriving in the north. 

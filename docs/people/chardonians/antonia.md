@@ -35,15 +35,7 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 ![Antonia Portrait](../../assets/antonia-portrait.png){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
-
-
 
 
 

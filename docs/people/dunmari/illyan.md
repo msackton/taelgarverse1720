@@ -23,8 +23,3 @@ hide: [navigation]
     Originally from: Unknown
 </div>
 
-
-    { .bio }
-
-</div>
-

@@ -26,11 +26,6 @@ hide: [navigation]
 </div>
 
 
-    { .bio }
-
-</div>
-
-
 A Chardonian wizard on loan to the Dunmari army of [Nayan Karnas](<../dunmari/nayan-karnas.md>), commanded by [Illyan](<../dunmari/illyan.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 Does not particularly like the party given their attempt to scry on [Illyan](<../dunmari/illyan.md>), which Drusa detected, and their refusal to agree to simple magic protocols. 

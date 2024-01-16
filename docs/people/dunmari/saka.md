@@ -23,8 +23,3 @@ hide: [navigation]
     Based in the plains north of Tokra, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-
-    { .bio }
-
-</div>
-

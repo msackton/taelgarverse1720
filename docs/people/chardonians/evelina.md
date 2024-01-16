@@ -32,10 +32,4 @@ hide: [navigation]
 
 
 
-    { .bio }
-
-</div>
-
-
-
 A sorcerer and a member of [The Cleansed](<../../groups/the-cleansed.md>).  
