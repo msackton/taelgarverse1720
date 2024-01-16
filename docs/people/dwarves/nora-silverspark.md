@@ -16,9 +16,14 @@ title: Nora Silverspark
 hide_toc: true
 ---
 # Nora Silverspark
->[!info]+ Biographical Info
-> a [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
 
 A dwarven warrior, once a ghost in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 

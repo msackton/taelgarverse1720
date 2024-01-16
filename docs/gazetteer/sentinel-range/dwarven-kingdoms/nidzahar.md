@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Nidzahar
@@ -9,8 +9,10 @@ partOf: Labkhan
 title: Nidzahar
 ---
 # Nidzahar
->[!info]+ Information
-> A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)  
+</div>
+
 
 Historically, Nidzahar, was a backwater, a minor kingdom of not much importance, which is even reflected in its name, which loosely translates simply as ‘east-land’. Nestled along the easternmost edge of the mountains and spreading into the lightly settled highlands of [Sembara](<../../greater-sembara/sembara/sembara.md>), the Kingdom of Nidzahar was never particularly populous or prosperous. Lacking the mineral wealth of [Am'khazar](<./am-khazar.md>) and the trade connections of [Ardith](<./ardith.md>) or [Khatridun](<./khatridun.md>), before the war the kingdom of Nidzahar was of little importance, known largely as a place of iconoclasts, thinkers, and artisans. 
 

@@ -12,8 +12,14 @@ title: Emperor Vestian
 hide_toc: true
 ---
 # Emperor Vestian
->[!info]+ Biographical Info  
-> A [human](<../../../species/humans/humans.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [human](<../../../species/humans/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
 
 A Drankorian emperor, supposedly [Helea](<./helea.md>)'s successor.
 

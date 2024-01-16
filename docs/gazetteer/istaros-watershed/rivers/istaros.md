@@ -8,9 +8,10 @@ aliases: [Aistanë, Drogar, Mahar]
 title: Istaros
 ---
 # Istaros
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A river in the Istaros Watershed  
+</div>
+
 
 The Istaros is a major river that flows several thousand miles from its source in the [Mostreve Hills](<../../greater-sembara/mostreve-hills.md>) to the [Sea of Storms](<../../greater-dunmar/sea-of-storms.md>). The Istaros Watershed has been central to many rich realms, including the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) and later the [Istabor Alliance](<../../../history/istabor-alliance.md>), but since the [Great War](<../../../events/1500s/great-war.md>) it has been largely cursed and deserted, as nearly the entire river system flows through the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>). 
 ## Upper Istaros

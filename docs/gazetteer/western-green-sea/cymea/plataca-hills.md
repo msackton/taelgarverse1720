@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Plataca Hills
@@ -9,10 +9,10 @@ partOf: Western Cymea
 title: Plataca Hills
 ---
 # The Plataca Hills
-*(PLAH-tah-kah)*
->[!info]+ Information
-> A line of hills in the [Western Cymea](<./western-cymea.md>)
-
+:speaker:{ .middle } *(PLAH-tah-kah)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A line of hills in [Western Cymea](<./western-cymea.md>), [Cymea](<./cymea.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
 
 
 A line of hills and a few short mountains that runs along the western coast of Cymea. Rich veins of silver were once mined from these hills, but the accessible deposits were all mined out long ago.

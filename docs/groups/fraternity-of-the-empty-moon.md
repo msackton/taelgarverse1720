@@ -8,8 +8,6 @@ typeOf: cult
 title: Fraternity of the Empty Moon
 ---
 # The Fraternity of the Empty Moon
->[!info]+ Information
-> 
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [Mad One](<../cosmology/gods/embodied-gods/mad-one.md>) in Taelgar by creating and enhancing connections with the plane of [Pandemonium](<../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>).
 
@@ -25,5 +23,5 @@ As of DR 1748, the cult is thought to be destroyed.
 - Mar 19, 1748 DR *(Fraternity of the Empty Moon)*:  Leader of the Fraternity of the Empty Moon arrives with at [Raven's Hold](<../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) with [Agata](<../people/fey/agata.md>)'s jackalwere and [orc](<../species/children-of-the-embodied-gods/orcs/orcs.md>). Uses scroll to summon Oduk, who begins creating a gnoll army to cause chaos on the border. [Agata](<../people/fey/agata.md>)'s allies remain to watch and assist, as part of the deal with [Agata](<../people/fey/agata.md>).
 - Apr 11, 1748 DR *(Fraternity of the Empty Moon)*: Werewolves begin to slip across the border of [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), using the cover of refugees fleeing east to hide.
 - Apr 24, 1748 DR *(Fraternity of the Empty Moon)*: The [Fraternity of the Empty Moon](<./fraternity-of-the-empty-moon.md>) arrives in [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and begins to set up a secret lair. 
-- Jul 02, 1748 DR *(Fraternity of the Empty Moon)*: The [Destruction of the Werewolf Cult](<../events/1700s/1748/07/destruction-of-the-werewolf-cult.md>) by [Dunmar Fellowship](<../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)
+- Jul 02, 1748 DR *(Fraternity of the Empty Moon)*: The Destruction of the Werewolf Cult by [Dunmar Fellowship](<../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)
  

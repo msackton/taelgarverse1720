@@ -17,10 +17,15 @@ title: Grimbaskal
 hide_toc: true
 ---
 # Grimbaskal
->[!info]+ Biographical Info
-> a [green dragon](<../../species/children-of-the-divine/dragons.md>), he/him
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dragon](<../../species/children-of-the-divine/dragons.md>) ([green dragon](<../../species/children-of-the-divine/dragons.md>)) (he/him)  
+    { .bio }
+
+    Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+</div>
+
+
 
 Also known as Mezzar. A green dragon who made his lair in the Elderwood, and traveled widely in the guise of an elf, using the name Mezzar and poisoning the minds of the Deno'qai of the Elderwood. 

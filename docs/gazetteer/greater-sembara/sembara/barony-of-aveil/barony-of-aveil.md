@@ -8,9 +8,10 @@ whereabouts: Sembara
 title: Barony of Aveil
 ---
 # The Barony of Aveil
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A barony in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 The Barony of Aveil is one of the oldest baronies in Sembara, sitting between the [Western Marches](<../western-marches/western-marches.md>), the powerful [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>), and the sparsely settled [Borderlands](<../borderlands/borderlands.md>). The western third of the barony is dominated by the [Cleenseau Wood](<cleenseau-region/cleenseau-wood.md>), and ancient old-growth forest. In the north, the [Aveil Ridge](<./aveil-ridge.md>), a small escarpment, defines the northern quarter of the barony, and is home to the seat of the baron, [Veltor](<./veltor.md>), a small fortified castle near the headwaters of the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). Two rivers run through the barony: the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>), which runs the length of the barony, and the [Leandre](<../../rivers/wistel-enst-watershed/leandre.md>) which is smaller and flows from the [Cleenseau Wood](<cleenseau-region/cleenseau-wood.md>) to the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). 
 

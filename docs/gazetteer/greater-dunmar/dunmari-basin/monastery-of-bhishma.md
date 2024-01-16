@@ -11,9 +11,10 @@ partOf: Garamjala Desert
 title: Monastery of Bhishma
 ---
 # The Monastery of Bhishma
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
+</div>
+
 
 ## Overview
 The Monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) is a large complex dedicated to the Dunmari goddess [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), consisting of a temple, dormitories and associated buildings, and the [Hall of Stories](<./hall-of-stories.md>), an archive of the stories and lives of the Dunmari people. 

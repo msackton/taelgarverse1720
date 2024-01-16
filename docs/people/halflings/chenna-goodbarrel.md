@@ -20,13 +20,19 @@ title: Chenna Goodbarrel
 hide_toc: true
 ---
 # Chenna Goodbarrel
->[!info]+ Biographical Info
-> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Goodbarrels
-> 
-> 
->> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Goodbarrels  
+    Born DR 1688 (32 years old)  
+    Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
+    { .bio }
+
+    Based in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
+
 
 Chenna Goodbarrel owns a small and charming halfling tavern in Fairgate Outer called *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships

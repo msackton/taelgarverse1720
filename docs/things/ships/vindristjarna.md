@@ -77,7 +77,7 @@ Amil (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Sou
 [Nuzkar](<../../people/orcs/nuzkar.md>) and [Aygul](<../../people/orcs/aygul.md>), orcs and twin sisters. 
 
 (not yet introduced)
-Égnir (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
+[Égnir](<../../people/elves/egnir.md>) (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
 [Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 

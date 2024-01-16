@@ -13,10 +13,16 @@ title: Radomir
 hide_toc: true
 ---
 # Radomir
->[!info]+ Biographical Info  
-> An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1710 (10 years old)  
+    { .bio }
+
+    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
+</div>
+
 
 A man from a strange place to the east.
 

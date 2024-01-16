@@ -7,10 +7,12 @@ whereabouts: Barony of Aveil
 title: Manor of Cleenseau
 ---
 # The Manor of Cleenseau
->[!info]+ Information
-> 
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+   :material-calendar: Founded DR 1651 (69 years ago)  
+    :octicons-location-24:{ .lg .middle } A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 The town of Cleenseau has an ancient history, but during the Third Hobgoblin War the entire [Cleenseau Region](<./cleenseau-region.md>) was overrun by hobgoblins, and the existing inhabitants slaughtered or fled. In the aftermath of the war, no heirs could be found and so the manor, as [crownland](<../../land-holding-in-sembara.md>), reverted to the sovereign. [Cece I](<../../../../../people/historical-figures/sembaran-royalty/cece-i.md>) granted it to [Reginald Essford](<../../../../../people/historical-figures/reginald-essford.md>), a decorated solider and dedicated lord who worked diligently to repopulate the land.
 

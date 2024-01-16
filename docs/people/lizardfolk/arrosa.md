@@ -14,8 +14,14 @@ title: Arrosa
 hide_toc: true
 ---
 # Arrosa
->[!info]+ Biographical Info  
-> A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
+    { .bio }
+
+    Based in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
+</div>
+
 
 A lizardfolk elder, the matriarch of the village of [Bedez](<../../gazetteer/far-south/bedez.md>), in the Kingdom of [Orekatu](<../../gazetteer/far-south/orekatu.md>). 

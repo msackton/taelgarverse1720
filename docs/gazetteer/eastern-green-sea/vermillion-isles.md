@@ -9,9 +9,10 @@ aliases: [Chasoka]
 title: Vermillion Isles
 ---
 # The Vermillion Isles
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An archipelago ~Eastern Islands~  
+</div>
+
 
 The Vermillion Isles, called Chasoka (*SHA-soh-kah*) by the kenku who inhabit them, are an archipelago in the ~Eastern Islands~ of the eastern Green Sea. These islands are formed primarily from red stone, creating dramatic red cliffs that rise from the ocean, and red stone pillars the dot the scrubby, semi-arid interior of the islands.
 

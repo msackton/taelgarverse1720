@@ -11,7 +11,13 @@ title: Travok Redpeak
 hide_toc: true
 ---
 # Travok Redpeak
->[!info]+ Biographical Info  
-> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    { .bio }
+
+</div>
+
 
 A messenger from Tharn Todor who arrived in Darba with news for Riswynnn to seek the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>) in Chardon, and a writ of payment to draw as much gold as needed to buy it back, if necessary.

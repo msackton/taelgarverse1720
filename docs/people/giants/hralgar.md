@@ -16,10 +16,18 @@ title: Hralgar
 hide_toc: true
 ---
 # Hralgar
->[!info]+ Biographical Info
-> A [giant](<../../species/children-of-the-divine/giants.md>) (the [storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [giant](<../../species/children-of-the-divine/giants.md>) ([storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently trapped in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

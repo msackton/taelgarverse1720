@@ -6,9 +6,10 @@ whereabouts: Feywild
 title: Sunset Gate
 ---
 # The Sunset Gate
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A magical place in the [Feywild](<./feywild.md>), the Echo Realms  
+</div>
+
 
 The name for the line of sunset in the Feywild west of Twilight's Grace and east of Duskmire. It stretches from [Amberglow](<./amberglow.md>) north for some distance. It is a line of materialized color - yellows and reds and oranges painted in the sky, but as physical barriers - like paint brush strokes just sitting in the air. The colors are physical and passing through them is impossible, but they are riddled with cracks and openings. In some places, these cracks are sharp and dangerous, and passing through has weird time effects - sometimes it takes a day or a year to walk through a crack. 
 

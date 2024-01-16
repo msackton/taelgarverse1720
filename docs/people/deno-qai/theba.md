@@ -18,11 +18,17 @@ title: Theba
 hide_toc: true
 ---
 # Theba
->[!info]+ Biographical Info
-> A Deno'qai [human](<../../species/humans/humans.md>) (she/her)
-> 
->> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1717 (3 years old)  
+    { .bio }
+
+    Based in Bek'eni village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+</div>
+
+
 
 
 

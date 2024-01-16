@@ -10,9 +10,10 @@ whereabouts: Tokra
 title: The Red Lily Inn
 ---
 # The Red Lily Inn
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+</div>
+
 
 A halfling inn, also on the west side of town, just inside the walls, near the western gate. Run by [Wes Strongbones](<../../../../../../people/halflings/wes-strongbones.md>) and his twin sons Tye and Cade. 
 

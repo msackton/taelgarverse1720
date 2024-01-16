@@ -11,7 +11,15 @@ title: Herasto
 hide_toc: true
 ---
 # Herasto
->[!info]+ Biographical Info  
-> A [centaur](<../../species/children-of-the-divine/centaurs/centaurs.md>) (he/him)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [centaur](<../../species/children-of-the-divine/centaurs/centaurs.md>) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in the Voltara Plains, the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+
 

@@ -11,7 +11,13 @@ title: Yaz
 hide_toc: true
 ---
 # Yaz
->[!info]+ Biographical Info  
-> A [human](<../../species/humans/humans.md>) (he/him)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [human](<../../species/humans/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
 
 An old man, shortish white hair pulled back in a pony tail. Lives alone in the Towers, in an isolated watchtower. Knowledgeable about the lore and mysteries of the western ocean.

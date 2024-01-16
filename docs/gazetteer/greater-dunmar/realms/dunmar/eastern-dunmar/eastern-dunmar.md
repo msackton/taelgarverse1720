@@ -8,8 +8,10 @@ partOf: Dunmar
 title: Eastern Dunmar
 ---
 # Eastern Dunmar
->[!info]+ Information
-> A region in [Dunmar](<../dunmar.md>), the [Greater Dunmar](<../../../greater-dunmar.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A subregion in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+</div>
+
 
 Eastern Dunmar is marginal land centered on the [Red Mesa](<./red-mesa.md>) and the towns that surround it, principally [Karawa](<./karawa.md>) and [Bas Udda](<./bas-udda.md>). Once, this was the heart of Dunmar, but in the current day, it is a sparsely populated scrubland and desert.
 

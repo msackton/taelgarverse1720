@@ -13,11 +13,13 @@ title: Brot's Telescope (Small)
 hide_toc: true
 ---
 # The Brot's Telescope (small)
->[!info]+ Information  
-> (unique mundane telescope)  
->   
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Mundane Telescope__  
+   Created October 1st, 1719 (3 months ago)  
+   Created by [Brot Starsearcher](<../../../people/dwarves/brot-starsearcher.md>), in [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)  
+   Owned by [Izgil Moonseeker](<../../../people/pcs/cleenseau/izgil-moonseeker.md>)  
+</div>
+
 
 A clever spyglass that [Brot Starsearcher](<../../../people/dwarves/brot-starsearcher.md>) gave to [Izgil](<../../../people/pcs/cleenseau/izgil-moonseeker.md>) after he promised to seek funding for Brot's large telescope project.
 

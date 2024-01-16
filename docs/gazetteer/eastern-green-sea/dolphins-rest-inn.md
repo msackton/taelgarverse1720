@@ -7,9 +7,10 @@ partOf: Wahacha
 title: Dolphin’s Rest Inn
 ---
 # The Dolphin’s Rest Inn
->[!info]+ Information  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An inn in [Wahacha](<./wahacha.md>), the [Vermillion Isles](<./vermillion-isles.md>), ~Eastern Islands~  
+</div>
+
 
 An inn in [Wahacha](<./wahacha.md>), popular with sailors and other grounders, as the kenku call those who cannot fly. 
 

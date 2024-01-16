@@ -6,9 +6,10 @@ typeOf: region
 title: Garamjala Plateau
 ---
 # The Garamjala Plateau
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A region in [Greater Dunmar](<../greater-dunmar.md>)  
+</div>
+
 
 The high interior plateau in the rain shadow of the [Yuvanti Mountains](<../yuvanti-mountains.md>), uplifted in the chaos at the end of the Great War. 
 

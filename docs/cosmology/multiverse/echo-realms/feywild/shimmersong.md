@@ -7,9 +7,10 @@ ancestry: fey
 title: Shimmersong
 ---
 # Shimmersong
->[!info]+ Information  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/children-of-the-divine/fey/fey.md>) realm in the [Feywild](<./feywild.md>), the Echo Realms  
+</div>
+
 
 The fey domain of Shimmersong is a land of bright colors and vivid magic. It is hilly terrain, with pillars of bright gems, crystal forests on rolling slopes, glittering caves, spiders that spin webs of diamond. There is the occasional mountain, and the occasional hidden valley of lush plant life in rich, multicolored soil. Mostly it is a riot of color, and full of oddities that mix crystals/gems with living things, so there might be trees on which ruby apples grow, or a crystal tree that produces real citrus, or a deer with antlers of silver instead of bone.
 

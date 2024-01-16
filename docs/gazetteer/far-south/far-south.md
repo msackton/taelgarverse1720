@@ -8,9 +8,10 @@ whereabouts:
 title: Far South
 ---
 # The Far South
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A region in [Taelgar](<../gazetteer.md>)  
+</div>
+
 
 ## Overview
 

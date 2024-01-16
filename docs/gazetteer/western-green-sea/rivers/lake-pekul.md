@@ -10,6 +10,7 @@ aliases: [Pekul]
 title: Lake Pekul
 ---
 # Lake Pekul
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A lake in the [Kem](<./kem.md>), [Vostok](<../vostok/vostok.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
+

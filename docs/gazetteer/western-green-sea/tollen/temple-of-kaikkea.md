@@ -12,9 +12,10 @@ partOf: Tollen
 title: Temple of Kaikkea
 ---
 # The Temple of Kaikkea
->[!info]+ Information
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A [Skaer](<../skaerhem/skaerhem.md>) temple of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>) in the [Free City of Tollen](<./tollen.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+</div>
+
 
 An ancient building in [Tollen](<./tollen.md>), one of the original structures, once outside the city walls, but later incorporated into the city. Dedicated to the Skaer goddess [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>), and used by the Skaer, who maintain a presence here. 
 

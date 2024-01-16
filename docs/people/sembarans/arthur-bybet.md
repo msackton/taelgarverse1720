@@ -21,7 +21,7 @@ hide_toc: true
 ---
 # Arthur Bybet
 >[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Bybets
 > 
 > 
 >> 

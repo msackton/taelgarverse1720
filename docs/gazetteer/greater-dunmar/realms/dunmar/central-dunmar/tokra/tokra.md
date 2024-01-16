@@ -8,8 +8,10 @@ whereabouts: Central Dunmar
 title: Tokra
 ---
 # Tokra
->[!info]+ Information
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A city in [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+</div>
+
 
 *As you crest the height of the land, you can see the River [Hara](<../../../../rivers/hara-watershed/hara.md>) winding slowly from north to south, barely more than a trickle at this time of year, before the rains of the monsoon season come.
 

@@ -7,8 +7,10 @@ whereabouts: Chardonian Empire
 title: Chardon
 ---
 # Chardon
->[!info]+ Information
-> A city in the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A city in the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
+</div>
+
 
 Chardon is a city of many things. It is the capitol and seat of government of the [Chardonian Empire](<../chardonian-empire.md>). It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 
