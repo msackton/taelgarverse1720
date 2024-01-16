@@ -8,10 +8,8 @@ partOf: Skaerhem
 title: Vetta
 ---
 # Vetta
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
-</div>
-
+>[!info]+ Information
+> An island in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)
 
 Vetta is a small volcanic island, perhaps 3 miles across, with steep cliffs on most of its sides, no trees, and abundant bird life. Even in winter it does not snow a huge amount, but most life is gone and the island looks barren and gray.
 

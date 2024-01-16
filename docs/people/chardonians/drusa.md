@@ -14,16 +14,10 @@ title: Drusa
 hide_toc: true
 ---
 # Drusa
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1711 (9 years old)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+>   
+>> 
 
 A Chardonian wizard on loan to the Dunmari army of [Nayan Karnas](<../dunmari/nayan-karnas.md>), commanded by [Illyan](<../dunmari/illyan.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 

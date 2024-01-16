@@ -12,21 +12,15 @@ title: Lady Eventide
 hide_toc: true
 ---
 # Lady Eventide
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
+>[!info]+ Biographical Info
+> a [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)
+>> 
+>> 
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
-    { .bio }
-
-    Based in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-</div>
-
-
-
-Lady Eventide is a fey who once held significant influence in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) as a member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
+Lady Eventide is a fey who once held significant influence in Amberglow as a member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
 ## Overview
 
-Lady Eventide was once a respected member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she stands as one of the few prominent fey still residing in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), striving to protect what little remains of this magical domain. Her home is the ancient cloud palace, which has lost most of its vibrancy.
+Lady Eventide was once a respected member of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>)'s court. Now, she stands as one of the few prominent fey still residing in Amberglow, striving to protect what little remains of this magical domain. Her home is the ancient cloud palace, which has lost most of its vibrancy.
 ## Description
 
 Lady Eventide is often seen in ornate courtly gowns adorned with jewelry. However, much like her surroundings, her attire predominantly comprises muted gray and white shades, giving an impression that its colors have been sapped away.

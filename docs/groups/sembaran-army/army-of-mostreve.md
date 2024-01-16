@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [organization/army, status/unknown]
 campaignInfo: []
 name: Army of Mostreve
@@ -8,6 +8,9 @@ typeOf: army
 title: Army of Mostreve
 ---
 # The Army of Mostreve
+>[!info]+ Information
+> An army
+> Parent Organization: The [Sembaran Army](<./sembaran-army.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 The Army of Mostreve is a 1200-strong, divided into three companies, garrisoned along the [Mostreve Hills](<../../gazetteer/greater-sembara/mostreve-hills.md>) - the garrison of the Aben, in the headwaters of the Aben River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [The Rangers](<../the-rangers.md>).
 

@@ -8,10 +8,8 @@ aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 title: Sentinel Range
 ---
 # The Sentinel Range
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mountain range in [Central Highlands Region](<./central-highlands-region.md>)  
-</div>
-
+>[!info]+ Information
+>> 
 
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [Green Sea](<../green-sea.md>) and the surrounding lands from the [west coast](<../west-coast/west-coast-region.md>) of Taelgar.
 

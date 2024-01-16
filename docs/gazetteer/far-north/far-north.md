@@ -7,11 +7,9 @@ typeOf: region
 whereabouts: Taelgar
 title: Far North
 ---
-# The Far North
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
-</div>
-
+# The Far North Region
+>[!info]+ Information
+>> 
 
 ## Overview
 

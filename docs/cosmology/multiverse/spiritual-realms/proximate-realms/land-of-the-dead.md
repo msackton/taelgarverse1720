@@ -10,10 +10,9 @@ typeOf: plane
 title: Land of the Dead
 ---
 # The Land of the Dead
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } One of the [Spiritual Realms](<../spiritual-realms.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The vast gathering place for the souls of the dead. When a consciousness, or soul, dies, it fades from the [Plane of Souls](<../plane-of-souls.md>), but does not immediately disappear ino nothingness. 
 

@@ -24,7 +24,7 @@ To the south, the party found there way through the webs and brambles, and after
 
 Before long, the party sneaks into the heart of the forest webs, where a huge dead tree, sheathed with webs, stands in the middle of a clearing in the forest. Sitting in the dead tree is a large spider-like creature, monstrous and somewhat humanoid, spinning a web around a human body.
 
-The party defeats the ettercap, and a woman, [Narrisa de Abadelle](<../../../people/sembarans/narrisa-de-abadelle.md>) appears from the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>). 
+The party defeats the ettercap, and a woman, [Narrisa de Abadelle](<../../../people/sembarans/narrisa-de-abadelle.md>) appears from the Feywild. 
 
 In the lair are several bodies:
 * an old man, later identified as [Nicholas the Beggar](<../../../people/sembarans/nicholas-the-beggar.md>), who has been missing for 8 days

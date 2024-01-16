@@ -20,19 +20,11 @@ title: Faldrak Bronzehammer
 hide_toc: true
 ---
 # Faldrak Bronzehammer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
-    Born DR 1516 (204 years old)  
-    { .bio }
-
-    Based in [Fahnukan](<../../gazetteer/sentinel-range/dwarven-kingdoms/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 1st, 1698): the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-
-
+>[!info]+ Biographical Info
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)
+> 
+>> 
+>> 
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview
@@ -45,5 +37,5 @@ Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes spark
 ![Faldrak Portrait 1](../../assets/faldrak-portrait-1.png){width="400"}
 ## Events
 
-- In DR 1748, during [Pyravela](<../../time/holidays-and-festivals/pyravela.md>) in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), Faldrak attended the party hosted by The Dunmar Fellowship on [Vindristjarna](<../../things/ships/vindristjarna.md>), where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
+- In DR 1748, during [Pyravela](<../../time/holidays-and-festivals/pyravela.md>) in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), Faldrak attended the party hosted by The Dunmar Fellowship on Vindristjarna, where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
 

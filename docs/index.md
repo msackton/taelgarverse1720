@@ -1,6 +1,7 @@
 ---
 tags: [meta]
 hide: [toc, navigation]
+template: home.html
 title: Index
 ---
 

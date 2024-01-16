@@ -7,10 +7,9 @@ partOf: Taelgar
 title: West Coast Region
 ---
 # The West Coast Region
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 ## Overview
 

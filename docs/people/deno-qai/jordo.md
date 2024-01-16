@@ -15,16 +15,10 @@ title: Jordo
 hide_toc: true
 ---
 # Jordo
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1672 (48 years old)  
-    { .bio }
-
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>> 
 
 The old Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>), who found a Jade Piece of Rai's Hand. Refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../cosmology/gods/tanshi/aasimti.md>) to work together to protect the Te'kula in a pocket dimension. 
 

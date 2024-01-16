@@ -18,17 +18,12 @@ title: Lyle Honeyhill
 hide_toc: true
 ---
 # Lyle Honeyhill
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Honeyhills  
-    Born DR 1703 (17 years old)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-
-
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Honeyhills](<../../groups/halfling-families/honeyhills.md>)
+> 
+> 
+>> 
+>> 
+>> 
 
 The navigator of the [Emerald Song](<../../things/ships/emerald-song.md>). He joined the crew after the tragic loss of the Twilight Breeze and the Starlight Bough, his family's ships. Lyle knows the waters of the Nevos Sea exceedingly well. 

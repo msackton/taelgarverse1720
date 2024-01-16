@@ -6,10 +6,9 @@ whereabouts: Greater Dunmar
 title: Dunmari Basin
 ---
 # The Dunmari Basin
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A watershed in [Greater Dunmar](<../greater-dunmar.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Dunmari Basin is a broad, flat, semi-arid plain, between the Yuvanti Mountains to the west and south, the Sentinels to the north, and the Garamjala Plateau to the east. 
 

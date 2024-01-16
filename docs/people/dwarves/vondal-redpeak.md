@@ -12,13 +12,8 @@ title: Vondal Redpeak
 hide_toc: true
 ---
 # Vondal Redpeak
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Redpeaks  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Redpeaks  
+> 
 
 A member of the Redpeaks of Darba, a mason fascinated with the history of Darba's stonework. 

@@ -15,18 +15,11 @@ title: Ariel
 hide_toc: true
 ---
 # Ariel
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1674 (46 years old)  
-    { .bio }
-
-    Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
-</div>
-
-
+>[!info]+ Biographical Info
+> A Deno'qai [human](<../../species/humans/humans.md>) (she/her)
+> 
+>> 
+>> 
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [Great War](<../../events/1500s/great-war.md>)
 

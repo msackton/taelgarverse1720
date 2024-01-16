@@ -8,6 +8,8 @@ DR: 402
 title: Treaty of Marhavn
 ---
 # The Treaty of Marhavn
+>[!info]+ Information
+> 
 
 The Treaty of Marhavn ('Mar-hahvn') was signed by Goristo in DR 402. This treaty established the Volta as the northern border of the Drankorian Empire, and made the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea into imperial subjects.
 

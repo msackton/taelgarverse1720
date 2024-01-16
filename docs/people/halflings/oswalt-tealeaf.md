@@ -19,18 +19,12 @@ title: Oswalt Tealeaf
 hide_toc: true
 ---
 # Oswalt Tealeaf
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him)  
-    Member of the Tealeafs  
-    { .bio }
-
-    Based in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
+>[!info]+ Biographical Info  
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him)  
+>   
+>>   
+>>   
+>> 
 
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
 

@@ -8,6 +8,8 @@ displayDefaults: {dPastHasStart: '<startDate> - <endDate>, lasted <length>', par
 title: Fog of Mawar
 ---
 # The Fog of Mawar
+>[!info]+ Information
+> 
 
 A enchanted fog summoned by the druids of coast and wood, the salt lizardfolk, and many others working together in the aftermath of the [Grand Conclave of Mawakel](<1545/grand-conclave-of-mawakel.md>). It came at great cost, and required endless vigilance along the borders. But as a result the weather, for much of the next fifty years, was made to protect the peninsula.
 

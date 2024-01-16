@@ -20,19 +20,11 @@ whereabouts:
 hide_toc: true
 ---
 # Samraat Dharajun Jita
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (she/her)  
-    b. DR 1386 - d. DR 1460, died at age 74 years  
-    Member of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
-    Member of the Dharajun dynasty (until DR 1460)  
-    { .bio }
-
-    Originally from: the plains of Songara, [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (she/her)
+> 
+> 
+>> 
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya](<../../../cosmology/gods/incorporeal-gods/dunmari/chidya.md>) and often called the dynasty of the horse. 
 

@@ -16,22 +16,15 @@ title: Caelynn the Seer
 hide_toc: true
 ---
 # Caelynn the Seer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
-    { .bio }
-
-    Originally from: [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
-</div>
-
-
+>[!info]+ Biographical Info  
+> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+>>   
+>> 
 
 A fey woman from across the mountains, from the fey realm of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview
 
-Caelynn the Seer, a fey woman from the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>) domain of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) near the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>) for an indetermine time -- at least a century, perhaps much longer. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 
+Caelynn the Seer, a fey woman from the Feywild domain of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) near the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>) for an indetermine time -- at least a century, perhaps much longer. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 
 ## Description
 
 ![Caelynn Portrait](../../assets/caelynn-portrait.png)

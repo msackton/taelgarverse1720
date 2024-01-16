@@ -9,10 +9,9 @@ partOf: Northern Green Sea
 title: Ursk
 ---
 # Ursk
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm the Northern Green Sea  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 Ursk is a secretive civilization on the north coast of the [Green Sea](<../green-sea.md>). Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [Zakat](<./zakat.md>) and [Praznitsky](<./praznitsky.md>), the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 

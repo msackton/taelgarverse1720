@@ -23,4 +23,4 @@ hide_toc: true
 > 
 >> 
 
-A cousin of [Arthur Bybet](<./arthur-bybet.md>) and the chamberlain of the Essford household. 
+A cousin of [Arthur Bybet](<./arthur-bybet.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household. 

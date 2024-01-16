@@ -16,18 +16,11 @@ title: Balati
 hide_toc: true
 ---
 # Balati
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A Deno'qai [human](<../../species/humans/humans.md>) (he/him), of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>)  
-    b. DR 1520 - d. DR 1544, died at age 24 years  
-    { .bio }
-
-    Lived in the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-</div>
-
-:octicons-location-24:{ .lg .middle } Died in the [Forest of Nightmares](<../../gazetteer/far-north/forest-of-nightmares.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-
+>[!info]+ Biographical Info
+> A Deno'qai [human](<../../species/humans/humans.md>) (he/him), of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>)
+> 
+> 
+>> 
 
 A hero of the Deno'qai during the [Great War](<../../events/1500s/great-war.md>), and the man who once bore the armor and shield [Delwath](<../pcs/dunmar-fellowship/delwath.md>) now carries.
 

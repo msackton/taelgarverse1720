@@ -8,6 +8,9 @@ DR: 423
 title: Treaty of Tyrwingha
 ---
 # The Treaty of Tyrwingha
+>[!info]+ Information
+> 
+
 
 An agreement between the Goristo and the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey-ethlenn.md>) signed in DR 423.
 

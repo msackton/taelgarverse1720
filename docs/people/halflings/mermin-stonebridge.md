@@ -16,20 +16,12 @@ title: Mermin Stonebridge
 hide_toc: true
 ---
 # Mermin Stonebridge
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
-    Born DR 1693 (27 years old)  
-    { .bio }
-
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on November 1st, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
-
+>[!info]+ Biographical Info  
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+>   
+>   
+>>   
+>>  Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on November 1st, 1719 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) 
 
 A young halfling trader based out of Cleanseau, although he travels between [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>) and [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) somewhat regularly.  Like most halflings, but unlike most Stonebridges, he is anxious to travel and is just looking for the opportunity which, as he says, "the ancestors want for him".
 

@@ -11,13 +11,7 @@ title: Sajan
 hide_toc: true
 ---
 # Sajan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)
 
 The former keeper of the [Hall of Stories](<../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>), now lost to madness and trapped in the endless memories and nightmares of that place, always turning tales to the worst possible outcome. 

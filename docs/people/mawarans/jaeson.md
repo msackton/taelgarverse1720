@@ -12,13 +12,7 @@ title: Jaeson
 hide_toc: true
 ---
 # Jaeson
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A Mawaran [human](<../../species/humans/humans.md>) (he/him)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A Mawaran [human](<../../species/humans/humans.md>) (he/him)
 
 A somewhat shady character who lives in the Sunken Cliffs, neighbor to Ryu and Trok. Keeps to himself but will occasionally do favors for Ryu in exchange for fish.

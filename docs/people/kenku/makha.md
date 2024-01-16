@@ -14,18 +14,12 @@ title: Makha
 hide_toc: true
 ---
 # Makha
-:speaker:{ .middle } *(MAH-kah)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    An Islander kenku (he/him)  
-    Born DR 1712 (8 years old)  
-    { .bio }
-
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), ~Eastern Islands~
-</div>
-
-
+*(MAH-kah)*
+>[!info]+ Biographical Info
+> An Islander kenku, he/him
+> 
+>> 
+>> 
 
 The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
 

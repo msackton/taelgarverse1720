@@ -8,6 +8,8 @@ DR_end: 1625-08-14
 title: Exile of Fraternity of the Empty Moon
 ---
 # The Exile of Fraternity of the Empty Moon
+>[!info]+ Information
+> 
 
 The Exile of the Fraternity of the Empty Moon was a campaign waged over the course of four months in the summer of the 68th year of the Nayan Dynasty (DR 1625). 
 

@@ -12,15 +12,9 @@ title: Magran Boulderbeard
 hide_toc: true
 ---
 # Magran Boulderbeard
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
-    { .bio }
-
-    Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+>> 
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), and to confront Chardonian interlopers. 
 

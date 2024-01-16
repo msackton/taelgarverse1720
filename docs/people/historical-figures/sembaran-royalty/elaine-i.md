@@ -17,19 +17,10 @@ affiliations:
 hide_toc: true
 ---
 # Queen Elaine I
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1539 - d. DR 1592, died at age 53 years  
-    Princess Consort of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1567 - DR 1571)  
-    Queen Consort of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1571 - DR 1592)  
-    Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1582 - DR 1592)  
-    Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1589 - DR 1592)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info
+> A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)
+> 
+> 
 
 The twin sister of [Anne](<./anne.md>), her disputes with her sister over the throne dominated the 1560s and 1580s.
 

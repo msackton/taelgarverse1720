@@ -12,13 +12,7 @@ title: Sulfi Mahadra
 hide_toc: true
 ---
 # Sulfi Mahadra
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [human](<../../species/humans/humans.md>) (she/her)  
-    { .bio }
-
-</div>
-
+>[!info]+ Biographical Info  
+> A [human](<../../species/humans/humans.md>) (she/her)
 
 Known as the Queen of Ships, she lives with her partner Iesha on Glittercliff. Owns a large fraction of the fishing fleet of Hamri, and is the most important boat builder in the region

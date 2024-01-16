@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.25
+headerVersion: 2023.11.20
 tags: [organization, status/unknown]
 displayDefaults: {partOf: '<typeof:A> in <partof>', boxInfo: ''}
 campaignInfo: []
@@ -10,6 +10,8 @@ partOf: Sembara
 title: Sembaran Army
 ---
 # The Sembaran Army
+>[!info]+ Information
+> an army in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 

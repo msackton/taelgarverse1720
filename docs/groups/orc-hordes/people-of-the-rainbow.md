@@ -15,11 +15,15 @@ whereabouts:
 title: People of the Rainbow
 ---
 # The People of the Rainbow
+>[!info]+ Information
+> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) clan
+> 
+>> 
 
 The name for the orcs of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) who have lived free from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s curse for many generations.
 ## History
 
-The People of the Rainbow trace their origins to the Golden Age of the [Drankorian Empire](<../../history/drankorian-era/drankorian-empire.md>), when their ancestors were freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s chains by the gift of an archfey known as the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>). In those days, the People of the Rainbow grew and prospered in the [feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>) domain of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), under the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>)'s protection, and safe from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s reach. 
+The People of the Rainbow trace their origins to the Golden Age of the [Drankorian Empire](<../../history/drankorian-era/drankorian-empire.md>), when their ancestors were freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s chains by the gift of an archfey known as the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>). In those days, the People of the Rainbow grew and prospered in the feywild domain of Amberglow, under the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>)'s protection, and safe from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s reach. 
 
 As they grew, the People of the Rainbow wished to free their brethren from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s chains, so with the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>)'s blessing and the gift of the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) to protect them, they ventured back to the material plane. 
 

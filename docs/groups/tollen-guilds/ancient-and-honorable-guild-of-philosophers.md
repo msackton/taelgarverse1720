@@ -10,6 +10,10 @@ whereabouts: Skepwalk
 title: Ancient and Honorable Guild of Philosophers
 ---
 # The Ancient and Honorable Guild of Philosophers
+>[!info]+ Information
+> A guild in [Skepwalk](<../../gazetteer/western-green-sea/tollen/skepwalk.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+> 
+>> 
 
 
 

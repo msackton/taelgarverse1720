@@ -3,6 +3,6 @@ tags: [status/unknown]
 title: Duskhounds
 ---
 
-Servants of [Lord Umbraeth](<../../../../people/extraplanar-powers/lord-umbraeth.md>)
+Servants of Lord Umbraeth
 
 ![Duskhound](../../../../assets/duskhound.png)

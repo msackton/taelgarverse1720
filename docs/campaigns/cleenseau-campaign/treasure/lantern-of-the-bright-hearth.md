@@ -11,12 +11,11 @@ title: Lantern of the Bright Hearth
 hide_toc: true
 ---
 # The Lantern of the Bright Hearth
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Lantern__  
-   Owned by [Robin of Abenfyrd](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>)  
-    :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) 
-</div>
-
+>[!info]+ Information  
+> (unique lantern)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)  
+>   
+>> 
 
 A small lantern carried by [Robin](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>). It gives off a perpetual warm glow that reminds one of home and pleasant things. 
 

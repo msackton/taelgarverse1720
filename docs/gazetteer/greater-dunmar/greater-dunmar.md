@@ -8,10 +8,9 @@ partOf: Taelgar
 title: Greater Dunmar
 ---
 # Greater Dunmar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 This region of Taelgar includes the land south of the [Sentinel Range](<../sentinel-range/sentinel-range.md>), from the [Myraeni Gap](<./myraeni-gap.md>) and the Dunmari coast in the west, past the [Garamjala Desert](<garamjala-plateau/garamjala-desert.md>) and the [Nashtkar](<dunmari-basin/nashtkar.md>) in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [Drankor](<../../history/drankorian-era/drankor.md>), and beyond to the [Sea of Storms](<./sea-of-storms.md>). 
 

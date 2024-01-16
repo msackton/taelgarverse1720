@@ -16,7 +16,7 @@ hide_toc: true
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Info
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Essfords
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)
 > 
 > 
 >> 

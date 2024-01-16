@@ -7,10 +7,9 @@ name: Desolation of Cha'mutte
 title: Desolation of Cha'mutte
 ---
 # The Desolation of Cha'mutte
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 The Desolation of Cha'mutte is a large area, spanning parts of the [Greater Dunmar](<../greater-dunmar/greater-dunmar.md>) and the [Western Green Sea Region](<../western-green-sea/western-green-sea-region.md>), that is magically corrupted as a result of the [First Plague](<../../events/1000s/1059/first-plague.md>) and the [Great War](<../../events/1500s/great-war.md>). 
 

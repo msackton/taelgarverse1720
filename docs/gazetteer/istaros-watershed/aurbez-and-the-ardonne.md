@@ -7,10 +7,9 @@ partOf: Istaros Watershed
 title: Aurbez and the Ardonne
 ---
 # The Aurbez and the Ardonne
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the Istaros Watershed  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 This region is a borderland, caught between the [Sentinel Range](<../sentinel-range/sentinel-range.md>) to the west and the [Plaguelands](<./plaguelands.md>) to the east. It is a marginal land, with hot, dry summers when the ash-wind blows from the east and cold, dry winters when the westerlies blow over the mountains. The main rainfall is in the spring, when in lucky years several soaking rains will replenish the land, and in the summer when the punishing thunderstorms race from the east, bringing flash floods, lightning, and hail. In autumn the rivers shrink, and the temperature is briefly moderate before the cooler winters come.
 

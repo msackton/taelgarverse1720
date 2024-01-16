@@ -10,10 +10,9 @@ ancestry: kenku
 title: Wahacha
 ---
 # Wahacha
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A Kenku port town in the [Vermillion Isles](<./vermillion-isles.md>), ~Eastern Islands~  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 Wahacha is one of several notable ports in the [Vermillion Isles](<./vermillion-isles.md>), inhabited primarily by kenku. The low port, including the harbor, docks, trading houses, and a few taverns and sailor's inns, is set along the water, below towering cliffs of red stone. The main part of town is built in and among the red stone pillars that dot the landscape, with many buildings clinging impossibly to the sides of cliffs, inaccessible except by flight.
 
