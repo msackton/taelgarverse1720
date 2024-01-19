@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}
 name: Delios the Sage
@@ -29,7 +28,7 @@ hide: [navigation]
 
 
 
-An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the  [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)
+![Delios The Sage](../../assets/delios-the-sage.png){align="right"; width="400"}An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)
 
 Carries what appears to be a magic scroll, allowing him to query some kind of library or source of information. 
-![Delios The Sage](../../assets/delios-the-sage.png){width="400"}
+

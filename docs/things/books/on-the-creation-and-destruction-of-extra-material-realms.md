@@ -1,5 +1,6 @@
 ---
 tags: [status/unknown, item/book]
+typeOf: book
 title: On the Creation and Destruction of Extra Material Realms
 hide_toc: true
 hide: [navigation]

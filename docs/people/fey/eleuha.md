@@ -24,4 +24,4 @@ hide: [navigation]
 </div>
 
 
-A dryad of the jungle, daughter of a great tree, friend to [Lengau](<../other-nonhumans/lengau.md>). 
+A dryad of the jungle, daughter of a great tree, friend to Lengau. 

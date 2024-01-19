@@ -20,6 +20,8 @@
         - [Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md)
             - [Essford Manor](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md)
             - [Garrison Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/garrison-gate-of-cleenseau.md)
+            - [Lord's Council of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md)
+            - [Lord's Guard of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md)
             - [North Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/north-gate-of-cleenseau.md)
             - [River Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/river-gate-of-cleenseau.md)
             - [Temple of the Warlord in Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md)
@@ -37,7 +39,6 @@
         - [An Excerpt from on Creation and Destruction of Extra Material Realms](campaigns/cleenseau-campaign/letters-and-stories/an-excerpt-from-on-creation-and-destruction-of-extra-material-realms.md)
         - [Guy de Varan's Story](campaigns/cleenseau-campaign/letters-and-stories/guy-de-varan-s-story.md)
         - [Letter from Rosalind (January 6th)](campaigns/cleenseau-campaign/letters-and-stories/letter-from-rosalind-january-6th.md)
-        - [Letter from Rosalind (January 8th)](campaigns/cleenseau-campaign/letters-and-stories/letter-from-rosalind-january-8th.md)
         - [Letter from Susanne Garay to Viepuck](campaigns/cleenseau-campaign/letters-and-stories/letter-from-susanne-garay-to-viepuck.md)
         - [Letter from the Oracle of the Red to the Mostreve Warlocks](campaigns/cleenseau-campaign/letters-and-stories/letter-from-the-oracle-of-the-red-to-the-mostreve-warlocks.md)
         - [Report on the Bogblight](campaigns/cleenseau-campaign/letters-and-stories/report-on-the-bogblight.md)
@@ -74,7 +75,7 @@
             - Rivers
                 - [Chasa](gazetteer/chasa-nahadi-watershed/rivers/chasa.md)
                 - [Kayan](gazetteer/chasa-nahadi-watershed/rivers/kayan.md)
-        - Eastern Green Sea
+        - [Eastern Green Sea](gazetteer/eastern-green-sea/eastern-green-sea.md)
             - [Arryn’s Tower](gazetteer/eastern-green-sea/arryns-tower.md)
             - [Dolphin’s Rest Inn](gazetteer/eastern-green-sea/dolphins-rest-inn.md)
             - [Eastern Green Sea Region](gazetteer/eastern-green-sea/eastern-green-sea-region.md)
@@ -104,6 +105,7 @@
                 - [Dwarven Outpost (Raven's Hold)](gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md)
                 - [Gomat](gazetteer/greater-dunmar/dunmari-basin/gomat.md)
                 - [Hall of Stories](gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md)
+                - [Hara River Valley](gazetteer/greater-dunmar/dunmari-basin/hara-river-valley.md)
                 - [Kharsan](gazetteer/greater-dunmar/dunmari-basin/kharsan.md)
                 - [Monastery of Bhishma](gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md)
                 - [Nashtkar](gazetteer/greater-dunmar/dunmari-basin/nashtkar.md)
@@ -147,6 +149,8 @@
                 - [Nardith](gazetteer/greater-dunmar/realms/nardith/nardith.md)
                     - [Tharn Todor](gazetteer/greater-dunmar/realms/nardith/tharn-todor.md)
             - Rivers
+                - [Chaudi](gazetteer/greater-dunmar/rivers/chaudi.md)
+                - [Nayan](gazetteer/greater-dunmar/rivers/nayan.md)
                 - [Shrev](gazetteer/greater-dunmar/rivers/shrev.md)
                 - Hara Watershed
                     - [Hara](gazetteer/greater-dunmar/rivers/hara-watershed/hara.md)
@@ -155,7 +159,7 @@
                     - [Thandar](gazetteer/greater-dunmar/rivers/hara-watershed/thandar.md)
             - Roads
                 - [Tokra-Darba Road](gazetteer/greater-dunmar/roads/tokra-darba-road.md)
-        - Greater Sembara
+        - [Greater Sembara](gazetteer/greater-sembara/greater-sembara.md)
             - [Mostreve Hills](gazetteer/greater-sembara/mostreve-hills.md)
             - [Ozabal](gazetteer/greater-sembara/ozabal.md)
             - [Addermarch](gazetteer/greater-sembara/addermarch/addermarch.md)
@@ -166,7 +170,7 @@
                 - [March of Ardonne](gazetteer/greater-sembara/duchy-of-maseau/march-of-ardonne.md)
                 - [Valarin](gazetteer/greater-sembara/duchy-of-maseau/valarin.md)
                 - [Wakog's Camp](gazetteer/greater-sembara/duchy-of-maseau/wakog-s-camp.md)
-            - Refounded Alliance Of Aurbez
+            - [Refounded Alliance of Aurbez](gazetteer/greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md)
                 - [Aursen Crossing](gazetteer/greater-sembara/refounded-alliance-of-aurbez/aursen-crossing.md)
                 - [Ausson's Crossing](gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md)
                 - [Laicon](gazetteer/greater-sembara/refounded-alliance-of-aurbez/laicon.md)
@@ -180,6 +184,7 @@
                     - [Semb](gazetteer/greater-sembara/rivers/semb-watershed/semb.md)
                 - Volta Watershed
                     - [Lake Kamchak](gazetteer/greater-sembara/rivers/volta-watershed/lake-kamchak.md)
+                    - [Volta](gazetteer/greater-sembara/rivers/volta-watershed/volta.md)
                 - Wistel Enst Watershed
                     - [Auberonne](gazetteer/greater-sembara/rivers/wistel-enst-watershed/auberonne.md)
                     - [Aure](gazetteer/greater-sembara/rivers/wistel-enst-watershed/aure.md)
@@ -192,6 +197,7 @@
                     - [Wistel](gazetteer/greater-sembara/rivers/wistel-enst-watershed/wistel.md)
             - Roads
                 - [Bandit's Way](gazetteer/greater-sembara/roads/bandit-s-way.md)
+                - [Great South Road](gazetteer/greater-sembara/roads/great-south-road.md)
                 - [Maseau - Dunmar Road](gazetteer/greater-sembara/roads/maseau-dunmar-road.md)
             - [Sembara](gazetteer/greater-sembara/sembara/sembara.md)
                 - [Aine Hills](gazetteer/greater-sembara/sembara/aine-hills.md)
@@ -225,6 +231,8 @@
                         - [Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md)
                             - [Essford Manor](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md)
                             - [Garrison Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/garrison-gate-of-cleenseau.md)
+                            - [Lord's Council of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md)
+                            - [Lord's Guard of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md)
                             - [North Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/north-gate-of-cleenseau.md)
                             - [River Gate of Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/river-gate-of-cleenseau.md)
                             - [Temple of the Warlord in Cleenseau](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md)
@@ -234,6 +242,9 @@
                             - [The River’s Blessing](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-rivers-blessing.md)
                 - [Borderlands](gazetteer/greater-sembara/sembara/borderlands/borderlands.md)
                     - [Barony of Brumecliff](gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md)
+                    - [Barony of Chantelierre](gazetteer/greater-sembara/sembara/borderlands/barony-of-chantelierre.md)
+                    - [Barony of Clairbois](gazetteer/greater-sembara/sembara/borderlands/barony-of-clairbois.md)
+                    - [Barony of Montsé](gazetteer/greater-sembara/sembara/borderlands/barony-of-montse.md)
                     - [Barony of Vaubonne](gazetteer/greater-sembara/sembara/borderlands/barony-of-vaubonne.md)
                 - [Heartlands](gazetteer/greater-sembara/sembara/heartlands/heartlands.md)
                     - [Arnsbury](gazetteer/greater-sembara/sembara/heartlands/arnsbury.md)
@@ -261,14 +272,15 @@
                     - [Enford](gazetteer/greater-sembara/sembara/western-marches/enford.md)
                     - [Marches of Brovna](gazetteer/greater-sembara/sembara/western-marches/marches-of-brovna.md)
                     - [Marches of Enford](gazetteer/greater-sembara/sembara/western-marches/marches-of-enford.md)
+                    - [Western Wall of Sembara](gazetteer/greater-sembara/sembara/western-marches/western-wall-of-sembara.md)
             - [Tyrwingha](gazetteer/greater-sembara/tyrwingha/tyrwingha.md)
                 - [Abenfyrd](gazetteer/greater-sembara/tyrwingha/abenfyrd.md)
                 - [Clawyn](gazetteer/greater-sembara/tyrwingha/clawyn.md)
                 - [Tafolwern](gazetteer/greater-sembara/tyrwingha/tafolwern.md)
-            - [Zimkovia](gazetteer/greater-sembara/zimkovia/zimkovia.md)
-                - [Ardlas](gazetteer/greater-sembara/zimkovia/ardlas.md)
-                - [Breva](gazetteer/greater-sembara/zimkovia/breva.md)
-        - Istaros Watershed
+            - [Zimkova](gazetteer/greater-sembara/zimkova/zimkova.md)
+                - [Ardlas](gazetteer/greater-sembara/zimkova/ardlas.md)
+                - [Breva](gazetteer/greater-sembara/zimkova/breva.md)
+        - [Istaros Watershed](gazetteer/istaros-watershed/istaros-watershed.md)
             - [Aurbez and the Ardonne](gazetteer/istaros-watershed/aurbez-and-the-ardonne.md)
             - [Aurbez Plateau](gazetteer/istaros-watershed/aurbez-plateau.md)
             - [Desolation of Cha'mutte](gazetteer/istaros-watershed/desolation-of-cha-mutte.md)
@@ -284,6 +296,7 @@
                 - [Kharja](gazetteer/istaros-watershed/rivers/kharja.md)
                 - [Lake Aeulian](gazetteer/istaros-watershed/rivers/lake-aeulian.md)
                 - [Masance](gazetteer/istaros-watershed/rivers/masance.md)
+                - [River Ardonne](gazetteer/istaros-watershed/rivers/ardonne.md)
                 - [Valmont](gazetteer/istaros-watershed/rivers/valmont.md)
             - [Xurkhaz](gazetteer/istaros-watershed/xurkhaz/xurkhaz.md)
                 - [Khumarz](gazetteer/istaros-watershed/xurkhaz/khumarz.md)
@@ -316,6 +329,7 @@
             - [Chardonian Empire](gazetteer/west-coast/chardonian-empire/chardonian-empire.md)
                 - [Luminatia](gazetteer/west-coast/chardonian-empire/luminatia.md)
                 - [Old Chardon Canal](gazetteer/west-coast/chardonian-empire/old-chardon-canal.md)
+                - [Sybil's Hall](gazetteer/west-coast/chardonian-empire/sybil-s-hall.md)
                 - [Chardon](gazetteer/west-coast/chardonian-empire/chardon/chardon.md)
                     - [Great Library](gazetteer/west-coast/chardonian-empire/chardon/great-library.md)
                     - [The Chapterhouse](gazetteer/west-coast/chardonian-empire/chardon/the-chapterhouse.md)
@@ -328,13 +342,15 @@
                     - [Kin-Aska](gazetteer/west-coast/chardonian-empire/chasa-river-valley/kin-aska.md)
                     - [Laughing Wolf Inn](gazetteer/west-coast/chardonian-empire/chasa-river-valley/laughing-wolf-inn.md)
                     - [Metium](gazetteer/west-coast/chardonian-empire/chasa-river-valley/metium.md)
-                - Northern Frontier
+                - [Northern Frontier](gazetteer/west-coast/chardonian-empire/northern-frontier/northern-frontier.md)
                     - [Voltara](gazetteer/west-coast/chardonian-empire/northern-frontier/voltara.md)
             - [Mawar Confederacy](gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md)
+                - [Aibard](gazetteer/west-coast/mawar-confederacy/aibard.md)
                 - [Eskorola](gazetteer/west-coast/mawar-confederacy/eskorola.md)
                 - [Hamri](gazetteer/west-coast/mawar-confederacy/hamri.md)
                 - [Leviathan Inn](gazetteer/west-coast/mawar-confederacy/leviathan-inn.md)
                 - [Mawakel Peninsula](gazetteer/west-coast/mawar-confederacy/mawakel-peninsula.md)
+                - [Mendin](gazetteer/west-coast/mawar-confederacy/mendin.md)
             - Rivers
                 - [Mirmir](gazetteer/west-coast/rivers/mirmir.md)
                 - [Sulqat](gazetteer/west-coast/rivers/sulqat.md)
@@ -408,7 +424,7 @@
             - [Charmhearts](groups/halfling-families/charmhearts.md)
             - [Stonebridges](groups/halfling-families/stonebridges.md)
         - Hobgoblin Clans
-            - [Blackened Claw](groups/hobgoblin-clans/blackened-claw.md)
+            - [Blackened Claw Clan](groups/hobgoblin-clans/blackened-claw.md)
             - [Shattered Ice Clan](groups/hobgoblin-clans/shattered-ice-clan.md)
         - Orc Hordes
             - [Dustthorn Horde](groups/orc-hordes/dustthorn-horde.md)
@@ -424,9 +440,6 @@
         - Sembaran Noble Houses
             - [House of Lils](groups/sembaran-noble-houses/house-of-lils.md)
             - [House of Sewick](groups/sembaran-noble-houses/house-of-sewick.md)
-        - Sembaran Political Units
-            - [Lord's Council of Cleenseau](groups/sembaran-political-units/lord-s-council-of-cleenseau.md)
-            - [Lord's Guard of Cleenseau](groups/sembaran-political-units/lord-s-guard-of-cleenseau.md)
         - Tollen Guilds
             - [Ancient and Honorable Guild of Philosophers](groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md)
             - [Dyer's Guild](groups/tollen-guilds/dyer-s-guild.md)
@@ -523,10 +536,12 @@
     - [Drankorian Empire](history/drankorian-era/drankorian-empire.md)
     - [Emperors of Drankor](history/drankorian-era/emperors-of-drankor.md)
     - [History of the Northern Deno'qai](history/history-of-the-northern-deno-qai.md)
+    - [Hkar](history/pre-downfall/hkar.md)
     - [Istabor Alliance](history/istabor-alliance.md)
     - [Rostaurë](history/drankorian-era/rostaure.md)
     - [Timeline of Sembaran History](history/timeline-of-sembaran-history.md)
     - People
+        - [Adèle Laurent](people/historical-figures/adele-laurent.md)
         - [Asuddha](people/historical-figures/asuddha.md)
         - [Balati](people/historical-figures/balati.md)
         - [Cedric Cyfenwid](people/historical-figures/cedric-cyfenwid.md)
@@ -547,14 +562,13 @@
             - [Emperor Vestian](people/historical-figures/drankorian-emperors/vestian.md)
         - Dunmari Rulers
             - [Samraat Aatmaj Dasa](people/historical-figures/dunmari-rulers/dasa.md)
+            - [Samraat Aatmaji Kotana](people/historical-figures/dunmari-rulers/kotana.md)
             - [Samraat Dharajun Jita](people/historical-figures/dunmari-rulers/jita.md)
-            - [Samraat Kotana](people/historical-figures/dunmari-rulers/kotana.md)
-            - [Samraat Nayan Marathu](people/historical-figures/dunmari-rulers/nayan-marathu.md)
+            - [Samraat Nayan Marathu](people/historical-figures/dunmari-rulers/marathu.md)
             - [Samraat Nayan Yarad](people/historical-figures/dunmari-rulers/yarad.md)
         - Sembaran Royalty
             - [Annabeth](people/historical-figures/sembaran-royalty/annabeth.md)
             - [Anne of Sewick](people/historical-figures/sembaran-royalty/anne.md)
-            - [Arryn III](people/historical-figures/sembaran-royalty/arryn-iii.md)
             - [Derik](people/historical-figures/sembaran-royalty/derik-of-lils.md)
             - [Eloise](people/historical-figures/sembaran-royalty/eloise.md)
             - [Gyles](people/historical-figures/sembaran-royalty/gyles-of-lils.md)
@@ -564,6 +578,7 @@
             - [Jane of Tollen](people/historical-figures/sembaran-royalty/jane-of-tollen.md)
             - [King Arryn I](people/historical-figures/sembaran-royalty/arryn-i.md)
             - [King Arryn II](people/historical-figures/sembaran-royalty/arryn-ii.md)
+            - [King Arryn III](people/historical-figures/sembaran-royalty/arryn-iii.md)
             - [King Bertram I](people/historical-figures/sembaran-royalty/bertram-i.md)
             - [King Bertram II](people/historical-figures/sembaran-royalty/bertram-ii.md)
             - [King Cynan](people/historical-figures/sembaran-royalty/cynan.md)
@@ -586,5 +601,6 @@
         - [Story about Hags](primary-sources/story-about-hags.md)
         - [Story about Halfling Merchants](primary-sources/story-about-halfling-merchants.md)
         - [The Founding of Dunmar](primary-sources/the-founding-of-dunmar.md)
+        - [The Travelogue of Etienne of Cassons (DR 1743)](primary-sources/the-travelogue-of-etienne-of-cassons-dr-1743.md)
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
 - [Party Loot](campaigns/cleenseau-campaign/treasure/treasure/)

@@ -13,19 +13,19 @@ An adventuring party who met in Dunmar and have traveled together from April 174
 
 Consists of:
 - The elven warlock [Delwath](<./delwath.md>)
-- The halfling scout [Wellby](<./wellby.md>) and his axebeak mount and companion [Baxter](<companions/baxter.md>)
+- The halfling scout [Wellby](<./wellby.md>) and his axebeak mount and companion Baxter
 - The dwarven bard, scholar, and rune master [Seeker](<./seeker.md>)
 - The human monk [Kenzo](<./kenzo.md>)
 
-They frequently travel with the dwarven cleric [Riswynn](<./riswynn.md>). The stoneborn druid [Drikod](<guests/drikod.md>) traveled with them from May 23 1748 through June 20 1748. 
+They frequently travel with the dwarven cleric [Riswynn](<./riswynn.md>). The stoneborn druid Drikod traveled with them from May 23 1748 through June 20 1748. 
 
 In the fall of 1748, they were split up due to magical effects. During this time, they traveled alone.
 
-- Seeker traveled with [Mikasa](<guests/mikasa.md>), [Raven](<guests/raven.md>), [Spirala](<guests/spirala.md>), and [Caulaus](<guests/caulaus.md>) in the Feywild
-- Kenzo traveled with [Izzarak](<guests/izzarak.md>) in the lizardfolk jungles to the south
-- Delwath traveled with [Iascaire](<guests/iascaire.md>) and [Aristaea](<guests/aristaea.md>) in the battlefields of the far north
-- Wellby traveled with [Artem](<guests/artem-novolozek.md>), [Rufus](<guests/rufus.md>), [Shoal](<guests/shoal.md>), and [Alimash](<guests/alimash.md>) in the eastern isles. 
-- Riswynn traveled with [Thror](<guests/thror.md>), [Rothfis](<guests/rothfis.md>), and [Merash](<guests/merash.md>) in the [shadowfell](<../../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
+- Seeker traveled with Mikasa, Raven, [Spirala](<guests/spirala.md>), and [Caulaus](<guests/caulaus.md>) in the Feywild
+- Kenzo traveled with Izzarak in the lizardfolk jungles to the south
+- Delwath traveled with Iascaire and Aristaea in the battlefields of the far north
+- Wellby traveled with [Artem](<guests/artem-novolozek.md>), Rufus, [Shoal](<guests/shoal.md>), and [Alimash](<guests/alimash.md>) in the eastern isles. 
+- Riswynn traveled with [Thror](<guests/thror.md>), Rothfis, and [Merash](<guests/merash.md>) in the [shadowfell](<../../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
 
 Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [Caulaus](<guests/caulaus.md>) briefly.
 

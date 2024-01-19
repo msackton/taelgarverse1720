@@ -11,7 +11,7 @@ species: elf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: Orenlas}
+- {type: home, location: Orenlas}
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 pronunciation: EL-wiss
@@ -33,6 +33,9 @@ hide: [navigation]
 
 
 
-Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. 
+Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). 
+
+
+She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 
 

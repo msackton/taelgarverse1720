@@ -48,6 +48,8 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
 - Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including Arcus and  Vola. She is particularly friendly with Vola. 
 
+- Aug 22, 1748 DR: Dee Wildcloak has a short romantic encounter with [Wellby](<../pcs/dunmar-fellowship/wellby.md>)
+
 
 
 

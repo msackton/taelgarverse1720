@@ -12,7 +12,7 @@ title: Pyravela
 
 An ancient [Mos Numena](<../../cosmology/religions/mos-numena.md>) holiday, celebrated on the last three days of the year in the Drankorian reckoning, December 29-31. 
 
-- Ancient holiday, originally developed in the early days of [Mos Numena](<../../cosmology/religions/mos-numena.md>) in [Drankor](<../../history/drankorian-era/drankorian-empire.md>)/Hkar    
+- Ancient holiday, originally developed in the early days of [Mos Numena](<../../cosmology/religions/mos-numena.md>) in [Drankor](<../../history/drankorian-era/drankorian-empire.md>)/[Hkar](<../../history/pre-downfall/hkar.md>)    
 - In [Drankor](<../../history/drankorian-era/drankorian-empire.md>), marked the end of the 10-day intercalary period between the end of the year (marked by the winter solstice) and the beginning of the new year. In modern calendars, these intercalary days are gone, so is celebrated on the last few days of the year.
 - Associated with [the Wyrdling](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>), who was seen to have power over the “days out of time” in [Drankor](<../../history/drankorian-era/drankorian-empire.md>) 
 - Strongest universal traditions are associated with costumed parades / fetes / dances, and feasts, typically large parties where anyone is welcome to come and eat from your table. During Pyravela the rich and the poor sit together and no one is turned away because of status or wealth. 

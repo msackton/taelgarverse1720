@@ -26,15 +26,15 @@ hide: [navigation]
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1460 - d. DR 1519, died at age 59 years  
     Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), and [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1496 - DR 1519)  
-    Queen of [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>) (DR 1499 - DR 1519)  
+    Queen of [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>) (DR 1499 - DR 1519)  
     Queen of Lavnoch (DR 1501 - DR 1519)  
-    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>) (DR 1506 - DR 1519)  
+    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1506 - DR 1519)  
     { .bio }
 
 </div>
 
 
-An early ruler of Sembara, of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). She ruled from the death of her father, [Derik II](<./derik-ii.md>),  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [Derik III](<./derik-iii.md>), who succeeded her to the throne, and for the [Highland Kingdoms](<../../../gazetteer/greater-sembara/zimkovia/zimkovia.md>) accepting her overlordship.
+An early ruler of Sembara, of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). She ruled from the death of her father, [Derik II](<./derik-ii.md>),  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [Derik III](<./derik-iii.md>), who succeeded her to the throne, and for the [Highland Kingdoms](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>) accepting her overlordship.
 
 Her eldest son, [Hugh of Sewick](<./hugh-of-sewick.md>), predeceased her in the chaos of the times, but her youngest, [Eloise](<./eloise.md>) lived a long life.
 

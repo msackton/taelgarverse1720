@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Voltara
 typeOf: city
-partOf: Chardonian Empire
+whereabouts: Northern Frontier
 title: Voltara
 ---
 # Voltara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in the [Northern Frontier](<./northern-frontier.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
 </div>
 
 
@@ -44,7 +43,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 The Purple Pig
 
-A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day. Destroyed by [Grumella](<../../../../people/orcs/grumella.md>). 
+A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day. Destroyed by Grumella. 
 
 The Sage and Spear
 

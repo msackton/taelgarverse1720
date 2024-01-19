@@ -1,20 +1,27 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc/greatwar, pc, person, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Aerin
 born:
-species:
+species: kenku
 ancestry:
-gender:
+gender: male
 player: David Schwartz
 affiliations:
 title: Aerin
 hide_toc: true
 hide: [navigation]
 ---
-
 # Aerin
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A kenku (he/him)  
+    { .bio }
+
+</div>
+
 
 A kenku, rogue, and traveler. Current whereabouts are unknown. 
 

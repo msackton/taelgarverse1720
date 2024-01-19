@@ -36,4 +36,7 @@ It seems powerful, and like it wants to be used.
 
 
 
+## Destruction
+The Scepter of Command was destroyed in 1748, by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). It was immersed in the sacred waters on the island of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)'s staff and the might of [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>)'s waters. 
+
 

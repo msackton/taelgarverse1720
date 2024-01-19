@@ -28,3 +28,5 @@ hide: [navigation]
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 
 
+Mysteriously vanished in a storm in DR 1730.  
+

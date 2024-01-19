@@ -1,13 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-partOf: Feywild
+whereabouts: Feywild
+displayDefaults: {defArt: ''}
 typeOf: realm
 title: Fortune's Rest
 ---
-
 # Fortune's Rest
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A realm in the Feywild, the Echo Realms  
+</div>
 
-A fey realm.
 
 The fey domain of Fortune’s Rest is a sparsely inhabited land of pleasant forests and peaceful meadows, seemingly quiet and still, until one finds or is drawn to the Court of the [Chanceweaver](<../../../../people/extraplanar-powers/prince-of-luck.md>), [Prince of Luck](<../../../../people/extraplanar-powers/prince-of-luck.md>). 
 

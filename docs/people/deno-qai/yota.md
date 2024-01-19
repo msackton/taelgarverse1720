@@ -1,15 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person, status/unknown]
+campaignInfo:
+- {campaign: DuFr, date: 1748-09-10, type: met}
 name: Yota
 born:
 species: human
 ancestry: Deno'qai
 gender: male
-whereabouts:
-- {type: home, start: '', end: '', location: Te'kula village}
+whereabouts: Te'kula village
 title: Yota
 hide_toc: true
 hide: [navigation]
@@ -25,4 +24,5 @@ hide: [navigation]
 </div>
 
 
-The chief of the Te'kula village.
+
+The chief of the [Te'kula](<../../groups/deno-qai/te-kula.md>) village.

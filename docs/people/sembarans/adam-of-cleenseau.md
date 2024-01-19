@@ -34,7 +34,7 @@ hide: [navigation]
 
 
 
-:octicons-location-24:{ .lg .middle } Fought alongside the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on October 21th, 1719 in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
+:octicons-location-24:{ .lg .middle } the Fought alongside the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on October 21th, 1719 in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
 
 
 A solider in the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), who went into the forest with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) after the spider attacks on [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He greatly admires [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>).

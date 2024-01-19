@@ -30,7 +30,5 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Last known location: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
 
 
-One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-belief/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
+![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-belief/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
 
-
-![Motua](../../assets/motua.png)

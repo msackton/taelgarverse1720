@@ -23,7 +23,7 @@ hide: [navigation]
     Born DR 1674 (46 years old)  
     { .bio }
 
-    Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+    Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
     Based in Te'kula village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 

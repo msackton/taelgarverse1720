@@ -13,4 +13,4 @@ title: Barony of Dunfry
 </div>
 
 
-The Barony of Dunfry is the southern of the two frontier baronies along the Western Wall of Sembara.
+The Barony of Dunfry is the southern of the two frontier baronies along the [Western Wall of Sembara](<./western-wall-of-sembara.md>).

@@ -42,5 +42,7 @@ The matriarch of the Charmheart trading clan of halflings.
 - Callie Charmheart, granddaughter
 - Ander Charmheart, grandson
 
+- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+
 
 

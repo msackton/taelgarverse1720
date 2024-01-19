@@ -13,4 +13,4 @@ title: Samtal
 </div>
 
 
-The Samtal is the Dunmari name for the northern plains that stretch from the Hara river valley east along the foothills of the Sentinels. 
+The Samtal is the Dunmari name for the northern plains that stretch from the [Hara river valley](<./hara-river-valley.md>) east along the foothills of the Sentinels. 

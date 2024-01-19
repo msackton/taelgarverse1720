@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Jane of Tollen
 born: 1504
@@ -27,7 +26,7 @@ hide: [navigation]
     A [Tollender](<../../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../../species/humans/humans.md>) (she/her)  
     b. DR 1504 - d. DR 1559, died at age 55 years  
     Queen Regent of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (until DR 1551)  
-    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>), and Zovcka (until DR 1555)  
+    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and Zovcka (until DR 1555)  
     { .bio }
 
 </div>

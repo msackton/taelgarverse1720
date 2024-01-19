@@ -4,7 +4,7 @@ tags: [place, status/stub, status/unknown]
 displayDefaults: {linkText: true, defArt: the}
 name: Enst
 typeOf: river
-partOf: Sembara
+whereabouts: Sembara
 aliases: [River Enst, Enst River]
 title: Enst
 ---

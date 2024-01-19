@@ -19,4 +19,4 @@ hide: [navigation]
 </div>
 
 
-one of two Orphaned twin girls who lives in the Drowned Flats. Wazir feeds them once a week, and in turn they keep an ear to the ground for him.
+One of two Orphaned twin girls who lives in the Drowned Flats in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>). [Wazir](<../pcs/mawar-confederacy/wazir.md>) feeds them once a week, and in turn they keep an ear to the ground for him.

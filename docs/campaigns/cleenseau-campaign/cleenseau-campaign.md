@@ -1,7 +1,7 @@
 ---
 {title: Cleenseau Campaign}
 ---
-The game begins in late October in the year 5852 since the birth of the world, as the dwarves count, or as the year is more usually known in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), 7 Robert I, the 7th year of King [Robert I](<../../people/historical-figures/sembaran-royalty/robert-i.md>) of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)'s reign. Scholars of the ancient [Drankorian Empire](<../../history/drankorian-era/drankorian-empire.md>) would say the year was DR 1719 and many across The Green Sea Region would use those count of years.
+The game begins in late October in the year 5852 since the birth of the world, as the dwarves count, or as the year is more usually known in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), 7 Robert I, the 7th year of King [Robert I](<../../people/historical-figures/sembaran-royalty/robert-i.md>) of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)'s reign. Scholars of the ancient [Drankorian Empire](<../../history/drankorian-era/drankorian-empire.md>) would say the year was DR 1719 and many across the [Western Green Sea Region](<../../gazetteer/western-green-sea/western-green-sea-region.md>) would use those count of years.
 
 In [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), the summer has been bad. The monsoon rains which usually arrive in April and bring nurturing rain in gentle measure from the [Green Sea](<../../gazetteer/green-sea.md>) came late, and when they did come, brought downpours and flooding. A diplomatic envoy from Zovcka was found murdered in her bedchamber while visiting the king in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), and [Robert I](<../../people/historical-figures/sembaran-royalty/robert-i.md>) mishandling the resulting crisis, insulting the pride, and worse, the ancient gods of the highland kingdom.
 
@@ -32,7 +32,7 @@ The action begins just outside the market town of [Cleenseau](<../../gazetteer/g
 	The party deals with the aftermath of the poison plot
 
 * June 4th, 2023: [Cleenseau - Session 05](<sessions/cleenseau-session-05.md>)
-	The party musters trickery and chaos to defeat the ogre Wakog and his band of orcs
+	The party musters trickery and chaos to defeat the ogre [Wakog](<../../people/other-nonhumans/wakog.md>) and his band of orcs
 
 * September 10th, 2023: [Cleenseau - Session 06](<sessions/cleenseau-session-06.md>)
 	The party celebrates [Viatela](<../../time/holidays-and-festivals/viatela.md>), and encounters a fey.
@@ -42,5 +42,11 @@ The action begins just outside the market town of [Cleenseau](<../../gazetteer/g
 
 * November 12th, 2023: [Cleenseau - Session 08](<sessions/cleenseau-session-08.md>)
 	Investigations of the past; hunting undead in an abandoned fort
+
+* December 10th, 2023: [Cleenseau - Session 09](<sessions/cleenseau-session-09.md>)
+	The party investigates the ruins beneath Cleenseau and finds shadows, zombies and worse
+
+* January 7th, 2024: [Cleenseau - Session 10](<sessions/cleenseau-session-10.md>)
+	The party defeats a wight and rides to the recuse of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)
 
 You might also want to read the [Index of NPCs](<./cleenseau-campaign-index-of-npcs.md>) or the [timeline](<./cleenseau-campaign-timeline.md>)

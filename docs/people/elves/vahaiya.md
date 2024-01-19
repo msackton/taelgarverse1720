@@ -27,14 +27,16 @@ hide: [navigation]
     Born DR 1532 (188 years old)  
     { .bio }
 
-    Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+    Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently traveling around greater [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
 
-Vahaiya is a warrior, traveler, adventurer, and now artist and collector. After surviving the [Great War](<../../events/1500s/great-war.md>), fighting alongside the Sembaran Army in the Battle of Urlich Pass, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands. They made a name for themselves in the hobgoblin wars, but growing tiring of fighting after many years, decided to settle in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>). 
+![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"}Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the Battle of Urlich Pass, and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
-![Vahaiya Portrait](../../assets/vahaiya-portrait.png)
+
+Growing tiring of fighting after many years, they settled in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), where they now live, spending time as an artist and art collector. 
+
 

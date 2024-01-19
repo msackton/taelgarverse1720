@@ -6,13 +6,14 @@ campaignInfo: []
 name: Stormcaller Tower
 destroyed: 1748-11-23
 typeOf: tower
-partOf: Eastern Dunmar
+whereabouts:
+- {type: home, location: Samtal, wPastHome: 'Ruined <typeOf> <current:3qr>'}
 title: Stormcaller Tower
 ---
 # Stormcaller Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle } A tower in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A tower in [Samtal](<./samtal.md>), [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

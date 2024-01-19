@@ -14,7 +14,7 @@ title: Morkalan
 # Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 in [Hagrim](<../../../../people/dwarves/hagrim.md>)  
+   :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 in [Hagrim of Morkalan](<../../../../people/dwarves/hagrim.md>)  
     :octicons-location-24:{ .lg .middle }   
 </div>
 
@@ -31,3 +31,5 @@ The muddy river:
 The ash plains:
 ![Morkalan Ash Plains](../../../../assets/morkalan-ash-plains.png){width="500"}
 
+
+In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [Bahrazel](<../../../gods/embodied-gods/bahrazel.md>), the Heart of the Mountain, and sent (with three companions repaying debts to the [Bahrazel](<../../../gods/embodied-gods/bahrazel.md>)) to Morkalan. Hagrim was defeated and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 

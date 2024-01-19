@@ -9,7 +9,7 @@ species: human
 ancestry: Sembaran
 gender: male
 affiliations:
-- {org: Lord's Guard of Cleenseau, title: Captain}
+- {org: Lord's Guard of Cleenseau, title: Captain, type: leader}
 - {org: Essfords, title: Guard Captain}
 whereabouts:
 - {type: home, location: Cleenseau}
@@ -25,7 +25,7 @@ hide: [navigation]
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1675 (45 years old)  
-    Captain of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>)  
+    Captain of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)  
     Guard Captain of the Essfords  
     { .bio }
 
@@ -39,7 +39,7 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Seen by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
-The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
+The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
 
 
 

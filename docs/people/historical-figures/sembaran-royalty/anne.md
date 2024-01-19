@@ -21,7 +21,7 @@ hide: [navigation]
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1539 - d. February 14th, 1583, died at age 44 years  
-    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>) (DR 1568 - February 14th, 1583)  
+    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1568 - February 14th, 1583)  
     { .bio }
 
 </div>

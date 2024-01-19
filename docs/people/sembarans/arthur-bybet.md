@@ -40,10 +40,7 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Seen by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
-The husband of [Rosalind](<./rosalind-essford.md>) (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>). He is a aficionado of stories and songs and often frequents [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) to hear the latest news.
+![Arthur Bybet Portrait](../../assets/arthur-bybet-portrait.png){align="right"; width="320"}The husband of [Rosalind](<./rosalind-essford.md>) (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>). He is a aficionado of stories and songs and often frequents [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) to hear the latest news.
 
 In the fall of 1719, he lost his three children during the [Tragic Flood of the River Enst](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>) and his and [Rosalind's](<./rosalind-essford.md>) sadness over this has been profound. 
-
-![Arthur Bybet Portrait](../../assets/arthur-bybet-portrait.png)
-
 

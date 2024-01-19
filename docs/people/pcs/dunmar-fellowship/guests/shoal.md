@@ -24,7 +24,7 @@ hide: [navigation]
     Born DR 1652 (68 years old)  
     { .bio }
 
-    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), ~Eastern Islands~
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
 </div>
 
 

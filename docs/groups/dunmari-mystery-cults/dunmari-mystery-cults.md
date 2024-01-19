@@ -1,5 +1,5 @@
 ---
-tags: [organization, religion/fivesiblings, status/unknown]
+tags: [religion/fivesiblings, status/unknown, background]
 title: Dunmari Mystery Cults
 ---
 

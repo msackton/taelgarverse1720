@@ -9,7 +9,7 @@ title: Uzgukhar
 ---
 # Uzgukhar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city [Xurkhaz](<./xurkhaz.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>)  
 </div>
 
 

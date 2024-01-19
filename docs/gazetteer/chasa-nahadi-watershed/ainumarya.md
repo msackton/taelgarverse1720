@@ -9,7 +9,7 @@ title: Ainumarya
 ---
 # Ainumarya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest the Chasa-Nahadi Watershed  
+-    :octicons-location-24:{ .lg .middle } A forest in the Chasa-Nahadi Watershed  
 </div>
 
 

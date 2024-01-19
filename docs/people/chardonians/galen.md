@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+tags: [person, status/needswork/notes]
 campaignInfo:
+- {campaign: DuFr, type: attended his lecture, date: 1748-08-22, format: '<person:u> <met:s> on [[Session 49 (DuFr)|<target>]] <current:3rq>'}
 name: Galen
 born:
 species: human
@@ -25,8 +26,6 @@ hide: [navigation]
 </div>
 
 
-A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/ulfgar-frostbeard.md>), and member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>). 
 
-Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. The party saw a lecture in Session 49 (DuFr). 
+A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/ulfgar-frostbeard.md>), and member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>). Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. 
 
-Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in Session 49 (DuFr). 

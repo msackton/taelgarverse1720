@@ -22,7 +22,7 @@ The three largest settlements in the barony are [Rinburg](<./rinburg.md>), a fre
 The barony is characterized by five major regions:
 
 * the [Cleenseau Region](<cleenseau-region/cleenseau-region.md>) in the west is somewhat disconnected from the rest of the barony, there being no settlements for the fifteen miles between [Dallet](<cleenseau-region/dallet.md>) and [Beury](<cleenseau-region/beury.md>)
-* [Rinburg](<./rinburg.md>) and its hinterland, a land of sheep herders, small pastoral villages, and fishing villages, all clustered along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) and the Great South Road
+* [Rinburg](<./rinburg.md>) and its hinterland, a land of sheep herders, small pastoral villages, and fishing villages, all clustered along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) and the [Great South Road](<../../roads/great-south-road.md>)
 * the [Aveil Ridge](<./aveil-ridge.md>) in the north, a escarpment that rises about 800' above the land, the source of the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) and little-settled hilly land of secondary forest. The seat of the baron, [Veltor](<./veltor.md>), is here
 * the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) valley, the richest farmland of the barony
 * the [Cleenseau Wood](<cleenseau-region/cleenseau-wood.md>), and the small villages along its eaves

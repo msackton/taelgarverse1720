@@ -13,4 +13,4 @@ title: Fat Brook
 </div>
 
 
-A small river flowing south into the Volta, through [Tollen](<./tollen.md>). Covered and built over. 
+A small river flowing south into the [Volta](<../../greater-sembara/rivers/volta-watershed/volta.md>), through [Tollen](<./tollen.md>). Covered and built over. 

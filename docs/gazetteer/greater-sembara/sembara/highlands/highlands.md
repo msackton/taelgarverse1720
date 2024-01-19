@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 displayDefaults: {defArt: the}
 campaignInfo:
@@ -7,6 +8,11 @@ typeOf: region
 partOf: Sembara
 title: Highlands
 ---
+# The Highlands
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+</div>
+
 
 North and west of Cheimen the foothills of the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) raise the land. Here live sheepherders and goat herders, small free farmers, and a scattering of ancestral baronies. This land is split by the [Aine Hills](<../aine-hills.md>), a densely forested and rough highland that divides the watersheds of the River Semb from the watersheds of the River Wistel. Culturally the Semb watershed is often closely aligned with the northern parts of Arnsbury. This area is pocketed with free villages and small lords, and allegiances here are sometimes more aligned with the highland kingdoms than the Sembaran crown. The Wistel watershed is more densely settled, and is a land of with a stronger allegiance to the crown.  
 

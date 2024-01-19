@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: clee, type: met, date: 1719-10-28}
 name: Unai
@@ -29,6 +29,5 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on October 28th, 1719 in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
 
 
-An herbalist and healer, teacher of [Gentza](<./gentza.md>).
+![Lizardfolk Unai](../../assets/lizardfolk-unai.png){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<./gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
 
-![Lizardfolk Unai](../../assets/lizardfolk-unai.png)

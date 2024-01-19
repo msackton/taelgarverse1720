@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Daraar Canyon
 typeOf: canyon
-partOf: Nashtkar
+whereabouts: Nashtkar
 title: Daraar Canyon
 ---
 # The Daraar Canyon

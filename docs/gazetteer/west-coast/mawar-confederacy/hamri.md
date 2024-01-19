@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Hamri
 typeOf: town
@@ -7,9 +8,12 @@ population: 3500
 title: Hamri
 ---
 # Hamri
->[!info]+ Information
-> pop. 3,500
-> A  town in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-  
+    :octicons-people-24: pop. 3,500  
+    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [West Coast Region](<../west-coast-region.md>)  
+</div>
+
 
 Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [Mirmir](<../rivers/mirmir.md>) River that cascades from the interior over a series of rapids and waterfalls before emptying into the [Endless Ocean](<../../endless-ocean.md>). These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [Mawakel Peninsula](<./mawakel-peninsula.md>).
 

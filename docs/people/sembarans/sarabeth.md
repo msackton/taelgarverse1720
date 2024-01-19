@@ -24,7 +24,7 @@ hide: [navigation]
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1686 (34 years old)  
-    Guardswoman of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) (since DR 1717)  
+    Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since DR 1717)  
     Soldier of the Dunfry Regiment (until DR 1716)  
     { .bio }
 

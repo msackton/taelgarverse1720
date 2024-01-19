@@ -11,6 +11,4 @@ title: Elemental Plane of Air
 </div>
 
 
-# Plane of Air
-
 The Elemental Plane of Air, one of the outer planes associated with the [Plane of Magic](<../plane-of-magic.md>).

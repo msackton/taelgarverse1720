@@ -5,12 +5,12 @@ campaignInfo: []
 name: Am'khazar
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 title: Am'khazar
 ---
 # Am'khazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>), [Central Highlands Region](<../central-highlands-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>)  
 </div>
 
 

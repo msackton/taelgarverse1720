@@ -14,7 +14,7 @@ title: Raven's Hold
 # Raven's Hold
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -   :octicons-location-24:{ .lg .middle }   
-    :octicons-location-24:{ .lg .middle } A ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>), [Central Highlands Region](<../../sentinel-range/central-highlands-region.md>)  
+    :octicons-location-24:{ .lg .middle } A ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>)  
 </div>
 
 

@@ -12,7 +12,7 @@ title: Bas Udda
 # Bas Udda
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle } A village [Eastern Dunmar](<./eastern-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A village in [Eastern Dunmar](<./eastern-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
 </div>
 
 

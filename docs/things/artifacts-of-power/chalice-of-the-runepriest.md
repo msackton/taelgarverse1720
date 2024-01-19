@@ -19,7 +19,7 @@ hide: [navigation]
 # The Chalice of the Runepriest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Chalice__  
-   Created in DR 1547 by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) (173 years ago)  
+   Created in DR 1547 by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) (11 months ago)  
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently lost

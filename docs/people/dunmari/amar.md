@@ -22,7 +22,7 @@ hide: [navigation]
     Born DR 1710 (10 years old)  
     { .bio }
 
-    Originally from: the Hara River Valley, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Originally from: the [Hara River Valley](<../../gazetteer/greater-dunmar/dunmari-basin/hara-river-valley.md>), the [Dunmari Basin](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-basin.md>)
     Based in the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 

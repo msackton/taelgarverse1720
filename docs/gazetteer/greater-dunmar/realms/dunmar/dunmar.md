@@ -58,7 +58,7 @@ The southern and eastern borders of Dunmar are dangerous wildlands. To the south
 
 To the west, Dunmar is bordered by the [Nevos Sea](<../../../west-coast/nevos-sea.md>), the ~Darba Coastal Mountains~, and the [Myraeni Gap](<../../myraeni-gap.md>), beyond which lie the islands of [Illoria](<../../../west-coast/illoria.md>), and the [Chardonian Empire](<../../../west-coast/chardonian-empire/chardonian-empire.md>). 
 
-To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  Greater Sembara region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
+To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  [Greater Sembara](<../../../greater-sembara/greater-sembara.md>) region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
 
 ## History
 
@@ -83,7 +83,7 @@ DR 1557 -
 
 *See also: Timeline of the Nayan Dynasty*
 
-The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the Nayan Floodplains emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the Nayan River, and slowly reclaims land as far east as the ~Karawa Desert~. 
+The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the Nayan Floodplains emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the [Nayan](<../../rivers/nayan.md>) River, and slowly reclaims land as far east as the ~Karawa Desert~. 
 
 The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was marked by a series of wars: 
 - The [Fire War](<../../../../events/1500s/fire-war.md>), against the fire giant [Mavdyr](<../../../../people/historical-figures/mavdyr.md>) and his allies
@@ -146,7 +146,7 @@ In general, the practice of magic by those who are not priests or mystai is frow
 
 *See also: [Dunmari Economy](<./dunmari-economy.md>)*
 
-Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the Hara river valley, as well as near the oases of the [Red Mesa](<eastern-dunmar/red-mesa.md>).
+Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [Hara river valley](<../../dunmari-basin/hara-river-valley.md>), as well as near the oases of the [Red Mesa](<eastern-dunmar/red-mesa.md>).
 
 While historically Dunmar gained much wealth from its central position on trade routes between the east and west, since the [Great War](<../../../../events/1500s/great-war.md>) minimal trade, mostly carried by long distance halfling caravans, moves from the [Green Sea](<../../../green-sea.md>) to [Chardon](<../../../west-coast/chardonian-empire/chardon/chardon.md>).  Nonetheless, Dunmar, especially [Darba](<coastal-dunmar/darba/darba.md>) and [Songara](<central-dunmar/songara.md>), remain important trading centers, with Darba serving as a link between the dwarves of [Ardith](<../../../sentinel-range/dwarven-kingdoms/ardith.md>) and the west, and Songara retaining its ancient role as an important horse market. [Askandi](<central-dunmar/askandi.md>), in the south, is an important center of trade with the dwarves of the [Yuvanti Mountains](<../../yuvanti-mountains.md>), who trade metal and finished metal products to the Dunmari. 
 

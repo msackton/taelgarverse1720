@@ -16,10 +16,10 @@ hide: [navigation]
 # The Wave Dancer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the Eastern Green Sea  
+   Home area: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location: the Eastern Green Sea
+:octicons-location-24:{ .lg .middle } Last known location: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
 
 
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [Praznitsky](<../../gazetteer/northern-green-sea/praznitsky.md>), [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), and [Medju](<../../gazetteer/eastern-green-sea/medju.md>).  

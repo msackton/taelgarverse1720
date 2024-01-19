@@ -24,7 +24,7 @@ hide: [navigation]
     A [dragon](<../../species/children-of-the-divine/dragons.md>) ([green dragon](<../../species/children-of-the-divine/dragons.md>)) (he/him)  
     { .bio }
 
-    Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+    Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

@@ -1,9 +1,12 @@
 ---
-{title: History}
+tags: [background]
+title: History
 ---
+
+
 # A Brief History of Taelgar
 
-Long ago, in the ancient days of creation, the gods created sentient beings, first the Elder Folk, and later the humans, who grew and spread from their ancestral home on the now-lost continent of Hkar. In the aftermath of the cataclysm that destroyed Hkar, [human](<../species/humans/humans.md>) refugees established the city of [Drankor](<drankorian-era/drankor.md>), south of what is now [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). From this humble beginning, a great empire grew, based on magic, known as the [Drankorian Empire](<drankorian-era/drankorian-empire.md>). As the empire grew, it spread its language, [religion](<../cosmology/religions/mos-numena.md>), and culture across large swaths of Taelgar. 
+Long ago, in the ancient days of creation, the gods created sentient beings, first the Elder Folk, and later the humans, who grew and spread from their ancestral home on the now-lost continent of [Hkar](<pre-downfall/hkar.md>). In the aftermath of the cataclysm that destroyed [Hkar](<pre-downfall/hkar.md>), [human](<../species/humans/humans.md>) refugees established the city of [Drankor](<drankorian-era/drankor.md>), south of what is now [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). From this humble beginning, a great empire grew, based on magic, known as the [Drankorian Empire](<drankorian-era/drankorian-empire.md>). As the empire grew, it spread its language, [religion](<../cosmology/religions/mos-numena.md>), and culture across large swaths of Taelgar. 
 
 Seven hundred years ago, the [Drankorian Empire](<drankorian-era/drankorian-empire.md>) fell, brought down by a magical plague that even the great wizards of [Drankor](<drankorian-era/drankor.md>) could not stop. From the ashes of empire arose new realms and cities: [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), a center of learning and the great city of the west; [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>), a powerful monarchy in the east; the kingdom of [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), inhabited by a people of the plains, who migrated from the far away into the empty spaces left by the collapse of [Drankor](<drankorian-era/drankorian-empire.md>); and many others. But as these realms and others grew, the ancient skeletal dragon-god [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>) was lurking in the north, biding his time and building his army of hobgoblins and worse.
 

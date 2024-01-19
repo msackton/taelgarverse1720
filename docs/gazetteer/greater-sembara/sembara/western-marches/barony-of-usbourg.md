@@ -11,4 +11,4 @@ title: Barony of Usbourg
 </div>
 
 
-The Barony of Usbourg is northern of the two frontier baronies along the Western Wall of Sembara.
+The Barony of Usbourg is northern of the two frontier baronies along the [Western Wall of Sembara](<./western-wall-of-sembara.md>).

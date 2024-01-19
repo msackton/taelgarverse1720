@@ -11,7 +11,9 @@ ancestry: Tyrwinghan
 gender: male
 player: Dan Walters
 aliases: [Robin]
-affiliations: [Heroes of Cleenseau]
+affiliations:
+- {org: Heroes of Cleenseau}
+- {org: Lord's Guard of Cleenseau, start: 1720-01-03, type: leader, title: Acting Captain}
 whereabouts:
 - {type: home, end: 1719, location: Abenfyrd}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
@@ -26,6 +28,7 @@ hide: [navigation]
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     Born DR 1700 (20 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
     { .bio }
 
     Originally from: [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)

@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo:
 name: Endless Ocean
 typeOf: ocean
-partOf: Taelgar
+whereabouts: Taelgar
 title: Endless Ocean
 ---
 # The Endless Ocean

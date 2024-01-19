@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/needswork/notes]
 campaignInfo:
 name: Kaleha
 born: 1699
@@ -25,3 +24,4 @@ hide: [navigation]
 </div>
 
 
+The head priest of the primary Dunmari temple in Tokra, a position that primarily involves serving as the main civil administrator for the city.  

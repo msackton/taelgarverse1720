@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/unaware, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: clee, type: met, date: 1719-10-28}
 name: Izoko
@@ -30,5 +30,4 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on October 28th, 1719 in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
 
 
-A young lizardfolk, sweet on [Gentza](<./gentza.md>).
-![Lizardfolk Izoko](../../assets/lizardfolk-izoko.png)
+![Lizardfolk Izoko](../../assets/lizardfolk-izoko.png){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<./gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 

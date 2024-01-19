@@ -29,7 +29,7 @@ hide: [navigation]
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1677 (43 years old)  
-    Leader of the [Lord's Council of Cleenseau](<../../groups/sembaran-political-units/lord-s-council-of-cleenseau.md>)  
+    Leader of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     Regent of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) (since March 15th, 1719)  
     { .bio }
 

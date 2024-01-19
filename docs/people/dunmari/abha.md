@@ -21,4 +21,4 @@ hide: [navigation]
 </div>
 
 
-Advisor to [Nayan Karnas](<./nayan-karnas.md>), mystai of Sonkar, and powerful spellcaster. 
+Advisor to [Nayan Karnas](<./nayan-karnas.md>), mystai of [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>), and powerful spellcaster. 

@@ -11,7 +11,7 @@ title: Vostok
 # Vostok
 :speaker:{ .middle } *(VOS-tok)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm [Western Green Sea Region](<../western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A realm in the [Western Green Sea Region](<../western-green-sea-region.md>)  
 </div>
 
 

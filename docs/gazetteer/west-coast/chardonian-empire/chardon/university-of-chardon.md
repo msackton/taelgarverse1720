@@ -11,7 +11,7 @@ title: University of Chardon
 # The University of Chardon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -   :octicons-location-24:{ .lg .middle }   
-    :octicons-location-24:{ .lg .middle } A university in [Chardon](<./chardon.md>), [Chardonian Empire](<../chardonian-empire.md>)  
+    :octicons-location-24:{ .lg .middle } A university in [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
 </div>
 
 
@@ -28,7 +28,7 @@ The University is organized primarily into a series of undergraduate colleges, k
 
 Architecturally, most lecti mimic the Great Library, with towers rising above the main building or building complex, which gives the university district a distinctive and impressive skyline. 
 
-Some of the more famous lecti include Sybil's Hall, one of the original colleges of the University, and Maruso Lectum, endowed by and named after an extremely wealthy adventurer. 
+Some of the more famous lecti include [Sybil's Hall](<../sybil-s-hall.md>), one of the original colleges of the University, and Maruso Lectum, endowed by and named after an extremely wealthy adventurer. 
 
 
 ### Graduate Faculties

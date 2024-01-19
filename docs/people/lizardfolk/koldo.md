@@ -23,7 +23,5 @@ hide: [navigation]
 </div>
 
 
-A reclusive druid, very rarely talks to outsiders.
-
-![Lizardfolk Koldo](../../assets/lizardfolk-koldo.png)
+![Lizardfolk Koldo](../../assets/lizardfolk-koldo.png){align="right"; width="320"}A reclusive druid, very rarely talks to outsiders.
 

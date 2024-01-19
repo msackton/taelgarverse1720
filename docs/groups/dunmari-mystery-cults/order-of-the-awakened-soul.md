@@ -1,6 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes]
+displayDefaults: {partOf: '', boxInfo: '<ancestry:UA> <typeof:UA> of <deity:UA>'}
+typeOf: mystery cult
+ancestry: Dunmari
+deity: Bhishma
 title: Order of the Awakened Soul
 ---
 # The Order of the Awakened Soul

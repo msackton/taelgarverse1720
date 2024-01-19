@@ -1,7 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/unknown]
+displayDefaults: {partOf: '', boxInfo: '<ancestry:UA> <typeof:UA> of <deity:UA>'}
 name: Aagiri
+typeOf: mystery cult
+ancestry: Dunmari
+deity: Aagir
 title: Aagiri
 ---
 # Aagiri

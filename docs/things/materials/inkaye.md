@@ -9,3 +9,4 @@ hide: [navigation]
 # Inkaye
 :octicons-info-24:{ .lg .middle } **Material**  
 
+(stub)

@@ -32,7 +32,6 @@ title: Cleenseau Campaign Index of NPCs
 * [Harold Stonebridge](<../../people/halflings/harold-stonebridge.md>), a young halfling errand boy at [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)
 * [Ancer Benthey](<../../people/sembarans/ancer-benthey.md>), a sergeant in the [local garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), the nephew of [Ames Benthey](<../../people/sembarans/ames-benthey.md>) and [Odo's](<../../people/sembarans/odo-cordwaner.md>) replacement
 * [Aldric Tannen](<../../people/sembarans/aldric-tannen.md>), a schemer looking to start a ferryboat company
-* [Agnés](<../../people/sembarans/agnes-of-cleenseau.md>), a caravan guard 
 * [Jon Thorne](<../../people/sembarans/jon-thorne.md>), a neighbor of [Beatrix](<../../people/sembarans/beatrix-of-cleenseau.md>)
 ### In [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>)
 
@@ -55,7 +54,7 @@ title: Cleenseau Campaign Index of NPCs
 
 * [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
 * [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
-* Wakog, an ogre, now dead
+* [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
 
 ### Of a Mysterious Nature
 
@@ -64,6 +63,7 @@ title: Cleenseau Campaign Index of NPCs
 
 * Lucas, a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
 * [Guy de Varan](<../../people/sembarans/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
+* [Agnés](<../../people/sembarans/agnes-of-evis.md>), a caravan guard
 
 ### Farther Afield
 

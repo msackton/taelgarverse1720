@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Itar
 born: 1716
@@ -9,7 +8,7 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: Bek'eni village}
+- {type: home, location: Bek'eni village, linkText: in the largest}
 title: Itar
 hide_toc: true
 hide: [navigation]
@@ -22,7 +21,7 @@ hide: [navigation]
     Born DR 1716 (4 years old)  
     { .bio }
 
-    Based in Bek'eni village, the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based in the largest Bek'eni village, in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

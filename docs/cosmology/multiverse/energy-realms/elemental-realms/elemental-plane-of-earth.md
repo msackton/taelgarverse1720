@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {partOf: 'One of <current:1>'}
 tags: [place, status/needswork/wip]
-partOf: Elemental Realms
+whereabouts: Elemental Realms
 typeOf: plane
 title: Elemental Plane of Earth
 ---

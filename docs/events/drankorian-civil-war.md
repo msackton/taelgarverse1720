@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork]
+tags: [status/needswork, event]
 campaignInfo: []
 name: Drankorian Civil War
 aliases:

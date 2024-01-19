@@ -4,7 +4,7 @@ tags: [place, event-source, status/unknown]
 campaignInfo:
 name: Darba
 typeOf: city
-partOf: Coastal Dunmar
+whereabouts: Coastal Dunmar
 title: Darba
 ---
 # Darba

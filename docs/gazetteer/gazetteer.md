@@ -1,15 +1,11 @@
 ---
 tags: [background, status/unknown]
-displayDefaults: {prep: 'on'}
 campaignInfo: []
-hide: [toc]
-name: Gazetteer
-title: Gazetteer
+hide: [toc, navigation]
+name: Map of Taelgar
+title: Map of Taelgar
 ---
-
-
-
-## Known World of Taelgar, Default Player Map:
+# Known World of Taelgar
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>

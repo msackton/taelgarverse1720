@@ -29,10 +29,10 @@ hide: [navigation]
     Born DR 1468 (252 years old)  
     { .bio }
 
-    Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+    Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1712): [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1712): [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed by spiders}
+tags: [person]
+displayDefaults: {endStatus: killed by spiders}
 campaignInfo: []
 name: Edur
 born:
@@ -29,3 +29,5 @@ hide: [navigation]
 
 :octicons-location-24:{ .lg .middle } Killed by spiders in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
+
+The brother of [Erdu](<./erdu.md>).
