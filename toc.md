@@ -70,4 +70,4 @@
     - Primary Sources
         - {glob: primary-sources/}
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
-- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure/)
+- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure.md)

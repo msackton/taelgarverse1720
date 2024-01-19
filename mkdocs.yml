@@ -40,7 +40,7 @@ theme:
 extra_css:
   - stylesheets/leaflet.css
   - stylesheets/taelgarverse.css
-  - stylesheets/homepage.css  
+  - assets/stylesheets/homepage_custom.css
   - stylesheets/styling.css
 markdown_extensions:
   - md_in_html
