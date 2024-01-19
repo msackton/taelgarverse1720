@@ -1,6 +1,6 @@
 site_name: TaelgarVerse
 ## Base path for backlinks ##
-base_path: /taelgarverse/
+base_path: /taelgarverse1720/
 theme:
   name: material
   custom_dir: overrides
@@ -77,7 +77,7 @@ plugins:
 ### The icon and blurb parameters were used for the bottom buttons on the home page which we omit ###
 
 # Custom Homepage Elements
-home_tagline: TaelgarVerse 1720
+home_tagline: Taelgarverse 1720
 home_description: The homepage for the Cleenseau Campaign in Taelgar
 
 # Custom Homepage Button(s)
