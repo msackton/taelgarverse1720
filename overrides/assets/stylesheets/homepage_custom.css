@@ -6,13 +6,13 @@
 /* change images for dark mode */
 /* paths are relative to this file */
 :root {
-    --banner-logo: url("../assets/site-img/logo.png");
-    --home-cover-image: url("../assets/site-img/banner-map.png");
+    --banner-logo: url("../site-img/logo.png");
+    --home-cover-image: url("../site-img/banner-map.png");
   }
   
   [data-md-color-scheme="slate"] {
-    --banner-logo: url("../assets/site-img/logo.png");
-    --home-cover-image: url("../assets/site-img/banner-map.png");
+    --banner-logo: url("../site-img/logo.png");
+    --home-cover-image: url("../site-img/banner-map.png");
   }
   
   /** CONTAINERS AND GRID **/

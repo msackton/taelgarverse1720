@@ -15,6 +15,7 @@
     "fix_links": true,
     "strip_comments": true,
     "clean_inline_tags" : true,
+    "skip_future_dated": true,
     "slugify": true,
     "clean_build": true,    
     "hide_toc_tags": ["person", "item"],
