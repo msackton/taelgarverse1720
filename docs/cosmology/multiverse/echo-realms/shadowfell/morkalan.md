@@ -15,7 +15,6 @@ title: Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 in [Hagrim of Morkalan](<../../../../people/dwarves/hagrim.md>)  
-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

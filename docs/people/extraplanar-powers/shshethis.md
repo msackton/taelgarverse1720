@@ -25,7 +25,7 @@ hide: [navigation]
     Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently the Elemental Forge
+:octicons-location-24:{ .lg .middle } Currently in the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>)
 
 
 

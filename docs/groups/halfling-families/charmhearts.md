@@ -23,7 +23,7 @@ In 1748, the Charmhearts encountered trouble on the road from [Ausson's Crossing
 The demon at Raven's Hold was later killed by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), but Ander Charmheart only slowly and partially recovered. What is more, during this time, gnoll raiders rampaged across [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and little trading was possible. The Charmhearts made their way to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with crowds of Dunmari refugees, but the sickness and war seriously disrupted their trading year, causing significant losses. Later, they left [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) for [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), hoping for better luck. 
 
 ## Chronology
-- 19 Mar 1748: Ander Charmheart caught in wave of demonic corruption near [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). 
+- Mar 19, 1748 DR: Ander Charmheart caught in wave of demonic corruption near [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). 
 - 28 Mar 1748: Charmhearts arrive in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - 29 Mar 1748: Meet [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in the evening
 - 13 Apr 1748: Charmhearts reach [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with Dunmari refugees

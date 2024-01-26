@@ -58,5 +58,7 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 
 
 
+- Dec 14, 1748 DR: The Battle of Tokra. Sura's armies defeat the Karnas and his Chardonian allies outside of Tokra, and drive Karnas's troops south, towards Darba.
+- Dec 24, 1748 DR: Sura's confidant and captain, Havdar, arrives in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>) to fortify border defenses for an expected retaliation by the Chardonian legions
 
 

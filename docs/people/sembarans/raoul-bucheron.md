@@ -11,7 +11,7 @@ affiliations:
 - {org: Order of the Charitable Wanderer}
 whereabouts:
 - {type: home, location: Windlea}
-- {type: away, start: 1718, end: 9999, prefix: roaming around, location: Barony of Aveil}
+- {type: away, start: 1718, end: 9999, linkText: roaming around, location: Barony of Aveil}
 title: Raoul Bûcheron
 hide_toc: true
 hide: [navigation]
@@ -28,9 +28,7 @@ hide: [navigation]
     Based in [Windlea](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/windlea.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+:octicons-location-24:{ .lg .middle } Currently roaming around the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. 
-
-He is known to be actively looking for recruits in the area.  A good friend of [Narrisa de Abadelle](<./narrisa-de-abadelle.md>). 
+Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. He is known to be actively looking for recruits in the area.  A good friend of [Narrisa de Abadelle](<./narrisa-de-abadelle.md>). 

@@ -8,7 +8,7 @@ born: 1700
 species: human
 ancestry: Sembaran
 gender: male
-title: Sergeant Odo Cordwaner
+title: Odo Cordwaner
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
@@ -16,7 +16,7 @@ whereabouts:
 hide_toc: true
 hide: [navigation]
 ---
-# Sergeant Odo Cordwaner
+# Odo Cordwaner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -29,8 +29,7 @@ hide: [navigation]
 </div>
 
 
-The sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) and a loyal solider. 
+![Odo Cordwaner](../../assets/odo-cordwaner.png){align="right"; width="320"} The sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) and a loyal solider. 
 
 
 
-![Odo Cordwaner](../../assets/odo-cordwaner.png)

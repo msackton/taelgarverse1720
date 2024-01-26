@@ -198,7 +198,7 @@ hide: [navigation]
 
 > [!WARNING]- Jungle Ki Lore
 > 
-> ### Jungle Ki Lore, Session 55-56 (DuFr)
+> ### Jungle Ki Lore, Session 57 (DuFr)
 > 
 > In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named Elazar. 
 > 
@@ -229,7 +229,7 @@ hide: [navigation]
 
 > [!warning]- Letter from Kaeso to Kenzo, Session 61
 > 
-> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, Session 61 (DuFr)
+> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, Session 67 (DuFr)
 > 
 > this is a letter that [Riswynn](<./riswynn.md>) got from [Rishi](<../../dunmari/rishi.md>), in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), still sealed, addressed to Kenzo, and written in Dunmari
 > 

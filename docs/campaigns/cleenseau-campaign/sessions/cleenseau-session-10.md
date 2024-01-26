@@ -20,8 +20,6 @@ title: Cleenseau Session 10
 
 ### Rumors and Information
 
-* [Ida Rosfeld](<../../../people/sembarans/ida-rosfeld.md>) arrives in town on January 10th, bearing the news that the [Army Garrison of Cleenseau](<../../../groups/sembaran-army/army-garrison-of-cleenseau.md>) had left [Dunfry](<../../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) two weeks ago, and was attacked by a large force of zombies along the Old West Road on January 6th. Half the garrison was killed.
-
-The session begins 
+* [Ida Rosfeld](<../../../people/sembarans/ida-rosfeld.md>) arrives in town on January 10th, bearing the news that most of the [Army Garrison of Cleenseau](<../../../groups/sembaran-army/army-garrison-of-cleenseau.md>) had left [Dunfry](<../../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) two weeks ago, and was attacked by a large force of zombies along the Old West Road on January 6th. Half the garrison was killed.
 
 

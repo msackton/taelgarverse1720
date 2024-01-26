@@ -24,5 +24,3 @@ hide: [navigation]
 
 </div>
 
-
-

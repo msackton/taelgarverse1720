@@ -39,3 +39,11 @@ hide: [navigation]
 
 Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to Songara, Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
+                                                                                                                                                                                                                                                                                          |
+| [Bree Charmheart](<Bree Charmheart.md/>)         | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+
+
+                                                                                                                                                                                                                                                                        |
+| [Party Treasure](<../../Campaigns/Dunmari Frontier/Party Treasure.md/>) | An older halfling man, easily into his 80s or 90s, with a wrinkled face, stained traveling clothes, blue eyes and curly graying hair. Tentatively identified as one of the Tealeaf family, a large merchant clan that once traded between [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and eastern [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Freed; name is [Garret Tealeaf](<./garret-tealeaf.md>), captured by [Agata](<../fey/agata.md>) 11 years ago. |
+| [Garret Tealeaf](<Garret Tealeaf.md/>)           | Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>).
+

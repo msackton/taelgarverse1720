@@ -308,6 +308,7 @@
             - [Zakat](gazetteer/northern-green-sea/zakat.md)
         - [Sentinel Range](gazetteer/sentinel-range/sentinel-range.md)
             - [Central Highlands Region](gazetteer/sentinel-range/central-highlands-region.md)
+            - [Hralgar's Palace](gazetteer/sentinel-range/hralgar-s-palace.md)
             - [Kunda](gazetteer/sentinel-range/kunda.md)
             - [Urlich Pass](gazetteer/sentinel-range/urlich-pass.md)
             - [Dwarven Kingdoms](gazetteer/sentinel-range/dwarven-kingdoms/dwarven-kingdoms.md)
@@ -360,6 +361,10 @@
             - [Western Green Sea Region](gazetteer/western-green-sea/western-green-sea-region.md)
             - [Western Gulf](gazetteer/western-green-sea/western-gulf.md)
             - [Cymea](gazetteer/western-green-sea/cymea/cymea.md)
+                - [Ampogio](gazetteer/western-green-sea/cymea/ampogio.md)
+                - [Edge of Echoes](gazetteer/western-green-sea/cymea/edge-of-echoes.md)
+                - [Elemental Forge](gazetteer/western-green-sea/cymea/elemental-forge.md)
+                - [Freccilia](gazetteer/western-green-sea/cymea/freccilia.md)
                 - [Latazaro](gazetteer/western-green-sea/cymea/latazaro.md)
                 - [Lavila](gazetteer/western-green-sea/cymea/lavila.md)
                 - [Plataca Hills](gazetteer/western-green-sea/cymea/plataca-hills.md)
@@ -438,6 +443,7 @@
             - [Army of the South](groups/sembaran-army/army-of-the-south.md)
             - [Army of the West](groups/sembaran-army/army-of-the-west.md)
         - Sembaran Noble Houses
+            - [House of Entranca](groups/sembaran-noble-houses/house-of-entranca.md)
             - [House of Lils](groups/sembaran-noble-houses/house-of-lils.md)
             - [House of Sewick](groups/sembaran-noble-houses/house-of-sewick.md)
         - Tollen Guilds
@@ -603,4 +609,4 @@
         - [The Founding of Dunmar](primary-sources/the-founding-of-dunmar.md)
         - [The Travelogue of Etienne of Cassons (DR 1743)](primary-sources/the-travelogue-of-etienne-of-cassons-dr-1743.md)
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
-- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure/)
+- [Party Loot](campaigns/cleenseau-campaign/treasure/treasure.md)

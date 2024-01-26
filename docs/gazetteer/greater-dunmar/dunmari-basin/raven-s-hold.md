@@ -1,20 +1,19 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', wHome: '<subTypeOf:UA> <ancestry:UA> <typeOf:UA> <home:q>, once part of <origin>'}
 campaignInfo: []
 name: Raven's Hold
 subTypeOf: ruined
 typeOf: fort
 whereabouts:
-- {type: home, location: Ardith, end: 1545}
+- {type: home, location: Dunmar, end: 1544}
 - {type: home, location: Sentinel Range, start: 1545}
 title: Raven's Hold
 ---
 # Raven's Hold
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--   :octicons-location-24:{ .lg .middle }   
-    :octicons-location-24:{ .lg .middle } A ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>), once part of [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

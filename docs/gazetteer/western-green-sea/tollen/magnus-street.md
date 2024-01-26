@@ -15,3 +15,5 @@ title: Magnus Street
 
 
 ### Places 
+- University of Tollen
+- The Fire and Stone
