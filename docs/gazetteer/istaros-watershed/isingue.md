@@ -25,3 +25,6 @@ title: Isingue
 The now-ruined city on the [Istaros](<rivers/istaros.md>), once the cultural and spiritual capitol of the [Istabor Alliance](<../../history/istabor-alliance.md>). 
 
 Legends and stories say that Isingue was founded where the waters of the [Istaros](<rivers/istaros.md>) gave magical, life-giving energy to the land and to the people who drank them, and it was from this magic that the densely settled small towns and villages near Isingue drew their wealth. 
+
+
+
