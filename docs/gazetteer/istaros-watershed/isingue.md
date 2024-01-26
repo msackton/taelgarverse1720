@@ -25,6 +25,3 @@ title: Isingue
 The now-ruined city on the [Istaros](<rivers/istaros.md>), once the cultural and spiritual capitol of the [Istabor Alliance](<../../history/istabor-alliance.md>). 
 
 Legends and stories say that Isingue was founded where the waters of the [Istaros](<rivers/istaros.md>) gave magical, life-giving energy to the land and to the people who drank them, and it was from this magic that the densely settled small towns and villages near Isingue drew their wealth. 
-
-The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovered that the ruined city of Isingue seems to be currently occupied by some kind of acidic ooze monster, capable of flinging acidic globules strong enough to eat away at stone from hundreds of feet away. 
-
