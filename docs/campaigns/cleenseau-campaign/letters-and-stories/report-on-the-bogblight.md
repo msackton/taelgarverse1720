@@ -16,7 +16,8 @@ In this the tenth month of this year sixteen hundred and sixty seven since the f
 Vahaiya
 aistana elyë imíca
 
-P.S. We found two shambling mounds lurking west of Beury. I beg you to send patrols more often.
+
+P.S. We found two shambling mounds lurking east of Beury. I beg you to send patrols more often.
 
 The second letter reads:
 

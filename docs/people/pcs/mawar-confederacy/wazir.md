@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/mawar, status/unknown]
-campaignInfo:
+tags: [person, pc/mawar, status/needswork]
 name: Wazir
 born:
 species: human
-ancestry:
+ancestry: Mawaran
 gender: male
 player: Mike Sackton
 affiliations:
@@ -18,7 +17,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../../species/humans/humans.md>) (he/him)  
+    A Mawaran [human](<../../../species/humans/humans.md>) (he/him)  
     Owner of the [Leviathan Inn](<../../../gazetteer/west-coast/mawar-confederacy/leviathan-inn.md>)  
     { .bio }
 

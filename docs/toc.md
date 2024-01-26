@@ -32,6 +32,7 @@
     - [Characters](people/pcs/cleenseau/heroes-of-cleenseau.md)
         - [Celyn](people/pcs/cleenseau/celyn.md)
         - [Es\*tiasilos](people/pcs/cleenseau/estiasilos.md)
+        - [Greymalkin](people/pcs/cleenseau/greymalkin.md)
         - [Izgil Moonseeker](people/pcs/cleenseau/izgil-moonseeker.md)
         - [Robin of Abenfyrd](people/pcs/cleenseau/robin-of-abenfyrd.md)
         - [Viepuck](people/pcs/cleenseau/viepuck.md)

@@ -11,7 +11,7 @@ Broadly taxes in Sembara are divided into five categories:
 * Property taxes, collected on [crownland](<./land-holding-in-sembara.md>) only: the deca, the nonem, the hearth tax, and any manorial or city taxes on inns or taverns
 * Tolls, collected from travelers
 * Market taxes, collected from merchants selling goods at market
-* Noble taxes: the baronial tax and the honorus
+* Noble taxes: the honorus
 * Informal or customary taxes: gifts at major events, host gifts, guest gifts
 ## Yearly Taxes
 There are five formal taxes that are levied regularly:

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
+tags: [historical, person]
 campaignInfo: []
 name: Wisym I
 born: 1510
@@ -29,4 +29,4 @@ hide: [navigation]
 </div>
 
 
-The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the Interregum of 1568. He was a mostly ineffectual king and was partly selected as a compromise king because as a gay man he had never had children with his husband and thus had no immediate heir.
+The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the Interregum of 1568. He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 

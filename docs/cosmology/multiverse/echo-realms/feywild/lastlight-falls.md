@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes]
+tags: [place]
 title: Lastlight Falls
 ---
 

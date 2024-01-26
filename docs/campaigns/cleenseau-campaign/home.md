@@ -6,6 +6,8 @@ title: Home
 ---
 This website is the campaign bible for the [Cleenseau Campaign](<./cleenseau-campaign.md>), a D&D game set in the world of Taelgar, a magical shared world developed by my brother and I. 
 
+Been here before? Check out the [Index of Changes](<./index-of-changes.md>).
+
 Please note that some information here is intended to be for certain players only. That information will be in a spoiler warning block, like so:
 
 >[!INFO]- Delwaths's Background (For Mike's Eyes Only)
