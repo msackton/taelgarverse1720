@@ -5,6 +5,7 @@ ancestry: Sembaran
 born: 1684
 species: human
 gender: female
+whereabouts: Cleenseau
 title: Catherine de Brune
 hide_toc: true
 hide: [navigation]
@@ -17,6 +18,7 @@ hide: [navigation]
     Born DR 1684 (36 years old)  
     { .bio }
 
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 

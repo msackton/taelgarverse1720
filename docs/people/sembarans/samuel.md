@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
 name: Samuel
-born: 1700
+born: 1705
 species: human
 ancestry: Sembaran
 gender: male
@@ -18,7 +18,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1700 (20 years old)  
+    Born DR 1705 (15 years old)  
     Kitchen Boy of the Essfords  
     { .bio }
 

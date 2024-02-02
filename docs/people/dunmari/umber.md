@@ -8,6 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 died: 1748
+whereabouts: Tokra
 title: Umber
 hide_toc: true
 hide: [navigation]
@@ -19,6 +20,7 @@ hide: [navigation]
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
+    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

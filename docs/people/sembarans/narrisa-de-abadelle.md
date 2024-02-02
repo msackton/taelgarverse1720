@@ -7,6 +7,7 @@ species: human
 ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
+whereabouts: Duchy of Maseau
 title: Narrisa de Abadelle
 hide_toc: true
 hide: [navigation]
@@ -20,6 +21,7 @@ hide: [navigation]
     Member of the Order of the Charitable Wanderer  
     { .bio }
 
+    Based in the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
 </div>
 
 

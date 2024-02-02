@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo: []
 name: Jonathon Henwyn
-born: 1690
+born: 1680
 species: human
 ancestry: Sembaran
 gender: male
@@ -21,7 +21,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1690 (30 years old)  
+    Born DR 1680 (40 years old)  
     Steward of the Essfords  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }

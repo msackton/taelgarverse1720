@@ -4,7 +4,7 @@ tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Margaret Ashford
-born: 1672-07-12
+born: 1676
 species: human
 ancestry: Sembaran
 gender: female
@@ -19,7 +19,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born July 12th, 1672 (47 years old)  
+    Born DR 1676 (44 years old)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

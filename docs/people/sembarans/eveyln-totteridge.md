@@ -4,7 +4,7 @@ tags: [person]
 title: Sergeant Eveyln Totteridge
 campaignInfo: []
 name: Eveyln Totteridge
-born: 1699
+born: 1695
 species: human
 ancestry: Sembaran
 gender: female
@@ -22,7 +22,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1699 (21 years old)  
+    Born DR 1695 (25 years old)  
     Sergeant of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }
 

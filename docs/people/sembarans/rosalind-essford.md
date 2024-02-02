@@ -43,7 +43,7 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Seen by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 travelling to [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)  
 
 
-![Lady Rosalind Essford](../../assets/lady-rosalind-essford.png){align="right"; width="320"}The daughter of [Wymar](<./wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Bybet](<./arthur-bybet.md>) in 1706, and their match has been a good and popular one. 
+![Lady Rosalind Essford](../../assets/lady-rosalind-essford.png){align="right"; width="320"}The daughter of [Wymar](<./wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Essford](<./arthur-essford.md>) in 1706, and their match has been a good and popular one. 
 
 
 

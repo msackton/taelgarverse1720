@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [person/ruler, status/unknown]
 born: 1659
 title: Duke Jacques Bellemont
+whereabouts: Duchy of Wisford
 affiliations:
 - {type: leader, org: Duchy of Wisford, start: 1700}
 hide_toc: true
@@ -16,6 +17,7 @@ hide: [navigation]
     Duke of the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>) (since DR 1700)  
     { .bio }
 
+    Based in the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

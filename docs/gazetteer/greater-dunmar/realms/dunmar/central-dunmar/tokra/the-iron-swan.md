@@ -12,7 +12,7 @@ title: The Iron Swan
 ---
 # The Iron Swan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) tavern in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) tavern [Tokra](<./tokra.md>)  
 </div>
 
 

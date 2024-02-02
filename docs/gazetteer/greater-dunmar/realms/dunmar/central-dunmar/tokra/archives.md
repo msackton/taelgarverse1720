@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Archives of Tokra
 typeOf: library
-partOf: Tokra
+whereabouts: Tokra
 title: Archives of Tokra
 ---
 # The Archives of Tokra

@@ -5,6 +5,7 @@ ancestry: Sembaran
 born: 1691
 species: human
 gender: male
+whereabouts: Cleenseau
 title: Harold Bybet
 hide_toc: true
 hide: [navigation]
@@ -17,10 +18,11 @@ hide: [navigation]
     Born DR 1691 (29 years old)  
     { .bio }
 
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 
-![Harold Bybet](../../assets/harold-bybet.png){align="right"; width="320"}The cousin of [Arthur Bybet](<./arthur-bybet.md>) and husband of [Annet Bybet](<./annet-bybet.md>), he is a dear friend from childhood of [Rinault](<./rinault-essford.md>) and a keen hunter and horseman. He lives at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>).
+![Harold Bybet](../../assets/harold-bybet.png){align="right"; width="320"}The husband of [Annet Bybet](<./annet-bybet.md>), he is a dear friend from childhood of [Rinault](<./rinault-essford.md>) and a keen hunter and horseman. He lives at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
 
 
 He seems skittish about actually helping, and despite his clear skill with a bow and ability to ride, he has somehow been scarce whenever military aid has been required.

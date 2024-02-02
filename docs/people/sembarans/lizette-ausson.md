@@ -8,6 +8,7 @@ gender: female
 species: human
 affiliations:
 - {org: Ausson's Crossing, type: leader, title: Proprietor, start: 1688, end: 1699}
+whereabouts: Laicon
 title: Lizette Ausson
 hide_toc: true
 hide: [navigation]
@@ -21,6 +22,7 @@ hide: [navigation]
     Proprietor of [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>) (DR 1688 - DR 1699)  
     { .bio }
 
+    Lived in [Laicon](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)
 </div>
 
 

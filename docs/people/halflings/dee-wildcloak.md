@@ -54,9 +54,3 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 
 
 
-                                                                                                                                                           |
-| [Session 48 (DuFr)](<../../Campaigns/Dunmari Frontier/Session Notes/Session 48 (DuFr).md/>) | Aug 22, 1748 DR, noon: Meet Dee Wildcloak and Dain Goldhammer for lunch. Learn that Fausto, a rich scholar, has the Eyes of Hralgar. Dee flirts with Wellby.                                                                                     |
-| [Dee Wildcloak](<Dee Wildcloak.md/>)                                 | Sep 12, 1748 DR: Dee Wildcloak leaves Chardon quietly, heading for Darba, hoping to escape Fausto's influence                                                                                                                                    |
-| [Dee Wildcloak](<Dee Wildcloak.md/>)                                 | Oct 19, 1748 DR: Dee Wildcloak writes to the Dunmar Fellowship and Wellby from the Green Leaf Inn, Darba.                                                                                                                                        |
-| [Dee Wildcloak](<Dee Wildcloak.md/>)                                 | Oct 21, 1748 DR: Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba                                                                                                                                                     |
-`

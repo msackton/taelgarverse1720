@@ -28,3 +28,8 @@ hide: [navigation]
 
 
 ![Lord Rinault Essford](../../assets/lord-rinault-essford.png){align="right"; width="320"}The younger brother of [Rosalind](<./rosalind-essford.md>) he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
+
+
+
+
+

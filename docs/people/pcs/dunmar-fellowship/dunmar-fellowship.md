@@ -33,21 +33,32 @@ The group was reunited on Nov 15 1748 in Dunmar.
 
 ## Followers and Hirelings
 
-The Dunmar Fellowship has acquired a number of followers, hirelings, and traveling companions, who including:
+<div class="grid cards" markdown>
 
-- Faldrak Bronzehammer, a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
-- Adam Gower, a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
+-   [Faldrak Bronzehammer](<../../dwarves/faldrak-bronzehammer.md>)
+ 
+    ---
+    ![Faldrak Small](../../../assets/faldrak-small.png)
+     Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain.
+
+-  [Kethra Silverspark](<../../dwarves/kethra.md>)
+
+    ---
+    ![Kethra Small](../../../assets/kethra-small.png)
+	 A dwarven smith from Tharn Todor, inspired by Riswynn to seek adventure.
+
+</div>
+
+The Dunmar Fellowship has acquired a number of followers, hirelings, and traveling companions, including:
+
+- [Faldrak Bronzehammer](<../../dwarves/faldrak-bronzehammer.md>), a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
+- [Adam Gower](<../../tollenders/adam-gower.md>), a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
 - Amil (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
-- Égnir (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
-- Nurzkar, and Aygul, orcs and twin sisters. Details TBD. Aygul's twin sister, an orc woman
-- Aygul, Nurzkar's twin sisters, orcs, details TBD
-- Kecha, a kenku scout
+- [Égnir](<../../elves/egnir.md>) (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
+- Nuzkar and Aygul, orcs and twin sisters. Nuzkar is an archivist and loremaster; Aygul a brawler who helps in the training rooms.
+- [Kethra Silverspark](<../../dwarves/kethra.md>), a dwarven smith and Riswynn's mentee. 
+- [Kecha](<../../kenku/kecha.md>), a kenku scout guiding the party to Ursk
+- (unnamed mapmaker recruited in Tollen)
 
-Future recruits:
-- mapmaker 
-- halfling elder / storyteller
-- Deno'qai godcaller, perhaps the other trapped shadow realm person
-- smith apprentice for Riswynn
-- centaur from tollen
 
 

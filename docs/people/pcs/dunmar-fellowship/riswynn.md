@@ -25,3 +25,10 @@ hide: [navigation]
 
 
 ![Riswynn](../../../assets/riswynn.png){width="400"}
+
+## Pre-Campaign Events
+- Mar 10, 1748 DR: Riswynn leaves Tharn Todar, heading north for Raven's Hold
+- Mar 24, 1748 DR: Riswynn leaves Askandi, heading for Karawa.
+- Apr 26, 1748 DR: Riswynn arrives in Tokra.
+- Apr 30, 1748 DR: Riswynn arrives in Askandi.
+- May 05, 1748 DR: Riswynn arrives in Tharn Todor.

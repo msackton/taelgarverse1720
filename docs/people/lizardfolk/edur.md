@@ -4,7 +4,7 @@ tags: [person]
 displayDefaults: {endStatus: killed by spiders}
 campaignInfo: []
 name: Edur
-born:
+born: 1500
 species: lizardfolk
 ancestry:
 gender: male
@@ -21,7 +21,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
-    Killed by spiders October 19th, 1719  
+    b. DR 1500 - d. October 19th, 1719, killed by spiders at age 219 years  
     { .bio }
 
     Lived in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

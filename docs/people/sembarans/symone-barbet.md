@@ -10,6 +10,7 @@ title: Major Symone Barbet
 aliases: [Major Symone Barbet]
 affiliations:
 - {org: Dunfry Regiment, type: leader}
+whereabouts: Barony of Dunfry
 hide_toc: true
 hide: [navigation]
 ---
@@ -22,5 +23,6 @@ hide: [navigation]
     Major of the Dunfry Regiment  
     { .bio }
 
+    Based in the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 

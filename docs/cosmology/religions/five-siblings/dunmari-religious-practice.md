@@ -66,6 +66,8 @@ In the Dunmari tradition, the first rite of death, the farewell to the body, mus
 
 The second rite of death happens later, often much later, as part of a communal ceremony. There is no strict time limit, but it must happen at least 10 days after death, and usually happens within a year of death. This is a ritual carried out in a temple, where candles are lit for each soul being celebrated, and the colors of the flames are interpreted as indicating the final disposition of the soul. This communal funeral is usually followed by a celebratory feast honoring the dead. As part of the ceremony, small mementos of each dead soul are often created as a way for those close to the dead person to keep the memory of their soul near.
 
+
+
 ## Festivals
 
 ![Dunmari Festivals](<../../../time/holidays-and-festivals/dunmari-festivals/dunmari-festivals.md>)

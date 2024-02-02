@@ -7,6 +7,8 @@ species: human
 ancestry: Sembaran
 gender: female
 died: 1699
+whereabouts:
+- {type: home, location: Cleenseau, start: 1651}
 title: Celine Essford
 hide_toc: true
 hide: [navigation]
@@ -19,6 +21,8 @@ hide: [navigation]
     b. DR 1621 - d. DR 1699, died at age 78 years  
     { .bio }
 
+    Originally from: Unknown
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 

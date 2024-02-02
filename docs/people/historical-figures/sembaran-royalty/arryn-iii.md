@@ -12,6 +12,9 @@ affiliations:
 - {org: House of Lils, type: primary}
 - {place: Sembara, start: 1745}
 - {place: Tyrwingha, start: 1745}
+whereabouts:
+- {type: home, location: Tafolwern, end: 1721-08}
+- {type: home, location: Embry, start: 1721-09}
 hide_toc: true
 hide: [navigation]
 ---
@@ -23,6 +26,7 @@ hide: [navigation]
     Born DR 1702 (18 years old)  
     { .bio }
 
+    Based in [Tafolwern](<../../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
 </div>
 
 

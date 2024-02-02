@@ -7,6 +7,7 @@ born:
 species: human
 ancestry: Mawaran
 gender: female
+whereabouts: Mawar Confederacy
 title: Hiyasa
 hide_toc: true
 hide: [navigation]
@@ -18,6 +19,7 @@ hide: [navigation]
     A Mawaran [human](<../../species/humans/humans.md>) (she/her)  
     { .bio }
 
+    Based in the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-25, type: visited}
 name: Safri

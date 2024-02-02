@@ -11,6 +11,7 @@ gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Captain, type: leader}
 - {org: Essfords, title: Guard Captain}
+- {org: Lord's Council of Cleenseau}
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
@@ -27,6 +28,7 @@ hide: [navigation]
     Born DR 1675 (45 years old)  
     Captain of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)  
     Guard Captain of the Essfords  
+    Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

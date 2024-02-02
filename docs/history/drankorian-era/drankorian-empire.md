@@ -9,13 +9,13 @@ title: Drankorian Empire
 ---
 # The Drankorian Empire
 
-The Drankorian Empire was a vast, continent-spanning empire that stretched from the [Endless Ocean](<../../gazetteer/endless-ocean.md>) to the [Green Sea](<../../gazetteer/green-sea.md>) and ruled over much of humanity during the millenia following [The Downfall](<../../events/ancient/the-downfall.md>) of [Hkar](<../pre-downfall/hkar.md>). The Drankorian Empire was known for its strength in magic; the battle mages of [Drankor](<./drankor.md>) not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [Drankor](<./drankor.md>) was filled with learned societies, organizations dedicated to magical lore.
+The Drankorian Empire was a vast, continent-spanning empire that stretched from the [Endless Ocean](<../../gazetteer/endless-ocean.md>) to the [Green Sea](<../../gazetteer/green-sea.md>) and ruled over much of humanity during the millenia following [The Downfall](<../../events/ancient/the-downfall.md>) of Hkar. The Drankorian Empire was known for its strength in magic; the battle mages of [Drankor](<./drankor.md>) not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [Drankor](<./drankor.md>) was filled with learned societies, organizations dedicated to magical lore.
 ## History
 
 The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [Aistanë](<../../gazetteer/istaros-watershed/rivers/istaros.md>) river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
 
-- 1 DR: The city of [Drankor](<./drankor.md>) is founded by refugees from [Hkar](<../pre-downfall/hkar.md>) fleeing the wars of [The Downfall](<../../events/ancient/the-downfall.md>)
-- 169 DR: Celadir is proclaimed the first Emperor of [Drankor](<./drankor.md>), laying claim to the coastal plains and the rich Crescara river valley.
+- 1 DR: The city of [Drankor](<./drankor.md>) is founded by refugees from Hkar fleeing the wars of [The Downfall](<../../events/ancient/the-downfall.md>)
+- 169 DR: Celadir is proclaimed the first Emperor of [Drankor](<./drankor.md>), laying claim to the coastal plains and the rich Isatros river valley.
 - 402 DR: The [Treaty of Marhavn](<../../events/400s/402/treaty-of-marhavn.md>) is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
 - 525 DR - 528 DR: The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
 - 528 DR - 595 DR: The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
@@ -27,7 +27,9 @@ The Drankorian Empire grew out of the city of Drankor, founded near the mouth of
 - 1001 DR - 1013 DR: The Dominion Wars, a series of attempted conquests to the east
 - 1059 DR: The destruction of [Drankor](<./drankor.md>) by the Plague Mist
 
-Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, as follows: 
+## Rulers
+
+The emperors of Drankor, starting with the rule of Celadir, who was the first to proclaim the Drankorian Empire. 
 
 | Emperor                    | species/ancestry | notes                                                                                                       | rule start | rule end |
 | -------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------- | ---------- | -------- |
@@ -58,7 +60,7 @@ Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, a
 | Alador the Elf Friend (m)  | Hkar             | strong ruler                                                                                                | 855        | 879      |
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
-| Eiphis the Blind (m)       | Hkar             | came to the throne late in life                                                                             | 936        | 943      |
+| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                                                             | 936        | 943      |
 | Helea (f)                  | Non-Hkar         | killed by [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) to start civil war                                                                     | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
 | Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>)                                             | 965        | 980      |

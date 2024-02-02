@@ -5,6 +5,7 @@ name: Reliah
 born:
 species: human
 gender: female
+whereabouts: Hamri
 title: Reliah
 hide_toc: true
 hide: [navigation]
@@ -16,6 +17,7 @@ hide: [navigation]
     A [human](<../../species/humans/humans.md>) (she/her)  
     { .bio }
 
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

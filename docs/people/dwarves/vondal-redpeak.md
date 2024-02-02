@@ -8,6 +8,7 @@ ancestry:
 gender: male
 affiliations:
 - {org: Redpeaks, type: primary}
+whereabouts: Darba
 title: Vondal Redpeak
 hide_toc: true
 hide: [navigation]
@@ -19,6 +20,7 @@ hide: [navigation]
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Redpeaks  
     { .bio }
 
+    Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

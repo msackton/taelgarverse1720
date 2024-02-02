@@ -26,6 +26,16 @@ hide: [navigation]
 
 ![Seeker](../../../assets/seeker.jpg){align="right"; width="400"}
 
+## Pre-Campaign Events
+
+- Oct 04, 1747 DR: Seeker arrives in Chardon
+- Dec 26, 1747 DR: Seeker leaves Chardon
+- Feb 15, 1748 DR: Seeker arrives in Songara
+- Feb 21, 1748 DR: Seeker leaves Songara
+- Mar 05, 1748 DR: Seeker arrives in Tokra.
+- Mar 09, 1748 DR: Seeker leaves Tokra for Karawa
+- Mar 21, 1748 DR: Seeker arrives in Karawa
+
 > [!warning]- Seeker's Backstory
 > 
 > I grew up in the city of Darakan, on the western frontier of Sembara, in the dwarven kingdom of [Khatridun](<../../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>). Darakan, my home, is famous for its fine marbleworks, especially the elaborate stonework marking the gates of the city, set high in a cliff face and reached by a series of marble steps and arches. My parents, proud Stoneworkers from Clan Highkeep, contributed much to the fame of the city, and were renowned as architects. I trained early in my life expecting to become a Stoneworker like them.

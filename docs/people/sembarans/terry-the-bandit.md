@@ -2,9 +2,9 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
-- {campaign: clee, type: Fought against, date: 1719-11-03, format: '<met:u> <person> <current:2q> on <target>'}
+- {campaign: clee, type: Fought against, date: 1719-11-03, format: '<met:ux> <person> <current:2q> on <target>'}
 name: Terry the Bandit
-born:
+born: 1690
 species: human
 ancestry: Sembaran
 gender: male
@@ -21,7 +21,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Died November 3rd, 1719  
+    b. DR 1690 - d. November 3rd, 1719, died at age 29 years  
     { .bio }
 
     Lived on Beggar's Way, in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
@@ -31,7 +31,7 @@ hide: [navigation]
 
 
 
-:octicons-location-24:{ .lg .middle } The Fought against the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) at the [bandit lair upriver of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), in the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) on November 3rd, 1719  
+:octicons-location-24:{ .lg .middle } Fought against the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) at the [bandit lair upriver of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), in the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) on November 3rd, 1719  
 
 
 One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). Local to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), he fell on hard times during the winter of 1718-1719 and was recruited to banditry by [François](<./francois-the-bandit.md>).  He was killed by an enraged Ankheg during the battle outside the bandit lair on November 3rd. 

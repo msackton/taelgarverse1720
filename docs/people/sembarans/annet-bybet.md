@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: female
 affiliations:
 - {org: Essfords, title: Chamberlain}
+- {org: Lord's Council of Cleenseau}
+- {org: Bybets, type: primary}
 whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
@@ -19,9 +21,10 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her), of the Bybets  
     Born DR 1692 (28 years old)  
     Chamberlain of the Essfords  
+    Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }
 
     Originally from: [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
@@ -29,4 +32,4 @@ hide: [navigation]
 </div>
 
 
-A cousin of [Arthur Bybet](<./arthur-bybet.md>) and the chamberlain of the Essford household. 
+![Annet Bybet](../../assets/annet-bybet.png){align="right"; width="320"}A cousin of [Arthur Essford](<./arthur-essford.md>) and the chamberlain of the Essford household.

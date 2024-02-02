@@ -7,6 +7,7 @@ born: 1673
 species: human
 ancestry: Highlander
 gender: female
+whereabouts: Cleenseau
 title: Avelina Smith
 hide_toc: true
 hide: [navigation]
@@ -19,6 +20,7 @@ hide: [navigation]
     Born DR 1673 (47 years old)  
     { .bio }
 
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 

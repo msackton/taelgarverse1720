@@ -28,6 +28,15 @@ hide: [navigation]
 
 ![Welby Full](../../../assets/welby-full.jpg){width="400"}
 
+## Pre-Campaign Events
+
+- Aug 02, 1747 DR: Wellby leaves [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), heading south. Spends some time wandering.
+- Dec 02, 1747 DR: Wellby arrives at the mountains, but cannot cross to Dunmar because of snow. Travels around in frontier lands waiting for the passes to open.
+- Feb 12, 1748 DR: Wellby crosses the lower passes on the Karawa road into Dunmar, cutting overland to Tokra.
+- Mar 03, 1748 DR: Wellby arrives in Tokra, spends the night before heading east towards Karawa for the Festival of Rebirth
+- Mar 04, 1748 DR: Wellby leaves Tokra for Karawa
+- Mar 19, 1748 DR: Wellby arrives in Karawa.
+
 > [!warning]- Wellby's Backstory
 > 
 > What Wellby wants from life is to explore: to meet new people, go new places, have new experiences. For many years, the Halfling road life was perfect: he honed his craft scouting ahead of the wagons; exploring roadside ruins; practicing bow skills on wolves and the occasional bandit.

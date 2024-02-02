@@ -4,7 +4,7 @@ tags: [person]
 campaignInfo:
 - {campaign: clee, type: met}
 name: Marion
-born: 1698
+born: 1694
 species: human
 ancestry: Sembaran
 gender: female
@@ -21,7 +21,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1698 (22 years old)  
+    Born DR 1694 (26 years old)  
     Solider of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }
 

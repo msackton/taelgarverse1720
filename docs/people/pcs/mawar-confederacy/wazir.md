@@ -9,6 +9,7 @@ gender: male
 player: Mike Sackton
 affiliations:
 - {place: Leviathan Inn, title: Owner}
+whereabouts: Hamri
 title: Wazir
 hide_toc: true
 hide: [navigation]
@@ -21,6 +22,7 @@ hide: [navigation]
     Owner of the [Leviathan Inn](<../../../gazetteer/west-coast/mawar-confederacy/leviathan-inn.md>)  
     { .bio }
 
+    Based in [Hamri](<../../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

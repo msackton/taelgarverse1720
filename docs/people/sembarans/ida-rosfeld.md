@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo:
 name: Ida Rosfeld
-born: 1692
+born: 1687
 species: human
 ancestry: Sembaran
 gender: female
@@ -22,7 +22,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1692 (28 years old)  
+    Born DR 1687 (33 years old)  
     Captain of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (since DR 1718)  
     Advisor of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }

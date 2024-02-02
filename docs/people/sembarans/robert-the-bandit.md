@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, clee/background]
 displayDefaults: {endStatus: killed by an ankheg}
 name: Robert
-born:
+born: 1685
 species: human
 ancestry: Sembaran
 gender: male
-died: 1719
+died: 1719-11-03
+whereabouts:
+- {type: home}
+- {location: Cleenseau Region, type: home}
 title: Robert
 hide_toc: true
 hide: [navigation]
@@ -17,10 +20,12 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Killed by an ankheg DR 1719  
+    b. DR 1685 - d. November 3rd, 1719, killed by an ankheg at age 34 years  
     { .bio }
 
+    Originally from: Unknown
+    Lived in the [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 
-One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He died of wounds inflicted by the enraged ankheg outside the bandit lair. Of unknown origin.
+One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He died of wounds inflicted by the enraged ankheg outside his hideout.

@@ -15,7 +15,7 @@ title: Dwarven Kingdoms
 
 The Dwarven kingdoms of the [Sentinel Range](<../sentinel-range.md>) have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [Urlich Pass](<../urlich-pass.md>). 
 
-During [The Downfall](<../../../events/ancient/the-downfall.md>), when [Hkar](<../../../history/pre-downfall/hkar.md>) fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../sentinel-range.md>).
+During [The Downfall](<../../../events/ancient/the-downfall.md>), when Hkar fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../sentinel-range.md>).
 
 ![Dwarven Kingdoms Map](../../../assets/dwarven-kingdoms-map.png){width="300"}
  

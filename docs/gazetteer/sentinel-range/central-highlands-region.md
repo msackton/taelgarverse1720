@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/draft]
+tags: [place, status/needswork/refactor]
 displayDefaults: {defArt: ''}
 name: Central Highlands Region
 typeOf: region
@@ -11,6 +11,8 @@ title: Central Highlands Region
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
 </div>
+
+
 
 
 ## Overview

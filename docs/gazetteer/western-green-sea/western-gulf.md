@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Western Gulf
 typeOf: gulf
-partOf: Western Green Sea
+whereabouts: Western Green Sea
 title: Western Gulf
 ---
 # The Western Gulf

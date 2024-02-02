@@ -20,7 +20,7 @@ hide: [navigation]
     A korred (he/him)  
     { .bio }
 
-    Based the Crystal Peak
+    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the Feywild
 </div>
 
 

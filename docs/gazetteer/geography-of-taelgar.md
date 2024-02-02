@@ -5,11 +5,11 @@ title: Geography of Taelgar
 
 # The World of Taelgar
 
-The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Thousands of years ago, there were three large landmasses: [Hkar](<../history/pre-downfall/hkar.md>), the birthplace of [humanity](<../species/humans/humans.md>), and the ~Northern Continent~ and ~Southern Continent~. Then came the [Downfall](<../events/ancient/the-downfall.md>) and the sinking of [Hkar](<../history/pre-downfall/hkar.md>), and all that is known today is the ~Northern Continent~, which stretches from just south of the equator to the frozen north, covering almost 80 degrees of latitude and over 4,000 miles from east to west and from north to south. 
+The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Thousands of years ago, there were three large landmasses: Hkar, the birthplace of [humanity](<../species/humans/humans.md>), and the ~Northern Continent~ and ~Southern Continent~. Then came the [Downfall](<../events/ancient/the-downfall.md>) and the sinking of Hkar, and all that is known today is the ~Northern Continent~, which stretches from just south of the equator to the frozen north, covering almost 80 degrees of latitude and over 4,000 miles from east to west and from north to south. 
 
 The ~Northern Continent~, is surrounded by four major bodies of water, which largely define the boundaries of the known world:
 * To the west, the [Endless Ocean](<./endless-ocean.md>) stretches for thousands of miles of trackless oceans
-* To the south, along the south coast of [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), the [Sea of Storms](<greater-dunmar/sea-of-storms.md>) stretches south and west, to the shattered shores of the ancient, now sunken, continent of [Hkar](<../history/pre-downfall/hkar.md>). What lies south of the Sea of Storms is not known: the remains of the ~Southern Continent~, a trackless ~Southern Ocean~, or something stranger and more mysterious? 
+* To the south, along the south coast of [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), the [Sea of Storms](<greater-dunmar/sea-of-storms.md>) stretches south and west, to the shattered shores of the ancient, now sunken, continent of Hkar. What lies south of the Sea of Storms is not known: the remains of the ~Southern Continent~, a trackless ~Southern Ocean~, or something stranger and more mysterious? 
 * To the north is an icy, cold place where few travel, of frozen tundra and large forests. 
 * To the east, the ~Eastern Ocean~ is separated from the [Green Sea](<./green-sea.md>) by the mysterious ~Eastern Islands~. 
 

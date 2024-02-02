@@ -7,13 +7,13 @@ title: Cleenseau Campaign Index of NPCs
 * [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>), an eccentric [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>)
 * [Diesla Starsearcher](<../../people/dwarves/diesla-starsearcher.md>), Brot's patient wife
 * [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>), a druid
-* [Grandpa Remy](<../../people/sembarans/grandpa-remy.md>), an elderly man, rescued from the ettercap
+* [Remy Darrow](<../../people/sembarans/remy-darrow.md>), an elderly man, rescued from the ettercap
 ### In [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
 
 * [Rosalind Essford](<../../people/sembarans/rosalind-essford.md>), the heir apparent and *de facto* lord
 * [Rinault Essford](<../../people/sembarans/rinault-essford.md>), Rosalind's younger brother, a hothead
 * [Wymar Essford](<../../people/sembarans/wymar-essford.md>), the elderly lord, suffering from dementia
-* [Arthur Bybet](<../../people/sembarans/arthur-bybet.md>), Rosalind's husband
+* [Arthur Essford](<../../people/sembarans/arthur-essford.md>), Rosalind's husband
 * [Annet Bybet](<../../people/sembarans/annet-bybet.md>), Arthur's cousin and the chamberlain of the Essford household
 * [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>), the captain of the [local garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), recently returned from in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>)
 * [Ysabel](<../../people/sembarans/ysabel.md>), the sheriff, now deceased
@@ -28,12 +28,12 @@ title: Cleenseau Campaign Index of NPCs
 * [Eremon](<../../people/sembarans/eremon.md>), a traveler and confidant of Rosalind
 * [Selma Wisthelwind](<../../people/sembarans/selma-wisthelwind.md>), the proprietor of [The Fox's Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>)
 * [Marion](<../../people/sembarans/marion-of-cleenseau.md>) and [Adam](<../../people/sembarans/adam-of-cleenseau.md>), soldiers of the Bridge Patrol
-* [Béatrix](<../../people/sembarans/beatrix-of-cleenseau.md>), a recently retired solider, now a member of the town watch under [Ysabel](<../../people/sembarans/ysabel.md>)
+* [Béatrix](<../../people/sembarans/beatrix-thorne.md>), a recently retired solider, now a member of the town watch under [Ysabel](<../../people/sembarans/ysabel.md>)
 * [Abigail Moss](<../../people/sembarans/abigail-moss.md>), a young farmer
 * [Duncan Rivers](<../../people/sembarans/duncan-rivers.md>), the proprietor of [The Bandit’s End](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-bandits-end.md>)
 * [Harold Stonebridge](<../../people/halflings/harold-stonebridge.md>), a young halfling errand boy at [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)
 * [Aldric Tannen](<../../people/sembarans/aldric-tannen.md>), a schemer looking to start a ferryboat company
-* [Jon Thorne](<../../people/sembarans/jon-thorne.md>), a neighbor of [Beatrix](<../../people/sembarans/beatrix-of-cleenseau.md>)
+* [Jon Thorne](<../../people/sembarans/jon-thorne.md>), a neighbor of [Beatrix](<../../people/sembarans/beatrix-thorne.md>)
 ### In [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>)
 
 * [Warin the Woodsman](<../../people/sembarans/warin-the-woodsman.md>), a tracker
@@ -62,7 +62,7 @@ title: Cleenseau Campaign Index of NPCs
 * [Narrisa de Abadelle](<../../people/sembarans/narrisa-de-abadelle.md>), a paladin arrived unexpected from the Feywild
 ### In Evis, Maseau and Points South
 
-* Lucas, a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
+* [Lucas](<../../people/sembarans/lucas.md>), a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
 * [Guy de Varan](<../../people/sembarans/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
 * [Agnés](<../../people/sembarans/agnes-of-evis.md>), a caravan guard
 ### Farther Afield

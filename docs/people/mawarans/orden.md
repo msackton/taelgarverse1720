@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [mc/minor, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Orden
 born:
 species: human
 ancestry: Mawaran
 gender: male
+whereabouts: Hamri
 title: Orden
 hide_toc: true
 hide: [navigation]
@@ -19,6 +19,7 @@ hide: [navigation]
     A Mawaran [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

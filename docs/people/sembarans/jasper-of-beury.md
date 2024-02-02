@@ -4,9 +4,9 @@ tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Jasper
-born: 1680-09-21
+born: 1680
 species: human
-ancestry:
+ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Beury}
@@ -19,8 +19,8 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/humans/humans.md>) (he/him)  
-    Born September 21th, 1680 (39 years old)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1680 (40 years old)  
     { .bio }
 
     Based in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

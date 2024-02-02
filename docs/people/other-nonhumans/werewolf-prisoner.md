@@ -1,6 +1,5 @@
 ---
 tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Werewolf Prisoner
 born:
@@ -8,6 +7,7 @@ species: human
 ancestry: lycanthrope
 gender: male
 died: 1748
+whereabouts: Tokra
 title: Werewolf Prisoner
 hide_toc: true
 hide: [navigation]

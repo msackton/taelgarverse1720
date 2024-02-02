@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 title: Taxes in Sembara
 ---
 # Taxes in Sembara
@@ -84,6 +84,7 @@ Halfling property owners are legally obligated to pay the hearth tax and other p
 
 Halflings pay gifts to lords at their whim.
 ### Other Species
+
 Of course, there is a wide variety of species on Taelgar, beyond dwarves, halflings, and lizardfolk. But they are all rare enough that there are no formal rules. Some general guidelines, though:
 
 * Property taxes (deca, nonem, hearth tax) generally applies to anyone occupying property, but there is legal precedent for the idea of effectively pretending like some land is folkland even when it isn't
@@ -93,4 +94,7 @@ Of course, there is a wide variety of species on Taelgar, beyond dwarves, halfli
 * War taxes are usually collected on everyone of significant wealth and statue, and most commonly by agents of the crown. There is significant precedent around allowing war taxes to be paid in kind, i.e. via services rendered, or magic provided, or other benefits to the war effort that are not funds. Outside of this, it is most common for war taxes to be collected from non-humans, although the agents usually have limited mechanisms to enforce their collections against those who of any real power who refuse. Additionally, there is limited means to collect taxes from those whose wealth is in unusual or unrecognizable forms. 
 * Informal funds, such as gifts, are usually not expected to be provided, but there is significant variation from situation to situation
 
+It is worth noting that there are of course a wide variety of sentient beings on Taelgar, not all of whom fit into the human mold. The rules above broadly apply to the mortal species - such as stoneborn, elves, and kenku - who, broadly, settle in a community alongside the more common human, halfling, and dwarf denizens.  Lots of other sentient creatures exist, and they are rarely neutral. A dryad, or a tribe of a hundred centaurs, or a band of satyrs holding an endless party, or a family of giant eagles, or a coven of hags -- or any similar being -- these are totally different matters, for the powerful and magical to deal with, or the village to survive, or perhaps benefit from. 
+
+It would be an unusually brave and foolhardy lord who would send tax collectors to a hag's hut to recover the hearth tax. These types of incursions - either great dangers or great boons - exist entirely outside any legal framework.
 

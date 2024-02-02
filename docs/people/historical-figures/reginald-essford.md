@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown, historical]
 campaignInfo:
 name: Reginald Essford
 born: 1619
@@ -11,6 +10,8 @@ gender: male
 title: Lord Reginald Essford
 died: 1689
 family: Essford
+whereabouts:
+- {type: home, location: Cleenseau, start: 1651}
 hide_toc: true
 hide: [navigation]
 ---
@@ -22,6 +23,8 @@ hide: [navigation]
     b. DR 1619 - d. DR 1689, died at age 70 years  
     { .bio }
 
+    Originally from: Unknown
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 

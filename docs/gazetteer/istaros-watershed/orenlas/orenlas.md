@@ -5,7 +5,7 @@ name: Orenlas
 typeOf: realm
 ancestry: elven
 subTypeOf: forest
-partOf: Istaros Watershed
+whereabouts: Istaros Watershed
 pronunciation: o-REN-las
 title: Orenlas
 ---
