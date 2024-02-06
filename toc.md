@@ -41,7 +41,7 @@
                 - [Pyravela](time/holidays-and-festivals/pyravela.md)
                 - [Viatela](time/holidays-and-festivals/viatela.md)        
         - [Kestavo](cosmology/religions/kestavo/kestavo.md)
-            - {glob: cosmologyreligions/kestavo/, exclude: kestavo.md}
+            - {glob: cosmology/religions/kestavo/, exclude: kestavo.md}
             - Gods
                 - [Ako](cosmology/gods/high-gods/ako.md)
                 - {glob: cosmology/gods/kestavo/}                   
