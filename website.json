@@ -11,7 +11,7 @@
     "site_images_source": "taelgarverse-site-generator/site-resources/extras/site-img/",
     "site_images_dest": "assets/site-img/",
     "campaign": "clee",
-    "export_date": "1720-01-12",
+    "export_date": "1720-01-14",
     "fix_links": true,
     "strip_comments": true,
     "clean_inline_tags" : true,
