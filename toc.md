@@ -1,14 +1,14 @@
 - [Home](index.md)
 - [Cleenseau Campaign](campaigns/cleenseau-campaign/cleenseau-campaign.md)
     - [Timeline](campaigns/cleenseau-campaign/cleenseau-campaign-timeline.md)
-    - [NPC Index](campaigns/cleenseau-campaign/cleenseau-campaign-index-of-npcs.md)
+    - [NPC Index](campaigns/cleenseau-campaign/cleenseau-campaign-index-of-npcs.md)    
     - [The Cleenseau Region](gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md)
         - {glob: gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/}
     - [Characters](people/pcs/cleenseau/heroes-of-cleenseau.md)
         - {glob: people/pcs/cleenseau/, exclude: heroes-of-cleenseau.md}
     - Letters and Stories
         - {glob: campaigns/cleenseau-campaign/letters-and-stories}
-    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure/)
+    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)
         - {glob: campaigns/cleenseau-campaign/treasure, exclude: treasure.md}
     - Mechanics
         - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
@@ -31,36 +31,25 @@
         - [Orcs](species/children-of-the-embodied-gods/orcs/orcs.md)
         - [Fey](species/children-of-the-divine/fey/fey.md)
     - Religion
-        - [Mos Numena](cosmology/religions/mos-numena.md)
+        - [Mos Numena](cosmology/religions/mos-numena/mos-numena.md)
+            - {glob: cosmology/religions/mos-numena/, exclude: mos-numena.md}
             - Gods
                 - {glob: cosmology/gods/incorporeal-gods/mos-numena/}
             - [Festivals](time/holidays-and-festivals/mos-numena-feast-days.md)
                 - [Festival of the Bridge](time/holidays-and-festivals/festival-of-the-bridge.md)
                 - [Miracle of the Mist](time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md)
                 - [Pyravela](time/holidays-and-festivals/pyravela.md)
-                - [Viatela](time/holidays-and-festivals/viatela.md)
-        - [Dunmari Faith](cosmology/religions/five-siblings/five-siblings.md)
-            - {glob: cosmology/religions/five-siblings/, exclude: five-siblings.md}
+                - [Viatela](time/holidays-and-festivals/viatela.md)        
+        - [Kestavo](cosmology/religions/kestavo/kestavo.md)
+            - {glob: cosmologyreligions/kestavo/, exclude: kestavo.md}
             - Gods
-                - [Sampa](cosmology/gods/high-gods/sampa.md)
-                - [Shurat](cosmology/gods/high-gods/shurat.md)
-                - {glob: cosmology/gods/incorporeal-gods/dunmari/}
-            - [Festivals](time/holidays-and-festivals/dunmari-festivals/dunmari-festivals.md)
-                - {glob: time/holidays-and-festivals/dunmari-festivals, exclude: dunmari-festivals.md}
-        - [Kestavo](cosmology/religions/kestavo.md)
-            - [Ako](cosmology/gods/high-gods/ako.md)
-            - {glob: cosmology/gods/kestavo/}
-        - [Northern Folk Religion](cosmology/religions/tanshi.md)
-            - [Anida](cosmology/gods/high-gods/anida.md)
-            - {glob: cosmology/gods/tanshi/}
+                - [Ako](cosmology/gods/high-gods/ako.md)
+                - {glob: cosmology/gods/kestavo/}                   
         - Other Gods
             - [High Gods](cosmology/gods/high-gods/high-gods.md)
                 - {glob: cosmology/gods/high-gods/, exclude: sampa.md;shurat.md;ako.md;anida.md}
             - Embodied Gods
                 - {glob: cosmology/gods/embodied-gods/}
-            - Incorporeal Gods
-                - [Kaikkea](cosmology/gods/incorporeal-gods/kaikkea.md)
-                - [Sarqon](cosmology/gods/incorporeal-gods/sarqon.md)
             - [The Fox and Hunter](cosmology/gods/demigods/fox-and-hunter.md)
 - [History](history/history.md)
     - [Calendar Eras](time/calendar-eras.md)
@@ -71,3 +60,4 @@
         - {glob: primary-sources/}
 - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
 - [Party Loot](campaigns/cleenseau-campaign/treasure/treasure.md)
+- [Recent Changes](campaigns/cleenseau-campaign/index-of-changes.md)

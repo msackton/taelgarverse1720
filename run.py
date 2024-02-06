@@ -26,11 +26,13 @@ if platform.system() == 'Darwin':  # Checking if the system is macOS
 else:
     subprocess.Popen(['start', '', url_or_file_to_open], shell=True)
 
+time.sleep(10)  # Wait for 1 second before checking again
+
 # Step 2: Wait for the default application to exit
 while True:
     try:
         # Check if the process is still running
-        if not any(p.name().lower() == 'obsidian.exe' for p in psutil.process_iter(['name'])):
+        if not any(p.name().lower() == 'obsidian' for p in psutil.process_iter(['name'])):
             # The default application has exited
             break
         else:
