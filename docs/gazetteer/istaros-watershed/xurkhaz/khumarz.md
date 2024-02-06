@@ -13,7 +13,7 @@ title: Khumarz
 # Khumarz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle } An [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) town [Xurkhaz](<./xurkhaz.md>)  
+    :octicons-location-24:{ .lg .middle } An [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) town in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>)  
 </div>
 
 

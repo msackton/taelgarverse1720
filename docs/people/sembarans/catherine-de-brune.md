@@ -22,6 +22,10 @@ hide: [navigation]
 </div>
 
 
-![Catherine De Brune](../../assets/catherine-de-brune.png){align="right"; width="320"}The cousin of [Sabine de Brune](<./sabine-de-brune.md>) and an trading agent for a number of Embry trading families, including the Garay Family. She is a confidant of [Rinault](<./rinault-essford.md>) and it is a rather open secret that she has an on-again, off-again affair with him.
+![Catherine De Brune](../../assets/catherine-de-brune.png){align="right"; width="320"}The cousin of [Sabine de Brune](<./sabine-de-brune.md>) and an trading agent for a number of Embry trading families, including the Garay Family. She is a confidant of [Rinault](<./rinault-essford.md>) and it is a rather open secret that she has an on-again, off-again affair with him. She has bought numerous landholdings in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) from [Lorin Valbert](<./lorin-valbert.md>), but is concerned at his mismanagement and questioning whether it is a profitable investment.
 
-Her husband Emmanuel is a doting father to their four children, and somewhat bookish.
+Her husband Emmanuel is a doting father to their four children, and somewhat bookish, but their relationship seems cool at best.
+
+
+Her husband enjoys discussing books and the moon with Izgil. She also was interested in discussing business with Viepuck, and appreciated the opportunity to talk, rather than just be asked for things.
+

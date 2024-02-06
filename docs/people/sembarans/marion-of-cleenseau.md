@@ -32,4 +32,3 @@ hide: [navigation]
 A solider of the Bridge Patrol.
 
 
-

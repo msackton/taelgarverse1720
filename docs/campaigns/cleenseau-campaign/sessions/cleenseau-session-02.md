@@ -7,7 +7,7 @@ players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 02
 ---
 # Cleenseau - Session 2
->_in Taelgar from the pre-dawn of October 22nd until the morning of October 25th
+>_in Taelgar from the pre-dawn of October 21st until the morning of October 25th
 >7 Robert I / DR 1719
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: February 12th, 2023
@@ -24,7 +24,7 @@ To the south, the party found there way through the webs and brambles, and after
 
 Before long, the party sneaks into the heart of the forest webs, where a huge dead tree, sheathed with webs, stands in the middle of a clearing in the forest. Sitting in the dead tree is a large spider-like creature, monstrous and somewhat humanoid, spinning a web around a human body.
 
-The party defeats the ettercap, and a woman, [Narrisa de Abadelle](<../../../people/sembarans/narrisa-de-abadelle.md>) appears from the Feywild. 
+The party defeats the ettercap, and a woman, [Narrisa de Abadelle](<../../../people/maseauns/narrisa-de-abadelle.md>) appears from the Feywild. 
 
 In the lair are several bodies:
 * an old man, later identified as [Nicholas the Beggar](<../../../people/sembarans/nicholas-the-beggar.md>), who has been missing for 8 days

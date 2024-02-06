@@ -34,9 +34,11 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Roused by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 3rd, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
-The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<./rosalind-essford.md>) and [Rinault Essford](<./rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
+![Wymarofclenseau](../../assets/wymarofclenseau.jpeg){align="right"; width="320"}The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<./rosalind-essford.md>) and [Rinault Essford](<./rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 
-![Wymarofclenseau](../../assets/wymarofclenseau.jpeg){width="320"}
+
+
+
 
 
 >[!info] Childhood Story, as told to [Viepuck](<../pcs/cleenseau/viepuck.md>) under the influence of his patron's mind-probe

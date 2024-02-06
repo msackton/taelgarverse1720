@@ -26,5 +26,4 @@ A small community of fisherfolk in [Asineau](<./asineau.md>) has been known to g
 
 * [Erdu](<../../../../../people/lizardfolk/erdu.md>), the spokesperson
 * [Unai](<../../../../../people/lizardfolk/unai.md>), a noted herbalist and healer, chiefly responsible Ganboa's reputation
-* [Koldo](<../../../../../people/lizardfolk/koldo.md>), a reclusive druid who is well respected in the town but rarely talks to non-lizardfolk
 

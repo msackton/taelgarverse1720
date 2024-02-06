@@ -5,7 +5,7 @@ campaignInfo: []
 name: Selma Wisthelwind
 born: 1644
 species: human
-ancestry: Highlander
+ancestry: Zimka
 gender: female
 affiliations:
 - {org: The Fox's Flagon, type: leader, title: Proprietor, start: 1712}
@@ -21,7 +21,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Highlander [human](<../../species/humans/humans.md>) (she/her)  
+    A Zimka [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1644 (76 years old)  
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }
@@ -31,4 +31,4 @@ hide: [navigation]
 </div>
 
 
-![Selma Wisthelwind](../../assets/selma-wisthelwind.png)
+![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../cosmology/religions/kestavo/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).

@@ -2,8 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Amance Brook
-typeOf: brook
-partOf: Cleenseau Region
+typeOf: waterway
+typeOfAlias: brook
+whereabouts: Cleenseau Region
 title: Amance Brook
 ---
 # The Amance Brook
@@ -12,4 +13,4 @@ title: Amance Brook
 </div>
 
 
- A bubbling brook that runs into the [Enst](<../../../rivers/wistel-enst-watershed/enst.md>) near [Aulout](<./aulout.md>), with its origins somewhere in the [Cleenseau Wood](<./cleenseau-wood.md>). A narrow cart track runs beside it leading to [Valit](<./valit.md>). It is relatively easy to cross, but a sturdy bridge does run over it only the Great South Road. 
+ A bubbling brook that runs into the [Enst](<../../../rivers/wistel-enst-watershed/enst.md>) near [Auloutte](<./auloutte.md>), with its origins somewhere in the [Cleenseau Wood](<./cleenseau-wood.md>). A narrow cart track runs beside it leading to [Valit](<./valit.md>). It is relatively easy to ford if you don't mind getting your feet wet or if on horseback, but wagons and caravans prefer to use one of the two bridges: the main bridge along the [Great South Road](<../../../roads/great-south-road.md>), and a smaller one in the town of [Valit](<./valit.md>).

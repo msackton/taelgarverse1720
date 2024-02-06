@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo: []
 name: Jonathon Henwyn
 born: 1680
@@ -30,4 +30,4 @@ hide: [navigation]
 </div>
 
 
-The steward of the [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>).
+![Jonathon Henwyn](../../assets/jonathon-henwyn.png){align="right"; width="320"}The steward of the [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [Rosalind](<./rosalind-essford.md>) and assists him. They and their three children live at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 

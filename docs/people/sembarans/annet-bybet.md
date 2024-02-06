@@ -13,6 +13,7 @@ affiliations:
 whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
+- {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
 title: Annet Bybet
 hide_toc: true
 hide: [navigation]
@@ -30,6 +31,8 @@ hide: [navigation]
     Originally from: [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Currently travelling to [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
 ![Annet Bybet](../../assets/annet-bybet.png){align="right"; width="320"}A cousin of [Arthur Essford](<./arthur-essford.md>) and the chamberlain of the Essford household.

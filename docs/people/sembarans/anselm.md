@@ -28,4 +28,4 @@ hide: [navigation]
 </div>
 
 
-![Anselm Portrait](../../assets/anselm-portrait.png){align="right"; width="320"}The temple administrator of the [Temple of the Warlord](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). An ambitious man and not very religious.
+![Anselm Portrait](../../assets/anselm-portrait.png){align="right"; width="320"}The temple administrator of the Temple of the Warlord in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). An ambitious man and not very religious.

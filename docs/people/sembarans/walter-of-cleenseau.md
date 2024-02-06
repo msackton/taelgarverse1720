@@ -22,6 +22,6 @@ hide: [navigation]
 </div>
 
 
-An older man, who used to work at the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
+![Walter Cleenseau](../../assets/walter-cleenseau.png){align="right"; width="320"}An older man, who used to work at the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
 
 He is very fond of [Emmeline Duval's](<./emmeline-duval.md>) baking.

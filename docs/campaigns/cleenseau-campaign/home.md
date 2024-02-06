@@ -15,6 +15,6 @@ Please note that some information here is intended to be for certain players onl
 
 When you see this, please don't expand the spoiler block unless you are the target player.
 
-You most likely want to start with the NPCs, session notes, and other information about the [Cleenseau Campaign](<./cleenseau-campaign.md>). Then you might want to read about [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) and [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), two of the major realms. Or you might want to read about the religion of [Mos Numena](<../../cosmology/religions/mos-numena/mos-numena.md>) or just explore the [Gazetteer](<../../gazetteer/gazetteer.md>). 
+You most likely want to start with the [NPCs](<./people-of-cleenseau.md>), session notes, and other information about the [Cleenseau Campaign](<./cleenseau-campaign.md>). Then you might want to read about [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) and [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), two of the major realms. Or you might want to read about the religion of [Mos Numena](<../../cosmology/religions/mos-numena/mos-numena.md>) or just explore the [Gazetteer](<../../gazetteer/gazetteer.md>). 
 
 For more information about mechanics and other world background for players specifically, see the [Player's Guide](<../player-s-guide.md>) or the [House Rules](<mechanics/house-rules.md>).

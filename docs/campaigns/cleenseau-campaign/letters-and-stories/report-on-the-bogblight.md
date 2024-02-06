@@ -1,7 +1,6 @@
 ---
-{tags: !!null '', title: Report on the Bogblight}
+{title: Report on the Bogblight}
 ---
-
 The first letter reads:
 
 Captain:

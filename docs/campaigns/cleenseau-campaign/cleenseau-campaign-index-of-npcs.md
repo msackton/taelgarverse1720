@@ -18,7 +18,7 @@ title: Cleenseau Campaign Index of NPCs
 * [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>), the captain of the [local garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), recently returned from in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>)
 * [Ysabel](<../../people/sembarans/ysabel.md>), the sheriff, now deceased
 * [Odo Cordwaner](<../../people/sembarans/odo-cordwaner.md>), a formerly a sergeant of the [local garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), now a guardsman in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>)
-* [Anselm](<../../people/sembarans/anselm.md>), the temple administrator for [the Warlord's temple](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md>)
+* [Anselm](<../../people/sembarans/anselm.md>), the temple administrator for the Warlord's temple
 * [Conrad](<../../people/sembarans/conrad.md>), [Anselm](<../../people/sembarans/anselm.md>)'s young assistant
 * [Catherine de Brune](<../../people/sembarans/catherine-de-brune.md>), [Harold Bybet](<../../people/sembarans/harold-bybet.md>), [Matteo Ausson](<../../people/sembarans/matteo-ausson.md>), and [Geoffrey Save](<../../people/sembarans/geoffrey-save.md>), confidants of [Rinault](<../../people/sembarans/rinault-essford.md>)
 * [Ames Benthey](<../../people/sembarans/ames-benthey.md>), the captain of the Lord's Guard, recently returned to town
@@ -59,12 +59,12 @@ title: Cleenseau Campaign Index of NPCs
 
 ### Of a Mysterious Nature
 
-* [Narrisa de Abadelle](<../../people/sembarans/narrisa-de-abadelle.md>), a paladin arrived unexpected from the Feywild
+* [Narrisa de Abadelle](<../../people/maseauns/narrisa-de-abadelle.md>), a paladin arrived unexpected from the Feywild
 ### In Evis, Maseau and Points South
 
-* [Lucas](<../../people/sembarans/lucas.md>), a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/sembarans/narrisa-de-abadelle.md>)
-* [Guy de Varan](<../../people/sembarans/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
-* [Agnés](<../../people/sembarans/agnes-of-evis.md>), a caravan guard
+* [Lucas](<../../people/maseauns/lucas.md>), a priest of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) and friend of [Narrisa's](<../../people/maseauns/narrisa-de-abadelle.md>)
+* [Guy de Varan](<../../people/maseauns/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
+* [Agnés](<../../people/maseauns/agnes-of-evis.md>), a caravan guard
 ### Farther Afield
 
 * [Susanne Garay](<../../people/sembarans/susanne-garay.md>), a notable merchant in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>) and the pretend-mother of [Najeer Garay](<../../people/pcs/cleenseau/viepuck.md>) (now revealed as an alternative identity of [Viepuck](<../../people/pcs/cleenseau/viepuck.md>))

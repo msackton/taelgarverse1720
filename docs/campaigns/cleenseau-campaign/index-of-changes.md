@@ -4,6 +4,11 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### Feb 5, 2024
+* [Treasure](<treasure/treasure.md>) updated after Session 11
+* Letters from Rosalind: [Letter from Rosalind (January 6th)](<letters-and-stories/letter-from-rosalind-january-6th.md>)  and [Letter from Rosalind (January 8th)](<letters-and-stories/letter-from-rosalind-january-8th.md>)
+* Numerous updates to the geography pages. Start at [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>), or go directly to the pages for the manors: [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-valit.md>), [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-beury.md>), [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>)
+* Added [People of Cleenseau](<./people-of-cleenseau.md>) and made many many updates to individual people pages
 ### Feb 2, 2024
 * Some interesting background on [Odo Cordwaner](<../../people/sembarans/odo-cordwaner.md>), [Abigail Moss](<../../people/sembarans/abigail-moss.md>), and [Remy Darrow](<../../people/sembarans/remy-darrow.md>)
 ### Jan 28, 2024
@@ -17,7 +22,7 @@ This page lists plot relevant or otherwise interesting updates I've made, organi
 * Adding a page on [Arnaud Ausson](<../../people/sembarans/arnaud-ausson.md>), in whose house [An Excerpt from On Creation and Destruction of Extra-Material Realms](<letters-and-stories/an-excerpt-from-on-creation-and-destruction-of-extra-material-realms.md>) was found
 * Added a page for [Greymalkin](<../../people/pcs/cleenseau/greymalkin.md>)
 ### Jan 25, 2024
-* Updated [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), [Conrad](<../../people/sembarans/conrad.md>), [Balthazar](<../../people/sembarans/balthazar.md>), [Anselm](<../../people/sembarans/anselm.md>), and [Eremon](<../../people/sembarans/eremon.md>) to reflect some in-game updates
+* Updated [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), [Conrad](<../../people/sembarans/conrad.md>), [Balthazar](<../../people/maseauns/balthazar.md>), [Anselm](<../../people/sembarans/anselm.md>), and [Eremon](<../../people/sembarans/eremon.md>) to reflect some in-game updates
 * Updated [Isingue](<../../gazetteer/istaros-watershed/isingue.md>) to add some relevant information
 ### Pre-Jan 25, 2024
 * Important plot notes in [Report on the Bogblight](<letters-and-stories/report-on-the-bogblight.md>), [Stories of Tyrwingha for Profit](<letters-and-stories/stories-of-tyrwingha-for-profit.md>), [Letter from the Oracle of the Red to the Mostreve Warlocks](<letters-and-stories/letter-from-the-oracle-of-the-red-to-the-mostreve-warlocks.md>), and [An Excerpt from On Creation and Destruction of Extra-Material Realms](<letters-and-stories/an-excerpt-from-on-creation-and-destruction-of-extra-material-realms.md>)

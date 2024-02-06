@@ -9,7 +9,7 @@ species: human
 ancestry: Sembaran
 gender: male
 affiliations:
-- {org: Army Garrison of Cleenseau, end: 1719-11-08, title: Sergeant}
+- {org: Army Garrison of Cleenseau, end: 1719-11-05, title: Sergeant}
 - {org: Lord's Guard of Cleenseau, start: 1719-11-16, title: Guardsman}
 whereabouts:
 - {type: home, location: Eftly}
@@ -26,7 +26,7 @@ hide: [navigation]
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1700 (20 years old)  
-    Sergeant of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 8th, 1719)  
+    Sergeant of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 5th, 1719)  
     Guardsman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 16th, 1719)  
     { .bio }
 

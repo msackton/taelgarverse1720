@@ -22,5 +22,6 @@ hide: [navigation]
 </div>
 
 
-The brother of [Gideon Thorne](<./gideon-thorne.md>) and uncle-in-law to [Beatrix](<./beatrix-thorne.md>) and her husband, Samuel Thorne. He lives with his wife, Susanne, and their three grown kids, Samuel, Ella, and [Betsy Thorne](<./betsy-thorne.md>). 
+The brother of [Gideon Thorne](<./gideon-thorne.md>) and uncle-in-law to [Beatrix](<./beatrix-thorne.md>) and her husband, [Gabriel Thorne](<./gabriel-thorne.md>). He lives with his wife, Susanne, and their three grown kids, Samuel, Ella, and [Betsy Thorne](<./betsy-thorne.md>). 
 
+* Jan 05, 1720 DR Was briefly ill with the zombie plague, but neither him nor anyone in his household actually became zombies

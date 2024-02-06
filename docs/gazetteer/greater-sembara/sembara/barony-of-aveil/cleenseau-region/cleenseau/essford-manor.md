@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place, status/needswork/notes]
 name: Essford Manor
 typeOf: house
 subTypeOf: manor
@@ -16,4 +15,4 @@ title: Essford Manor
 
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
 
-The manor complex itself consists of three buildings: a stable, a guardhouse and barracks with several guest rooms, and the three-story manor building itself.
+The manor complex itself consists of four buildings: a stable, a small shrine to the Night Queen, a guardhouse and barracks with several guest rooms, and the three-story manor building itself.

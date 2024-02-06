@@ -48,4 +48,7 @@ The action begins just outside the market town of [Cleenseau](<../../gazetteer/g
 * January 7th, 2024: [Cleenseau - Session 10](<sessions/cleenseau-session-10.md>)
 	The party defeats a wight and rides to the recuse of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)
 
+* February 4th, 2024: [Cleenseau - Session 11](<sessions/cleenseau-session-11.md>)
+	The party organizes the town defenses and eliminates a nuisance 
+
 You might also want to read the [Index of NPCs](<./cleenseau-campaign-index-of-npcs.md>) or the [timeline](<./cleenseau-campaign-timeline.md>)

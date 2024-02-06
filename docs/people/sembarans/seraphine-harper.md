@@ -23,3 +23,4 @@ hide: [navigation]
 </div>
 
 
+A farmer's wife, killed in a zombie attack, who leaves behind a large family of eight children.

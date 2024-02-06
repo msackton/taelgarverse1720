@@ -5,7 +5,7 @@ campaignInfo: []
 name: Avelina Smith
 born: 1673
 species: human
-ancestry: Highlander
+ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
 title: Avelina Smith
@@ -16,7 +16,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Highlander [human](<../../species/humans/humans.md>) (she/her)  
+    A Zimka [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1673 (47 years old)  
     { .bio }
 

@@ -3,23 +3,47 @@ tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2024-01-07
 sessionNumber: 10
+DR: 1720-01-08
+DR_end: 1720-01-09
 players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 10
 ---
 # Cleenseau - Session 10
->_in Taelgar, the evening of January 7th - January 10th
+>_in Taelgar, January 8th and January 9th
 >7 Robert I / DR 1720
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: January 7th, 2024
 
-### Summary
+### Summary and Major Events
 
-* The party defeats a wight and his minions, and breaks a green gem that appears to be causing the zombie plagues
-* The party rides from the ruined fort to the Cleenseau Bridge, and aids the remanents of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in their fight against a dozen zombies
-* The party meets with [Erick Murtha](<../../../people/sembarans/erick-murtha.md>) and [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>), to discuss greater goings on in the region
+* Beneath a ruined fort on the south bank of the Enst, the party defeats a wight and his minions, and breaks a green gem that appears to be spreading a disease that creates zombies
+* The party rides from the ruined fort to the Cleenseau Bridge, and aids the remnants of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in their fight against a dozen zombies
+* The party meets with [Erick Murtha](<../../../people/sembarans/erick-murtha.md>) and [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>), and plans a council for the next day to discuss greater goings on in the region
 
 ### Rumors and Information
+* The green gem beneath Cleenseau appeared to be spreading a white mist that, when it contacted a living creature, gave them a plague that would create zombies. This plague seemed to vanish entirely when the gem was smashed by the power of the Wanderer, channeled through [Robin](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>)
+* The wight appears to have been a (long dead) hobgoblin, wearing an insignia:
+      ![Avatus Symbol Sketch](../../../assets/avatus-symbol-sketch.png){width="120"}
+* The destruction of the gem caused the zombie-fied rats to die
 
-* [Ida Rosfeld](<../../../people/sembarans/ida-rosfeld.md>) arrives in town on January 10th, bearing the news that most of the [Army Garrison of Cleenseau](<../../../groups/sembaran-army/army-garrison-of-cleenseau.md>) had left [Dunfry](<../../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) two weeks ago, and was attacked by a large force of zombies along the Old West Road on January 6th. Half the garrison was killed.
+### New People Met
+* [Erick Murtha](<../../../people/sembarans/erick-murtha.md>) of [Beury](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>)
+* [Greymalkin](<../../../people/pcs/cleenseau/greymalkin.md>) of the Feywild, a mysterious benefactor and companion to Robin
 
+### Timeline
+* Jan 08, 1720 DR, just after midnight: the party defeats the wight
+* Jan 08, 1720 DR, just after midnight: the party meets Greymalkin and rides to the rescue of the remanents of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>), defeating a dozen zombies
+* Jan 08, 1720 DR, dawn: [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>), [Erick Murtha](<../../../people/sembarans/erick-murtha.md>), and [Beatrix](<../../../people/sembarans/beatrix-thorne.md>) are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. 
+* Jan 08, 1720 DR, afternoon: The party finishes investigation of the ruins beneath the fort.
+* Jan 09, 1720 DR: The party cleans up loose ends and recovers
+
+### Narrative
+
+Raw notes and notable scenes:
+* Destroying the animated armor and using fire to push around the mist, to avoid getting infected
+* Robin taking attack after attack after attack from the wight, defending well 
+* Moonbeam from Izgil blocking movement, and making the wight struggle to get attacks in
+* The wight hitting, and almost killing, Celyn with a life-drain attack
+* Celyn finding the secret door in the wight's fort - contained a bunch of treasure from hundreds of years ago
+* Greymalkin appearing, and the party defeating the last group of zombies, rescuing the Lord's Guard, by using powerful new abilities: Robin's stead, Celyn's massive number of misty steps, Viepuck's increased damage from Eldritch Blast, and Igzil's moonburst.
 

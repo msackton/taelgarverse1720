@@ -31,4 +31,4 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Currently roaming around the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. He is known to be actively looking for recruits in the area.  A good friend of [Narrisa de Abadelle](<./narrisa-de-abadelle.md>). 
+Based in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), one of the key local members of the Order of the Charitable Wanderer. He is known to be actively looking for recruits in the area.  A good friend of [Narrisa de Abadelle](<../maseauns/narrisa-de-abadelle.md>). 

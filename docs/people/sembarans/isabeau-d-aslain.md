@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-name: Isabeau D'Aslain
+name: Isabeau d'Aslain
 born: 1672
 species: human
 ancestry: Sembaran
@@ -28,5 +28,7 @@ hide: [navigation]
     Based in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
+
+![Baroness Isabeau](../../assets/baroness-isabeau.png){align="right"; width="320"}The baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). 
 
 

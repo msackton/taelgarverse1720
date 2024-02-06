@@ -8,7 +8,7 @@ title: Lord Mayor’s Workhouse
 ---
 # The Lord Mayor’s Workhouse
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } An orphanage [Embry](<./embry.md>)  
 </div>
 
 

@@ -15,4 +15,4 @@ title: Eftly
 </div>
 
 
-A small sheepherding village along the Great South Road between [Rinburg](<./rinburg.md>) and [Dallet](<cleenseau-region/dallet.md>), about 20 miles from [Rinburg](<./rinburg.md>). 
+A small sheepherding village along the Great South Road between [Rinburg](<./rinburg.md>) and [Dallet](<./dallet.md>), about 20 miles from [Rinburg](<./rinburg.md>). 

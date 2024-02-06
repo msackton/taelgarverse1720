@@ -1,7 +1,6 @@
 ---
-{tags: !!null '', title: An Excerpt from on Creation and Destruction of Extra Material Realms}
+{title: An Excerpt from on Creation and Destruction of Extra Material Realms}
 ---
-
 In the home of [Arnaud Ausson](<../../../people/sembarans/arnaud-ausson.md>), a prominent [Isinguer](<../../../gazetteer/istaros-watershed/isingue.md>) merchant, you find amongst his papers an book of reviews and critical reactions to a famous Drankorian play, [A Fool's Fortune](<../../../things/books/a-fool-s-fortune.md>). This play is lost, or at least, [Arnaud Ausson](<../../../people/sembarans/arnaud-ausson.md>) doesn't have a copy of the play, and the book of reviews and reactions is itself ancient, dating from the end of the Drankorian Empire around 1000 DR.
 
 The physical copy [Arnaud Ausson](<../../../people/sembarans/arnaud-ausson.md>) has, however, was copied from (what he says was a Drankorian original) in the city of [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>) in DR 1492. It is a beautiful book, with an elaborate leather cover and numerous flourishes on the pages, and a note in the front:

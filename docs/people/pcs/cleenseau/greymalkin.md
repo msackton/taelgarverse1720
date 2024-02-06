@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [person, pc/companion]
 name: Greymalkin
 displayDefaults: {startStatus: appeared from the Feywild on}
-aliases: [Es*tiasilos]
 born: 1720-01-07
 species: griffin
 gender: male
@@ -16,7 +15,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A griffin (he/him)  
-    Appeared from the Feywild on January 7th, 1720 (5 days old)  
+    Appeared from the Feywild on January 7th, 1720 (7 days old)  
     { .bio }
 
 </div>

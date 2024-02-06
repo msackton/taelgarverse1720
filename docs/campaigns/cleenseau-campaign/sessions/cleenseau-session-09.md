@@ -12,3 +12,28 @@ title: Cleenseau Session 09
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: December 10th, 2023
 
+### Summary and Major Events
+
+* The party defeats various undead plagues in the old fort beneath Essford Manor: ghouls and shadows
+* The party releases a halfling ghost from her torment
+* The party discovers a way down to a deeper, older level, and defeats a massive zombie lurking there
+* The party discovers a mysterious room with a dimension door protected by a huge pool of black tar; after some debate, they successfully cross it using magic and cleverness
+
+### Rumors and Information
+* [Ysabel](<../../../people/sembarans/ysabel.md>) and two other members of the town watch were killed by a diseased zombie that exploded
+* Several other small zombie attacks in town were handled, but the guards are scared and stressed
+* Long ago, the fort deep under Cleenseau was a slaugherhouse that hobgoblins used to intern dead humans and perhaps massacre humans
+### New People Met
+* A mysterious halfling ghost, released from the Material Plane
+### Timeline
+* Jan 07, 1720 DR: the party explores the abandoned fort beneath Essford Manor
+### Narrative
+
+Raw scenes and notes:
+* During the first fight with shadows, Robin's lantern exploded with daylight
+* Sent [Es*tiasilos](<../../../people/pcs/cleenseau/estiasilos.md>) to scout rat passages, discover they connected from the fort to Tumbledown Farm
+* Rushed exploration of the rest before daylight faded; shadows weakened the party a lot, needing a short rest
+* Found a halfling ghost who hated hobgoblins but seemed to respond to Estalios speaking in halfling; discovered a locket in a secret niche
+* Killed zombie with Robin-dodge (so it couldn't hit) plus fire from above
+* Found halfling skeleton with [Silverthorn](<../treasure/silverthorn.md>)
+* Found main trap room - a big room with a dimension door portal at one side and black ooze pit with small pillars blocking access. Eventually magically created ice on the tops of each of the pillars to allow everyone to jump along a pattern to get across
