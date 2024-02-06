@@ -25,6 +25,9 @@ hide: [navigation]
 :octicons-location-24:{ .lg .middle } Currently lost
 
 
+:octicons-location-24:{ .lg .middle } Currently lost
+
+
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
 
 It was found when the [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) fleeing the destruction of the kingdom of [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) at the end of the [Great War](<../../events/1500s/great-war.md>) reached the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>), located in a chamber already carved and prepared deep beneath the ground, reminiscent of [Heart of the Mountain](<../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>). When it was first found, it flowed with salt water (some say, the tears of the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>); others a memory of the ocean that once covered the land). This became the site where [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) was constructed. 

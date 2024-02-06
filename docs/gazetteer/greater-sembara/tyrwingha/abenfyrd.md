@@ -13,6 +13,6 @@ title: Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 450  
-    :octicons-location-24:{ .lg .middle } A village in [Tyrwingha](<./tyrwingha.md>), [Greater Sembara](<../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A village [Tyrwingha](<./tyrwingha.md>)  
 </div>
 
