@@ -32,7 +32,8 @@ time.sleep(10)  # Wait for 1 second before checking again
 while True:
     try:
         # Check if the process is still running
-        if not any(p.name().lower() == 'obsidian' for p in psutil.process_iter(['name'])):
+        obsdRunning = "obsidian.exe" in (p.name().lower() for p in psutil.process_iter())
+        if not obsdRunning:          
             # The default application has exited
             break
         else:
