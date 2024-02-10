@@ -23,7 +23,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1720 (13 days old)  
+    Born DR 1720 (11 days old)  
     { .bio }
 
     Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)

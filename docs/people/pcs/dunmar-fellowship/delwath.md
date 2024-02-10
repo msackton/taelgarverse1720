@@ -22,7 +22,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
+    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
     Born DR 1472 (248 years old)  
     { .bio }
 

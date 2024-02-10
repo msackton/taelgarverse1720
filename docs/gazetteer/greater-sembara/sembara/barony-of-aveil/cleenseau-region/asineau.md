@@ -18,7 +18,7 @@ title: Asineau
 </div>
 
 
-A manorial fishing village on the banks of the Enst, two miles downriver of [Auloutte](<./auloutte.md>). The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing boats can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to Beury if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [Ganboa](<./ganboa.md>) when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
+![Asineau Image 2](../../../../../assets/asineau-image-2.png){align="right"; width="320"} ![Asineau Docks](../../../../../assets/asineau-docks.jpg){align="right"; width="320"}A manorial fishing village on the banks of the Enst, two miles downriver of [Auloutte](<./auloutte.md>). The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to Beury if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [Ganboa](<./ganboa.md>) when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
 
 A few hundred feet outside the village is small mill and bakehouse. The large stone manor house dates from the early 1600s, and stands alongside the road. There is a stable building attached to it. 
 
@@ -26,9 +26,9 @@ A few hundred feet outside the village is small mill and bakehouse. The large st
 
 * [Lorin Valbert](<../../../../../people/sembarans/lorin-valbert.md>), the lord, recently fled
 * [Isolde](<../../../../../people/sembarans/isolde.md>), Lord Valbert's chief muscle and advisor, departed with her lord
-* Connor, Matias, and Elbeth, Lorin's guards and valets
-* Susanna Northwoods, his steward and secretary, and the wife of Bertram
-* Bertram Northwoods, the stablemaster
+* [Connor](<../../../../../people/sembarans/connor.md>), [Matias](<../../../../../people/sembarans/matias.md>) and [Elbeth](<../../../../../people/sembarans/elbeth.md>), Lorin's guards and valets
+* [Susanna Northwoods](<../../../../../people/sembarans/susanna-northwoods.md>), his steward and secretary, and the wife of Bertram
+* [Bertram Northwoods](<../../../../../people/sembarans/bertram-northwoods.md>), the stablemaster
 * [Eleanor](<../../../../../people/sembarans/eleanor.md>), the steward of the temple
 * [El](<../../../../../people/sembarans/el.md>), an acolyte of the Wyrdling, associated with the temple
 * [Thierry](<../../../../../people/sembarans/thierry.md>), a boatbuilder and veteran of the [Army of the West](<../../../../../groups/sembaran-army/army-of-the-west.md>)

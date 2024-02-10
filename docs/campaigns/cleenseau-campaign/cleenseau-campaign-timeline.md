@@ -70,4 +70,4 @@ title: Cleenseau Campaign - Timeline
 * January 7th, evening and overnight: The party destroys a mysterious green gem guarded by a wight
 * January 7th: [Stavenford](<../../gazetteer/greater-sembara/sembara/heartlands/stavenford.md>) is attacked by a wight and [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>) is attacked by a stench monster
 * January 8th: [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) is besieged by a skeletal army
-* January 10th, evening: [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>) arrives from [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.
+* January 9th, evening: [Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>) arrives from [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.

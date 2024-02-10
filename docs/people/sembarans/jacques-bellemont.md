@@ -21,3 +21,4 @@ hide: [navigation]
 </div>
 
 
+![Duke Of Wisford 2](../../assets/duke-of-wisford-2.png){align="right"; width="320"}The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer. 

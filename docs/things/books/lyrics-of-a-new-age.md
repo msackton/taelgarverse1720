@@ -23,9 +23,6 @@ hide: [navigation]
 
 
 
-
-
-
 This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days during the Age of Creation. 
 
 The book is clearly well-read, and a few poems mentioning storm giants and their connection to dreams and prophecy seem to be particularly starred. 

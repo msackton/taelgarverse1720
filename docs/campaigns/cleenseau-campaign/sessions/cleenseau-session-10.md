@@ -4,12 +4,12 @@ campaign: Cleenseau
 realWorldDate: 2024-01-07
 sessionNumber: 10
 DR: 1720-01-08
-DR_end: 1720-01-09
+DR_end: 1720-01-08
 players: [Izgil, Robin, Viepuck, Celyn]
 title: Cleenseau Session 10
 ---
 # Cleenseau - Session 10
->_in Taelgar, January 8th and January 9th
+>_in Taelgar, January 8th
 >7 Robert I / DR 1720
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: January 7th, 2024
@@ -35,8 +35,7 @@ title: Cleenseau Session 10
 * Jan 08, 1720 DR, just after midnight: the party meets Greymalkin and rides to the rescue of the remanents of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>), defeating a dozen zombies
 * Jan 08, 1720 DR, dawn: [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>), [Erick Murtha](<../../../people/sembarans/erick-murtha.md>), and [Beatrix](<../../../people/sembarans/beatrix-thorne.md>) are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. 
 * Jan 08, 1720 DR, afternoon: The party finishes investigation of the ruins beneath the fort.
-* Jan 09, 1720 DR: The party cleans up loose ends and recovers
-
+* Jan 08, 1720 DR, afternoon: The party receives a [letter from Rosalind](<../letters-and-stories/letter-from-rosalind-january-6th.md>)
 ### Narrative
 
 Raw notes and notable scenes:

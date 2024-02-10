@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+species: human
+ancestry: Sembaran
+gender: male
 whereabouts:
 - {type: home, location: Asineau, end: 1715}
 born: 1662
@@ -12,6 +15,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1662 (58 years old)  
     { .bio }
 

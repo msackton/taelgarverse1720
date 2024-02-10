@@ -30,7 +30,7 @@ hide: [navigation]
     Originally from: [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of January 12th, 1720): [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+:octicons-location-24:{ .lg .middle } Currently in [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
 Najeer Garay is the fourth son of [Susanne Garay](<../../sembarans/susanne-garay.md>), the matriarch of a wealthy cloth merchant family in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 

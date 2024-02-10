@@ -11,7 +11,7 @@ title: The Singing Fox
 ---
 # The Singing Fox
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn in Fairgate Outer, [Tollen](<./tollen.md>)  
+-    :octicons-location-24:{ .lg .middle } A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn in Fairgate Outer, the [Free City of Tollen](<./tollen.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
 </div>
 
 

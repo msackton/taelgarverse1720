@@ -1,7 +1,7 @@
 ---
 {title: Letter from Rosalind (January 6th)}
 ---
-Received on January 8th
+Received on January 8th:
 
 Friends:
 

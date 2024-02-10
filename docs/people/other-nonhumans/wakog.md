@@ -21,3 +21,4 @@ hide: [navigation]
 </div>
 
 
+![Wakog](../../assets/wakog.png){align="right"; width="320"}An ogre of unclear origin. Managed to organize a small horde of orcs, and attempted to overrun [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), but was stopped by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).

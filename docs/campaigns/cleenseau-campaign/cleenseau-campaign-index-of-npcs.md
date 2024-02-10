@@ -152,5 +152,5 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 <div class="grid cards ext-narrow-margin" markdown>
   - [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
   - [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
-  - [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
+  - ![Wakog](../../assets/wakog.png) [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
 </div>
