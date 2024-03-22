@@ -25,5 +25,5 @@ hide: [navigation]
 </div>
 
 
-![Jean Luc D Aslain](../../assets/jean-luc-d-aslain.png){align="right"; width="320"}A disciple of the Father, splitting tie between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, Isabeau d'Aslain.
+![Jean Luc D Aslain](../../assets/jean-luc-d-aslain.png){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, Isabeau d'Aslain.
 

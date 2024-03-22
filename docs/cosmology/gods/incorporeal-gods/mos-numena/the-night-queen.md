@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/mosnumena, status/tim]
+tags: [deity, religion/mosnumena, status/needswork]
 gender: female
 title: The Night Queen
 ---

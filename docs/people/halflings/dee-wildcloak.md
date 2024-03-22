@@ -12,7 +12,7 @@ species: halfling
 ancestry:
 gender: female
 affiliations:
-- Society of the Open Scroll
+- {org: Society of the Open Scroll, end: 1748-09-12}
 - {org: Wildcloaks, type: primary}
 whereabouts:
 - {type: home, location: ''}
@@ -32,7 +32,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Wildcloaks  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
@@ -46,7 +46,7 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 ## Relationships
 - Dee has traveled and adventured with the dwarf [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) and the Chardonian [Alban](<../chardonians/alban.md>). 
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
-- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including Arcus and  Vola. She is particularly friendly with Vola. 
+- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), including Arcus and  Vola. She is particularly friendly with Vola. 
 
 - Aug 22, 1748 DR: Dee Wildcloak has a short romantic encounter with [Wellby](<../pcs/dunmar-fellowship/wellby.md>)
 

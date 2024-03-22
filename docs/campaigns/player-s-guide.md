@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [meta]
 title: Player's Guide
 ---
 

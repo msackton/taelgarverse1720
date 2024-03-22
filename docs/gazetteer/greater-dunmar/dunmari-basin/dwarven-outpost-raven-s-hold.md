@@ -7,7 +7,7 @@ name: Dwarven Outpost (Raven's Hold)
 typeOf: fort
 ancestry: dwarven
 subTypeOf: ruined
-partOf: Sentinel Range
+whereabouts: Sentinel Range
 title: Dwarven Outpost (Raven's Hold)
 ---
 # Dwarven Outpost (Raven's Hold)

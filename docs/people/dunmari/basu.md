@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-06-30}
+- {campaign: dufr, type: Constructed portable hole for, date: 1748-07-15}
 name: Basu
 born: 1705
 species: human
@@ -26,8 +28,9 @@ hide: [navigation]
 </div>
 
 
+
+
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 
-With [Kassi](<./kassi.md>), although not formally married. 
+Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
 
-Made the Portable Hole for the party after they helped him gather extraplanar energy of [Arborea](<../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 

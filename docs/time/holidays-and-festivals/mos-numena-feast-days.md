@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, background]
+tags: [status/needswork, background]
 title: Mos Numena Feast Days
 ---
 

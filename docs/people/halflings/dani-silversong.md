@@ -9,9 +9,9 @@ born: 1712
 species: halfling
 ancestry:
 gender: female
-leaderOf:
-- {place: Emerald Song, title: Quartermaster, start: 1}
-affiliations: [Silversongs]
+affiliations:
+- {org: Silversongs, type: primary}
+- {org: Emerald Song, title: Quartermaster}
 whereabouts: Emerald Song
 title: Dani Silversong
 hide_toc: true
@@ -21,10 +21,9 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
     Born DR 1712 (8 years old)  
     Quartermaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
-    Member of the Silversongs  
     { .bio }
 
     Based in the [Emerald Song](<../../things/ships/emerald-song.md>)

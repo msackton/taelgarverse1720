@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person, historical, status/cleanup/refactor]
 campaignInfo:
 name: Daruk
 born: 1323
@@ -23,6 +23,8 @@ hide: [navigation]
     { .bio }
 
 </div>
+
+
 
 
 A dwarven scholar, who lived and died before the [Great War](<../../events/1500s/great-war.md>), and was fascinated with lost runic magic. Rumors and tales say he traveled the Feywild, and to many other exotic places, seeking to understand how to create runic magic that would permanently change the essence of things. 

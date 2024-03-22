@@ -25,4 +25,4 @@ hide: [navigation]
 
 
 
-The chief of the [Te'kula](<../../groups/deno-qai/te-kula.md>) village.
+The chief of the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village.

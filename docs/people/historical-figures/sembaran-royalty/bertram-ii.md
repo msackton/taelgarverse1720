@@ -15,7 +15,6 @@ leaderOf:
 - {place: Ardlas, title: High King}
 - {place: Lavnoch, title: High King}
 - {place: Breva, title: High King}
-- {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
 hide_toc: true
 hide: [navigation]
@@ -26,7 +25,7 @@ hide: [navigation]
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     b. DR 1537 - d. January 17th, 1561, died at age 24 years  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and Zovcka (DR 1555 - January 17th, 1561)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1555 - January 17th, 1561)  
     Member of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) (until January 17th, 1561)  
     { .bio }
 

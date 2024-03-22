@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
 name: Amay
 born:
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-15, end: '', linkText: camped near, location: Tokra, format: '<name:q>'}
+- {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
 title: Amay
 hide_toc: true
 hide: [navigation]
@@ -22,6 +23,7 @@ hide: [navigation]
 
     Originally from: Unknown
 </div>
+
 
 
 A captain in the Dunmari army, in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 

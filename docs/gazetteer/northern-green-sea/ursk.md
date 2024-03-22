@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/wip]
 campaignInfo: []
 aliases: [Urskan]
 name: Ursk
 typeOf: realm
-partOf: Northern Green Sea
+whereabouts: Northern Green Sea
 title: Ursk
 ---
 # Ursk

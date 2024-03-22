@@ -36,12 +36,10 @@ With a following wind and good conditions, can achieve speeds approaching 8 knot
 In addition to the hold and storage, the lower decks have a galley, mess, crew quarters. There are two larger cabins usually reserved for paying passengers and older halflings. Big folk have little choice but to sleep in hammocks on the top deck, which is the only one sized for big folk. Not super comfortable, and no privacy, but manageable.
 ## Crew
 
-As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the Silversongs, in this case). 
+As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the [Silversongs](<../../groups/halfling-families/silversongs.md>), in this case). 
 
 - [Harol Silversong](<../../people/halflings/harol-silversong.md>), captain
 - [Dani Silversong](<../../people/halflings/dani-silversong.md>), quartermaster and trade master
 - [Ewen Silversong](<../../people/halflings/ewen-silversong.md>), singer and storyteller
 - [Pearl Copperharp](<../../people/halflings/pearl-copperharp.md>), cook
 - [Lyle Honeyhill](<../../people/halflings/lyle-honeyhill.md>), navigator
-
-

@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/interal]
 species: human
 ancestry: Urskan
 gender: female
-affiliations: [Rodyna Voknaz]
+affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
 title: Yelena
 hide_toc: true
@@ -15,7 +15,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Member of the Rodyna Voknaz  
+    Member of the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
     { .bio }
 
     Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea

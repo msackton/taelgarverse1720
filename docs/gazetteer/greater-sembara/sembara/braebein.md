@@ -1,6 +1,5 @@
 ---
-tags: [place, status/stub, status/unknown]
-campaignInfo: []
+tags: [place]
 name: Braebein
 typeOf: line of hills
 partOf: Highlands

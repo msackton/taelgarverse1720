@@ -12,5 +12,12 @@ title: Cleenseau Session 03
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: March 19th, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+### Narrative
+
+## Raw Notes
 
 

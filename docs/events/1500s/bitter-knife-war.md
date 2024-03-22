@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, event]
+tags: [status/needswork/internal, status/cleanup/header, event]
 title: Bitter Knife War
 ---
 

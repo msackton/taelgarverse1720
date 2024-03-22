@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/image, status/cleanup/header]
 campaignInfo: []
 name: Ikram
 born: 1710
@@ -22,6 +22,8 @@ hide: [navigation]
 
     Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
+
 
 
 The owner of the caravanserai in Karawa, the eponymously named [Ikram’s](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>). He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories. 

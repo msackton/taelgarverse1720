@@ -19,7 +19,7 @@ hide: [navigation]
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1677 (43 years old)  
-    Member of the Faculty of Magic, the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
+    Member of the Faculty of Magic, the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
@@ -28,4 +28,4 @@ hide: [navigation]
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.
 
-Still somewhat friendly with [Kaeso](<./kaeso.md>), despite her disappointment in his path and refusal to share secrets with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>). 
+Still somewhat friendly with [Kaeso](<./kaeso.md>), despite her disappointment in his path and refusal to share secrets with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 

@@ -10,9 +10,9 @@ species: halfling
 ancestry:
 gender: female
 aliases: [Harriet]
-affiliations: [Goodbarrels]
-leaderOf:
-- {place: The Singing Fox, title: Proprietor, start: 1}
+affiliations:
+- {org: Goodbarrels, type: primary}
+- {org: The Singing Fox, title: Proprietor, type: leader}
 whereabouts:
 - {type: home, end: 1722, location: Western Gulf}
 - {type: home, location: The Singing Fox}
@@ -25,10 +25,9 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Goodbarrels  
     Born DR 1685 (35 years old)  
     Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
-    Member of the Goodbarrels  
     { .bio }
 
     Originally from: the [Western Gulf](<../../gazetteer/western-green-sea/western-gulf.md>), the [Western Green Sea](<../../gazetteer/western-green-sea/western-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)

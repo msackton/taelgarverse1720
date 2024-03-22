@@ -20,7 +20,7 @@ hide: [navigation]
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1689 (31 years old)  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
     Originally from: Unknown

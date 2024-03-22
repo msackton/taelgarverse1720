@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, item/book, status/refactor, status/unknown]
+tags: [item/magical, item/book, status/cleanup/reformat]
 typeOf: book
 campaignInfo:
 - {campaign: DuFr, type: found, date: 1748-11-23}
@@ -18,4 +18,6 @@ hide: [navigation]
 >> 
 
 Appears to be a blank handbook of the Occulta Ludum. Faintly magical.
+
+
 

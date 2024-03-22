@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/images]
+tags: [place, event-source, status/image]
 typeOf: university
 whereabouts:
 - {type: home, start: 980, location: Chardon}
@@ -14,7 +14,7 @@ title: University of Chardon
 </div>
 
 
-The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of Precinct IV in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [Great Library](<./great-library.md>), as well as the Hetaeri Magica and the [Society of the Open Scroll](<../../../../groups/society-of-the-open-scroll.md>), but has its own independent rules and governance. 
+The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of Precinct IV in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [Great Library](<./great-library.md>), as well as the Hetaeri Magica and the [Society of the Open Scroll](<../../../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but has its own independent rules and governance. 
 
 *In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above he bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
 ## Facilities and Organization

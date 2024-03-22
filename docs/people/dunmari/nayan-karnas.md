@@ -14,8 +14,8 @@ affiliations:
 - {org: Dunmar, type: leader, start: 1740}
 family: Nayan Dynasty
 whereabouts:
-- {type: home, start: '', end: 1737, location: Darba}
-- {type: home, start: 1738, end: '', location: Nayahar}
+- {type: home, end: 1737, location: Darba}
+- {type: home, start: 1738, location: Nayahar}
 hide_toc: true
 hide: [navigation]
 ---

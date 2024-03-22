@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/material, status/stub, status/unknown]
+tags: [item/material, status/needswork/wip]
 typeOf: material
 title: Inkaye
 hide_toc: true

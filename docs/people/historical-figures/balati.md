@@ -20,7 +20,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (he/him), of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him), of the [Ko'zula](<../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>)  
     b. DR 1520 - d. DR 1544, died at age 24 years  
     { .bio }
 

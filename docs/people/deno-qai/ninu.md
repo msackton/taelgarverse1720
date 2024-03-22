@@ -25,4 +25,4 @@ hide: [navigation]
 </div>
 
 
-Chief of the largest of the [Ko'zula](<../../groups/deno-qai/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the armbands of Cha’mutte and the lost tanshi.
+Chief of the largest of the [Ko'zula](<../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the armbands of Cha’mutte and the lost tanshi.

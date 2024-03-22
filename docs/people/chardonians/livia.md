@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+tags: [person, status/cleanup/refactor]
 species: human
 name: Livia
 whereabouts: Luminatia
@@ -19,6 +19,8 @@ hide: [navigation]
 
     Based in [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 Lucius's mother.

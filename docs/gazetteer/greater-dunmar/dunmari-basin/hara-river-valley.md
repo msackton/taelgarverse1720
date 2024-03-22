@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: region
 partOf: Dunmari Basin
-tags: [place]
+tags: [place, status/needswork/internal]
 title: Hara River Valley
 ---
 # The Hara River Valley

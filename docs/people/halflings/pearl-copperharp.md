@@ -31,4 +31,4 @@ hide: [navigation]
 
 
 
-Pearl is a flirtatious woman in middle age, who has sailed with the Silversongs on the [Emerald Song](<../../things/ships/emerald-song.md>) for many years. She is the primary cook on board, and often plays the lute with [Harol Silversong](<./harol-silversong.md>) in the evenings. 
+Pearl is a flirtatious woman in middle age, who has sailed with the [Silversongs](<../../groups/halfling-families/silversongs.md>) on the [Emerald Song](<../../things/ships/emerald-song.md>) for many years. She is the primary cook on board, and often plays the lute with [Harol Silversong](<./harol-silversong.md>) in the evenings. 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book, status/tim]
+tags: [item/book, status/cleanup/refactor]
 campaignInfo:
 - {type: found, date: 1748-04-15, campaign: DuFr}
 - {type: sold, date: 1748-08-09, campaign: DuFr}
@@ -19,6 +19,8 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Mundane Book__  
    Owned  
 </div>
+
+
 
 
 

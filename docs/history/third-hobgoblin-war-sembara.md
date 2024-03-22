@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/needswork/internal]
+tags: [event]
 DR: 1644-04
 DR_end: 1653-08
 typeOf: war

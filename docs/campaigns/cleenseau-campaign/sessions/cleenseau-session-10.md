@@ -34,10 +34,12 @@ title: Cleenseau Session 10
 * Jan 08, 1720 DR, just after midnight: the party defeats the wight
 * Jan 08, 1720 DR, just after midnight: the party meets Greymalkin and rides to the rescue of the remanents of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>), defeating a dozen zombies
 * Jan 08, 1720 DR, dawn: [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>), [Erick Murtha](<../../../people/sembarans/erick-murtha.md>), and [Beatrix](<../../../people/sembarans/beatrix-thorne.md>) are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. 
-* Jan 08, 1720 DR, afternoon: The party finishes investigation of the ruins beneath the fort.
+* Jan 08, 1720 DR, afternoon: The party finishes investigation of the ruins beneath the fort and discovers treasure
 * Jan 08, 1720 DR, afternoon: The party receives a [letter from Rosalind](<../letters-and-stories/letter-from-rosalind-january-6th.md>)
 ### Narrative
+(To be written)
 
+### Raw Scenes
 Raw notes and notable scenes:
 * Destroying the animated armor and using fire to push around the mist, to avoid getting infected
 * Robin taking attack after attack after attack from the wight, defending well 

@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-03-22}
 name: Beli
 born: 1720
 species: human
@@ -18,7 +19,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1720 (11 days old)  
+    Born DR 1720 (15 days old)  
     Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }
 
@@ -26,8 +27,8 @@ hide: [navigation]
 </div>
 
 
+
 An initiate of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>), a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 
 
 
-In March 1748, helped the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) battle giant hyenas attacking Karawa. 

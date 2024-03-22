@@ -17,3 +17,5 @@ title: Dallet
 
 
 A pastoral village known for it's sheep and the first village of east of [Beury](<cleenseau-region/beury.md>) along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). The area east of Dallet along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) is good pasture, although there are no river crossing here and the area south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) is largely unpopulated scrublands. 
+
+The current lord is Lady Elodie Blanchard. 

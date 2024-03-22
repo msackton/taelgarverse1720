@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/stub, status/needswork/internal]
 title: Elemental Forge
 ---
 

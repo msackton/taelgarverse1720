@@ -24,7 +24,7 @@ hide: [navigation]
     Member of the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and the Sibyl's Hall  
     { .bio }
 
-    Originally from: [Arendum](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/arendum.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Originally from: [Arendum](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/arendum.md>), the [Chasa River Valley](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/chasa-river-valley.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 

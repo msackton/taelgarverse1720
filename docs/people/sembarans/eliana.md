@@ -19,4 +19,4 @@ hide: [navigation]
 </div>
 
 
-A midwife who tends to Underhill. 
+A midwife who tends to Underhill.  She is also somewhat of an herbalist with a particular focus on gender care.

@@ -8,7 +8,7 @@ typeOfAlias: temple
 ancestry: Dunmari
 affiliations:
 - {org: Shakun, type: primary}
-partOf: Karawa
+whereabouts: Karawa
 title: Temple of Shakun
 ---
 # The Temple of Shakun

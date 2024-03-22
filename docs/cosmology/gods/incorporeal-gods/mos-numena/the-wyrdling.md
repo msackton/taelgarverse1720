@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/tim]
+tags: [deity, religion/mosnumena, status/needswork]
 displayDefaults: {defArt: ''}
 gender: nonbinary
 title: The Wyrdling

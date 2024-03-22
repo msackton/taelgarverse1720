@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo:
 name: Mendin
 typeOf: town
-partOf: Mawar Confdederacy
+whereabouts: Mawar Confdederacy
 title: Mendin
 ---
 # Mendin

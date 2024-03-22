@@ -21,10 +21,10 @@ hide: [navigation]
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
-    Based in the plains north of Tokra, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based on the plains north of Tokra, in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 
-A member of a family of goat herders that wander across the upper reaches of the Hara river, north of Tokra. 
+A member of a family of goat herders that wander across the upper reaches of the [Hara](<../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river, north of Tokra. 
 
 In 1748, met [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and his family was gifted a mechanical goat of a strange clockwork design by the dwarf [Seeker](<../pcs/dunmar-fellowship/seeker.md>). 

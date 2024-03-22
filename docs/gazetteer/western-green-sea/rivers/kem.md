@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place]
 name: Kem
 displayDefaults: {prep: true, defArt: the}
 pronunciation: KEM
 typeOf: river
-partOf: Vostok
+whereabouts: Vostok
 title: Kem
 ---
 # The Kem

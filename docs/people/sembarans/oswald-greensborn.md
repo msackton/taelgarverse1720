@@ -1,5 +1,5 @@
 ---
-tags: [person, historical, status/unknown]
+tags: [person, historical, status/stub]
 title: Oswald Greensborn
 hide_toc: true
 hide: [navigation]

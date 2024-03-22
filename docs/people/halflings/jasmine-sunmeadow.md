@@ -32,6 +32,6 @@ hide: [navigation]
 
 
 
-Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of The Green Leaf, but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
+Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 
 

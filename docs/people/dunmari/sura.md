@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/major, testcase, status/unknown]
+tags: [status/needswork, person, testcase]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-26, type: scryed}
 name: Nayan Sura
@@ -29,7 +29,7 @@ hide: [navigation]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
-    Born DR 1720 (11 days old)  
+    Born DR 1720 (15 days old)  
     { .bio }
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

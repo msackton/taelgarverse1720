@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/collate]
+tags: [person, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1749-01-08, wParty: '<met:u> from the <current:1> by <person> on <target>'}
 name: Sh’shethis
@@ -26,6 +26,8 @@ hide: [navigation]
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>)
+
+
 
 
 

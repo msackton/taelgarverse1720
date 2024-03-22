@@ -9,7 +9,6 @@ gender: female
 died: 1567
 title: Queen Blanche I
 affiliations:
-- {place: Zovcka, title: High Queen, start: 1561-02-13, end: 1563}
 - {place: Sembara, title: High Queen, start: 1561-02-13}
 - {place: Ardlas, title: High Queen, start: 1561-02-13}
 - {place: Lavnoch, title: High Queen, start: 1561-02-13}
@@ -24,7 +23,6 @@ hide: [navigation]
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1538 - d. DR 1567, died at age 29 years  
-    High Queen of Zovcka (February 13th, 1561 - DR 1563)  
     High Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (February 13th, 1561 - DR 1567)  
     { .bio }
 

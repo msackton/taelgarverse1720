@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/needswork/collate]
+tags: [place, status/needswork/wip]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Magnus Street
@@ -15,5 +15,4 @@ title: Magnus Street
 
 
 ### Places 
-- University of Tollen
 - The Fire and Stone

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+tags: [person, dufr/met, dufr/minor, status/needswork/notes, status/unknown]
 campaignInfo: []
 name: Obel
 born: 1688
@@ -24,4 +24,4 @@ hide: [navigation]
 </div>
 
 
-An old ranger of the [Te'kula](<../../groups/deno-qai/te-kula.md>) who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 
+An old ranger of the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 

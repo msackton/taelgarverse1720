@@ -4,6 +4,8 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### Feb 10, 2024
+* Added information about [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>)
 ### Feb 5, 2024
 * [Treasure](<treasure/treasure.md>) updated after Session 11
 * Letters from Rosalind: [Letter from Rosalind (January 6th)](<letters-and-stories/letter-from-rosalind-january-6th.md>)  and [Letter from Rosalind (January 8th)](<letters-and-stories/letter-from-rosalind-january-8th.md>)

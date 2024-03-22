@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/refactor, person, testcase]
+tags: [person, testcase/with-whereabouts]
 campaignInfo:
 - {campaign: dufr, type: met, date: 1748-03-23}
 name: Akan
@@ -9,7 +9,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, location: plains of Karawa, alias: plains north-east of Karawa}
+- {type: home, location: ~Karawa Desert~}
 - {type away: !!null '', start: 1748-03-21, end: 1748-03-23, location: Gomat Oasis}
 - {type: away, start: 1748-03-27, end: 1748-04-07, location: Karawa}
 - {type: away, start: 1748-04-07, end: 1748-04-12, location: travelling to Tokra}
@@ -28,12 +28,14 @@ hide: [navigation]
     Born DR 1693 (27 years old)  
     { .bio }
 
-    Based in the [plains north-east of Karawa](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in the ~Karawa Desert~, the [Dunmari Basin](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-basin.md>)
 </div>
 
 
 
-A Dunmari sheep herder from the area outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
+A Dunmari sheep herder from the area outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Pastoralist and nomad, typical of the Dunmari in the eastern region of the country.  
+
+
 
 
 
@@ -46,6 +48,4 @@ A Dunmari sheep herder from the area outside [Karawa](<../../gazetteer/greater-d
 - Apr 13, 1748 DR: Reaches [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)
 - Jun 08, 1748 DR: Leaves [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to return to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - Jun 15, 1748 DR: Returns to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), for the [Feast of Bhishma](<../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>)
-- Jun 22, 1748 DR *(Akan):* Returns to nomadic lifestyle traveling north and east of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with his extended family and his diminished sheep herds. 
-
-
+- Jun 22, 1748 DR: Returns to nomadic lifestyle traveling north and east of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with his extended family and his diminished sheep herds. 

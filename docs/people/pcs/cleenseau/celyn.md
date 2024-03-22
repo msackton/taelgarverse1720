@@ -29,7 +29,7 @@ hide: [navigation]
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of January 12th, 1720): [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
 Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  

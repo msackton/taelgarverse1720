@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-01}
+- {campaign: dufr, type: last seen, date: 1748-07-09}
 name: Ardan
 born: 1695
 species: human
@@ -22,6 +24,8 @@ hide: [navigation]
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
+
 
 
 The middle-aged Dunmari Head Archivist at the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). Cautious to a fault and rather uninterested in administration, allowing many basic functions of the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) to drift into disorganization and uselessness through lack of attention during his tenure. 

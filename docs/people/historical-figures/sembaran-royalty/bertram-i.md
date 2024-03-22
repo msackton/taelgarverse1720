@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/collate]
+tags: [historical, person/ruler]
 name: Bertram I
 born: 1538
 species: human
@@ -14,7 +14,6 @@ affiliations:
 - {place: Ardlas, title: High King, start: 1549}
 - {place: Lavnoch, title: High King, start: 1549}
 - {place: Breva, title: High King, start: 1549}
-- {place: Zovcka, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
 hide_toc: true
 hide: [navigation]
@@ -26,7 +25,7 @@ hide: [navigation]
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1538 - d. DR 1552, died at age 14 years  
     High King of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1549 - DR 1551)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and Zovcka (DR 1549 - DR 1552)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1549 - DR 1552)  
     { .bio }
 
 </div>

@@ -14,7 +14,7 @@ title: Elderwood
 </div>
 
 
-Once the southern extent of [Ainumarya](<./ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/deno-qai/te-kula.md>), Baz'aku, [Bek'eni](<../../groups/deno-qai/bek-eni.md>).
+Once the southern extent of [Ainumarya](<./ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>), Baz'aku, [Bek'eni](<../../groups/deno-qai-tribes/bek-eni.md>).
 
 
 

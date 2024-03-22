@@ -10,6 +10,8 @@ ka: 36
 species: elf
 ancestry:
 gender: enby
+affiliations:
+- {org: The Rangers, start: 1640, end: 1720}
 whereabouts:
 - {type: home, start: '', end: 1545, location: Ainumarya}
 - {type: away, start: 1545, end: 1720, location: traveling around greater Sembara}
@@ -25,6 +27,7 @@ hide: [navigation]
 
     An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (they/them), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
     Born DR 1532 (188 years old)  
+    Member of [The Rangers](<../../groups/the-rangers.md>) (since DR 1640)  
     { .bio }
 
     Originally from: [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
@@ -34,9 +37,11 @@ hide: [navigation]
 
 
 
-![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"}Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the Battle of Urlich Pass, and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
+![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"} Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the Battle of Urlich Pass, and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
 
 Growing tiring of fighting after many years, they settled in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), where they now live, spending time as an artist and art collector. 
 
 
+
+![Vahaiya 2](../../assets/vahaiya-2.png){align="right"; width="400"}

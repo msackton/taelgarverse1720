@@ -12,6 +12,11 @@ title: Cleenseau Session 02
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: February 12th, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+### Narrative
 The session beings with [Najeer](<../../../people/pcs/cleenseau/viepuck.md>), [Robin](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>), [Celyn](<../../../people/pcs/cleenseau/celyn.md>), and [Izgil](<../../../people/pcs/cleenseau/izgil-moonseeker.md>) in the hamlet of [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) awaiting the arrival of a tracker to aid in following the spider trail into the woods. By noon, [Warin the Woodsman](<../../../people/sembarans/warin-the-woodsman.md>) has arrived from [Valit](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>) and the group sets out into the wood following the trail of three spiders believed to be carrying humans captured from [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>).
 
 With the group is not only Warin, leading the way, but also a contigent of soliders from the [Army of the West](<../../../groups/sembaran-army/army-of-the-west.md>): [Odo Cordwaner](<../../../people/sembarans/odo-cordwaner.md>), the master sergeant, and three soldiers: [Beatrix Thorne](<../../../people/sembarans/beatrix-thorne.md>), [Adam of Cleenseau](<../../../people/sembarans/adam-of-cleenseau.md>), and [Marion of Cleenseau](<../../../people/sembarans/marion-of-cleenseau.md>). Odo, Béatrix, and Marion showed some experience, but Adam was nervous and anxious. Robin's pep talk helped steady him though.

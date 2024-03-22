@@ -21,6 +21,6 @@ hide: [navigation]
 </div>
 
 
-A young kenku scout. ![Kecha Portrait Final](../../assets/kecha-portrait-final.png){align="right"; width="400"}
+![Kecha Portrait Final](../../assets/kecha-portrait-final.png){align="right"; width="400"}Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
 
 

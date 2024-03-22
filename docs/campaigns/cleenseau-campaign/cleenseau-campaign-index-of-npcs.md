@@ -103,6 +103,7 @@ The [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/
  - ![Thierry](../../assets/thierry.png){align="left"; width="120"} [Thierry](<../../people/sembarans/thierry.md>), a veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) and a local boat builder. 
  - ![Eleanor](../../assets/eleanor.png){align="left"; width="120"} [Eleanor](<../../people/sembarans/eleanor.md>), the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![El Wyrdling](../../assets/el-wyrdling.png){align="left"; width="120"} [El](<../../people/sembarans/el.md>), a acolyte of the Wyrdling, recently experienced their first miracle
+ - ![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="left"; width="120"}, [Bertram Northwoods](<../../people/sembarans/bertram-northwoods.md>), the stablemaster
 </div>
 
 ## Important People in Beury
@@ -152,5 +153,5 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 <div class="grid cards ext-narrow-margin" markdown>
   - [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
   - [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
-  - ![Wakog](../../assets/wakog.png) [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
+  - ![Wakog](../../assets/wakog.png){align="left"; width="120"} [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
 </div>

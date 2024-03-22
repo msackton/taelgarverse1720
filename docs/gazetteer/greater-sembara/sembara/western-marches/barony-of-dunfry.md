@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place, status/needswork]
 campaignInfo:
 name: Barony of Dunfry
 typeOf: barony
-partOf: Western Marches
+whereabouts: Western Marches
 title: Barony of Dunfry
 ---
 # The Barony of Dunfry

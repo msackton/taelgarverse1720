@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork]
 name: Sentinel Range
 typeOf: mountain range
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
@@ -17,9 +17,9 @@ title: Sentinel Range
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [Green Sea](<../green-sea.md>) and the surrounding lands from the [west coast](<../west-coast/west-coast-region.md>) of Taelgar.
 
 The [Sentinel Range](<./sentinel-range.md>) stretches 2300 miles from volcano mountains of the former kingdom of Pandar in the north, to the northern foothills of the Dunmari plains in the south. 
-	- The northern section, from roughly Pandar south past the [Forest of Nightmares](<../far-north/forest-of-nightmares.md>) to the area northeast of the Blackwater Fens, is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
+	- The northern section, from roughly Pandar south past the [Forest of Nightmares](<../far-north/forest-of-nightmares.md>) to the area northeast of the [Blackwater Fens](<../chasa-nahadi-watershed/blackwater-fens.md>), is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
 		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [Far North](<../far-north/far-north.md>)). The volcanic mountains of Pandar share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
-	- The middle section, roughly the area starting west of Zovcka and running south to the desolation west of the [Western Marches](<../greater-sembara/sembara/western-marches/western-marches.md>), is rocky and very tall, with extensive underground development associated with the [Dwarven Kingdoms](<dwarven-kingdoms/dwarven-kingdoms.md>), and more dangerous things. These are stereotypical high mountains. 
+	- The middle section, roughly the area starting west of [Zimkova](<../greater-sembara/zimkova/zimkova.md>) and running south to the desolation west of the [Western Marches](<../greater-sembara/sembara/western-marches/western-marches.md>), is rocky and very tall, with extensive underground development associated with the [Dwarven Kingdoms](<dwarven-kingdoms/dwarven-kingdoms.md>), and more dangerous things. These are stereotypical high mountains. 
 		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
 	- The southern section, covering the area that was once the dwarven kingdom of [Ardith](<dwarven-kingdoms/ardith.md>), from roughly west of [Maseau](<../greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) or [Refounded Alliance of Aurbez](<../greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) to the end of the [Sentinel Range](<./sentinel-range.md>) north of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>), is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
 		- ***Real world analogs:*** This is warmer and further south, from approx. 34 degrees N to 38 degrees N. Probably shares some similarities with the dry Andes, or possibly some of the mountains in central Asia, such as Hindu Kush or Pamir Mountains. 

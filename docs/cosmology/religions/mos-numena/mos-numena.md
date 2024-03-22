@@ -1,5 +1,5 @@
 ---
-tags: [religion/mosnumena, background, status/needswork/wip]
+tags: [religion/mosnumena, background, status/needswork]
 name: Mos Numena
 aliases: [Eight Divines]
 title: Mos Numena
@@ -22,10 +22,10 @@ The Eight Divines are:
 * [The Father](<../../gods/incorporeal-gods/mos-numena/the-father.md>) (god of light, order, justice, summer, associated with the sun)
 * [The Night Queen](<../../gods/incorporeal-gods/mos-numena/the-night-queen.md>) (goddess of darkness, death, sleep, winter, associated with the night)
 * [The Warlord](<../../gods/incorporeal-gods/mos-numena/the-warlord.md>) (god of war, vengeance, smiths, autumn, associated with day)
-* [The Sibyl](<../../gods/incorporeal-gods/mos-numena/the-sibyl.md>) (goddess of magic, knowledge, love, beauty 
+* [The Sibyl](<../../gods/incorporeal-gods/mos-numena/the-sibyl.md>) (goddess of magic, knowledge, love, beauty) 
 * [The Wanderer](<../../gods/incorporeal-gods/mos-numena/the-wanderer.md>) (god of travel, trade, strangers, and outcasts)
-* [The Wyrdling](<../../gods/incorporeal-gods/mos-numena/the-wyrdling.md>) (genderless diety of chaos, luck, and fate)
-* [The Wildling](<../../gods/incorporeal-gods/mos-numena/the-wildling.md>) (genderless diety of nature and elements)
+* [The Wyrdling](<../../gods/incorporeal-gods/mos-numena/the-wyrdling.md>) (genderless deity of chaos, luck, and fate)
+* [The Wildling](<../../gods/incorporeal-gods/mos-numena/the-wildling.md>) (genderless deity of nature and elements)
 
 
 

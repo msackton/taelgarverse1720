@@ -26,7 +26,7 @@ hide: [navigation]
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }
 
-    Originally from: [Ardlas](<../../gazetteer/greater-sembara/zimkova/ardlas.md>)
+    Originally from: [Ardlas](<../../gazetteer/greater-sembara/zimkova/ardlas.md>), the [Highland Kingdoms](<../../gazetteer/greater-sembara/zimkova/zimkova.md>)
     Based in [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>), [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
 </div>
 

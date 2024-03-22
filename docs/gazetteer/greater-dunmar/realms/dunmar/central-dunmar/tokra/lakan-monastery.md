@@ -8,7 +8,7 @@ typeOfAlias: monastery
 ancestry: Dunmari
 affiliations:
 - {org: Laka, type: primary}
-partOf: Tokra
+whereabouts: Tokra
 title: Lakan Monastery
 ---
 # The Lakan Monastery

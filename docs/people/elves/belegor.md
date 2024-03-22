@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
+tags: [status/needswork, person, event-source, testcase]
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor
@@ -47,6 +47,6 @@ Belegor is a tall, ageless [elf](<../../species/children-of-the-embodied-gods/el
 
 - Jun 1748 DR, Belegor met the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>), who was posing as an [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>), [Mezzar](<../other-nonhumans/mezzar.md>), at the time, in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). 
 - Jul 1748 DR. Belegor fled from [Grimbaskal](<../other-nonhumans/mezzar.md>), realizing his deception. 
-- Aug 1748 DR. Belegor sought refuge in a [Te'kula](<../../groups/deno-qai/te-kula.md>) village, hidden in the Elderwood.  
-- Sep 11, 1748 DR. Belegor and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) meet in the hidden [Te'kula](<../../groups/deno-qai/te-kula.md>) village.
+- Aug 1748 DR. Belegor sought refuge in a [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village, hidden in the Elderwood.  
+- Sep 11, 1748 DR. Belegor and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) meet in the hidden [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village.
 

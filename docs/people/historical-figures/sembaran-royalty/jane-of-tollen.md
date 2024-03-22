@@ -13,7 +13,6 @@ leaderOf:
 - {place: Ardlas, title: Queen Regent, end: 1555}
 - {place: Lavnoch, title: Queen Regent, end: 1555}
 - {place: Breva, title: Queen Regent, end: 1555}
-- {place: Zovcka, title: Queen Regent, end: 1555}
 died: 1559
 title: Jane of Tollen
 hide_toc: true
@@ -26,7 +25,7 @@ hide: [navigation]
     A [Tollender](<../../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../../species/humans/humans.md>) (she/her)  
     b. DR 1504 - d. DR 1559, died at age 55 years  
     Queen Regent of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (until DR 1551)  
-    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and Zovcka (until DR 1555)  
+    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (until DR 1555)  
     { .bio }
 
 </div>

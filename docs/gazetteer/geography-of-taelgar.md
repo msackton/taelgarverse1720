@@ -1,5 +1,5 @@
 ---
-tags: [status/draft, background]
+tags: [status/needswork, background]
 title: Geography of Taelgar
 ---
 

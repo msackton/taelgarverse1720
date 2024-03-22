@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/refactor]
 name: Devana
 born:
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, location: plains of Karawa, alias: plains north-west of Karawa}
+- {type: home, location: ~Karawa Desert~}
 title: Devana
 hide_toc: true
 hide: [navigation]
@@ -19,8 +19,10 @@ hide: [navigation]
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
-    Based in the [plains north-west of Karawa](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in the ~Karawa Desert~, the [Dunmari Basin](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-basin.md>)
 </div>
+
+
 
 
 A Dunmari pastoralist.

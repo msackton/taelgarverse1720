@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/needswork/internal, status/stub]
 title: Edge of Echoes
 ---
 
