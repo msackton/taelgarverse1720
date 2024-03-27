@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/wip, status/needswork/external]
 name: Coastal Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
@@ -13,4 +13,3 @@ title: Coastal Dunmar
 </div>
 
 
-(stub)

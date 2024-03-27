@@ -103,7 +103,8 @@ The [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/
  - ![Thierry](../../assets/thierry.png){align="left"; width="120"} [Thierry](<../../people/sembarans/thierry.md>), a veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) and a local boat builder. 
  - ![Eleanor](../../assets/eleanor.png){align="left"; width="120"} [Eleanor](<../../people/sembarans/eleanor.md>), the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![El Wyrdling](../../assets/el-wyrdling.png){align="left"; width="120"} [El](<../../people/sembarans/el.md>), a acolyte of the Wyrdling, recently experienced their first miracle
- - ![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="left"; width="120"}, [Bertram Northwoods](<../../people/sembarans/bertram-northwoods.md>), the stablemaster
+ - ![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="left"; width="120"} [Bertram Northwoods](<../../people/sembarans/bertram-northwoods.md>), the stablemaster
+ - ![Susanna Northwords](../../assets/susanna-northwords.png){align="left"; width="120"} [Susanna Northwoods](<../../people/sembarans/susanna-northwoods.md>), the steward
 </div>
 
 ## Important People in Beury
@@ -140,13 +141,24 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 
 ## Farther Afield
 <div class="grid cards ext-narrow-margin" markdown>
- - [Jacques Bellemont](<../../people/sembarans/jacques-bellemont.md>), the Duke of Wisford
+ - ![Duke Of Wisford 2](../../assets/duke-of-wisford-2.png){align="left"; width="120"} [Jacques Bellemont](<../../people/sembarans/jacques-bellemont.md>), the Duke of Wisford
  - ![Baroness Isabeau](../../assets/baroness-isabeau.png){align="left"; width="120"} Isabeau d'Aslain, the Baroness of Aveil
  - [Vincent de Arban](<../../people/sembarans/vincent-de-arban.md>), an agent of [Susanne Garay](<../../people/sembarans/susanne-garay.md>) investigating rumors
  - [Susanne Garay](<../../people/sembarans/susanne-garay.md>), a notable merchant in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>) and the pretend-mother of [Najeer Garay](<../../people/pcs/cleenseau/viepuck.md>) (now revealed as an alternative identity of [Viepuck](<../../people/pcs/cleenseau/viepuck.md>))
- - [Narrisa de Abadelle](<../../people/maseauns/narrisa-de-abadelle.md>), a paladin arrived unexpected from the Feywild, in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
  - ![Guy De Varan Maseau](../../assets/guy-de-varan-maseau.png){align="left"; width="120"} [Guy de Varan](<../../people/maseauns/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
  - [Agnés](<../../people/maseauns/agnes-of-evis.md>), a caravan guard
+</div>
+
+## Rangers and Other Heroes
+<div class="grid cards ext-narrow-margin" markdown>
+ - ![Vahaiya 2](../../assets/vahaiya-2.png){align="left"; width="120"} [Vahaiya](<../../people/elves/vahaiya.md>), elf and warrior
+ - ![Adra Brightwood](../../assets/adra-brightwood.png){align="left"; width="120"} [Adra Brightwood](<../../people/halflings/adra-brightwood.md>), a halfling with magical birds
+ - ![Enzo Brightwood](../../assets/enzo-brightwood.png){align="left"; width="120"} [Enzo Brightwood](<../../people/halflings/enzo-brightwood.md>), a halfling scout, Adra's cousin
+ - ![Damien Montrichard](../../assets/damien-montrichard.png){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
+ - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"}, [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe
+ - ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="left"; width="120"} [[Remille Vauclaire], a swordswoman
+ - ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="left"; width="120"} [Tristan Vaudrillard](<../../people/sembarans/tristan-vaudrillard.md>), a devotee of [The Sibyl](<../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>) and student of magic
+ - ![Armand Night Queen New](../../assets/armand-night-queen-new.png){align="left"; width="120"} [Armand](<../../people/sembarans/armand.md>), a disciple of the Night Queen
 </div>
 
 ## Villians, Defeated and Otherwise

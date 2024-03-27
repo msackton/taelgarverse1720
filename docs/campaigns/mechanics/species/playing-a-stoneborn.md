@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Playing a Stoneborn
+{title: Playing a Stoneborn}
 ---
 
 The [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) in Taelgar are a reclusive species. They tend to live in isolated communities in extreme environments, especially high in the mountains, although they are not unheard of in human and dwarven settlements. They are also noted in the world of Taelgar as master artisans, skilled in many trades. It is not uncommon for individual [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) to spend decades, or even a century, honing their craft. 

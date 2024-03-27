@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 name: Eskorola
 typeOf: village
+ancestry: lizardfolk
 partOf: Mawar Confederacy
+pronunciation: es-ko-ROH-lah
 title: Eskorola
 ---
 # Eskorola
+:speaker:{ .middle } *(es-ko-ROH-lah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A village in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [West Coast Region](<../west-coast-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) village in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [West Coast Region](<../west-coast-region.md>)  
 </div>
 
 

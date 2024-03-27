@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 name: Valarin
 typeOf: city
 partOf: Duchy of Maseau
@@ -12,7 +12,6 @@ title: Valarin
 </div>
 
 
-The seat of the Duke of Maseau
-
+The largest city in the [Duchy of Maseau](<./duchy-of-maseau.md>) and the seat of the Duke. 
 
 

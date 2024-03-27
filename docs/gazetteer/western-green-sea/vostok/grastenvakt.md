@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 name: Gråstenvakt
 aliases: [Gråstenvakt]
-tags: [place]
+tags: [place, status/needswork/internal]
 typeOf: wall
 whereabouts: Vostok
 title: Gråstenvakt

@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Playing a Fey Species
+{title: Playing a Fey Species}
 ---
 Fey in Taelgar are natives of the Feywild, a realm of whimsy and terror, magic and mystery. The fey are a diverse folk who come in many forms. They can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home. Many fey are many things at once. 
 

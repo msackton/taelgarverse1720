@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 typeOf: island
 partOf: Illoria
 title: Burganos
@@ -11,3 +11,4 @@ title: Burganos
 </div>
 
 
+The smaller and more northerly of the twin islands of [Illoria](<./illoria.md>).

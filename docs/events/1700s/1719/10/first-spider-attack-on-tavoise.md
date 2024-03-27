@@ -1,5 +1,5 @@
 ---
-tags: [event, status/unknown]
+tags: [event]
 name:
 DR: 1719-10-20
 title: First Spider Attack on Tavoise

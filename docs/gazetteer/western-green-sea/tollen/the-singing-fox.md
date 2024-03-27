@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/image]
 displayDefaults: {defArt: '', linkText: at}
 campaignInfo: []
 name: The Singing Fox
@@ -15,4 +15,4 @@ title: The Singing Fox
 </div>
 
 
-A cozy halfling tavern in Fairgate Outer, run by [Chenna Goodbarrel](<../../../people/halflings/chenna-goodbarrel.md>) and her wife [Harriet](<../../../people/halflings/harriet-goodbarrel.md>). Harriet is a decent singer and The Singing Fox gets a decent crowd (mostly locals and passing halflings) when she is performing. 
+A cozy halfling tavern in Fairgate Outer, run by [Chenna Goodbarrel](<../../../people/halflings/chenna-goodbarrel.md>) and her wife [Harriet](<../../../people/halflings/harriet-goodbarrel.md>). Harriet is a good singer and The Singing Fox gets a decent crowd (mostly locals and passing halflings) when she is performing. 

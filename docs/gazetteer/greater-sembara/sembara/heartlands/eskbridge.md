@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place]
+tags: [place]
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: fortified town
@@ -12,4 +12,4 @@ title: Eskbridge
 </div>
 
 
-A fortified market town along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). There is a bridge over the river here, one of only two bridges on the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). 
+A fortified market town along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). There is a bridge over the river here, one of only two bridges on the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). A border town between [Sembara](<../sembara.md>) and [Tyrwingha](<../../tyrwingha/tyrwingha.md>).

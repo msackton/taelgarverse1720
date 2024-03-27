@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 displayDefaults: {endStatus: killed himself in remorse}
 campaignInfo: []
 name: François the Bandit
@@ -27,3 +27,4 @@ hide: [navigation]
 </div>
 
 
+A ruffian and ne'er do well, he was a key figure in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). 

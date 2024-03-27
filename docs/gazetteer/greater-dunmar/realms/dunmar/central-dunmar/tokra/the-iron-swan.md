@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Iron Swan
@@ -17,4 +17,3 @@ title: The Iron Swan
 
 
 A dwarven tavern, towards the northern part of town, in the (small) dwarven quarters behind the [Archives](<./archives.md>). Has a few rooms reserved for traveling dwarves; otherwise, exclusively a tavern. Dark, cramped, interior, but serves great beer. Run by [Vistra Fireforge](<../../../../../../people/dwarves/vistra-fireforge.md>), a retired mercenary / adventurer. 
-

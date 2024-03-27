@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Playing a Human
+{title: Playing a Human}
 ---
 
 [Humans](<../../../species/humans/humans.md>) are the most common species in Taelgar, far outnumbering any other sentient beings. Humans are also exceptionally diverse -- unlike many other species in Taelgar, they live across the world, inhabiting all climates, with a bewildering variety of languages and cultures.

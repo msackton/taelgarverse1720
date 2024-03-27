@@ -5,6 +5,8 @@ campaignInfo: []
 name: Vistra Fireforge
 born: 1589
 species: dwarf
+affiliations:
+- {org: The Iron Swan, title: Proprietor, type: leader, start: 1700}
 ancestry:
 gender: female
 whereabouts:
@@ -21,6 +23,7 @@ hide: [navigation]
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
     Born DR 1589 (131 years old)  
+    Proprietor of [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>) (since DR 1700)  
     { .bio }
 
     Originally from: [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

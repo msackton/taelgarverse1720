@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork/external]
 displayDefaults: {defArt: the}
 campaignInfo:
 name: Elderwood
@@ -15,7 +15,4 @@ title: Elderwood
 
 
 Once the southern extent of [Ainumarya](<./ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>), Baz'aku, [Bek'eni](<../../groups/deno-qai-tribes/bek-eni.md>).
-
-
-
 

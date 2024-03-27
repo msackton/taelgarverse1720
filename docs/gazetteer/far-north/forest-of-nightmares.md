@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place]
 name: Forest of Nightmares
 typeOf: forest
 partOf: Ainumarya
@@ -12,7 +12,7 @@ title: Forest of Nightmares
 </div>
 
 
-A cursed forest, once home to many Deno'qai. The scene of many battles during the [Great War](<../../events/1500s/great-war.md>), and now haunted by the dead. Not a safe place to travel, for the restless dead swarm the living who enter the forest and remain still for more than a few hours. 
+A cursed forest, once home to many Deno'qai. The scene of many battles during the [Great War](<../../events/1500s/great-war.md>), and now haunted by the dead. Not a safe place to travel, for the restless dead swarm the living who enter the forest and remain still for more than a few hours. Many early battles in the [Great War](<../../events/1500s/great-war.md>) were fought here. 
 
 On the western border of the territory of the [Ko'zula](<../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) Deno'qai tribe.
 

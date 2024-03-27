@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/mike, status/tim]
 campaignInfo: []
 name: Mostreve Hills
 typeOf: line of hills
@@ -14,3 +14,4 @@ title: Mostreve Hills
 
 
 A series of small mountains and hilly terrain that divides [Sembara](<sembara/sembara.md>) and [Tyrwingha](<tyrwingha/tyrwingha.md>) from the [Plaguelands](<../istaros-watershed/plaguelands.md>).
+

@@ -4,6 +4,10 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### March 21, 2024
+* Added some [information on Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/political-organization-of-tyrwingha.md>)
+* Added some information on [Lake Rin](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md>) and [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>)
+* Updated the [Cleenseau Campaign - Index of NPCs](<./cleenseau-campaign-index-of-npcs.md>)
 ### Feb 10, 2024
 * Added information about [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>)
 ### Feb 5, 2024

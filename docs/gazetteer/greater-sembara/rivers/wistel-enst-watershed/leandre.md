@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/river]
+tags: [place]
 displayDefaults: {defArt: the}
 typeOf: river
 whereabouts: Enst
@@ -14,4 +14,4 @@ title: Leandre
 </div>
 
 
-A small river that runs from the  [Cleenseau Wood](<../../sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) to the [Auberonne](<./auberonne.md>). It is not navigable, and tends to be rocky and shallow. 
+A small river that runs from the  [Cleenseau Wood](<../../sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) to the [Auberonne](<./auberonne.md>) in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>). It is not navigable, and tends to be rocky and shallow. 

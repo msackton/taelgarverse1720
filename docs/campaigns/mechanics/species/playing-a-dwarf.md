@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Playing a Dwarf
+{title: Playing a Dwarf}
 ---
 [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) in Taelgar are one of the Elder Folk, divinely created by the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>), the dwarven gods and Firstborn of their race. Bold, brave, and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home, dwarves are among the most common of the Elder Folk in Taelgar. Squat and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common Elder Folk seen in the cities of humans in Taelgar.
 

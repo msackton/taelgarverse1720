@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/external]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Agata's Lair
@@ -13,6 +13,9 @@ title: Agata's Lair
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A lair in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
 </div>
+
+
+
 
 
 The home of the hag [Agata](<../../../people/fey/agata.md>) Dustmother. Looted, but not destroyed, by the party in Session 30 (DuFr)

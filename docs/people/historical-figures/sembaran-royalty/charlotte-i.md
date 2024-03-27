@@ -27,7 +27,7 @@ hide: [navigation]
     b. DR 1460 - d. DR 1519, died at age 59 years  
     Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), and [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1496 - DR 1519)  
     Queen of [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>) (DR 1499 - DR 1519)  
-    Queen of Lavnoch (DR 1501 - DR 1519)  
+    Queen of [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>) (DR 1501 - DR 1519)  
     Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1506 - DR 1519)  
     { .bio }
 

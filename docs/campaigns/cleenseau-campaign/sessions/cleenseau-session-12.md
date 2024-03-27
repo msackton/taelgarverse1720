@@ -22,3 +22,5 @@ title: Cleenseau Session 12
 ### Timeline
 ## Narrative
 (to be written)
+## Raw Notes
+Return with Lorin's goods; cleanup in town and planning; lizardfolk warn of skeletal and zombie army; riding battle with horses and ranged attacks, thins the zombie ranks. Major battle on the bridge where the Wanderer blesses Robin with amazing divine energy.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 name: Aibard
 typeOf: village
 whereabouts: Mawar Confederacy
@@ -12,3 +12,4 @@ title: Aibard
 </div>
 
 
+The largest village on the [Sulqat](<../rivers/sulqat.md>) river, in the interior of the [Mawakel Peninsula](<./mawakel-peninsula.md>). 

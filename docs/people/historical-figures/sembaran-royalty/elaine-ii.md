@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 campaignInfo: []
 name: Elaine II
 born: 1673
@@ -31,8 +31,10 @@ hide: [navigation]
 
 The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<./elaine-i.md>), and [Morgaine](<./morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).
 
+
 Her reign was a time of peace and prospertity, and an intentional throwback to the glorious years of [Cece I](<./cece-i.md>). 
 
 She was succeeded by her son [Arryn III](<./arryn-iii.md>)
+
 
 

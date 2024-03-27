@@ -26,7 +26,7 @@ hide: [navigation]
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     b. DR 1484 - d. DR 1549, died at age 65 years  
     Prince of the North of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1508 - DR 1519)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1519 - DR 1549)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1519 - DR 1549)  
     { .bio }
 
 </div>

@@ -1,10 +1,12 @@
 ---
-tags: [event, status/unknown]
+headerVersion: 2023.11.25
+tags: [event, status/needswork/refactor]
 DR: 1719-10-21
 title: Second Spider Attack on Tavoise
 ---
-### Second Spider Attack on Taviose
-*October 21st, 1719; 3am*
+# The Second Spider Attack on Tavoise
+
+
 
 In the early pre-dawn morning of October 21st, the spiders attacked [Taviose](<../../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) a second time. 
 

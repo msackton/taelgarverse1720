@@ -32,3 +32,4 @@ hide: [navigation]
 
 
 ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="right"; width="400"}A fighter.
+

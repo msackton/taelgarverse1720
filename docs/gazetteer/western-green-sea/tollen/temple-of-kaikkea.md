@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place]
 name: Temple of Kaikkea
 typeOf: holy site
 ancestry: Skaer
@@ -17,6 +16,8 @@ title: Temple of Kaikkea
 </div>
 
 
-An ancient building in [Tollen](<./tollen.md>), one of the original structures, once outside the city walls, but later incorporated into the city. Dedicated to the Skaer goddess [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>), and used by the Skaer, who maintain a presence here. 
+An ancient building in [Godshome](<./godshome.md>) in [Tollen](<./tollen.md>), built by the original Skaer settlers of this region long ago. The temple remains a highly sacred place to the Skaer, and a priest always serves to make sure that [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>) can still be heard here. This is also the center of the small Skaer community in Tollen.
 
-Made of white marble, with walls like undulating waves. 
+The temple is a striking circular building of brilliant white marble shaped like undulating wave.
+
+![Tollen Kaikkea V2](../../../assets/tollen-kaikkea-v2.png)

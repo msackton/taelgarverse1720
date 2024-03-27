@@ -4,7 +4,7 @@ typeOf: plain
 partOf: Eastern Dunmar
 name: Samtal
 aliases: [plains of Karawa]
-tags: [place, status/unknown]
+tags: [place]
 title: Samtal
 ---
 # Samtal
@@ -13,4 +13,4 @@ title: Samtal
 </div>
 
 
-The Samtal is the Dunmari name for the northern plains that stretch from the [Hara river valley](<./hara-river-valley.md>) east along the foothills of the Sentinels. 
+The Samtal is the Dunmari name for the northern plains that stretch from the [Hara river valley](<./hara-river-valley.md>) east along the foothills of the [Sentinels](<../../sentinel-range/sentinel-range.md>), north of the ~Karawa Desert~.

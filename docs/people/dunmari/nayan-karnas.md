@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person/ruler, person, dufr/major, status/unknown]
+tags: [person/ruler, person, status/needswork/internal, status/cleanup/header]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]
@@ -29,6 +29,9 @@ hide: [navigation]
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
+
+
 
 
 The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<./sura.md>), whom he thought dead. 

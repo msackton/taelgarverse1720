@@ -1,19 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place]
 name: Pyhlla
-typeOf: town
-partOf: Skaerhem
+typeOf: settlement
+typeOfAlias: town
+whereabouts: Skaerhem
 population: 800
+ancestry: Skaer
+pronunciation: PIE-hu-lla
 title: Pyhlla
 ---
 # Pyhlla
+:speaker:{ .middle } *(PIE-hu-lla)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 800  
-    :octicons-location-24:{ .lg .middle } A town in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A [Skaer](<./skaerhem.md>) town in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
 </div>
+
+
 
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [Vetta](<./vetta.md>), the island of the sacred waters. 

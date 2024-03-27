@@ -14,4 +14,4 @@ title: Lake Derwent
 </div>
 
 
-A large lake on the border between Lavnoch and [Ardlas](<../../zimkova/ardlas.md>).
+A large lake on the border between [Lavnoch](<../../zimkova/lavnoch.md>) and [Ardlas](<../../zimkova/ardlas.md>).

@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/needswork, status/stub]
 title: Duskhounds
 ---
 

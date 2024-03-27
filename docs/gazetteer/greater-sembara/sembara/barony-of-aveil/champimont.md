@@ -5,3 +5,4 @@ title: Champimont
 ---
 
 ![Champimont](../../../../assets/champimont.png){align="right"; width="400"}
+

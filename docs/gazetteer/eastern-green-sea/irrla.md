@@ -1,13 +1,17 @@
 ---
-tags: [place, status/needswork, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/needswork/external]
 name: Irrla
 typeOf: island
-partOf: Green Sea
+typeOfAlias: large island
+whereabouts: Green Sea
 title: Irrla
 ---
 # Irrla
->[!info]+ Information
-> An  island in the [Green Sea](<../green-sea.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A large island in the [Green Sea](<../green-sea.md>)  
+</div>
 
-A large island in the middle of the [Green Sea](<../green-sea.md>).
+
+
 

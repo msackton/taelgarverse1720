@@ -1,8 +1,9 @@
 ---
-tags: [organization, status/unknown]
-displayDefaults: {defArt: ''}
+headerVersion: 2023.11.25
+tags: [organization, status/needswork/notes]
+displayDefaults: {defArt: '', boxInfo: ''}
 name: Oracle of the Riven
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 title: Oracle of the Riven
 ---
 # Oracle of the Riven

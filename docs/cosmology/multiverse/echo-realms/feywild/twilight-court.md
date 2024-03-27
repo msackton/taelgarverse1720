@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, organization]
+tags: [status/stub, organization]
 title: Twilight Court
 ---
 

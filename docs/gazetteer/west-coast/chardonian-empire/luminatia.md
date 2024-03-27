@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/village]
+tags: [place]
 name: Luminatia
-typeOf: village
-whereabouts:
-- {type: home, location: Chardonian Empire}
+typeOf: settlement
+typeOfAlias: village
+whereabouts: Chardonian Empire
 title: Luminatia
 ---
 # Luminatia
