@@ -1,6 +1,0 @@
-  Campaigns/*
-  !Campaigns/Cleenseau*
-  !Campaigns/Mechanics
-  !Campaigns/Player*  
-  ~*
-  Worldbuilding/*

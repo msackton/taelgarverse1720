@@ -1,6 +1,6 @@
 [submodule "taelgar"]
 	path = taelgar
 	url = https://github.com/tsackton/taelgar
-[submodule "taelgarverse-site-generator"]
-	path = taelgarverse-site-generator
-	url = https://github.com/tsackton/taelgarverse-site-generator
+[submodule "taelgar-utils"]
+	path = taelgar-utils
+	url = https://github.com/tsackton/taelgar-utils

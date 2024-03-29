@@ -35,13 +35,13 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-  favicon: assets/site-img/logo.png
-  logo: assets/site-img/logo.png
+  favicon: assets/images/logo.png
+  logo: assets/images/logo.png
 extra_css:
-  - stylesheets/leaflet.css
-  - stylesheets/taelgarverse.css
-  - assets/stylesheets/homepage_custom.css
-  - stylesheets/styling.css
+  - assets/stylesheets/leaflet.css
+  - assets/stylesheets/taelgarverse.css
+  - assets/stylesheets/homepage.css  
+  - assets/stylesheets/styling.css
 markdown_extensions:
   - md_in_html
   - footnotes

@@ -9,7 +9,6 @@
     - Letters and Stories
         - {glob: campaigns/cleenseau-campaign/letters-and-stories}
     - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)
-        - {glob: campaigns/cleenseau-campaign/treasure, exclude: treasure.md}
     - Mechanics
         - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
         - [Languages](species/languages.md)

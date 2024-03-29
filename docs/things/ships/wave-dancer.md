@@ -9,15 +9,20 @@ whereabouts:
 - {type: home, end: 1, location: Eastern Green Sea, startFilter: ''}
 - {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha, startFilter: '2'}
 - {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: '2'}
-title: Wave Dancer
-hide_toc: true
 hide: [navigation]
+title: Wave Dancer
 ---
 # The Wave Dancer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
    Home area: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)  
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
+
+
+:octicons-location-24:{ .lg .middle } Last known location: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
+
 
 :octicons-location-24:{ .lg .middle } Last known location: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
 
