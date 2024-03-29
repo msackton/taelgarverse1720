@@ -40,8 +40,8 @@ theme:
 extra_css:
   - assets/stylesheets/leaflet.css
   - assets/stylesheets/taelgarverse.css
-  - assets/stylesheets/homepage.css  
-  - assets/stylesheets/styling.css
+  - assets/stylesheets/homepage_custom.css  
+  - assets/stylesheets/styling.css  
 markdown_extensions:
   - md_in_html
   - footnotes
