@@ -13,9 +13,8 @@ died: 1719-11-09
 whereabouts:
 - {type: away, location: Cleenseau, linkText: at, alias: bandit lair upriver of Cleenseau, start: 1719-10-01, end: 1719-11-03}
 - {type: away, location: Cleenseau, start: 1719-11-04, end: 1719-11-09}
-title: Jerome
-hide_toc: true
 hide: [navigation]
+title: Jerome
 ---
 # Jerome
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

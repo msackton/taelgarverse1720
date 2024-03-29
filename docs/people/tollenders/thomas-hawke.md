@@ -10,9 +10,8 @@ ancestry: Tollender
 gender: male
 affiliations: [University of Tollen]
 whereabouts: Tollen
-title: Thomas Hawke
-hide_toc: true
 hide: [navigation]
+title: Thomas Hawke
 ---
 # Thomas Hawke
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

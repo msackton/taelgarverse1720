@@ -9,9 +9,8 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, location: Bek'eni village, linkText: in the largest}
-title: Itar
-hide_toc: true
 hide: [navigation]
+title: Itar
 ---
 # Itar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

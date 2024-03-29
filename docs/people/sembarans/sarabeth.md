@@ -14,9 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: home, location: Cleenseau}
-title: Sarabeth
-hide_toc: true
 hide: [navigation]
+title: Sarabeth
 ---
 # Sarabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

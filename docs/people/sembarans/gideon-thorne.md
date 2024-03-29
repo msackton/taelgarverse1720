@@ -8,9 +8,8 @@ ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Auloutte}
-title: Gideon Thorne
-hide_toc: true
 hide: [navigation]
+title: Gideon Thorne
 ---
 # Gideon Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

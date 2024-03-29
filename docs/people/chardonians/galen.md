@@ -10,9 +10,8 @@ ancestry: Chardonian
 gender: male
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
-title: Galen
-hide_toc: true
 hide: [navigation]
+title: Galen
 ---
 # Galen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

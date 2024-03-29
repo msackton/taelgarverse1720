@@ -10,9 +10,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
-title: Amay
-hide_toc: true
 hide: [navigation]
+title: Amay
 ---
 # Amay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

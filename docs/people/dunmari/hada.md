@@ -9,9 +9,8 @@ ancestry: Dunmari
 gender: male
 died: 1748
 whereabouts: Tokra
-title: Hada
-hide_toc: true
 hide: [navigation]
+title: Hada
 ---
 # Hada
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

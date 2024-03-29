@@ -5,9 +5,8 @@ gender: male
 species: human
 ancestry: Urskan
 whereabouts: Zvervinka
-title: Fyodar
-hide_toc: true
 hide: [navigation]
+title: Fyodar
 ---
 # Fyodar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -17,9 +17,8 @@ whereabouts:
 - {type: home, start: 1727-01-02, end: '', location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 image: faldrak-small.png
-title: Faldrak Bronzehammer
-hide_toc: true
 hide: [navigation]
+title: Faldrak Bronzehammer
 ---
 # Faldrak Bronzehammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

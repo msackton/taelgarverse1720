@@ -8,9 +8,8 @@ species: dwarf
 ancestry:
 gender:
 player: Sara Smith
-title: Merash
-hide_toc: true
 hide: [navigation]
+title: Merash
 ---
 # Merash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

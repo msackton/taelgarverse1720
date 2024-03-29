@@ -5,9 +5,8 @@ species: human
 ancestry: Drankorian
 gender: female
 died: 1
-title: Drusilia
-hide_toc: true
 hide: [navigation]
+title: Drusilia
 ---
 # Drusilia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

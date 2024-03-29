@@ -13,9 +13,8 @@ died: 1719-10-14
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-14, end: 1719-10-30, location: Cleenseau Wood}
-title: Nicholas the Beggar
-hide_toc: true
 hide: [navigation]
+title: Nicholas the Beggar
 ---
 # Nicholas the Beggar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

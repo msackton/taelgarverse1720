@@ -3,9 +3,8 @@ headerVersion: 2023.11.25
 tags: [item/mundane, item/book, status/unknown]
 name: On the Lost People of the Forests
 typeOf: book
-title: On the Lost People of the Forests
-hide_toc: true
 hide: [navigation]
+title: On the Lost People of the Forests
 ---
 # The On the Lost People of the Forests
 :octicons-info-24:{ .lg .middle } **Book**  

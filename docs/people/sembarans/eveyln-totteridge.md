@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-15, end: 1719-10-29, location: Bandit's Way}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
-hide_toc: true
 hide: [navigation]
 ---
 # Sergeant Eveyln Totteridge

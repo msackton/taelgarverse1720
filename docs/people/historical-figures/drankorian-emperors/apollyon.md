@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, end: 1059, location: Drankor}
 - {type: away, start: 1053}
 - {type: away, start: 1060}
-hide_toc: true
 hide: [navigation]
 ---
 # Emperor Apollyon

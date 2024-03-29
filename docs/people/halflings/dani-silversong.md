@@ -13,9 +13,8 @@ affiliations:
 - {org: Silversongs, type: primary}
 - {org: Emerald Song, title: Quartermaster}
 whereabouts: Emerald Song
-title: Dani Silversong
-hide_toc: true
 hide: [navigation]
+title: Dani Silversong
 ---
 # Dani Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

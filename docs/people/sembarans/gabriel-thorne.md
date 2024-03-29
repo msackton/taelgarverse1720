@@ -9,9 +9,8 @@ ancestry: Sembaran
 gender: male
 affiliations:
 whereabouts: Cleenseau
-title: Gabriel Thorne
-hide_toc: true
 hide: [navigation]
+title: Gabriel Thorne
 ---
 # Gabriel Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

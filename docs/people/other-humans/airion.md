@@ -8,9 +8,8 @@ species: human
 ancestry:
 gender: male
 died: 1545
-title: Airion
-hide_toc: true
 hide: [navigation]
+title: Airion
 ---
 # Airion
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,9 +9,8 @@ gender: male
 affiliations:
 - {org: Redpeaks, type: primary}
 whereabouts: Darba
-title: Vondal Redpeak
-hide_toc: true
 hide: [navigation]
+title: Vondal Redpeak
 ---
 # Vondal Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

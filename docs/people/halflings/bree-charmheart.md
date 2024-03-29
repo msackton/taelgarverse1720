@@ -18,9 +18,8 @@ whereabouts:
 - {type: away, start: 1748-04-13, end: 1748-07-18, location: Tokra}
 - {type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
-title: Bree Charmheart
-hide_toc: true
 hide: [navigation]
+title: Bree Charmheart
 ---
 # Bree Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,8 +38,8 @@ hide: [navigation]
 The matriarch of the Charmheart trading clan of halflings.
 
 ## Relationships
-- Callie Charmheart, granddaughter
-- Ander Charmheart, grandson
+- [Callie Charmheart](<./callie-charmheart.md>), granddaughter
+- [Ander Charmheart](<./ander-charmheart.md>), grandson
 
 - [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
 

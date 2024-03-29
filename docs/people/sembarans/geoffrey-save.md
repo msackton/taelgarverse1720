@@ -8,9 +8,8 @@ gender: male
 whereabouts:
 - {type: home, location: Embry, end: 1699}
 - {type: home, location: Cleenseau, start: 1700}
-title: Geoffrey Save
-hide_toc: true
 hide: [navigation]
+title: Geoffrey Save
 ---
 # Geoffrey Save
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,7 +13,6 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
-hide_toc: true
 hide: [navigation]
 ---
 # Queen Cece I

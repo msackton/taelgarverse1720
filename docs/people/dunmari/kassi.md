@@ -8,9 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Lakan Monastery
-title: Kassi
-hide_toc: true
 hide: [navigation]
+title: Kassi
 ---
 # Kassi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

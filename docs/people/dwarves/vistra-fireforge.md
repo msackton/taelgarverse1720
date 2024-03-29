@@ -13,9 +13,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: Tharn Todor}
 - {type: home, start: 1620-01-01, end: '', location: Ausson's Crossing}
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
-title: Vistra Fireforge
-hide_toc: true
 hide: [navigation]
+title: Vistra Fireforge
 ---
 # Vistra Fireforge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

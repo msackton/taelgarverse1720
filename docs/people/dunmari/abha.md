@@ -12,9 +12,8 @@ image: abha-v2.png
 whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-12-01, location: Nayahar}
 - {type: away, start: 1748-12-25, end: 1749-03-02, location: Copper Hills}
-title: Abha
-hide_toc: true
 hide: [navigation]
+title: Abha
 ---
 # Abha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

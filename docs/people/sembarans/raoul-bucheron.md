@@ -12,9 +12,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Windlea}
 - {type: away, start: 1718, end: 9999, linkText: roaming around, location: Barony of Aveil}
-title: Raoul Bûcheron
-hide_toc: true
 hide: [navigation]
+title: Raoul Bûcheron
 ---
 # Raoul Bûcheron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

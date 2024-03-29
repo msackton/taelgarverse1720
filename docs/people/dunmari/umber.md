@@ -9,9 +9,8 @@ ancestry: Dunmari
 gender: male
 died: 1748
 whereabouts: Tokra
-title: Umber
-hide_toc: true
 hide: [navigation]
+title: Umber
 ---
 # Umber
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

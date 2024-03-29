@@ -6,9 +6,8 @@ gender: female
 born: 1689
 species: human
 ancestry: Sembaran
-title: Yvette
-hide_toc: true
 hide: [navigation]
+title: Yvette
 ---
 # Yvette
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

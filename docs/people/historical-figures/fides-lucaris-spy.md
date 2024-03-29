@@ -2,9 +2,8 @@
 tags: [person, historical, status/unknown]
 species: human
 gender: female
-title: Fides Lucaris Spy
-hide_toc: true
 hide: [navigation]
+title: Fides Lucaris Spy
 ---
 
 (stub)

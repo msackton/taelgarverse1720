@@ -12,9 +12,8 @@ gender: female
 aliases: [Nora]
 whereabouts:
 - {type: away}
-title: Nora Silverspark
-hide_toc: true
 hide: [navigation]
+title: Nora Silverspark
 ---
 # Nora Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

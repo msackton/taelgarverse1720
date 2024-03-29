@@ -7,9 +7,8 @@ affiliations:
 gender: female
 species: human
 ancestry: Sembara
-title: Constance Farnham
-hide_toc: true
 hide: [navigation]
+title: Constance Farnham
 ---
 # Constance Farnham
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

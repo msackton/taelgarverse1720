@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/wip]
 campaignInfo:
 name: Green Sea
 typeOf: sea
@@ -12,6 +12,8 @@ title: Green Sea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A sea in [Taelgar](<./gazetteer.md>)  
 </div>
+
+
 
 
 The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [Western Gulf](<western-green-sea/western-gulf.md>) and the Cymean Peninsula; to the north, by the varied islands of [Skaerhem](<western-green-sea/skaerhem/skaerhem.md>) and the strange lands of [Ursk](<northern-green-sea/ursk.md>); to the east, the mysterious and magical ~Eastern Islands~ separate the Green Sea from the oceans beyond; and a variety of diverse lands to the south. The large island known as [Irrla](<eastern-green-sea/irrla.md>) forms the boundary between the [Eastern Green Sea](<eastern-green-sea/eastern-green-sea.md>) and the [Western Green Sea](<western-green-sea/western-green-sea.md>). 

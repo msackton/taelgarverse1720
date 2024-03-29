@@ -9,9 +9,8 @@ ancestry:
 gender: male
 player: John Leeker
 affiliations:
-title: Kaleho
-hide_toc: true
 hide: [navigation]
+title: Kaleho
 ---
 # Kaleho
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

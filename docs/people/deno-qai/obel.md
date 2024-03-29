@@ -8,9 +8,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Te'kula village
-title: Obel
-hide_toc: true
 hide: [navigation]
+title: Obel
 ---
 # Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

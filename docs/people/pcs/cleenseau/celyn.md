@@ -4,6 +4,7 @@ tags: [pc, pc/cleenseau, person, status/unknown]
 name: Celyn
 born: 1697
 species: human
+ddbLink: https://www.dndbeyond.com/characters/90849827
 ancestry: Tyrwinghan
 gender: male
 player: Kiya Nicoll
@@ -13,9 +14,8 @@ whereabouts:
 - {type: home, end: 1719, location: Clawyn}
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Celyn
-hide_toc: true
 hide: [navigation]
+title: Celyn
 ---
 # Celyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +27,7 @@ hide: [navigation]
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+    :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/90849827) 
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
@@ -43,19 +44,27 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 
 >[!Info]- Additional Context (Chris' Eyes Only)
 >Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  
-  > 
-He did some work with a traveling theatre troupe at some point but parted ways with them because “they went the wrong way”.  He does not appear to have been a performer, but rather some kind of backstage worker.
+> 
+> He did some work with a traveling theatre troupe at some point but parted ways with them because “they went the wrong way”.  He does not appear to have been a performer, but rather some kind of backstage worker.
 
-> [!INFO]- Celyn's Background (For Kiya\'s Eyes Only)
+> [!INFO]- Celyn's Background (Kiya\'s Eyes Only)
 > The child who would become Celyn is from a small village in Tyrwingha.  He was a middle-younger child in a large family who mostly worked in the local vineyard.  He started out as rather a troublesome mooncalf child and rapidly wound up in something of an apprenticeship to the local who was responsible for maintaining the fairy-faith customs, as that is the sort of job that gets given to the people who struck the locals as being fey-touched in some way.  
 >
-His deeply mischievous nature continued to cause trouble, especially when he got more difficult rather than sweet-natured about it after puberty hit and dysphoria made him cranky.  He threw himself more thoroughly into his devotions, spending time at sacred sites to try dream incubation (which at least kept him out of other people’s hair), learning how to alter his appearance to look more fey or more masculine or both, and generally wishing for some power - fey or divine - to Make It Better.  
-  >
-After one of those pilgrimages, he came back changed, including in insisting on a new name (‘Celyn’ means ‘holly’, for the record*), and most people thought for the better; something, at least, had shifted in him to make him less furious at the shape of the world and thus much less likely to be difficult.  It was not clear for some time what the change *was*, though, given his return to minding the fey rites and minor mischief, until he healed someone after a farming accident.  He has resisted having his clerical magic bent into some sort of orderly role or hierarchy, both on his own account and because he will not impose order on his relationship with his god.  
+>His deeply mischievous nature continued to cause trouble, especially when he got more difficult rather than sweet-natured about it after puberty hit and dysphoria made him cranky.  He threw himself more thoroughly into his devotions, spending time at sacred sites to try dream incubation (which at least kept him out of other people’s hair), learning how to alter his appearance to look more fey or more masculine or both, and generally wishing for some power - fey or divine - to Make It Better.  
+>
+>After one of those pilgrimages, he came back changed, including in insisting on a new name (‘Celyn’ means ‘holly’, for the record*), and most people thought for the better; something, at least, had shifted in him to make him less furious at the shape of the world and thus much less likely to be difficult.  It was not clear for some time what the change *was*, though, given his return to minding the fey rites and minor mischief, until he healed someone after a farming accident.  He has resisted having his clerical magic bent into some sort of orderly role or hierarchy, both on his own account and because he will not impose order on his relationship with his god.  
 >  
-He has a deep devotion that is, in manner, almost childlike: there is an innocence about it that is easy to mistake for naivete.  That simplicity, however, and purity of hopefulness and a willingness to trust to chance, led to his cultivation of actual divine attention.  He is still a bit of a bundle of amiable chaos - as one might expect of a Wyrdling devotee - but his teenaged anger is more or less resolved by his embrace of that chaos and ambiguity.  
+>  He has a deep devotion that is, in manner, almost childlike: there is an innocence about it that is easy to mistake for naivete.  That simplicity, however, and purity of hopefulness and a willingness to trust to chance, led to his cultivation of actual divine attention.  He is still a bit of a bundle of amiable chaos - as one might expect of a Wyrdling devotee - but his teenaged anger is more or less resolved by his embrace of that chaos and ambiguity.  
 >  
-He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
+>  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
+
+### Items
+| Image                                            | Name                                                                                    | Type   | Mechanics                                                                        |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- |
+| ![Silverthorn](../../../assets/silverthorn.png){width="240"}                 | [Silverthorn](<../../../campaigns/cleenseau-campaign/treasure/silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
+| ![Shield of False Life](../../../assets/shield-of-false-life.png){width="240"}        | [Shield of False Life](<../../../campaigns/cleenseau-campaign/treasure/shield-of-false-life.md>) | armor  | [Reference](https://www.dndbeyond.com/magic-items/7487214-shield-of-life-giving) |
+| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png){width="240"} | [Cloak of Concealment](<../../../campaigns/cleenseau-campaign/treasure/cloak-of-concealment.md>) | cloak  | [Reference](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)       |
+
 
 ### Stories about Celyn
 There are a number of stories about Celyn, but please only read these if they have been revealed in game.
@@ -65,3 +74,4 @@ There are a number of stories about Celyn, but please only read these if they ha
 * [Celyn's Miracle Story](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-miracle-story.md>), as told to [Robin](<./robin-of-abenfyrd.md>)
 * [Celyn's Story of Leaving Home](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-leaving-home.md>)
 * [Celyn's Musings on Magic](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-musings-on-magic.md>)
+* [Celyn and Mahaut’s Miracle Players](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-and-mahauts-miracle-players.md>)

@@ -10,9 +10,8 @@ gender: male
 whereabouts:
 - {type: home, location: Bleakhold}
 - {type: home, start: 1748, location: Tharn Todor}
-title: Tak
-hide_toc: true
 hide: [navigation]
+title: Tak
 ---
 # Tak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

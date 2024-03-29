@@ -10,9 +10,8 @@ ancestry:
 gender: male
 whereabouts:
 - {type: home, location: Ganboa}
-title: Izoko
-hide_toc: true
 hide: [navigation]
+title: Izoko
 ---
 # Izoko
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

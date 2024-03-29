@@ -10,9 +10,8 @@ ancestry: Deno'qai
 gender: female
 whereabouts:
 - {type: away, start: 1748-10-25, linkText: in the forest valleys of, location: Sentinel Range}
-title: Safri
-hide_toc: true
 hide: [navigation]
+title: Safri
 ---
 # Safri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

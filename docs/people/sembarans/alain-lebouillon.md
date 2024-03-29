@@ -6,9 +6,8 @@ ancestry: Sembaran
 whereabouts: Cleenseau
 gender: male
 born: 1659
-title: Alain LeBouillon
-hide_toc: true
 hide: [navigation]
+title: Alain LeBouillon
 ---
 # Alain LeBouillon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, status/unknown]
+tags: [person, status/cleanup/refactor]
 campaignInfo: []
 name: Claudio
 born: 1719
@@ -10,9 +10,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Luminatia}
 - {type: away, start: 1748-03-11, end: '', location: ''}
-title: Claudio
-hide_toc: true
 hide: [navigation]
+title: Claudio
 ---
 # Claudio
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,4 +25,6 @@ hide: [navigation]
 </div>
 
 
-Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is Lucius's father, but does not currently live with his family. 
+
+
+Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/chasa-nahadi-watershed/lake-valandros.md>). He is [Lucius](<./lucius.md>)'s father, but does not currently live with his family. 

@@ -12,7 +12,6 @@ died: 1689
 family: Essford
 whereabouts:
 - {type: home, location: Cleenseau, start: 1651}
-hide_toc: true
 hide: [navigation]
 ---
 # Lord Reginald Essford

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/needswork/internal, status/image, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -17,9 +17,8 @@ whereabouts:
 - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
-title: Kaeso
-hide_toc: true
 hide: [navigation]
+title: Kaeso
 ---
 # Kaeso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -34,6 +33,8 @@ hide: [navigation]
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1719)
+
+
 
 
 

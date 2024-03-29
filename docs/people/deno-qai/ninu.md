@@ -9,9 +9,8 @@ ancestry: Deno'qai
 gender: female
 whereabouts:
 - {type: home, location: Ko'zula village}
-title: Ninu
-hide_toc: true
 hide: [navigation]
+title: Ninu
 ---
 # Ninu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,9 +14,8 @@ whereabouts:
 - {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
-title: Scepter of Command
-hide_toc: true
 hide: [navigation]
+title: Scepter of Command
 ---
 # The Scepter of Command
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

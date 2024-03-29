@@ -8,9 +8,8 @@ born: 1719-11-05
 species: mysterious abberation
 pronouns: it/they/him/her
 ddbLink: https://www.dndbeyond.com/monsters/3502311-es-tiasilos
-title: Es\*tiasilos
-hide_toc: true
 hide: [navigation]
+title: Es\*tiasilos
 ---
 # Es\*tiasilos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

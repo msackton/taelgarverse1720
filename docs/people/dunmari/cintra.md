@@ -9,9 +9,8 @@ ancestry: Dunmari
 gender: female
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
-title: Cintra
-hide_toc: true
 hide: [navigation]
+title: Cintra
 ---
 # Cintra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

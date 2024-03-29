@@ -8,9 +8,8 @@ species: fey
 subspecies: fairy
 gender: female
 player: Kate Sackton
-title: Spirala
-hide_toc: true
 hide: [navigation]
+title: Spirala
 ---
 # Spirala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

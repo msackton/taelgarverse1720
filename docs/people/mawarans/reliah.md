@@ -6,9 +6,8 @@ born:
 species: human
 gender: female
 whereabouts: Hamri
-title: Reliah
-hide_toc: true
 hide: [navigation]
+title: Reliah
 ---
 # Reliah
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

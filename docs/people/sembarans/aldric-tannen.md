@@ -9,9 +9,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
-title: Aldric Tannen
-hide_toc: true
 hide: [navigation]
+title: Aldric Tannen
 ---
 # Aldric Tannen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

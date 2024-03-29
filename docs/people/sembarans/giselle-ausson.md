@@ -8,9 +8,8 @@ species: human
 whereabouts: Laicon
 affiliations:
 - {org: Ausson's Crossing, type: leader, title: Proprietor, start: 1700}
-title: Giselle Ausson
-hide_toc: true
 hide: [navigation]
+title: Giselle Ausson
 ---
 # Giselle Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

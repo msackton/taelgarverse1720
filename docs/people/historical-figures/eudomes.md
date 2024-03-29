@@ -8,9 +8,8 @@ died: 1
 species: human
 ancestry: Drankorian
 gender: male
-title: Eudomes
-hide_toc: true
 hide: [navigation]
+title: Eudomes
 ---
 # Eudomes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

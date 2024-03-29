@@ -13,9 +13,8 @@ whereabouts:
 - {type: home, location: Ardlas}
 - {type: home, start: 1709, end: 1711, location: Cleenseau}
 - {type: home, start: 1712, location: The Fox's Flagon}
-title: Selma Wisthelwind
-hide_toc: true
 hide: [navigation]
+title: Selma Wisthelwind
 ---
 # Selma Wisthelwind
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

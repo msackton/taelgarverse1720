@@ -11,7 +11,6 @@ title: Lord Erick Murtha
 affiliations:
 - {place: Manor of Beury}
 whereabouts: Beury
-hide_toc: true
 hide: [navigation]
 ---
 # Lord Erick Murtha

@@ -8,9 +8,8 @@ ancestry: Sembaran
 whereabouts:
 - {type: home, location: Gowerbourne}
 - {type: home, location: Asineau}
-title: El
-hide_toc: true
 hide: [navigation]
+title: El
 ---
 # El
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +26,4 @@ hide: [navigation]
 
 ![El Wyrdling](../../assets/el-wyrdling.png){align="right"; width="320"}A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in Gowerbourne, and found the Wyrdling in mid-life. 
 
-Their story is [here](<../../campaigns/cleenseau-campaign/letters-and-stories/asides-and-diversions/el-s-story.md>).
+Their story is [here](<../../campaigns/cleenseau-campaign/letters-and-stories/el-s-story.md>).

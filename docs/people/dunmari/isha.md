@@ -11,9 +11,8 @@ gender: male
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08}
 - {type: home, location: Karawa, start: 1748-06-09}
-title: Isha
-hide_toc: true
 hide: [navigation]
+title: Isha
 ---
 # Isha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

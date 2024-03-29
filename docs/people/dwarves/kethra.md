@@ -13,9 +13,8 @@ affiliations:
 gender: female
 born: 1701
 image: kethra-small.png
-title: Kethra Silverspark
-hide_toc: true
 hide: [navigation]
+title: Kethra Silverspark
 ---
 # Kethra Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,9 +10,8 @@ gender: male
 player: Mike Sackton
 died: 1545
 affiliations: [The Rangers]
-title: Beryl
-hide_toc: true
 hide: [navigation]
+title: Beryl
 ---
 # Beryl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

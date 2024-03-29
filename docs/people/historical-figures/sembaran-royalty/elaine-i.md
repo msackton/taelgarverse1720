@@ -14,7 +14,6 @@ affiliations:
 - {place: Tyrwingha, start: 1571, title: Queen Consort}
 - {place: Sembara, start: 1582}
 - {place: Tyrwingha, start: 1589, title: Queen}
-hide_toc: true
 hide: [navigation]
 ---
 # Queen Elaine I

@@ -12,9 +12,8 @@ pronunciation: Ay-mee-lee
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Emilie
-hide_toc: true
 hide: [navigation]
+title: Emilie
 ---
 # Emilie
 :speaker:{ .middle } *(Ay-mee-lee)*  

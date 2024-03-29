@@ -9,9 +9,8 @@ ancestry: Mawaran
 gender: female
 died: 1747
 whereabouts: Mawar Confederacy
-title: Sefa
-hide_toc: true
 hide: [navigation]
+title: Sefa
 ---
 # Sefa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

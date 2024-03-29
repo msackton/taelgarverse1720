@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header, status/image]
 campaignInfo: []
 name: Roscelia
 born: 1677
@@ -9,9 +9,8 @@ ancestry: Chardonian
 gender: female
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
-title: Roscelia
-hide_toc: true
 hide: [navigation]
+title: Roscelia
 ---
 # Roscelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,6 +23,8 @@ hide: [navigation]
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.

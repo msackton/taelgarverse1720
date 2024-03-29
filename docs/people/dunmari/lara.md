@@ -10,7 +10,6 @@ gender: female
 affiliations:
 - {org: Lakan Mystai, type: leader}
 whereabouts: Lakan Monastery
-hide_toc: true
 hide: [navigation]
 ---
 # Speaker Lara

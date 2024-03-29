@@ -7,9 +7,8 @@ species:
 ancestry:
 gender: male
 player: David Kong
-title: Rai
-hide_toc: true
 hide: [navigation]
+title: Rai
 ---
 # Rai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

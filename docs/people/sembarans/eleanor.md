@@ -5,9 +5,8 @@ whereabouts: Asineau
 gender: female
 species: human
 born: 1659
-title: Eleanor
-hide_toc: true
 hide: [navigation]
+title: Eleanor
 ---
 # Eleanor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

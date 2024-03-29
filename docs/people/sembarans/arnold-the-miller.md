@@ -9,9 +9,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Asineau
-title: Arnold the Miller
-hide_toc: true
 hide: [navigation]
+title: Arnold the Miller
 ---
 # Arnold the Miller
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

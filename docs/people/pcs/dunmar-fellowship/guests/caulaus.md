@@ -8,9 +8,8 @@ ancestry: Drankorian
 gender: male
 player: Mike Sackton
 affiliations:
-title: Caulaus
-hide_toc: true
 hide: [navigation]
+title: Caulaus
 ---
 # Caulaus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

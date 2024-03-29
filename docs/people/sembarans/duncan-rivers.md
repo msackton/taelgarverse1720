@@ -10,9 +10,8 @@ born: 1672
 affiliations:
 - {org: The Bandit’s End, type: leader, title: Proprietor}
 whereabouts: The Bandit’s End
-title: Duncan Rivers
-hide_toc: true
 hide: [navigation]
+title: Duncan Rivers
 ---
 # Duncan Rivers
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

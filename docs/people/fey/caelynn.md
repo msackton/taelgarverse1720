@@ -11,9 +11,8 @@ gender: female
 whereabouts:
 - {type: home, location: Dreamhaven}
 - {type: home, location: Tollen}
-title: Caelynn the Seer
-hide_toc: true
 hide: [navigation]
+title: Caelynn the Seer
 ---
 # Caelynn the Seer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -43,7 +42,7 @@ Caelynn is an elegant elfin woman of ambiguous age, with long silver hair and st
 - According to [Delios the Sage](<../tollenders/delios-the-sage.md>), the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) does not appreciate her presence in the city
 ## Events
 
-- Acquired the "Legendary Gates of Kenzo" from [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in DR 1748, an adventure story granting readers the freedom to navigate their journey.
+- Acquired the "[Legendary Gates of Kenzo](<../../things/books/legendary-gates-of-kenzo.md>)" from [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in DR 1748, an adventure story granting readers the freedom to navigate their journey.
 ## Rumors and Information
 
 Many rumors circulate about Caelynn

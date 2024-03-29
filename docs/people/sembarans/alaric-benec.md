@@ -1,8 +1,7 @@
 ---
 tags: [person, status/stub]
-title: Alaric Benec
-hide_toc: true
 hide: [navigation]
+title: Alaric Benec
 ---
 
 ![Alaric Benec](../../assets/alaric-benec.png)

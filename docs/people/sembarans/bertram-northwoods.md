@@ -6,9 +6,8 @@ born: 1673
 gender: male
 species: human
 ancestry: Sembaran
-title: Bertram Northwoods
-hide_toc: true
 hide: [navigation]
+title: Bertram Northwoods
 ---
 # Bertram Northwoods
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

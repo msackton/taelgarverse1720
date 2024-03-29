@@ -6,9 +6,8 @@ typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
 whereabouts: Grash
-title: Ring of Undying
-hide_toc: true
 hide: [navigation]
+title: Ring of Undying
 ---
 # The Ring of Undying
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

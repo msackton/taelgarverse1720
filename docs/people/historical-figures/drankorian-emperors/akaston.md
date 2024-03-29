@@ -12,7 +12,6 @@ affiliations:
 - {place: Drankorian Empire, start: 980}
 died: 991
 whereabouts: Drankor
-hide_toc: true
 hide: [navigation]
 ---
 # Emperor Akaston

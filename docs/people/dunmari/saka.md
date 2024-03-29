@@ -8,9 +8,8 @@ ancestry: Dunmari
 gender: female
 whereabouts:
 - {type: home, location: plains north of Tokra}
-title: Saka
-hide_toc: true
 hide: [navigation]
+title: Saka
 ---
 # Saka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -7,9 +7,8 @@ gender: female
 born: 1700
 died: 1719-10-21
 whereabouts: Taviose
-title: Nicole Darrow
-hide_toc: true
 hide: [navigation]
+title: Nicole Darrow
 ---
 # Nicole Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

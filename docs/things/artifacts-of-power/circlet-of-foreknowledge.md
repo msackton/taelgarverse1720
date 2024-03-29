@@ -8,9 +8,8 @@ rarity: mythical
 ancestry: elven
 whereabouts:
 - {type: away}
-title: Circlet of Foreknowledge
-hide_toc: true
 hide: [navigation]
+title: Circlet of Foreknowledge
 ---
 # The Circlet of Foreknowledge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

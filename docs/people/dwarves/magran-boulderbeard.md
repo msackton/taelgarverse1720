@@ -8,9 +8,8 @@ species: dwarf
 ancestry:
 gender: male
 whereabouts: Tharn Todor
-title: Magran Boulderbeard
-hide_toc: true
 hide: [navigation]
+title: Magran Boulderbeard
 ---
 # Magran Boulderbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

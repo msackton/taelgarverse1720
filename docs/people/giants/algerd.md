@@ -5,9 +5,8 @@ species: giant
 subspecies: frost
 whereabouts: Vindristjarna
 gender: male
-title: Algerd
-hide_toc: true
 hide: [navigation]
+title: Algerd
 ---
 # Algerd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

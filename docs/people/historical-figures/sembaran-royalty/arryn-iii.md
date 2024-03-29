@@ -15,7 +15,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Tafolwern, end: 1721-08}
 - {type: home, location: Embry, start: 1721-09}
-hide_toc: true
 hide: [navigation]
 ---
 # King Arryn III
@@ -30,6 +29,8 @@ hide: [navigation]
 </div>
 
 
+
+A young princeling of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), he is a quite and mild-mannered child who is said to particularly love stories about his namesake, [Arryn I](<./arryn-i.md>). 
 
 
 

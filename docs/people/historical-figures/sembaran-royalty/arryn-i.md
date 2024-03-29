@@ -12,7 +12,6 @@ affiliations:
 - {place: Sembara, start: 1592}
 - {place: Tyrwingha, start: 1592}
 died: 1600
-hide_toc: true
 hide: [navigation]
 ---
 # King Arryn I

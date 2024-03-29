@@ -10,9 +10,8 @@ reignStart:
 died: 1550
 affiliations:
 - {org: House of Sewick, type: primary}
-title: Reginald
-hide_toc: true
 hide: [navigation]
+title: Reginald
 ---
 # Reginald
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

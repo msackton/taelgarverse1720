@@ -11,7 +11,6 @@ name: Nayan Marathu
 affiliations:
 - {org: Nayan Dynasty, type: primary}
 - {org: Dunmar, start: 1736, end: 1740, type: leader}
-hide_toc: true
 hide: [navigation]
 ---
 # Samraat Nayan Marathu

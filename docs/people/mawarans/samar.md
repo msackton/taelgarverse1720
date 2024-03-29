@@ -8,9 +8,8 @@ species: human
 ancestry:
 gender: female
 whereabouts: Hamri
-title: Samar
-hide_toc: true
 hide: [navigation]
+title: Samar
 ---
 # Samar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

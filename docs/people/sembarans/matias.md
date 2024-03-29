@@ -8,9 +8,8 @@ gender: male
 whereabouts: Asineau
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
-title: Matias
-hide_toc: true
 hide: [navigation]
+title: Matias
 ---
 # Matias
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,9 +10,8 @@ gender: female
 died: 1675
 affiliations:
 - {org: House of Lils, type: primary}
-title: Annabeth
-hide_toc: true
 hide: [navigation]
+title: Annabeth
 ---
 # Annabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

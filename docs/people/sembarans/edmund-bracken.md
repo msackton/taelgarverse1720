@@ -6,9 +6,8 @@ species: human
 ancestry: Sembaran
 gender: male
 born: 1686
-title: Edmund Bracken
-hide_toc: true
 hide: [navigation]
+title: Edmund Bracken
 ---
 # Edmund Bracken
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

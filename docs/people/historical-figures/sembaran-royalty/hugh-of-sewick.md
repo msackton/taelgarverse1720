@@ -9,9 +9,8 @@ gender: male
 died: 1518
 affiliations:
 - {org: House of Sewick, type: primary}
-title: Hugh of Sewick
-hide_toc: true
 hide: [navigation]
+title: Hugh of Sewick
 ---
 # Hugh of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

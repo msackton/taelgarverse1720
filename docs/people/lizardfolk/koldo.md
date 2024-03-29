@@ -7,9 +7,8 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts: Ganboa
-title: Koldo
-hide_toc: true
 hide: [navigation]
+title: Koldo
 ---
 # Koldo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,9 +13,8 @@ gender: male
 leaderOf:
 - {place: The Red Lily Inn, title: Proprietor, start: 1}
 whereabouts: The Red Lily Inn
-title: Wes Strongbones
-hide_toc: true
 hide: [navigation]
+title: Wes Strongbones
 ---
 # Wes Strongbones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,4 +29,4 @@ hide: [navigation]
 
 
 
-Wes Strongbones runs The Red Lily Inn, a halfling inn in Tokra, with his two sons Cade Strongbones and Tye Strongbones. He is a widower, having lost his wife to illness in the late 1730s. 
+Wes Strongbones runs The Red Lily Inn, a halfling inn in Tokra, with his two sons [Cade Strongbones](<./cade-strongbones.md>) and [Tye Strongbones](<./tye-strongbones.md>). He is a widower, having lost his wife to illness in the late 1730s. 

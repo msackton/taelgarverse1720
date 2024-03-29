@@ -38,6 +38,7 @@
         - [Viepuck](people/pcs/cleenseau/viepuck.md)
     - Letters and Stories
         - [An Excerpt from on Creation and Destruction of Extra Material Realms](campaigns/cleenseau-campaign/letters-and-stories/an-excerpt-from-on-creation-and-destruction-of-extra-material-realms.md)
+        - [El's Story](campaigns/cleenseau-campaign/letters-and-stories/el-s-story.md)
         - [Guy de Varan's Story](campaigns/cleenseau-campaign/letters-and-stories/guy-de-varan-s-story.md)
         - [Letter from Alaric Lord Mayor of Rinburg (January 14th)](campaigns/cleenseau-campaign/letters-and-stories/letter-from-alaric-lord-mayor-of-rinburg-january-14th.md)
         - [Letter from Rosalind (January 14th)](campaigns/cleenseau-campaign/letters-and-stories/letter-from-rosalind-january-14th.md)
@@ -47,19 +48,14 @@
         - [Letter from the Oracle of the Red to the Mostreve Warlocks](campaigns/cleenseau-campaign/letters-and-stories/letter-from-the-oracle-of-the-red-to-the-mostreve-warlocks.md)
         - [Report on the Bogblight](campaigns/cleenseau-campaign/letters-and-stories/report-on-the-bogblight.md)
         - [Stories of Tyrwingha for Profit](campaigns/cleenseau-campaign/letters-and-stories/stories-of-tyrwingha-for-profit.md)
-        - Asides And Diversions
-            - [El's Story](campaigns/cleenseau-campaign/letters-and-stories/asides-and-diversions/el-s-story.md)
         - Celyn S Stories
+            - [Celyn and Mahaut’s Miracle Players](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-and-mahauts-miracle-players.md)
             - [Celyn's Miracle Story](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-miracle-story.md)
             - [Celyn's Musings on Magic](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-musings-on-magic.md)
             - [Celyn's Story of Getting His Name](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-getting-his-name.md)
             - [Celyn's Story of His Adolescence](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-his-adolescence.md)
             - [Celyn's Story of Leaving Home](campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-leaving-home.md)
     - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)
-        - [Brot's Telescope (Small)](campaigns/cleenseau-campaign/treasure/brot-s-telescope-small.md)
-        - [Hammer of Vigilance](campaigns/cleenseau-campaign/treasure/hammer-of-vigilance.md)
-        - [Lantern of the Bright Hearth](campaigns/cleenseau-campaign/treasure/lantern-of-the-bright-hearth.md)
-        - [Silverthorn](campaigns/cleenseau-campaign/treasure/silverthorn.md)
     - Mechanics
         - [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
         - Species
@@ -119,7 +115,7 @@
                 - [Daraar Canyon](gazetteer/greater-dunmar/dunmari-basin/daraar-canyon.md)
                 - [Dunmari Fort (Gomat)](gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md)
                 - [Dwarven Outpost (Raven's Hold)](gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md)
-                - [Gomat](gazetteer/greater-dunmar/dunmari-basin/gomat.md)
+                - [Gomat Oasis](gazetteer/greater-dunmar/dunmari-basin/gomat.md)
                 - [Hall of Stories](gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md)
                 - [Hara River Valley](gazetteer/greater-dunmar/dunmari-basin/hara-river-valley.md)
                 - [Kharsan](gazetteer/greater-dunmar/dunmari-basin/kharsan.md)

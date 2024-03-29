@@ -21,7 +21,7 @@ Her the marginalia talk about a portrait of Ethlenn, that is the real magic. A s
 
 As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [Derik I](<../../../people/historical-figures/sembaran-royalty/derik-i.md>), King of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) by the [Oracle of the Riven](<../../../groups/oracle-of-the-riven.md>). Derik gathered an army of lizardfolk, the knights of Telham and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), the fey-touched warlocks of the Ethlenn, and [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) and [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) mercenaries, and he marched to victory.
 
-![Tyrwingha Stories Sketch Of Ethlenn](../../../assets/tyrwingha-stories-sketch-of-ethlenn.png){width="400"}
+![Tyrwingha Stories Sketch of Ethlenn](../../../assets/tyrwingha-stories-sketch-of-ethlenn.png){width="400"}
 
 >[!Spoiler]- Izgil's Eyes Only
 >This image looks very similar to the woman who blessed Izgil in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), after he escaped from the nightmare after the encounter with the mysterious fey creature.

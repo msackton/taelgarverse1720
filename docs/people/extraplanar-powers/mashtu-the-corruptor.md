@@ -2,9 +2,8 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/notes]
 species: demon
-title: Mashtu the Corruptor
-hide_toc: true
 hide: [navigation]
+title: Mashtu the Corruptor
 ---
 # Mashtu the Corruptor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

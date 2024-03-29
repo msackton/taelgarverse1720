@@ -11,9 +11,8 @@ aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned}
-title: Cloudspinner
-hide_toc: true
 hide: [navigation]
+title: Cloudspinner
 ---
 # Cloudspinner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

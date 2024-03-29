@@ -6,9 +6,8 @@ born: 1691
 species: human
 gender: male
 whereabouts: Cleenseau
-title: Harold Bybet
-hide_toc: true
 hide: [navigation]
+title: Harold Bybet
 ---
 # Harold Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

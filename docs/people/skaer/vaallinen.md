@@ -11,7 +11,6 @@ gender: male
 pronunciation: va-lin-en
 title: Hakeasa Vaallinen
 whereabouts: Pyhlla
-hide_toc: true
 hide: [navigation]
 ---
 # Hakeasa Vaallinen

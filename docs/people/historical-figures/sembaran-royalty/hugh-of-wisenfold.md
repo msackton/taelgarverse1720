@@ -9,9 +9,8 @@ gender: male
 died: 1562
 affiliations:
 - {org: House of Wisenfold, type: primary}
-title: Hugh
-hide_toc: true
 hide: [navigation]
+title: Hugh
 ---
 # Hugh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

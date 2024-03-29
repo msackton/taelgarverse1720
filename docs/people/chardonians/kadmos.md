@@ -18,9 +18,8 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: Dunmar}
 - {type: away, start: 1748-11-19, end: '', location: Garamjala Desert}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
-title: Kadmos
-hide_toc: true
 hide: [navigation]
+title: Kadmos
 ---
 # Kadmos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,7 +38,7 @@ hide: [navigation]
 
 
 
-![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with Hektor, [Marcella](<./marcella.md>), [Antonia](<./antonia.md>), and Casian. 
+![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<./hektor.md>), [Marcella](<./marcella.md>), [Antonia](<./antonia.md>), and [Casian](<./casian.md>). 
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 

@@ -12,9 +12,8 @@ whereabouts:
 name: Arheste
 pronunciation: AR-hes-teh
 gender: female
-title: Arheste
-hide_toc: true
 hide: [navigation]
+title: Arheste
 ---
 # Arheste
 :speaker:{ .middle } *(AR-hes-teh)*  

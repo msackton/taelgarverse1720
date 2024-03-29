@@ -19,7 +19,7 @@ title: Kharsan
 </div>
 
 
-Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior Grash, until his defeat at the Battle for Uzgukhar. 
+Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior Grash, until his defeat at the [Battle for Uzgukhar](<../../../events/1700s/1749/battle-for-uzgukhar.md>). 
 
 Set on the banks of the now-dry river [Kharja](<../../istaros-watershed/rivers/kharja.md>). Much of the city, especially the northern sections, are in complete ruins. However, the palace square and the administration complex around it remain standing, as does the old stadium in the southern part of the city. 
 

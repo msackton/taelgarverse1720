@@ -7,9 +7,8 @@ whereabouts:
 - {type: home, end: 1, location: Occulta Ludum}
 - {type: home, end: 1748-11-23, location: Stormcaller Tower}
 - {type: home, start: 1748-11-24, location: Dunmar Fellowship}
-title: Enchiridion of the Occulta Ludum
-hide_toc: true
 hide: [navigation]
+title: Enchiridion of the Occulta Ludum
 ---
 # The Enchiridion of the Occulta Ludum
 >[!info]+ Information

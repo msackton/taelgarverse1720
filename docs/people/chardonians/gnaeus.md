@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/external]
 campaignInfo: []
 name: Gnaeus
 born: 1701
@@ -11,9 +11,8 @@ affiliations: [University of Chardon, Sibyl's Hall]
 whereabouts:
 - {type: home, location: Arendum}
 - {type: home, location: Chardon}
-title: Gnaeus
-hide_toc: true
 hide: [navigation]
+title: Gnaeus
 ---
 # Gnaeus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +26,8 @@ hide: [navigation]
     Originally from: [Arendum](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/arendum.md>), the [Chasa River Valley](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/chasa-river-valley.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 

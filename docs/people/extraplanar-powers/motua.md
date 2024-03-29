@@ -12,9 +12,8 @@ whereabouts:
 - {type: home, end: 1, location: Land of the Dead}
 - {type: away, start: 1747, end: 1748-12, location: Azta Lekua}
 pronunciation: moh-TOO-ah
-title: Motua
-hide_toc: true
 hide: [navigation]
+title: Motua
 ---
 # Motua
 :speaker:{ .middle } *(moh-TOO-ah)*  

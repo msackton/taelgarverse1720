@@ -15,7 +15,6 @@ affiliations:
 - {place: Lavnoch, title: High King, start: 1549}
 - {place: Breva, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
-hide_toc: true
 hide: [navigation]
 ---
 # King Bertram I

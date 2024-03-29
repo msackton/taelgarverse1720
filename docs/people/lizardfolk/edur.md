@@ -12,9 +12,8 @@ died: 1719-10-19
 whereabouts:
 - {type: home, location: Ganboa}
 - {type: away, start: 1719-10-19, location: Cleenseau Wood}
-title: Edur
-hide_toc: true
 hide: [navigation]
+title: Edur
 ---
 # Edur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

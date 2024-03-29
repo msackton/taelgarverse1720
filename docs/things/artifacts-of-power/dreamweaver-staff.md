@@ -3,9 +3,8 @@ tags: [item/magical, status/unknown]
 rarity: unique
 typeOf: staff
 whereabouts: Candrosa
-title: Dreamweaver Staff
-hide_toc: true
 hide: [navigation]
+title: Dreamweaver Staff
 ---
 # The Dreamweaver Staff
 >[!info]+ Information

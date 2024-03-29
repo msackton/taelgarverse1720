@@ -9,9 +9,8 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Tokra
-title: Ashar
-hide_toc: true
 hide: [navigation]
+title: Ashar
 ---
 # Ashar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -8,9 +8,8 @@ ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
 whereabouts: Duchy of Maseau
-title: Narrisa de Abadelle
-hide_toc: true
 hide: [navigation]
+title: Narrisa de Abadelle
 ---
 # Narrisa de Abadelle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

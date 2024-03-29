@@ -10,9 +10,8 @@ ancestry: Dunmari
 gender: female
 whereabouts:
 - {type: home, location: ~North Tokra Plains~}
-title: Jita
-hide_toc: true
 hide: [navigation]
+title: Jita
 ---
 # Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

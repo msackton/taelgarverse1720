@@ -11,9 +11,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Rinburg}
 - {type: home, start: 1719-04-15, location: Cleenseau}
-title: Nicholas Wysson
-hide_toc: true
 hide: [navigation]
+title: Nicholas Wysson
 ---
 # Nicholas Wysson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

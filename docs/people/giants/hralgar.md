@@ -12,9 +12,8 @@ whereabouts:
 - {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
 - {type: home, start: 1748-11-23, end: 1748-11-23, linkText: ' ', location: Stormcaller Tower}
 - {type: home, start: 1748-11-24, alias: drifting on the storm across the world}
-title: Hralgar
-hide_toc: true
 hide: [navigation]
+title: Hralgar
 ---
 # Hralgar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

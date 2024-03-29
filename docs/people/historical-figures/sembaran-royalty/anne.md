@@ -11,9 +11,8 @@ died: 1583-02-14
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Breva, title: Queen, start: 1568}
-title: Anne of Sewick
-hide_toc: true
 hide: [navigation]
+title: Anne of Sewick
 ---
 # Anne of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

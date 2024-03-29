@@ -16,7 +16,6 @@ leaderOf:
 - {place: Vostok, title: High King, start: 1519}
 title: King Derik III
 died: 1549
-hide_toc: true
 hide: [navigation]
 ---
 # King Derik III

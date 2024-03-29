@@ -2,9 +2,8 @@
 tags: [item/boat, status/unknown]
 typeOf: vehicle
 subTypeOf: boat
-title: Flaming Tempest
-hide_toc: true
 hide: [navigation]
+title: Flaming Tempest
 ---
 # Flaming Tempest
 

@@ -14,9 +14,8 @@ whereabouts:
 - {type: away, start: 1719-12-05, end: 1719-12-07, location: ~SouthCleenseauScrublands~}
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
-title: Agnés of Evis
-hide_toc: true
 hide: [navigation]
+title: Agnés of Evis
 ---
 # Agnés of Evis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

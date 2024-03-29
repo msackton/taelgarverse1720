@@ -12,9 +12,8 @@ whereabouts:
 - {type: away, start: 1548, end: 1570, location: Tharn Todor}
 - {type: away, start: 1570, end: 1748-10-04, location: lost}
 - {type: away, start: 1748-10-05, end: 9999, location: Tharn Todor}
-title: Chalice of the Runepriest
-hide_toc: true
 hide: [navigation]
+title: Chalice of the Runepriest
 ---
 # The Chalice of the Runepriest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,7 +28,7 @@ A elaborate rune-carved chalice of ambiguous origin, revered as a sacred nationa
 
 It was found when the [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) fleeing the destruction of the kingdom of [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) at the end of the [Great War](<../../events/1500s/great-war.md>) reached the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>), located in a chamber already carved and prepared deep beneath the ground, reminiscent of [Heart of the Mountain](<../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>). When it was first found, it flowed with salt water (some say, the tears of the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>); others a memory of the ocean that once covered the land). This became the site where [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) was constructed. 
 
-![Chalice Of The Runepriest](../../assets/chalice-of-the-runepriest.png)
+![Chalice of the Runepriest](../../assets/chalice-of-the-runepriest.png)
 
 ## History of the Chalice
 - 1547 DR: The Chalice of the Runepriest is discovered by dwarven refugees from [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), while exploring the newly risen Yuvanti Mountains. 

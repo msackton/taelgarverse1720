@@ -13,9 +13,8 @@ family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 - {type: home, start: 1687-01-02, end: '', location: Nordgate}
-title: Guy Marchand
-hide_toc: true
 hide: [navigation]
+title: Guy Marchand
 ---
 # Guy Marchand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

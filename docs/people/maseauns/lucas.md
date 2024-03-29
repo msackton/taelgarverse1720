@@ -7,9 +7,8 @@ species: human
 ancestry: Maseuan
 gender: male
 whereabouts: Duchy of Maseau
-title: Lucas
-hide_toc: true
 hide: [navigation]
+title: Lucas
 ---
 # Lucas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -3,9 +3,8 @@ displayDefaults: {defArt: ''}
 tags: [item/magical, status/needswork/notes, status/unknown]
 aliases: [Phasing Stone]
 typeOf: stone
-title: Phasing Stones
-hide_toc: true
 hide: [navigation]
+title: Phasing Stones
 ---
 # Phasing Stones
 >[!info]+ Information

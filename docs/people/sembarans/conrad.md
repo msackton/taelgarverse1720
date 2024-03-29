@@ -9,9 +9,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
-title: Conrad
-hide_toc: true
 hide: [navigation]
+title: Conrad
 ---
 # Conrad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,9 +10,8 @@ ancestry:
 gender: female
 whereabouts:
 - {type: home, location: Amberglow}
-title: Typhina
-hide_toc: true
 hide: [navigation]
+title: Typhina
 ---
 # Typhina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

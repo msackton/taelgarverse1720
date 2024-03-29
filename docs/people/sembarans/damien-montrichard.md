@@ -12,9 +12,8 @@ pronunciation: Dah-mee-en Mon-tree-shar
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Damien Montrichard
-hide_toc: true
 hide: [navigation]
+title: Damien Montrichard
 ---
 # Damien Montrichard
 :speaker:{ .middle } *(Dah-mee-en Mon-tree-shar)*  

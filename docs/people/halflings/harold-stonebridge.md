@@ -10,9 +10,8 @@ affiliations:
 - {org: Stonebridges, type: primary}
 gender: male
 whereabouts: Cleenseau
-title: Harold Stonebridge
-hide_toc: true
 hide: [navigation]
+title: Harold Stonebridge
 ---
 # Harold Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

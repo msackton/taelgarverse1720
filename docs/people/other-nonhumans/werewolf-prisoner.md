@@ -8,9 +8,8 @@ ancestry: lycanthrope
 gender: male
 died: 1748
 whereabouts: Tokra
-title: Werewolf Prisoner
-hide_toc: true
 hide: [navigation]
+title: Werewolf Prisoner
 ---
 ### The Unnamed Werewolf
 

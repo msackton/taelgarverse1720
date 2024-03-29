@@ -14,9 +14,8 @@ affiliations:
 - {place: Emerald Song, title: Captain, start: 1}
 whereabouts:
 - {location: Emerald Song, type: home, prefix: sailing}
-title: Harol Silversong
-hide_toc: true
 hide: [navigation]
+title: Harol Silversong
 ---
 # Harol Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

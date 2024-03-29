@@ -4,9 +4,8 @@ tags: [person, historical]
 species: elf
 ka: 31
 gender: female
-title: Nelawe
-hide_toc: true
 hide: [navigation]
+title: Nelawe
 ---
 # Nelawe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

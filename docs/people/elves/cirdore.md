@@ -10,9 +10,8 @@ pronunciation: KEER-doh-reh
 gender: male
 campaignInfo:
 - {campaign: dufr, date: 1749-01-15, type: Hosted for dinner}
-title: Cirdore
-hide_toc: true
 hide: [navigation]
+title: Cirdore
 ---
 # Cirdore
 :speaker:{ .middle } *(KEER-doh-reh)*  

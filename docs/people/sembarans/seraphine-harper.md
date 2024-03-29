@@ -7,9 +7,8 @@ species: human
 gender: female
 born: 1680
 died: 1720-01-04
-title: Seraphine Harper
-hide_toc: true
 hide: [navigation]
+title: Seraphine Harper
 ---
 # Seraphine Harper
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

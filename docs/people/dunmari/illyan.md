@@ -10,9 +10,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
-title: Illyan
-hide_toc: true
 hide: [navigation]
+title: Illyan
 ---
 # Illyan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +26,4 @@ hide: [navigation]
 
 
 
-A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the Summer Gnoll Raids of 1748 and the [Siblings War](<../../events/1700s/siblings-war.md>). Fought in the Battle of Tokra. 
+A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the Summer Gnoll Raids of 1748 and the [Siblings War](<../../events/1700s/siblings-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 

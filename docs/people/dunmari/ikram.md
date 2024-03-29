@@ -8,9 +8,8 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Karawa
-title: Ikram
-hide_toc: true
 hide: [navigation]
+title: Ikram
 ---
 # Ikram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

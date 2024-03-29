@@ -8,9 +8,8 @@ species: human
 ancestry: Maseaun
 gender: male
 player: Matt Rand
-title: Soraine
-hide_toc: true
 hide: [navigation]
+title: Soraine
 ---
 # Soraine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

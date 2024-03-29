@@ -8,9 +8,8 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts: Darba
-title: Finellen Silverstone
-hide_toc: true
 hide: [navigation]
+title: Finellen Silverstone
 ---
 # Finellen Silverstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

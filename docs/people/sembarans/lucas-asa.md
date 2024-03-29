@@ -7,9 +7,8 @@ gender: male
 whereabouts:
 - {type: home, location: Asineau, end: 1715}
 born: 1662
-title: Lucas Asa
-hide_toc: true
 hide: [navigation]
+title: Lucas Asa
 ---
 # Lucas Asa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

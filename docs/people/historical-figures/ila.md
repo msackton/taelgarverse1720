@@ -10,7 +10,6 @@ gender: male
 title: Commander Ila
 whereabouts:
 - {type: home, prefix: somewhere in, location: Central Dunmar, formatSpecifier: ''}
-hide_toc: true
 hide: [navigation]
 ---
 # Commander Ila

@@ -9,9 +9,8 @@ ancestry:
 gender: male
 player:
 affiliations:
-title: Alimash
-hide_toc: true
 hide: [navigation]
+title: Alimash
 ---
 # Alimash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

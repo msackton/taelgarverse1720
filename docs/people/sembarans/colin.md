@@ -10,9 +10,8 @@ gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardsman}
 whereabouts: Cleenseau
-title: Colin
-hide_toc: true
 hide: [navigation]
+title: Colin
 ---
 # Colin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

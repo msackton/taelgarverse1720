@@ -10,9 +10,8 @@ whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Armand
-hide_toc: true
 hide: [navigation]
+title: Armand
 ---
 # Armand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

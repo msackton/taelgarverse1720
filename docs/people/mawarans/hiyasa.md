@@ -8,9 +8,8 @@ species: human
 ancestry: Mawaran
 gender: female
 whereabouts: Mawar Confederacy
-title: Hiyasa
-hide_toc: true
 hide: [navigation]
+title: Hiyasa
 ---
 # Hiyasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

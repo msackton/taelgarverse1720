@@ -10,9 +10,8 @@ reignStart:
 died: 1706
 affiliations:
 - {org: House of Lils, type: primary}
-title: Gyles
-hide_toc: true
 hide: [navigation]
+title: Gyles
 ---
 # Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

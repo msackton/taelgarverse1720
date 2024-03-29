@@ -13,9 +13,8 @@ affiliations:
 whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
-title: Lyle Greenleaf
-hide_toc: true
 hide: [navigation]
+title: Lyle Greenleaf
 ---
 # Lyle Greenleaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

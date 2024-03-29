@@ -10,9 +10,8 @@ affiliations:
 - {org: Redpeaks, type: primary}
 gender: female
 whereabouts: Darba
-title: Torgga Redpeak
-hide_toc: true
 hide: [navigation]
+title: Torgga Redpeak
 ---
 # Torgga Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

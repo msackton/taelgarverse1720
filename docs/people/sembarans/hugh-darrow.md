@@ -7,9 +7,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Taviose
-title: Hugh Darrow
-hide_toc: true
 hide: [navigation]
+title: Hugh Darrow
 ---
 # Hugh Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

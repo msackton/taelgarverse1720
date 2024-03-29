@@ -9,9 +9,8 @@ gender: male
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
-title: Samuel
-hide_toc: true
 hide: [navigation]
+title: Samuel
 ---
 # Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

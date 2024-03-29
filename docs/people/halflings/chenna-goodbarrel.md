@@ -16,9 +16,8 @@ whereabouts:
 - {type: home, end: 1725, location: Sembara}
 - {type: home, start: 1725, location: The Singing Fox}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
-title: Chenna Goodbarrel
-hide_toc: true
 hide: [navigation]
+title: Chenna Goodbarrel
 ---
 # Chenna Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

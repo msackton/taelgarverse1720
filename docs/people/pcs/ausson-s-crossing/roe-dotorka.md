@@ -7,9 +7,8 @@ species: dwarf
 ancestry: Ardikhun
 gender: male
 player: Chris Kelly
-title: Roe DoTorka
-hide_toc: true
 hide: [navigation]
+title: Roe DoTorka
 ---
 # Roe DoTorka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

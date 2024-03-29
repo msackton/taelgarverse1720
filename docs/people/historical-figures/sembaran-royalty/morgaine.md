@@ -12,9 +12,8 @@ died: 1713
 affiliations:
 - {org: House of Lils, type: primary}
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
-title: Morgaine
-hide_toc: true
 hide: [navigation]
+title: Morgaine
 ---
 # Morgaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

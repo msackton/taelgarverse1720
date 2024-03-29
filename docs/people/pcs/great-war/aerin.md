@@ -9,9 +9,8 @@ ancestry:
 gender: male
 player: David Schwartz
 affiliations:
-title: Aerin
-hide_toc: true
 hide: [navigation]
+title: Aerin
 ---
 # Aerin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

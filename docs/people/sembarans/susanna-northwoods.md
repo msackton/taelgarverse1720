@@ -5,9 +5,8 @@ whereabouts: Asineau
 gender: female
 species: human
 ancestry: Sembaran
-title: Susanna Northwoods
-hide_toc: true
 hide: [navigation]
+title: Susanna Northwoods
 ---
 # Susanna Northwoods
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

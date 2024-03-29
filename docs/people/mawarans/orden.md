@@ -8,9 +8,8 @@ species: human
 ancestry: Mawaran
 gender: male
 whereabouts: Hamri
-title: Orden
-hide_toc: true
 hide: [navigation]
+title: Orden
 ---
 # Orden
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

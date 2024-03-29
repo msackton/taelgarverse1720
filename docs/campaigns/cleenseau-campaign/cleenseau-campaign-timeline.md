@@ -13,7 +13,7 @@ title: Cleenseau Campaign - Timeline
 * Mid August: The beginning of [Wakog's](<../../people/other-nonhumans/wakog.md>) raids
 ### October
 * October 16th: The [River Enst floods](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>) 
-* October 17th: [Najeer](<../../people/pcs/cleenseau/viepuck.md>) arrives in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
+* October 17th: [Viepuck](<../../people/pcs/cleenseau/viepuck.md>) arrives in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), disguised as [Najeer](<../../people/pcs/cleenseau/viepuck.md>)
 * October 19th: [Celyn](<../../people/pcs/cleenseau/celyn.md>) arrives in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) 
 * October 20th, AM: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>) and [Robin](<../../people/pcs/cleenseau/robin-of-abenfyrd.md>) arrive in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) during the [spider attack](<../../events/1700s/1719/10/first-spider-attack-on-tavoise.md>)
 * October 20th, PM: The four travelers are invited to an awkward dinner party at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>)
@@ -22,7 +22,7 @@ title: Cleenseau Campaign - Timeline
 * October 21st, day: investigation of the spiders
 * October 21st, evening: Ettercap killed
 * October 22nd: party returns to Cleenseau victorious, meets Rosalind
-* October 23rd: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>), [Najeer](<../../people/pcs/cleenseau/viepuck.md>), and [Celyn](<../../people/pcs/cleenseau/celyn.md>) investigate [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), meet with [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>) and [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>); [Celyn](<../../people/pcs/cleenseau/celyn.md>) communes with fairies;  [Najeer](<../../people/pcs/cleenseau/viepuck.md>) with his egg; [Najeer](<../../people/pcs/cleenseau/viepuck.md>) meets [Conrad](<../../people/sembarans/conrad.md>)
+* October 23rd: [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>), [Viepuck](<../../people/pcs/cleenseau/viepuck.md>), and [Celyn](<../../people/pcs/cleenseau/celyn.md>) investigate [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), meet with [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>) and [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>); [Celyn](<../../people/pcs/cleenseau/celyn.md>) communes with fairies;  [Viepuck](<../../people/pcs/cleenseau/viepuck.md>) with his egg; [Viepuck](<../../people/pcs/cleenseau/viepuck.md>) meets [Conrad](<../../people/sembarans/conrad.md>)
 * October 24th: the party revisits the woods and recovers some spider silk
 * October 22nd - October 28th: [Robin](<../../people/pcs/cleenseau/robin-of-abenfyrd.md>) visits [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>) with [Narrisa](<../../people/maseauns/narrisa-de-abadelle.md>) and hears rumors of an empty and unexpectedly abandoned inn
 * Late October: Many rumors in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>) about [Wakog](<../../people/other-nonhumans/wakog.md>)

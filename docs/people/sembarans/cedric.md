@@ -9,9 +9,8 @@ ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Cleenseau}
-title: Cedric
-hide_toc: true
 hide: [navigation]
+title: Cedric
 ---
 # Cedric
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

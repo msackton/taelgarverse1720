@@ -7,9 +7,8 @@ species: human
 ancestry: Sembaran
 gender: male
 died: 1674
-title: Cedric Cyfenwid
-hide_toc: true
 hide: [navigation]
+title: Cedric Cyfenwid
 ---
 # Cedric Cyfenwid
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

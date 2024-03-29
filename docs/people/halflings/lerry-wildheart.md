@@ -14,9 +14,8 @@ affiliations:
 - {org: Wildhearts, type: primary}
 whereabouts:
 - {type: home, location: Wave Dancer, wHome: 'Sails <home:qr>'}
-title: Lerry Wildheart
-hide_toc: true
 hide: [navigation]
+title: Lerry Wildheart
 ---
 # Lerry Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

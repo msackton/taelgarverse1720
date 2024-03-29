@@ -9,9 +9,8 @@ gender: male
 whereabouts: Taviose
 born: 1666
 died: 1719-10-21
-title: Denis Moss
-hide_toc: true
 hide: [navigation]
+title: Denis Moss
 ---
 # Denis Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

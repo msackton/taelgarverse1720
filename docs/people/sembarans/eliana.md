@@ -4,9 +4,8 @@ tags: [person]
 gender: female
 species: human
 whereabouts: Cleenseau
-title: Eliana
-hide_toc: true
 hide: [navigation]
+title: Eliana
 ---
 # Eliana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

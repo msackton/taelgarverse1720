@@ -10,9 +10,8 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1689-01-02, location: Chardon}
 - {type: away, start: 1748-11-23, location: Illoria}
-title: Servius
-hide_toc: true
 hide: [navigation]
+title: Servius
 ---
 # Servius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

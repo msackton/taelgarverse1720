@@ -12,9 +12,8 @@ affiliations:
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
-title: Adra Brightwood
-hide_toc: true
 hide: [navigation]
+title: Adra Brightwood
 ---
 # Adra Brightwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -6,9 +6,8 @@ gender: female
 ancestry: Sembaran
 species: human
 born: 1687
-title: Blanche
-hide_toc: true
 hide: [navigation]
+title: Blanche
 ---
 # Blanche
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,4 +21,4 @@ hide: [navigation]
 </div>
 
 
-![Blanche Of Beury](../../assets/blanche-of-beury.png){align="right"; width="320"} [Lionel's](<./lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 
+![Blanche of Beury](../../assets/blanche-of-beury.png){align="right"; width="320"} [Lionel's](<./lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 

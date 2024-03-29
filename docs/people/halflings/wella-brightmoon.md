@@ -14,9 +14,8 @@ affiliations:
 - {org: Brightmoons, type: primary}
 - {place: Wave Dancer, title: Captain, type: leader, start: 1}
 whereabouts: Wave Dancer
-title: Wella Brightmoon
-hide_toc: true
 hide: [navigation]
+title: Wella Brightmoon
 ---
 # Wella Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

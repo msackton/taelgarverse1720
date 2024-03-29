@@ -3,9 +3,8 @@ headerVersion: 2023.11.25
 tags: [person, status/needswork/notes]
 species: demon
 gender: male
-title: Oduk
-hide_toc: true
 hide: [navigation]
+title: Oduk
 ---
 # Oduk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

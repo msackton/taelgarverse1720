@@ -12,9 +12,8 @@ pronunciation: Ruh-mee Voh-klair
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Remille Vauclaire
-hide_toc: true
 hide: [navigation]
+title: Remille Vauclaire
 ---
 # Remille Vauclaire
 :speaker:{ .middle } *(Ruh-mee Voh-klair)*  

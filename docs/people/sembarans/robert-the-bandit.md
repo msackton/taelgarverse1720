@@ -11,9 +11,8 @@ died: 1719-11-03
 whereabouts:
 - {type: home}
 - {location: Cleenseau Region, type: home}
-title: Robert
-hide_toc: true
 hide: [navigation]
+title: Robert
 ---
 # Robert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,9 +11,8 @@ affiliations:
 whereabouts:
 - {type: home, location: plains of Songara}
 pronunciation: Shun-dhun
-title: Shandan
-hide_toc: true
 hide: [navigation]
+title: Shandan
 ---
 # Shandan
 :speaker:{ .middle } *(Shun-dhun)*  

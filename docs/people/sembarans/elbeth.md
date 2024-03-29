@@ -10,9 +10,8 @@ whereabouts:
 - {type: home, location: Asineau}
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
-title: Elbeth
-hide_toc: true
 hide: [navigation]
+title: Elbeth
 ---
 # Elbeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

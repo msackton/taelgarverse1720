@@ -11,9 +11,8 @@ ancestry: Dunmari
 gender: male
 affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
-title: Basu
-hide_toc: true
 hide: [navigation]
+title: Basu
 ---
 # Basu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

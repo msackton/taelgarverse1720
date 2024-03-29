@@ -9,9 +9,8 @@ species: fey
 subspecies: nymph
 gender: female
 whereabouts: Amberglow
-title: Melusine
-hide_toc: true
 hide: [navigation]
+title: Melusine
 ---
 # Melusine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

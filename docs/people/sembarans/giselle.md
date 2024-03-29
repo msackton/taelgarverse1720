@@ -5,9 +5,8 @@ species: human
 ancestry: Sembaran
 whereabouts: Valit
 born: 1686
-title: Giselle
-hide_toc: true
 hide: [navigation]
+title: Giselle
 ---
 # Giselle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,9 +9,8 @@ ancestry: Dunmari
 gender: female
 whereabouts:
 - {type: home, prefix: northern, location: plains of Karawa}
-title: Shani
-hide_toc: true
 hide: [navigation]
+title: Shani
 ---
 # Shani
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -8,7 +8,6 @@ title: King Bjarnfrost
 name: Bjarnfrost
 affiliations:
 - {place: Kaldhalla, title: King, type: leader, end: 1511}
-hide_toc: true
 hide: [navigation]
 ---
 # King Bjarnfrost

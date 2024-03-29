@@ -10,9 +10,8 @@ gender: male
 died: 1208
 whereabouts:
 - {location: Dunmar, type: home}
-title: Asuddha
-hide_toc: true
 hide: [navigation]
+title: Asuddha
 ---
 # Asuddha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

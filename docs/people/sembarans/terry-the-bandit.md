@@ -12,9 +12,8 @@ died: 1719-11-03
 whereabouts:
 - {type: home, location: Beggar's Way}
 - {type: away, linkText: at, alias: bandit lair upriver of Cleenseau, location: Cleenseau, start: 1719-11-03}
-title: Terry the Bandit
-hide_toc: true
 hide: [navigation]
+title: Terry the Bandit
 ---
 # Terry the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

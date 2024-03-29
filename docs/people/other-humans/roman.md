@@ -7,9 +7,8 @@ whereabouts: Zvervinka
 ancestry: Urskan
 affiliations:
 - {place: The Silver Wolf, type: leader, title: Owner}
-title: Roman
-hide_toc: true
 hide: [navigation]
+title: Roman
 ---
 # Roman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

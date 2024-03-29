@@ -10,9 +10,8 @@ ancestry: Sembaran
 gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
-title: Margaret Ashford
-hide_toc: true
 hide: [navigation]
+title: Margaret Ashford
 ---
 # Margaret Ashford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

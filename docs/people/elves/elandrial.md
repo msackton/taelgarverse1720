@@ -13,9 +13,8 @@ whereabouts:
 - {type: away}
 affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
-title: Elandrial
-hide_toc: true
 hide: [navigation]
+title: Elandrial
 ---
 # Elandrial
 :speaker:{ .middle } *(eh-LAN-dree-ahl)*  

@@ -14,9 +14,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: Skaerhem}
 - {type: home, start: 1741-01-02, end: '', location: Western Green Sea}
 - {type: away, start: 1748-05-01, end: '1748-12-22', location: Vetta}
-title: Urgall
-hide_toc: true
 hide: [navigation]
+title: Urgall
 ---
 # Urgall
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

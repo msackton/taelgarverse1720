@@ -6,9 +6,8 @@ name: Adam Gower
 gender: male
 ancestry: Tollender
 whereabouts: Tollen
-title: Adam Gower
-hide_toc: true
 hide: [navigation]
+title: Adam Gower
 ---
 # Adam Gower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

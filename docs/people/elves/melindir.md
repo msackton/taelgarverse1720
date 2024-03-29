@@ -13,9 +13,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: Orenlas}
 - {type: home, start: '', end: '', location: Tollen}
 pronunciation: meh-LIN-deer
-title: Melindir
-hide_toc: true
 hide: [navigation]
+title: Melindir
 ---
 # Melindir
 :speaker:{ .middle } *(meh-LIN-deer)*  

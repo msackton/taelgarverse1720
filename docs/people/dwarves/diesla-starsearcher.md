@@ -11,9 +11,8 @@ gender: female
 whereabouts:
 - {type: home, location: Ardith}
 - {type: home, start: 1670, location: Taviose}
-title: Diesla Starsearcher
-hide_toc: true
 hide: [navigation]
+title: Diesla Starsearcher
 ---
 # Diesla Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

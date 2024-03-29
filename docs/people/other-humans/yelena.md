@@ -6,9 +6,8 @@ ancestry: Urskan
 gender: female
 affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
-title: Yelena
-hide_toc: true
 hide: [navigation]
+title: Yelena
 ---
 # Yelena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

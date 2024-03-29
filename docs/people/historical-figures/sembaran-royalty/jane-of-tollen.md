@@ -14,9 +14,8 @@ leaderOf:
 - {place: Lavnoch, title: Queen Regent, end: 1555}
 - {place: Breva, title: Queen Regent, end: 1555}
 died: 1559
-title: Jane of Tollen
-hide_toc: true
 hide: [navigation]
+title: Jane of Tollen
 ---
 # Jane of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,9 +12,8 @@ affiliations:
 - {org: Stonebridges, type: primary}
 whereabouts:
 - {type: home, location: Cleenseau}
-title: Mermin Stonebridge
-hide_toc: true
 hide: [navigation]
+title: Mermin Stonebridge
 ---
 # Mermin Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

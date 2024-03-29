@@ -9,9 +9,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: home, start: 1748-06-08, location: Karawa}
-title: Selkan
-hide_toc: true
 hide: [navigation]
+title: Selkan
 ---
 # Selkan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

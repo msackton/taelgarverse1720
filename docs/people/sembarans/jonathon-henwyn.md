@@ -12,9 +12,8 @@ whereabouts:
 affiliations:
 - {org: Essfords, title: Steward}
 - {org: Lord's Council of Cleenseau}
-title: Jonathon Henwyn
-hide_toc: true
 hide: [navigation]
+title: Jonathon Henwyn
 ---
 # Jonathon Henwyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

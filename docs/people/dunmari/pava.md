@@ -12,9 +12,8 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Pava and Avaras' House}
-title: Pava
-hide_toc: true
 hide: [navigation]
+title: Pava
 ---
 # Pava
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

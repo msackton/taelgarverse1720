@@ -14,9 +14,8 @@ whereabouts:
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 pronunciation: EL-wiss
-title: Elwis
-hide_toc: true
 hide: [navigation]
+title: Elwis
 ---
 # Elwis
 :speaker:{ .middle } *(EL-wiss)*  

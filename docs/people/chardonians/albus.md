@@ -11,9 +11,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1729, location: Chardon}
 - {type: home, start: 1730, end: '', location: Darba}
-title: Albus
-hide_toc: true
 hide: [navigation]
+title: Albus
 ---
 # Albus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

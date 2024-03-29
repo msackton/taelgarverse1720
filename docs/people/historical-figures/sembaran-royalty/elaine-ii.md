@@ -14,7 +14,6 @@ leaderOf:
 - {place: Sembara, start: 1720-06-15}
 affiliations:
 - {org: House of Lils, type: primary}
-hide_toc: true
 hide: [navigation]
 ---
 # Queen Elaine II

@@ -11,9 +11,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Embry}
 - {type: home, location: Asineau}
-title: Lorin Valbert
-hide_toc: true
 hide: [navigation]
+title: Lorin Valbert
 ---
 # Lorin Valbert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

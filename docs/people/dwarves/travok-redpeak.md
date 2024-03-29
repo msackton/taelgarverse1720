@@ -7,9 +7,8 @@ born:
 species: dwarf
 ancestry:
 gender: male
-title: Travok Redpeak
-hide_toc: true
 hide: [navigation]
+title: Travok Redpeak
 ---
 # Travok Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

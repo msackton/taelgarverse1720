@@ -8,9 +8,8 @@ born: 1674
 whereabouts:
 - {type: home, location: Laicon, end: 1698}
 - {type: home, location: Cleenseau, start: 1699}
-title: Arnaud Ausson
-hide_toc: true
 hide: [navigation]
+title: Arnaud Ausson
 ---
 # Arnaud Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

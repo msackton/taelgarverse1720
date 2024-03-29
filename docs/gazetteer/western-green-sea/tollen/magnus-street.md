@@ -15,4 +15,4 @@ title: Magnus Street
 
 
 ### Places 
-- The Fire and Stone
+- [The Fire and Stone](<./the-fire-and-stone.md>)

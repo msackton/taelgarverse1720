@@ -8,9 +8,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Evis
-title: Peyre Vayler
-hide_toc: true
 hide: [navigation]
+title: Peyre Vayler
 ---
 # Peyre Vayler
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

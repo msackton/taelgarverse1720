@@ -9,9 +9,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Te'kula village
-title: Yota
-hide_toc: true
 hide: [navigation]
+title: Yota
 ---
 # Yota
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

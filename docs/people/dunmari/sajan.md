@@ -7,9 +7,8 @@ born:
 species: human
 ancestry: Dunmari
 gender: female
-title: Sajan
-hide_toc: true
 hide: [navigation]
+title: Sajan
 ---
 # Sajan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

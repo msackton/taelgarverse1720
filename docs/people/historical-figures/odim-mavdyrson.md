@@ -8,9 +8,8 @@ died: 1590
 species: giant
 subspecies: fire giant
 gender: male
-title: Odim Mavdyrson
-hide_toc: true
 hide: [navigation]
+title: Odim Mavdyrson
 ---
 # Odim Mavdyrson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/minor, person, dufr/aware, status/unknown]
+tags: [person, status/cleanup/refactor, status/cleanup/header]
 campaignInfo: []
 name: Crispus
 born: 1697
@@ -13,7 +13,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Chardon}
 pronunciation: CRIS-pus
-hide_toc: true
 hide: [navigation]
 ---
 # Crispus
@@ -28,6 +27,8 @@ hide: [navigation]
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 A senior Archivist at the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>), in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 

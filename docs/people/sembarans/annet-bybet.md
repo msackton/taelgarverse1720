@@ -14,9 +14,8 @@ whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
 - {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
-title: Annet Bybet
-hide_toc: true
 hide: [navigation]
+title: Annet Bybet
 ---
 # Annet Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

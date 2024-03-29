@@ -6,9 +6,8 @@ ancestry: Sembaran
 name: Mabel of Cleenseau
 born: 1693
 whereabouts: Cleenseau
-title: Mabel of Cleenseau
-hide_toc: true
 hide: [navigation]
+title: Mabel of Cleenseau
 ---
 # Mabel of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

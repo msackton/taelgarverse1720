@@ -9,9 +9,8 @@ ancestry: Mawaran
 gender:
 player: David Schwartz
 affiliations:
-title: Ander
-hide_toc: true
 hide: [navigation]
+title: Ander
 ---
 # Ander
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

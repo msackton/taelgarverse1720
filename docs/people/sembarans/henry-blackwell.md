@@ -7,9 +7,8 @@ died: 1720-01-04
 species: human
 ancestry: Sembaran
 gender: male
-title: Henry Blackwell
-hide_toc: true
 hide: [navigation]
+title: Henry Blackwell
 ---
 # Henry Blackwell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

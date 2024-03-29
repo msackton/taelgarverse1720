@@ -11,9 +11,8 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-10-23, end: '', location: Illoria}
 - {type: home, start: '', end: '', location: Chardon}
-title: Dain Goldhammer
-hide_toc: true
 hide: [navigation]
+title: Dain Goldhammer
 ---
 # Dain Goldhammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

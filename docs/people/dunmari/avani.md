@@ -11,9 +11,8 @@ affiliations:
 - {org: Fraternity of the Empty Moon, start: 1748-04, end: 1748-07-03}
 gender: female
 whereabouts: Tokra
-title: Avani
-hide_toc: true
 hide: [navigation]
+title: Avani
 ---
 # Avani
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

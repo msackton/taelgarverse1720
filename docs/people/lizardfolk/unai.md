@@ -7,9 +7,8 @@ species: lizardfolk
 ancestry:
 gender: female
 whereabouts: Ganboa
-title: Unai
-hide_toc: true
 hide: [navigation]
+title: Unai
 ---
 # Unai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

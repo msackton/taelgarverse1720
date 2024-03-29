@@ -8,9 +8,8 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts: Hamri
-title: Ovina
-hide_toc: true
 hide: [navigation]
+title: Ovina
 ---
 # Ovina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

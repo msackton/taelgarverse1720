@@ -9,9 +9,8 @@ gender: male
 whereabouts: Tokra
 affiliations:
 - {org: Hardstones, type: primary}
-title: Morkral Hardstone
-hide_toc: true
 hide: [navigation]
+title: Morkral Hardstone
 ---
 # Morkral Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

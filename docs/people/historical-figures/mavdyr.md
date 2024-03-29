@@ -8,9 +8,8 @@ species: giant
 subspecies: fire giant
 ancestry:
 gender: male
-title: Mavdyr
-hide_toc: true
 hide: [navigation]
+title: Mavdyr
 ---
 # Mavdyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

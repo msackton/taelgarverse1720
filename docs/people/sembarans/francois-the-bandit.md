@@ -11,9 +11,8 @@ gender: male
 aliases: [François the Bandit]
 died: 1719-11-05
 whereabouts: Cleenseau Region
-title: François the Bandit
-hide_toc: true
 hide: [navigation]
+title: François the Bandit
 ---
 # François the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

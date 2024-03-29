@@ -58,7 +58,7 @@ There are four inns in Cleenseau, and the innkeepers are significant figures in 
 Cleenseau itself is a large market town of about 1200 people.
 
 <div class="grid cards ext-narrow-margin" markdown>
- - ![Catherine De Brune](../../assets/catherine-de-brune.png){align="left"; width="120"} [Catherine de Brune](<../../people/sembarans/catherine-de-brune.md>) and the de Brune family are wealthy merchants with many landholdings across the region
+ - ![Catherine de Brune](../../assets/catherine-de-brune.png){align="left"; width="120"} [Catherine de Brune](<../../people/sembarans/catherine-de-brune.md>) and the de Brune family are wealthy merchants with many landholdings across the region
  - ![Geoffrey Save](../../assets/geoffrey-save.png){align="left"; width="120"} [Geoffrey Save](<../../people/sembarans/geoffrey-save.md>) and the Save family are significant landlords in Underhill and brewers and bakers
  - ![Arnaud Ausson](../../assets/arnaud-ausson.png){align="left"; width="120"} [Arnaud Ausson](<../../people/sembarans/arnaud-ausson.md>), a [Isinguer](<../../gazetteer/istaros-watershed/isingue.md>) merchant, the center of a small Isingue community in Cleenseau
  - ![Matteo Ausson](../../assets/matteo-ausson.png){align="left"; width="120"}  [Matteo Ausson](<../../people/sembarans/matteo-ausson.md>), Arnaud's son and a companion of Rinault Essford
@@ -78,7 +78,7 @@ Cleenseau itself is a large market town of about 1200 people.
 [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) is a small hamlet near the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), also part of the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
 
 <div class="grid cards ext-narrow-margin" markdown>
- - ![Perrin The Druid](../../assets/perrin-the-druid.png){align="left"; width="120"} [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>), a druid and acolyte of the Wildling
+ - ![Perrin the Druid](../../assets/perrin-the-druid.png){align="left"; width="120"} [Perrin Voclain](<../../people/sembarans/perrin-voclain.md>), a druid and acolyte of the Wildling
  - ![Remy Darrow](../../assets/remy-darrow.png){align="left"; width="120"} [Remy Darrow](<../../people/sembarans/remy-darrow.md>), the elderly patriarch of the Darrow family
  - ![Hugh Darrow](../../assets/hugh-darrow.png){align="left"; width="120"} [Hugh Darrow](<../../people/sembarans/hugh-darrow.md>), Remy's son, and sturdy with an ax. Helped in the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
  - ![Odo Cordwaner](../../assets/odo-cordwaner.png){align="left"; width="120"} [Odo Cordwaner](<../../people/sembarans/odo-cordwaner.md>), recently discharged from the Army of the West and now the entirely of the Taviose town watch
@@ -114,7 +114,7 @@ The [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
  - ![Erick Murtha](../../assets/erick-murtha.png){align="left"; width="120"} [Erick Murtha](<../../people/sembarans/erick-murtha.md>), the lord
  - ![Edmund Bracken](../../assets/edmund-bracken.png){align="left"; width="120"} [Edmund Bracken](<../../people/sembarans/edmund-bracken.md>), his valet and steward
  - ![Lionel Mortagne](../../assets/lionel-mortagne.png){align="left"; width="120"} [Lionel Mortagne](<../../people/sembarans/lionel-mortagne.md>), the master of the guard in Beury
- - ![Blanche Of Beury](../../assets/blanche-of-beury.png){align="left"; width="120"} [Blanche](<../../people/sembarans/blanche.md>), Lionel's assistant and the magistrate
+ - ![Blanche of Beury](../../assets/blanche-of-beury.png){align="left"; width="120"} [Blanche](<../../people/sembarans/blanche.md>), Lionel's assistant and the magistrate
  - ![Collette Mutha](../../assets/collette-mutha.png){align="left"; width="120"} [Collette Murtha](<../../people/sembarans/collette-murtha.md>), the administrator of the temple of the Father in Beury
  - ![Jean Luc D Aslain](../../assets/jean-luc-d-aslain.png){align="left"; width="120"} [Jean-Luc d'Aslain](<../../people/sembarans/jean-luc-d-aslain.md>), a disciple of the Father
 </div>
@@ -123,9 +123,9 @@ The [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-valit.md>) is a baronial manor based on the small village of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>) and near the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>)
 
 <div class="grid cards ext-narrow-margin" markdown>
- - ![Sabine De Brune Valit](../../assets/sabine-de-brune-valit.png){align="left"; width="120"} [Sabine de Brune](<../../people/sembarans/sabine-de-brune.md>), the castellean and magistrate
+ - ![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png){align="left"; width="120"} [Sabine de Brune](<../../people/sembarans/sabine-de-brune.md>), the castellean and magistrate
  - ![Giselle](../../assets/giselle.png){align="left"; width="120"} [Giselle](<../../people/sembarans/giselle.md>), the her secretary and clerk of the baronial records 
- - ![Warin The Woodsman](../../assets/warin-the-woodsman.png){align="left"; width="120"} [Warin the Woodsman](<../../people/sembarans/warin-the-woodsman.md>), captain of Valit's household guard and a skilled tracker
+ - ![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="left"; width="120"} [Warin the Woodsman](<../../people/sembarans/warin-the-woodsman.md>), captain of Valit's household guard and a skilled tracker
 </div>
 
 ## Colorful Characters Around The Region
@@ -133,7 +133,7 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 <div class="grid cards ext-narrow-margin" markdown>
  - ![Mabel Cleenseau](../../assets/mabel-cleenseau.png){align="left"; width="120"} [Mabel](<../../people/sembarans/mabel-of-cleenseau.md>), a sometimes scout who helped scout during the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
  - ![Walter Cleenseau](../../assets/walter-cleenseau.png){align="left"; width="120"} [Walter of Cleenseau](<../../people/sembarans/walter-of-cleenseau.md>), helps out around the garrison
- - ![Jasper Of Beury](../../assets/jasper-of-beury.png){align="left"; width="120"} [Jasper of Beury](<../../people/sembarans/jasper-of-beury.md>), a hired laborer, ex-robber, and mercenary type, who helped during the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
+ - ![Jasper of Beury](../../assets/jasper-of-beury.png){align="left"; width="120"} [Jasper of Beury](<../../people/sembarans/jasper-of-beury.md>), a hired laborer, ex-robber, and mercenary type, who helped during the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
  - ![Brot Portrait](../../assets/brot-portrait.png){align="left"; width="120"} [Brot Starsearcher](<../../people/dwarves/brot-starsearcher.md>), an eccentric dwarf, and their wife [Diesla Starsearcher](<../../people/dwarves/diesla-starsearcher.md>)
  - ![Balthazar](../../assets/balthazar.png){align="left"; width="120"} [Balthazar](<../../people/maseauns/balthazar.md>), an orphan and perhaps budding warlock
  - [Aldric Tannen](<../../people/sembarans/aldric-tannen.md>), a schemer looking to start a ferryboat company
@@ -141,11 +141,11 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 
 ## Farther Afield
 <div class="grid cards ext-narrow-margin" markdown>
- - ![Duke Of Wisford 2](../../assets/duke-of-wisford-2.png){align="left"; width="120"} [Jacques Bellemont](<../../people/sembarans/jacques-bellemont.md>), the Duke of Wisford
+ - ![Duke of Wisford 2](../../assets/duke-of-wisford-2.png){align="left"; width="120"} [Jacques Bellemont](<../../people/sembarans/jacques-bellemont.md>), the Duke of Wisford
  - ![Baroness Isabeau](../../assets/baroness-isabeau.png){align="left"; width="120"} Isabeau d'Aslain, the Baroness of Aveil
  - [Vincent de Arban](<../../people/sembarans/vincent-de-arban.md>), an agent of [Susanne Garay](<../../people/sembarans/susanne-garay.md>) investigating rumors
  - [Susanne Garay](<../../people/sembarans/susanne-garay.md>), a notable merchant in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>) and the pretend-mother of [Najeer Garay](<../../people/pcs/cleenseau/viepuck.md>) (now revealed as an alternative identity of [Viepuck](<../../people/pcs/cleenseau/viepuck.md>))
- - ![Guy De Varan Maseau](../../assets/guy-de-varan-maseau.png){align="left"; width="120"} [Guy de Varan](<../../people/maseauns/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
+ - ![Guy de Varan Maseau](../../assets/guy-de-varan-maseau.png){align="left"; width="120"} [Guy de Varan](<../../people/maseauns/guy-de-varan.md>), a merchant and traveler from [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)
  - [Agnés](<../../people/maseauns/agnes-of-evis.md>), a caravan guard
 </div>
 

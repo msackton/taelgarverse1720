@@ -11,9 +11,8 @@ gender: female
 whereabouts:
 - {type: home, start: 1709-01-01, end: '', location: Skaerhem}
 - {type: home, start: 1731-01-02, end: '', location: Antaka}
-title: Skalme
-hide_toc: true
 hide: [navigation]
+title: Skalme
 ---
 # Skalme
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

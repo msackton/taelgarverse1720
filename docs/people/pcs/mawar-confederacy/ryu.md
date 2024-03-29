@@ -9,9 +9,8 @@ ancestry: Mawaran
 gender: male
 player: David Kong
 affiliations:
-title: Ryu
-hide_toc: true
 hide: [navigation]
+title: Ryu
 ---
 # Ryu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

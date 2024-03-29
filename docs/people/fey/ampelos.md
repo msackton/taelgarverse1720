@@ -4,9 +4,8 @@ tags: [person]
 species: fey
 subspecies: satyr
 whereabouts: Tyrwingha
-title: Ampelos
-hide_toc: true
 hide: [navigation]
+title: Ampelos
 ---
 # Ampelos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

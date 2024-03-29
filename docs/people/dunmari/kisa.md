@@ -8,9 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Karawa
-title: Kisa
-hide_toc: true
 hide: [navigation]
+title: Kisa
 ---
 # Kisa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

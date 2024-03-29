@@ -10,9 +10,8 @@ pronunciation: Tris-tan Voh-dree-yar
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-title: Tristan Vaudrillard
-hide_toc: true
 hide: [navigation]
+title: Tristan Vaudrillard
 ---
 # Tristan Vaudrillard
 :speaker:{ .middle } *(Tris-tan Voh-dree-yar)*  

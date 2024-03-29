@@ -6,9 +6,8 @@ gender: female
 ancestry: Sembaran
 species: human
 born: 1679
-title: Collette Murtha
-hide_toc: true
 hide: [navigation]
+title: Collette Murtha
 ---
 # Collette Murtha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

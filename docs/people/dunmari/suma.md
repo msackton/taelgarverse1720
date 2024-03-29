@@ -8,9 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Karawa
-title: Suma
-hide_toc: true
 hide: [navigation]
+title: Suma
 ---
 # Suma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

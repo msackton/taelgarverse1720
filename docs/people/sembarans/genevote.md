@@ -5,9 +5,8 @@ gender: female
 whereabouts: Cleenseau
 species: human
 ancestry: Isinguer
-title: Genevote
-hide_toc: true
 hide: [navigation]
+title: Genevote
 ---
 # Genevote
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

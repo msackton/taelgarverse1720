@@ -9,9 +9,8 @@ species: korred
 ancestry:
 gender: male
 whereabouts: Crystal Peak
-title: Illaran
-hide_toc: true
 hide: [navigation]
+title: Illaran
 ---
 # Illaran
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

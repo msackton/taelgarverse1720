@@ -23,7 +23,6 @@ whereabouts:
 - {type: away, start: 1720-01-12, end: 1720-01-13, location: Wisford}
 - {type: away, start: 1720-01-13, end: 1720-01-16, location: travelling to Embry}
 - {type: away, start: 1720-01-17, end: 9999, location: Embry}
-hide_toc: true
 hide: [navigation]
 ---
 # Lady Rosalind Essford
@@ -48,6 +47,8 @@ hide: [navigation]
 
 ![Lady Rosalind Essford](../../assets/lady-rosalind-essford.png){align="right"; width="320"}The daughter of [Wymar](<./wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Essford](<./arthur-essford.md>) in 1706, and their match has been a good and popular one. 
 
+
+In the late fall of 1719, she lost her three children and their nursemaid to a [unseasonable flood of the Enst](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>).  She enjoys quite music, especially [Robin's](<../pcs/cleenseau/robin-of-abenfyrd.md>) playing, which has been a comfort to her since her children died. 
 
 
 

@@ -13,7 +13,6 @@ affiliations:
 - {place: Sembara, start: 1429}
 - {place: Duchy of Telham, title: Duke, start: 1429}
 title: King Derik I
-hide_toc: true
 hide: [navigation]
 ---
 # King Derik I

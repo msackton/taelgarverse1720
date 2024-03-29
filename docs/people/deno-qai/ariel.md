@@ -11,9 +11,8 @@ gender: female
 whereabouts:
 - {type: home, location: Forest of Dreams, alias: Shu'anra village in the Forest of Dreams}
 - {type: home, location: Te'kula village}
-title: Ariel
-hide_toc: true
 hide: [navigation]
+title: Ariel
 ---
 # Ariel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

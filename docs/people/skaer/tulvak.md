@@ -10,9 +10,8 @@ ancestry: Skaer
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Pyhlla}
-title: Tulvak
-hide_toc: true
 hide: [navigation]
+title: Tulvak
 ---
 # Tulvak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

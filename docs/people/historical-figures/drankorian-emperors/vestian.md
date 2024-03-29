@@ -8,7 +8,6 @@ species: human
 ancestry:
 gender: male
 title: Emperor Vestian
-hide_toc: true
 hide: [navigation]
 ---
 # Emperor Vestian

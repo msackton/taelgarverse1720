@@ -8,9 +8,8 @@ ancestry:
 gender:
 player:
 affiliations:
-title: Dimitaur
-hide_toc: true
 hide: [navigation]
+title: Dimitaur
 ---
 # Dimitaur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

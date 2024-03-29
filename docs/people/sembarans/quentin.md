@@ -12,9 +12,8 @@ affiliations: [Army of the West]
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
-title: Quetin
-hide_toc: true
 hide: [navigation]
+title: Quetin
 ---
 # Quetin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

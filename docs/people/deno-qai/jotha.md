@@ -10,9 +10,8 @@ gender: female
 pronunciation: yo-TAH
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
-title: Jotha
-hide_toc: true
 hide: [navigation]
+title: Jotha
 ---
 # Jotha
 :speaker:{ .middle } *(yo-TAH)*  

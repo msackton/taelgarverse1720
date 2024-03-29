@@ -11,9 +11,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1730, location: Tollen}
 - {type: away, start: '', end: '', location: Eastern Green Sea}
-title: Arryn
-hide_toc: true
 hide: [navigation]
+title: Arryn
 ---
 # Arryn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,7 +28,7 @@ hide: [navigation]
 
 
 
-![Arryn The Wanderer Portrait](../../assets/arryn-the-wanderer-portrait.png){align="right"; width="400"}A wizard of significant power. Originally from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), but now dwells in a tower in the northern part of the ~Eastern Islands~. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) in particular. 
+![Arryn the Wanderer Portrait](../../assets/arryn-the-wanderer-portrait.png){align="right"; width="400"}A wizard of significant power. Originally from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), but now dwells in a tower in the northern part of the ~Eastern Islands~. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/multiverse/echo-realms/mirror-realm.md>) in particular. 
 
 
 

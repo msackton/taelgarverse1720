@@ -9,9 +9,8 @@ species: fey
 subspecies: dryad
 gender: female
 whereabouts: Azta Lekua
-title: Eleuha
-hide_toc: true
 hide: [navigation]
+title: Eleuha
 ---
 # Eleuha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

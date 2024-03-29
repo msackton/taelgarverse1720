@@ -8,9 +8,8 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts: Hamri
-title: Benat
-hide_toc: true
 hide: [navigation]
+title: Benat
 ---
 # Benat
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

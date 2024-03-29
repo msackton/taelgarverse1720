@@ -8,9 +8,8 @@ species: human
 ancestry: Dunmari
 gender: male
 player: David Kong
-title: Kenzo
-hide_toc: true
 hide: [navigation]
+title: Kenzo
 ---
 # Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -77,9 +76,9 @@ hide: [navigation]
 
 > [!WARNING]- Private Discussion with Vola, Session 11
 > 
-> ### Kenzo and Vola, Session 11 (DuFr)
+> ### Kenzo and [Vola](<../../chardonians/vola.md>), Session 11 (DuFr)
 > 
-> Vola comes to sit next to you.
+> [Vola](<../../chardonians/vola.md>) comes to sit next to you.
 > “Fuck, that was awful”
 > I don’t answer but grasp her hand and bring her into meditation with me if she chooses
 > She talks quietly, not expecting a response. “I saw some shit growing up in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). Near the chalyte refineries.”
@@ -92,7 +91,7 @@ hide: [navigation]
 > I know those refineries. I’m glad to have left. If you’re from there how did you end up with open scroll? I’ll be honest. When I heard you were from there I put my armor up
 > “I met someone. He noticed my talent. He took me to Whitsun Tower, in the academy. I learned there. You should not think poorly of the Society. Remember after the fall of [Drankor](<../../../history/drankorian-era/drankor.md>), oh so many years ago, much was lost and humanity was much poorer for it.”
 > Who did you meet?
-> “A friend. His name is Agon."
+> “A friend. His name is [Agon](<../../chardonians/agon.md>)."
 > And what has the Society done for the neighborhoods in the north bank? A lot of suffering from what I lived and experienced.
 > “[Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) will rise, I’m sure. When we have more knowledge and power we can help all the true Chardonians who need it.”
 > Who are true Chardonians?
@@ -204,11 +203,11 @@ hide: [navigation]
 > 
 > ### Jungle Ki Lore, Session 57 (DuFr)
 > 
-> In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named Elazar. 
+> In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [Elazar](<../../lizardfolk/elazar.md>). 
 > 
 > The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>), which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [Plane of Magic](<../../../cosmology/multiverse/energy-realms/plane-of-magic.md>). 
 > 
-> Elazar taught Kenzo about the following plants and the kinds of ki they can channel: 
+> [Elazar](<../../lizardfolk/elazar.md>) taught Kenzo about the following plants and the kinds of ki they can channel: 
 > 
 > Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) is friendly. 
 > 

@@ -6,9 +6,8 @@ species: human
 gender: female
 ancestry: Urskan
 whereabouts: Zvervinka
-title: Lena Sorokina
-hide_toc: true
 hide: [navigation]
+title: Lena Sorokina
 ---
 # Lena Sorokina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

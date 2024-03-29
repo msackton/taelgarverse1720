@@ -16,9 +16,8 @@ whereabouts:
 - {type: away, start: 1748-08-01, end: '', location: Te'kula village}
 - {type: away, start: 1748-09-30, end: '', location: Te'kula village}
 timelineDescriptor: Belegor
-title: Belegor
-hide_toc: true
 hide: [navigation]
+title: Belegor
 ---
 # Belegor
 :speaker:{ .middle } *(beh-leh-GOR)*  

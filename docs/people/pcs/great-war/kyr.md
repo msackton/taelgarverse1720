@@ -9,9 +9,8 @@ ancestry:
 gender: male
 player: Eric Rosenbaum
 affiliations: [Heroes of the Great War]
-title: Kyr
-hide_toc: true
 hide: [navigation]
+title: Kyr
 ---
 # Kyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,9 +11,8 @@ ancestry: Sembaran
 gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
-title: Oudine
-hide_toc: true
 hide: [navigation]
+title: Oudine
 ---
 # Oudine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

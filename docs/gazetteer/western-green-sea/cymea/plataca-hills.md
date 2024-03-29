@@ -11,7 +11,7 @@ title: Plataca Hills
 # The Plataca Hills
 :speaker:{ .middle } *(PLAH-tah-kah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A line of hills [Western Cymea](<./western-cymea.md>)  
+-    :octicons-location-24:{ .lg .middle } A line of hills in [Western Cymea](<./western-cymea.md>), [Cymea](<./cymea.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
 </div>
 
 

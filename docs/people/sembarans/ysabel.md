@@ -13,9 +13,8 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, title: Sheriff}
 whereabouts:
 - {type: home, location: Cleenseau}
-title: Ysabel
-hide_toc: true
 hide: [navigation]
+title: Ysabel
 ---
 # Ysabel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

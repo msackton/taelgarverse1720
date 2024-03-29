@@ -7,9 +7,8 @@ born:
 species: human
 ancestry: Mawaran
 gender: female
-title: Rayna
-hide_toc: true
 hide: [navigation]
+title: Rayna
 ---
 # Rayna
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

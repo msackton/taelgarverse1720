@@ -10,9 +10,8 @@ gender: male
 affiliations: [Havdar's Warband]
 whereabouts:
 - {type: home, location: Havdar's Warband}
-title: Aram
-hide_toc: true
 hide: [navigation]
+title: Aram
 ---
 # Aram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,4 +28,4 @@ hide: [navigation]
 
 
 
-A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in Havdar's service, and unofficial spiritual leader of Havdar's Warband.
+A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband.

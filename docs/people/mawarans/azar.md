@@ -7,9 +7,8 @@ born:
 species: human
 ancestry:
 gender: male
-title: Azar
-hide_toc: true
 hide: [navigation]
+title: Azar
 ---
 # Azar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

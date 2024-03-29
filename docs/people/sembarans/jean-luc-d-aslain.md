@@ -8,9 +8,8 @@ gender: male
 whereabouts:
 - {type: home, location: Aslain}
 - {type: home, location: Beury}
-title: Jean Luc D'Aslain
-hide_toc: true
 hide: [navigation]
+title: Jean Luc D'Aslain
 ---
 # Jean-Luc D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

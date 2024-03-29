@@ -6,9 +6,8 @@ species: human
 ancestry: Sembaran
 whereabouts:
 - {type: home, location: Asineau, start: 1717}
-title: Isolde
-hide_toc: true
 hide: [navigation]
+title: Isolde
 ---
 # Isolde
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

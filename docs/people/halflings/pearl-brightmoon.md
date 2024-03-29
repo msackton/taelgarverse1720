@@ -13,9 +13,8 @@ affiliations:
 - {org: Wave Dancer, title: First Mate, start: 1}
 - {org: Brightmoons, type: primary}
 whereabouts: Wave Dancer
-title: Pearl Brightmoon
-hide_toc: true
 hide: [navigation]
+title: Pearl Brightmoon
 ---
 # Pearl Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

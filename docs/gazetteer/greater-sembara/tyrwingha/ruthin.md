@@ -8,7 +8,7 @@ title: Ruthin
 ---
 # Ruthin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A market town [Tyrwingha](<./tyrwingha.md>)  
+-    :octicons-location-24:{ .lg .middle } A market town in [Tyrwingha](<./tyrwingha.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 

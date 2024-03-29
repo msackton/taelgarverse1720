@@ -12,9 +12,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Forest of Dreams}
 - {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
-title: Balati
-hide_toc: true
 hide: [navigation]
+title: Balati
 ---
 # Balati
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

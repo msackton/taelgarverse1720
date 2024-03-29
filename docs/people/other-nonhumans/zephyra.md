@@ -4,9 +4,8 @@ tags: [person]
 species: genie
 subspecies: efreeti
 whereabouts: Elemental Plane of Fire
-title: Zephyra
-hide_toc: true
 hide: [navigation]
+title: Zephyra
 ---
 # Zephyra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

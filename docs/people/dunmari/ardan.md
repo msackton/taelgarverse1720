@@ -8,13 +8,14 @@ name: Ardan
 born: 1695
 species: human
 ancestry: Dunmari
-title: Head Archivist Ardan
+title: Chief Archivist Ardan
 gender: male
 whereabouts: Tokra
-hide_toc: true
+affiliations:
+- {type: leader, place: Archives, start: 1737}
 hide: [navigation]
 ---
-# Head Archivist Ardan
+# Chief Archivist Ardan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

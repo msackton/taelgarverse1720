@@ -10,9 +10,8 @@ gender: male
 died:
 whereabouts:
 - {type: home, start: '', end: 1730, location: Darakan}
-title: Frankar
-hide_toc: true
 hide: [navigation]
+title: Frankar
 ---
 # Frankar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

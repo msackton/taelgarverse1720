@@ -15,9 +15,8 @@ affiliations:
 - {place: The Windward Sail, title: Proprietor, start: 1718, type: leader}
 whereabouts:
 - {type: home, start: 1718, location: The Windward Sail}
-title: Wendel Quickstep
-hide_toc: true
 hide: [navigation]
+title: Wendel Quickstep
 ---
 # Wendel Quickstep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,7 +39,7 @@ Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's taver
 ## Relationships
 Wendel knows several regulars of [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>) well, including:
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), an old acquaintance who frequented The Windward Sail in his youth
-- Nika, a collector of tales and legends, with connections to the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)
+- [Nika](<../tollenders/nika-hyne.md>), a collector of tales and legends, with connections to the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)
 
 
 

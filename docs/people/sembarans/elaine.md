@@ -5,9 +5,8 @@ whereabouts: Cleenseau
 gender: female
 species: human
 ancestry: Zimka
-title: Elaine
-hide_toc: true
 hide: [navigation]
+title: Elaine
 ---
 # Elaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

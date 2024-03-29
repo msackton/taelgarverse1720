@@ -8,9 +8,8 @@ species: human
 ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
-title: Avelina Smith
-hide_toc: true
 hide: [navigation]
+title: Avelina Smith
 ---
 # Avelina Smith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

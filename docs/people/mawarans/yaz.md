@@ -8,9 +8,8 @@ species: human
 ancestry:
 gender: male
 whereabouts: Hamri
-title: Yaz
-hide_toc: true
 hide: [navigation]
+title: Yaz
 ---
 # Yaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

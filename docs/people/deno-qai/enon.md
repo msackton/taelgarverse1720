@@ -9,9 +9,8 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
-title: Enon
-hide_toc: true
 hide: [navigation]
+title: Enon
 ---
 # Enon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

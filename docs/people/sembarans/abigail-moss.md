@@ -9,9 +9,8 @@ species: human
 ancestry: Sembaran
 gender: female
 whereabouts: Taviose
-title: Abigail Moss
-hide_toc: true
 hide: [navigation]
+title: Abigail Moss
 ---
 # Abigail Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

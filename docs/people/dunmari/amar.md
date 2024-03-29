@@ -13,9 +13,8 @@ whereabouts:
 - {type: home, location: Akela Inn}
 affiliations:
 - {org: Akela Inn, title: Master, type: leader}
-title: Amar
-hide_toc: true
 hide: [navigation]
+title: Amar
 ---
 # Amar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

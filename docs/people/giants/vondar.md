@@ -10,9 +10,8 @@ gender: male
 whereabouts:
 - {type: home, location: !!null ''}
 - {type: home, start: 1700, location: Amberglow}
-title: Vondar
-hide_toc: true
 hide: [navigation]
+title: Vondar
 ---
 # Vondar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

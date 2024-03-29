@@ -11,9 +11,8 @@ species: elf
 ancestry:
 gender: female
 whereabouts: Erelion
-title: Ealwen
-hide_toc: true
 hide: [navigation]
+title: Ealwen
 ---
 # Ealwen
 :speaker:{ .middle } *(EY-ahl-wen)*  

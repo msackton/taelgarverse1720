@@ -16,7 +16,6 @@ leaderOf:
 - {place: Lavnoch, title: High King}
 - {place: Breva, title: High King}
 affiliations: [House of Sewick]
-hide_toc: true
 hide: [navigation]
 ---
 # King Bertram II

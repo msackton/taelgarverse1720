@@ -8,12 +8,13 @@ born: 1699
 species: human
 ancestry: Dunmari
 gender: female
+title: Head Priest Kaleha
 whereabouts: Tokra
-title: Kaleha
-hide_toc: true
+affiliations:
+- {place: Tokra, type: leader, start: 1742}
 hide: [navigation]
 ---
-# Kaleha
+# Head Priest Kaleha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

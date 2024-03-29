@@ -10,9 +10,8 @@ gender: male
 whereabouts: Tokra
 affiliations:
 - {type: primary, org: Hardstones}
-title: Delig Hardstone
-hide_toc: true
 hide: [navigation]
+title: Delig Hardstone
 ---
 # Delig Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +24,4 @@ hide: [navigation]
 </div>
 
 
-Patriach of the Hardstone clan, father to Dag Hardstone. 
+Patriach of the Hardstone clan, father to [Dag Hardstone](<./dag-hardstone.md>). 

@@ -16,7 +16,6 @@ leaderOf:
 - {place: Breva, start: 1506}
 affiliations:
 - {org: House of Sewick, type: primary}
-hide_toc: true
 hide: [navigation]
 ---
 # Queen Charlotte I

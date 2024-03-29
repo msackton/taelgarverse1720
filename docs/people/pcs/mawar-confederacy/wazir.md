@@ -10,9 +10,8 @@ player: Mike Sackton
 affiliations:
 - {place: Leviathan Inn, title: Owner}
 whereabouts: Hamri
-title: Wazir
-hide_toc: true
 hide: [navigation]
+title: Wazir
 ---
 # Wazir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

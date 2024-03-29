@@ -10,9 +10,8 @@ whereabouts:
 - {type: home, end: 1748-04-15, location: Stormcaller Tower}
 - {type: home, start: 1748-04-16, end: 1748-08-08, location: Dunmar Fellowship}
 - {type: home, start: 1748-08-09, location: Albus}
-title: Lyrics of a New Age
-hide_toc: true
 hide: [navigation]
+title: Lyrics of a New Age
 ---
 # The Lyrics of a New Age
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -8,7 +8,6 @@ title: King Brimskarda
 name: Brimskarda
 affiliations:
 - {place: Kaldhalla, title: King, type: leader, 'start:1673': !!null ''}
-hide_toc: true
 hide: [navigation]
 ---
 # King Brimskarda

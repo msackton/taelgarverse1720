@@ -8,7 +8,7 @@ title: Dwarves
 
 This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [Playing a Dwarf](<../../../campaigns/mechanics/species/playing-a-dwarf.md>).
 
-![Dwarven Hall Of Gems](../../../assets/dwarven-hall-of-gems.png)
+![Dwarven Hall of Gems](../../../assets/dwarven-hall-of-gems.png)
 
 > [!quote] Dwarven Prayer of Naming, excerpt
 > *Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>) made our mountain homes: Uzdan, the Ruler, leader of people; Karthel, the Runecrafter, shaper of magic; Fanrukel, the Priest, keeper of lore; Tarbaka, the Stoneworker, lord of the forge; Azar, the Warrior, defender of cities; Maganna, the Traveler, delver and miner; and Oshkir, the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*

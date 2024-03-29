@@ -16,9 +16,8 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
-title: Ames Benthey
-hide_toc: true
 hide: [navigation]
+title: Ames Benthey
 ---
 # Ames Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

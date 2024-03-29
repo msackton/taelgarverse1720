@@ -17,5 +17,5 @@ Described in various ways, but often as a vast cavern hundreds and hundreds of f
 
 Tunnels leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows.
 
-![Heart Of The Mountain](../../../../assets/heart-of-the-mountain.png){width="800"}
+![Heart of the Mountain](../../../../assets/heart-of-the-mountain.png){width="800"}
 

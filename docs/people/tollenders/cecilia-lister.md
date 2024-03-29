@@ -11,9 +11,8 @@ gender: female
 affiliations: [Dyer's Guild]
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
-title: Cecilia Lister
-hide_toc: true
 hide: [navigation]
+title: Cecilia Lister
 ---
 # Cecilia Lister
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

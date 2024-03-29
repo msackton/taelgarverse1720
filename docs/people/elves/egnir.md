@@ -6,9 +6,8 @@ name: Égnir
 species: elf
 gender: male
 image: egnir-small.png
-title: Égnir
-hide_toc: true
 hide: [navigation]
+title: Égnir
 ---
 # Égnir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,9 +16,8 @@ whereabouts:
 - {type: home, location: Cleenseau, start: 1718}
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
 - {type: home, start: 1719-11-16, location: Taviose}
-title: Odo Cordwaner
-hide_toc: true
 hide: [navigation]
+title: Odo Cordwaner
 ---
 # Odo Cordwaner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

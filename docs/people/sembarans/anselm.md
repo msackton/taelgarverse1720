@@ -11,9 +11,8 @@ gender: male
 whereabouts: Cleenseau
 affiliations:
 - {org: Lord's Council of Cleenseau}
-title: Anselm
-hide_toc: true
 hide: [navigation]
+title: Anselm
 ---
 # Anselm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

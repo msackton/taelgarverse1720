@@ -6,9 +6,8 @@ created: 1
 whereabouts:
 - {type: home, location: Apollyon}
 - {type: home, location: Fausto}
-title: Crown of Purity
-hide_toc: true
 hide: [navigation]
+title: Crown of Purity
 ---
 # The Crown of Purity
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

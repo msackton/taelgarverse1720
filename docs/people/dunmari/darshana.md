@@ -11,9 +11,8 @@ gender: female
 whereabouts: Tokra
 affiliations:
 - {org: Darshana's Caravanserai, title: Owner, type: leader}
-title: Darshana
-hide_toc: true
 hide: [navigation]
+title: Darshana
 ---
 # Darshana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

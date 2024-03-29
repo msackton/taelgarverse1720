@@ -8,9 +8,8 @@ whereabouts: Beury
 pronunciation: Li-o-nel Mor-tahn-yeh
 gender: male
 born: 1686
-title: Lionel Mortagne
-hide_toc: true
 hide: [navigation]
+title: Lionel Mortagne
 ---
 # Lionel Mortagne
 :speaker:{ .middle } *(Li-o-nel Mor-tahn-yeh)*  

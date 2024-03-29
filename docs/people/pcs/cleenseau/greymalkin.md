@@ -6,9 +6,8 @@ displayDefaults: {startStatus: appeared from the Feywild on}
 born: 1720-01-07
 species: griffin
 gender: male
-title: Greymalkin
-hide_toc: true
 hide: [navigation]
+title: Greymalkin
 ---
 # Greymalkin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

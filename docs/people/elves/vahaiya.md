@@ -16,9 +16,8 @@ whereabouts:
 - {type: home, start: '', end: 1545, location: Ainumarya}
 - {type: away, start: 1545, end: 1720, location: traveling around greater Sembara}
 - {type: home, start: 1721, location: Erelion}
-title: Vahaiya
-hide_toc: true
 hide: [navigation]
+title: Vahaiya
 ---
 # Vahaiya
 :speaker:{ .middle } *(va-HAI-ya)*  

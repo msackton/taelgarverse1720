@@ -4,6 +4,9 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### March 29, 2024
+* Updated the [Treasure](<treasure/treasure.md>) document
+* Updated the pages for [Celyn](<../../people/pcs/cleenseau/celyn.md>), [Robin](<../../people/pcs/cleenseau/robin-of-abenfyrd.md>), [Viepuck](<../../people/pcs/cleenseau/viepuck.md>), and [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>)
 ### March 21, 2024
 * Added some [information on Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/political-organization-of-tyrwingha.md>)
 * Added some information on [Lake Rin](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md>) and [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>)

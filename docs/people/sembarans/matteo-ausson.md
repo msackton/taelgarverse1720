@@ -6,9 +6,8 @@ born: 1698
 species: human
 gender: male
 whereabouts: Cleenseau
-title: Matteo Ausson
-hide_toc: true
 hide: [navigation]
+title: Matteo Ausson
 ---
 # Matteo Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

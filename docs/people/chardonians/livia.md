@@ -6,9 +6,8 @@ name: Livia
 whereabouts: Luminatia
 gender: female
 ancestry: Chardonian
-title: Livia
-hide_toc: true
 hide: [navigation]
+title: Livia
 ---
 # Livia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,4 +22,4 @@ hide: [navigation]
 
 
 
-Lucius's mother.
+[Lucius](<./lucius.md>)'s mother.

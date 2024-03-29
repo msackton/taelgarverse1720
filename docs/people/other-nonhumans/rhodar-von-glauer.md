@@ -5,7 +5,6 @@ title: Lord Rhodar Von Glauer
 species: undead
 subspecies: vampire
 name: Rhodar von Glauer
-hide_toc: true
 hide: [navigation]
 ---
 # Lord Rhodar Von Glauer

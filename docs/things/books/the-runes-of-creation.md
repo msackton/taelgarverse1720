@@ -5,9 +5,8 @@ rarity: unique
 typeOf: book
 whereabouts: Seeker
 displayDefaults: {defArt: ''}
-title: The Runes of Creation
-hide_toc: true
 hide: [navigation]
+title: The Runes of Creation
 ---
 # The Runes of Creation
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

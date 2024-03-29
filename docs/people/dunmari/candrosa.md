@@ -10,9 +10,8 @@ affiliations:
 - {org: Shakun Mystai, title: Speaker, type: leader}
 whereabouts:
 - {type: home, location: Karawa}
-title: Candrosa
-hide_toc: true
 hide: [navigation]
+title: Candrosa
 ---
 # Candrosa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

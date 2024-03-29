@@ -8,9 +8,8 @@ species: human
 ancestry: Isinguer
 gender: male
 whereabouts: Valarin
-title: Marcel de Valarin
-hide_toc: true
 hide: [navigation]
+title: Marcel de Valarin
 ---
 # Marcel de Valarin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

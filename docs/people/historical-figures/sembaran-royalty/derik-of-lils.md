@@ -9,9 +9,8 @@ gender: male
 died: 1633
 affiliations:
 - {org: House of Lils, type: primary}
-title: Derik
-hide_toc: true
 hide: [navigation]
+title: Derik
 ---
 # Derik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

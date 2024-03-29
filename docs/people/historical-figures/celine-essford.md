@@ -9,9 +9,8 @@ gender: female
 died: 1699
 whereabouts:
 - {type: home, location: Cleenseau, start: 1651}
-title: Celine Essford
-hide_toc: true
 hide: [navigation]
+title: Celine Essford
 ---
 # Celine Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

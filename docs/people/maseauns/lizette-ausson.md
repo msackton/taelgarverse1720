@@ -9,9 +9,8 @@ species: human
 affiliations:
 - {org: Ausson's Crossing, type: leader, title: Proprietor, start: 1688, end: 1699}
 whereabouts: Laicon
-title: Lizette Ausson
-hide_toc: true
 hide: [navigation]
+title: Lizette Ausson
 ---
 # Lizette Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

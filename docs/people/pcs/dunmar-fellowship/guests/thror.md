@@ -8,9 +8,8 @@ species: dwarf
 ancestry:
 gender:
 player:
-title: Thror
-hide_toc: true
 hide: [navigation]
+title: Thror
 ---
 # Thror
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,9 +9,8 @@ gender: female
 died: 1562
 affiliations:
 - {org: House of Sewick, type: primary}
-title: Eloise
-hide_toc: true
 hide: [navigation]
+title: Eloise
 ---
 # Eloise
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

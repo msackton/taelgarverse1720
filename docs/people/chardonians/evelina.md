@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, testcase, status/unknown]
+tags: [person, testcase, status/needswork/internal, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: killed}
 name: Evelina
@@ -14,9 +14,8 @@ affiliations:
 whereabouts:
 - {type: away, start: 1748-12-01, end: 1748-12-08, location: Uzgukhar}
 - {type: home, start: '', end: '', location: Chardon}
-title: Evelina
-hide_toc: true
 hide: [navigation]
+title: Evelina
 ---
 # Evelina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,6 +28,8 @@ hide: [navigation]
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 

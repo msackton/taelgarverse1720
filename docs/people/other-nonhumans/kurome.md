@@ -1,9 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/needswork/notes]
-title: Kurome
-hide_toc: true
 hide: [navigation]
+title: Kurome
 ---
 # Kurome
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

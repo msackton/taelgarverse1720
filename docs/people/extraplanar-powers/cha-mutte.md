@@ -7,9 +7,8 @@ species: dragon
 subspecies: elder wyrm
 gender: male
 died: 1545
-title: Cha'mutte
-hide_toc: true
 hide: [navigation]
+title: Cha'mutte
 ---
 # Cha'mutte
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

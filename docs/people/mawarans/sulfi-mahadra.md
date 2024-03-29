@@ -8,9 +8,8 @@ species: human
 ancestry:
 gender: female
 whereabouts: Hamri
-title: Sulfi Mahadra
-hide_toc: true
 hide: [navigation]
+title: Sulfi Mahadra
 ---
 # Sulfi Mahadra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

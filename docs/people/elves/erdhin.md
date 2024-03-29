@@ -10,7 +10,6 @@ campaignInfo:
 - {campaign: dufr, type: met, date: 1749-01-15}
 gender: male
 pronunciation: erd-HEEN
-hide_toc: true
 hide: [navigation]
 ---
 # Caretaker Erdhin

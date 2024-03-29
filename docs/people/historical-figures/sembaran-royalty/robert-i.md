@@ -11,7 +11,6 @@ title: King Robert I
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1713-09-12}
-hide_toc: true
 hide: [navigation]
 ---
 # King Robert I

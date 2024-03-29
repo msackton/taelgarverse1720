@@ -10,9 +10,8 @@ whereabouts:
 - {type: home, location: Am'khazar}
 - {type: home, start: 1670, location: Taviose}
 - {type: away, start: 1719-11-21, end: 1719-12-23, location: Dunfry}
-title: Brot Starsearcher
-hide_toc: true
 hide: [navigation]
+title: Brot Starsearcher
 ---
 # Brot Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -7,9 +7,8 @@ species: human
 ancestry: Sembaran
 gender: female
 whereabouts: Embry
-title: Susanne Garay
-hide_toc: true
 hide: [navigation]
+title: Susanne Garay
 ---
 # Susanne Garay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

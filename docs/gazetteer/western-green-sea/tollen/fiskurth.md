@@ -14,4 +14,4 @@ title: Fiskurth
 
 An ancient district in [Tollen](<./tollen.md>), part of the original Skaer city, full of narrow, bustling streets. Now largely part of the port of Tollen, and the center of the fishing trade. Contains fish markets, as well as sailor's inns. 
 ### Places
-- The Windward Sail
+- [The Windward Sail](<./the-windward-sail.md>)
