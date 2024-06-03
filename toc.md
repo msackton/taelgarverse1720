@@ -6,9 +6,11 @@
         - {glob: gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/}
     - [Characters](people/pcs/cleenseau/heroes-of-cleenseau.md)
         - {glob: people/pcs/cleenseau/, exclude: heroes-of-cleenseau.md}
-    - Letters and Stories
-        - {glob: campaigns/cleenseau-campaign/letters-and-stories}
-    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)
+    - Letters and Other Writings
+        - {glob: campaigns/cleenseau-campaign/letters-and-other-writings}    
+    - Stories, Tales, and Musings
+        - {glob: campaigns/cleenseau-campaign/stories}    
+    - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)    
     - Mechanics
         - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
         - [Languages](species/languages.md)
@@ -32,21 +34,20 @@
     - Religion
         - [Mos Numena](cosmology/religions/mos-numena/mos-numena.md)
             - {glob: cosmology/religions/mos-numena/, exclude: mos-numena.md}
-            - Gods
-                - {glob: cosmology/gods/incorporeal-gods/mos-numena/}
+            - [Gods] (cosmology/gods/incorporeal-gods/mos-numena-pantheon/mos-numena-pantheon.md)
+                - {glob: cosmology/gods/incorporeal-gods/mos-numena-pantheon/, exclude: mos-numena-pantheon.md}
             - [Festivals](time/holidays-and-festivals/mos-numena-feast-days.md)
                 - [Festival of the Bridge](time/holidays-and-festivals/festival-of-the-bridge.md)
                 - [Miracle of the Mist](time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md)
                 - [Pyravela](time/holidays-and-festivals/pyravela.md)
                 - [Viatela](time/holidays-and-festivals/viatela.md)        
-        - [Kestavo](cosmology/religions/kestavo/kestavo.md)
-            - {glob: cosmology/religions/kestavo/, exclude: kestavo.md}
-            - Gods
-                - [Ako](cosmology/gods/high-gods/ako.md)
+        - [Kestavo](cosmology/religions/northern-folk-religions/kestavo.md)
+            - [Funerary Traditions](cosmology/religions/northern-folk-religions/kestavan-funerary-traditions.md)
+            - Gods                
                 - {glob: cosmology/gods/kestavo/}                   
         - Other Gods
             - [High Gods](cosmology/gods/high-gods/high-gods.md)
-                - {glob: cosmology/gods/high-gods/, exclude: sampa.md;shurat.md;ako.md;anida.md}
+                - {glob: cosmology/gods/high-gods/}
             - Embodied Gods
                 - {glob: cosmology/gods/embodied-gods/}
             - [The Fox and Hunter](cosmology/gods/demigods/fox-and-hunter.md)
