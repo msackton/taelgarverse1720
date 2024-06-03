@@ -34,7 +34,7 @@
     - Religion
         - [Mos Numena](cosmology/religions/mos-numena/mos-numena.md)
             - {glob: cosmology/religions/mos-numena/, exclude: mos-numena.md}
-            - [Gods] (cosmology/gods/incorporeal-gods/mos-numena-pantheon/mos-numena-pantheon.md)
+            - [Gods](cosmology/gods/incorporeal-gods/mos-numena-pantheon/mos-numena-pantheon.md)
                 - {glob: cosmology/gods/incorporeal-gods/mos-numena-pantheon/, exclude: mos-numena-pantheon.md}
             - [Festivals](time/holidays-and-festivals/mos-numena-feast-days.md)
                 - [Festival of the Bridge](time/holidays-and-festivals/festival-of-the-bridge.md)
