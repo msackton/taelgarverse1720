@@ -28,7 +28,7 @@ title: Nayan Sura
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
-    Born DR 1720 (15 days old)  
+    Born DR 1720 (1 months old)  
     { .bio }
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

@@ -39,7 +39,3 @@ title: Arcus
 
 An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), now petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
 
-Left [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) with [Servius](<./servius.md>), [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<./alban.md>). Argued constantly with [Servius](<./servius.md>), acording to [Dee Wildcloak](<../halflings/dee-wildcloak.md>). Parted ways with other travelers in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), presumably to press ahead. 
-
-Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) alone in late February or early March, according to [Jasu](<../dunmari/jasu.md>) and [Ikram](<../dunmari/ikram.md>).
-

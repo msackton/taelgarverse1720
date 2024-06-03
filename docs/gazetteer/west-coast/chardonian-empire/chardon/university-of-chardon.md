@@ -27,7 +27,7 @@ The University is organized primarily into a series of undergraduate colleges, k
 
 Architecturally, most lecti mimic the Great Library, with towers rising above the main building or building complex, which gives the university district a distinctive and impressive skyline. 
 
-Some of the more famous lecti include [Sybil's Hall](<../sybil-s-hall.md>), one of the original colleges of the University, and Maruso Lectum, endowed by and named after an extremely wealthy adventurer. 
+Some of the more famous lecti include [Sibyl's Hall](<../../../../groups/chardonian-organizations/sibyl-s-hall.md>), one of the original colleges of the University, and Maruso Lectum, endowed by and named after an extremely wealthy adventurer. 
 
 
 ### Graduate Faculties

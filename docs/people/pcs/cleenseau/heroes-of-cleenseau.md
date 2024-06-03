@@ -13,7 +13,7 @@ A group of four fate-blown adventures who met in [Taviose](<../../../gazetteer/g
 
 The heroes consist of:
 
-* [Robin of Abenfyrd](<./robin-of-abenfyrd.md>), a paladin of [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) from the small town of [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>) in [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-* [Celyn](<./celyn.md>), a rogue and devotee of [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>), from the small vineyard town of [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), also in [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+* [Robin of Abenfyrd](<./robin-of-abenfyrd.md>), a paladin of [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>) from the small town of [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>) in [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+* [Celyn](<./celyn.md>), a rogue and devotee of [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>), from the small vineyard town of [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), also in [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
 * [Izgil Moonseeker](<./izgil-moonseeker.md>), a dwarf from [Nidzahar](<../../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>), a lunar socerer
 * [Viepuck](<./viepuck.md>), an teenaged orphan from [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), a devotee of a mysterious mind from far away

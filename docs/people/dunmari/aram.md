@@ -28,4 +28,4 @@ title: Aram
 
 
 
-A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband.
+A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband.

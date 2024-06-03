@@ -21,7 +21,7 @@ The ~Northern Continent~ is marked by four major, continent scale features:
 
 Broadly then, the known world can be divided up into several major regions:
 
-* The [West Coast](<west-coast/west-coast-region.md>), the coastal lands and peninsulas on the western shores of the ~Northern Continent~ including the ~Emerald Bay Peninsula~, the [Mawakel Peninsula](<west-coast/mawar-confederacy/mawakel-peninsula.md>), and the lands along the shores of the ~North Bay~, and as far south as the [Nevos Sea](<west-coast/nevos-sea.md>)
+* The [West Coast](<west-coast/west-coast-region.md>), the coastal lands and peninsulas on the western shores of the ~Northern Continent~ including the [Apporia](<west-coast/chardonian-empire/apporia/apporia.md>), the [Mawakel Peninsula](<west-coast/mawar-confederacy/mawakel-peninsula.md>), and the lands along the shores of the ~North Bay~, and as far south as the [Nevos Sea](<west-coast/nevos-sea.md>)
 * The [Chasa](<chasa-nahadi-watershed/rivers/chasa.md>)-Nahadi river basin, flowing from the high peaks of the [Sentinels](<sentinel-range/sentinel-range.md>) towards the [Endless Ocean](<./endless-ocean.md>)
 * The [Dunmari Basin](<greater-dunmar/dunmari-basin/dunmari-basin.md>) and the 
 

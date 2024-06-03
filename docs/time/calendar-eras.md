@@ -1,8 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
 title: Calendar Eras
 ---
 # Calendar Eras
+
 > Note: This article discusses the numbering of years. The actual division of the calendar into months and weeks is not covered here.
 
 There are many different ways of counting years in use across the world of Taelgar. The two most commonly used, both in these notes and by scholars and the learned across Taelgar are Drankorian Reckoning (DR), and the Dwarven Count of Years (CY).  
@@ -23,4 +25,4 @@ However, other calendar eras may occasionally be used, including:
 
 [Halflings](<../species/children-of-the-embodied-gods/halflings/halflings.md>) remember their history via the tale of years; each year has its own song and its own name. Typically halflings count the beginning of a new year from the day following the winter solstice, when the days begin to lengthen again. Halflings often tell their stories, but when writing, will simply write out the year, i.e. by dating a letter "in the Year of Honeyed Sun". 
 
-[Elves](<../species/children-of-the-embodied-gods/elves/elves.md>) view the passing of time differently than other races. Time flows for them sometimes much more slowly, and sometimes much more quickly than the shorter-lived races. Given their longevity, they are also greatly attuned to the long cycles of history, and reckon time by the passing of generations, know as *[ka](<../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>)*, caring less for the divisions of time into years. Elves will use the Dwarven Count of Years or Drankorian Reckoning when talking about external affairs, but often date their own events to by *mela* and *leya*, i.e. "in the 36th leya". More formally, some elves might write: "in the 36th leya of Elmerca" or "in the 25th mela of Aldanor".
+[Elves](<../species/children-of-the-embodied-gods/elves/elves.md>) view the passing of time differently than other races. Time flows for them sometimes much more slowly, and sometimes much more quickly than the shorter-lived races. Given their longevity, they are also greatly attuned to the long cycles of history, and reckon time by the passing of generations, know as *[ka](<../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>)*, caring less for the divisions of time into years. Elves will use the Dwarven Count of Years or Drankorian Reckoning when talking about external affairs, but often date their own events to by *mela* and *leya*, i.e. "in the 36th leya". More formally, some elves might write: "in the 36th leya of Elmerca" or "in the 25th mela of Aldanor".

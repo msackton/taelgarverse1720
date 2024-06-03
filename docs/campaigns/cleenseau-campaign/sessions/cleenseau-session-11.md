@@ -22,14 +22,14 @@ title: Cleenseau Session 11
 ### Rumors and Information
 
 * [Eftly](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>) was attacked by a stench monster (or perhaps, 2 or 3?) - rumor from [Duncan Rivers](<../../../people/sembarans/duncan-rivers.md>)
-* [Fellburn](<../../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) is under siege by an army of skeletons - [Letter from Rosalind (January 8th)](<../letters-and-stories/letter-from-rosalind-january-8th.md>)
+* [Fellburn](<../../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) is under siege by an army of skeletons - [Letter from Rosalind (January 8th)](<../letters-and-other-writings/letter-from-rosalind-january-8th.md>)
 * [Ida Rosfeld](<../../../people/sembarans/ida-rosfeld.md>) left [Dunfry](<../../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) unofficially, but with the blessing of Colonel Claude Leclerc. Something seems not right with the military orders - shared by Ida
 * Sarabeth Asa disappeared from Asineau in 1667; her son [Lucas Asa](<../../../people/sembarans/lucas-asa.md>) and his family disappeared in 1715
 ### New People Met
 * [Eveyln Totteridge](<../../../people/sembarans/eveyln-totteridge.md>), a sergeant from the garrison
 * [Lord Murtha](<../../../people/sembarans/erick-murtha.md>) and [Blanche](<../../../people/sembarans/blanche.md>), from [Beury](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>)
 * [Harold Bybet](<../../../people/sembarans/harold-bybet.md>), a friend of [Rinault's](<../../../people/sembarans/rinault-essford.md>)
-* [El](<../../../people/sembarans/el.md>), a disciple of [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>)
+* [El](<../../../people/sembarans/el.md>), a disciple of [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>)
 * [Thierry](<../../../people/sembarans/thierry.md>), a veteran and tough-guy in Asineau
 * [Catherine de Brune](<../../../people/sembarans/catherine-de-brune.md>), a rich merchant
 * [Lorin Valbert](<../../../people/sembarans/lorin-valbert.md>), the lord of Asineau and his enforcer, [Isolde](<../../../people/sembarans/isolde.md>)
@@ -42,7 +42,7 @@ title: Cleenseau Session 11
 * Jan 10, 1720 DR, evening: [Es*tiasilos](<../../../people/pcs/cleenseau/estiasilos.md>), after a failed attempt, steals a jewelry box from [Lorin Valbert](<../../../people/sembarans/lorin-valbert.md>)
 * Jan 11, 1720 DR, morning: the party visits [Asineau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) and speaks with [Eleanor](<../../../people/sembarans/eleanor.md>), and tricks [Lorin Valbert](<../../../people/sembarans/lorin-valbert.md>) into believing the fey are after him
 * Jan 11, 1720 DR, afternoon: the party visits [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) and speaks with [Hugh Darrow](<../../../people/sembarans/hugh-darrow.md>),  [Phillipa Northwood](<../../../people/sembarans/phillipa-northwood.md>) and [Brot](<../../../people/dwarves/brot-starsearcher.md>)
-* Jan 11, 1720 DR, late afternoon: receive a [letter from Rosalind](<../letters-and-stories/letter-from-rosalind-january-8th.md>)
+* Jan 11, 1720 DR, late afternoon: receive a [letter from Rosalind](<../letters-and-other-writings/letter-from-rosalind-january-8th.md>)
 * Jan 12, 1720 DR, morning: receive news that [Lorin Valbert](<../../../people/sembarans/lorin-valbert.md>) has disappeared and renounced his manor
 ## Narrative
 

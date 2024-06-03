@@ -2,5 +2,5 @@
 {title: Material Plane}
 ---
 ---
-tags: [status/needswork, place]
+tags: [status/stub, place]
 ---

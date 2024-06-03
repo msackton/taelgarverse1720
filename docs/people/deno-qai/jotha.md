@@ -19,7 +19,7 @@ title: Jotha
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1719 (12 months old)  
+    Born DR 1719 (13 months old)  
     { .bio }
 
     Based in the [Ko'zula village](<../../gazetteer/far-north/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)

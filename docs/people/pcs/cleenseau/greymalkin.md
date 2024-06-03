@@ -14,7 +14,7 @@ title: Greymalkin
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A griffin (he/him)  
-    Appeared from the Feywild on January 7th, 1720 (9 days old)  
+    Appeared from the Feywild on January 7th, 1720 (1 months old)  
     { .bio }
 
 </div>

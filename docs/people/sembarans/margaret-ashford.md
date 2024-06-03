@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Margaret Ashford
@@ -29,5 +29,4 @@ title: Margaret Ashford
 :octicons-location-24:{ .lg .middle } Met by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on January 4th, 1720 in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)  
 
 
-A midwife.
-
+A midwife, who was tending to [Béatrix Thorne](<./beatrix-thorne.md>) when the Zombie Plague in Cleenseau broke out.

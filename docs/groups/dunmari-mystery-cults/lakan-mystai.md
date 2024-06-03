@@ -9,7 +9,7 @@ title: Lakan Mystai
 ---
 # The Lakan Mystai
 
-The mystery cult of the Dunmari god [Laka](<../../cosmology/gods/incorporeal-gods/dunmari/laka.md>). Guardians of secret knowledge, especially concerning the lore of other planes, and the secrets of manipulating planar energy to create magic.
+The mystery cult of the Dunmari god [Laka](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/laka.md>). Guardians of secret knowledge, especially concerning the lore of other planes, and the secrets of manipulating planar energy to create magic.
 
 
 

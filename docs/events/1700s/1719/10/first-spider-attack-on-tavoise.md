@@ -1,11 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [event]
-name:
+name: First Spider Attack on Taviose
 DR: 1719-10-20
-title: First Spider Attack on Tavoise
+title: First Spider Attack on Taviose
 ---
-### First Spider Attack on Taviose
-*October 20th, 1719; 10am*
+# The First Spider Attack on Taviose
 
 A giant spider (the size of a horse) and three large spiders (the size of dogs) attacked the hamlet of [Taviose](<../../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) in the mid-morning. 
 

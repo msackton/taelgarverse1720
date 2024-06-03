@@ -38,7 +38,7 @@ title: Odo Cordwaner
 
 Investigation determined that he was not malicious, but just careless. In the excitement of the festival, he failed to pay attention as he should have. He was discharged from the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), but at the intervention of [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), was hired by the Essfords to provide a steady presence in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>).
 
-He has since developed a romantic attachment to [Abigail Moss](<./abigail-moss.md>), and has come to believe that his mistake was the hand of [The Warlord](<../../cosmology/gods/incorporeal-gods/mos-numena/the-warlord.md>), setting him on a path to find his true calling (and setting the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on the path to become heroes).
+He has since developed a romantic attachment to [Abigail Moss](<./abigail-moss.md>), and has come to believe that his mistake was the hand of [The Warlord](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), setting him on a path to find his true calling (and setting the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on the path to become heroes).
 
 His family is based in [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), but he left home at 18 to join the army, being the youngest of five children and with no interest in farming.
 

@@ -32,5 +32,5 @@ title: Justan
 
 
 
-A Dunmari man, from a family of horse herders traveling on the lands around Tokra. 
+A Dunmari man, from a family of horse herders traveling on the lands around [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 

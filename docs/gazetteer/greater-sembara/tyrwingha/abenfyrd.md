@@ -21,7 +21,7 @@ title: Abenfyrd
 
 Abenfyrd is a small wooded village along the banks of the [Aben River](<../rivers/aben-watershed/aben.md>) known for its timber, and relatively prosperous because of it.
 
-Not much happens in Abenfyrd save the yearly [Festival of the Miracle of the Mist](<../../../time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md>), a commemoration of a time when [the Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) (it is said) used dense mists to lead a pack of trolls from the [Plaguelands](<../../istaros-watershed/plaguelands.md>) into the Aben, to drown. 
+Not much happens in Abenfyrd save the yearly [Festival of the Miracle of the Mist](<../../../time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md>), a commemoration of a time when [the Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>) (it is said) used dense mists to lead a pack of trolls from the [Plaguelands](<../../istaros-watershed/plaguelands.md>) into the Aben, to drown. 
 
 This festival does attract some people from other nearby villages, and the fair held for several days on either side is a major event in Abenfyrd.
 

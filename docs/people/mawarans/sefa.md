@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, dufr/unaware, status/unknown]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Sefa
 born:
 species: human
 ancestry: Mawaran
 gender: female
-died: 1747
-whereabouts: Mawar Confederacy
+died: 1747-08-05
+whereabouts: Hamri
 hide: [navigation]
 title: Sefa
 ---
@@ -19,7 +19,12 @@ title: Sefa
     A Mawaran [human](<../../species/humans/humans.md>) (she/her)  
     { .bio }
 
-    Based in the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 
+
+Sefa is an older woman, poor and addicted to gatza, who lives alone in the Drowned Flats, in Hamri. 
+
+
+She was killed by [Azar the Lost](<./azar-the-lost.md>), in misguided quest to restore his dead wife using the waters of the Sentient Ocean. 

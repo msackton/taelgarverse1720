@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
+name: Species in Taelgar
 tags: [background]
-title: Species
+title: Species in Taelgar
 ---
 # Species in Taelgar
 
 The world of Taelgar is populated by many sentient species. All sentient species in Taelgar were created, in some way, by magic, usually by the direct intervention of a deity.  
 
-The first sentient beings on Taelgar were the [Children of the Divine](<children-of-the-divine/children-of-the-divine.md>). The Divine Beings, [Arha](<../cosmology/gods/high-gods/arha.md>) and [Malik](<../cosmology/gods/high-gods/malik.md>), created the [Dragons](<children-of-the-divine/dragons.md>), [Fey](<children-of-the-divine/fey/fey.md>), [Elementals](<children-of-the-divine/elementals.md>), and [Giants](<children-of-the-divine/giants.md>) in the mythic age before even the Elder Folk walked the earth. Imbued with powerful magic, these creatures dominated the world in the early days of creation, when magic was strong and the various planes of existence still intertwined with the [material plane](<../cosmology/multiverse/material-plane.md>). 
+The first sentient beings on Taelgar were the [Children of the Divine](<children-of-the-divine/children-of-the-divine.md>). The [Divine Presence](<../cosmology/gods/high-gods/divine-presence.md>) created the [Dragons](<children-of-the-divine/dragons.md>), [Fey](<children-of-the-divine/fey/fey.md>), [Elementals](<children-of-the-divine/elementals.md>), and [Giants](<children-of-the-divine/giants.md>) in the mythic age before even the Elder Folk walked the earth. Imbued with powerful magic, these creatures dominated the world in the early days of creation, when magic was strong and the various planes of existence still intertwined with the [material plane](<../cosmology/multiverse/material-plane.md>). 
 
 While many of the descendants of these powerful beings now dwell outside the [Material Plane](<../cosmology/multiverse/material-plane.md>), there are exceptions. [Dragons](<children-of-the-divine/dragons.md>), [Elementals](<children-of-the-divine/elementals.md>), and [Giants](<children-of-the-divine/giants.md>) feature regularly in tales of adventure; while most common folk have never personally encountered these powerful creatures, they are the heroes and villains of many tales. The [Centaurs](<children-of-the-divine/centaurs/centaurs.md>), descended from the first [Fey](<children-of-the-divine/fey/fey.md>), claimed Taelgar as their home long ago, and are now rarely found in the Feywild. Many other [Fey](<children-of-the-divine/fey/fey.md>), though not native to the material plane, are frequent visitors to Taelgar. And the diminutive trickster [Kobolds](<children-of-the-divine/kobolds/kobolds.md>), created by powerful dragons in days long past, can still be found in various corners of the world. 
 

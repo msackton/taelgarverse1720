@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo:
 name: Forest of Dreams
 typeOf: forest
-partOf: Ainumarya
+whereabouts: Ainumarya
 title: Forest of Dreams
 ---
 # The Forest of Dreams

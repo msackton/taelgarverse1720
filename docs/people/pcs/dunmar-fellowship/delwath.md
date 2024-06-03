@@ -21,7 +21,7 @@ title: Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
+    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 36)  
     Born DR 1472 (248 years old)  
     { .bio }
 
@@ -59,7 +59,7 @@ title: Delwath
 > 
 > He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from which he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
 > 
-> What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the since January, learning what he can about the Mysteries.
+> What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the since January, learning what he can about the Mysteries.
 
 > [!WARNING]- Delwath's Dream of the Shadow Realm, Session 5
 >
@@ -97,7 +97,7 @@ title: Delwath
 > 
 > A final, long pause.
 > 
-> "I am ………… [Aaviskar](<../../../cosmology/gods/tanshi/yezali.md>)." 
+> "I am ………… [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>)." 
 > 
 > A name, perhaps, but the voice sounded unsure, almost.
 >
@@ -140,7 +140,7 @@ title: Delwath
 >
 >[Sura](<../../dunmari/sura.md>) disappeared between [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Askandi](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>), when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ambush on the edge of the [Garamjala](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>). [Sura](<../../dunmari/sura.md>)'s brother Karnas, who was then the general of the southern armies (based in western [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [Sura](<../../dunmari/sura.md>) brought it upon herself traveling in the eastern wilds. 
 >
->**Rumors About Other Bad Stuff Happening While [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>)'s Protection Was Down**
+>**Rumors About Other Bad Stuff Happening While [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Protection Was Down**
 >
 >There are many rumors but few clear facts. [Havdar](<../../dunmari/havdar.md>) and his troops did fight several smaller groups of gnolls on the road to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and there are various rumors of those who couldn't make it to safety dying alone on the frontier. Indeed, there are definitely folks returning who lost people, who never made it to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). But it is hard to say if this could have just been the gnolls that you knew about, or something else.
 >
@@ -164,7 +164,7 @@ title: Delwath
 > 
 > *Part 1: The Dream*
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
+> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to sit and empty his mind of everything but the image. Delwath settles down on the top of the mesa, concentrating on the vision of a clear pool in a deep forest, lit by moonlight that [Wellby](<./wellby.md>) showed him telepathically earlier that day, somehow associated with his pact weapons.
 > 
@@ -184,18 +184,18 @@ title: Delwath
 > 
 > In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lays on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
 > 
-> "[Yezali](<../../../cosmology/gods/tanshi/yezali.md>), hear my prayer.
+> "[Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>), hear my prayer.
 > The fresh blood of the swift, I give to you. Hear my prayer.
 > The warmth of the winter's hearth, I give to you. Hear my prayer.
 > By the sacred springs of the Adisi Cherka, hear my prayer.
 > This I offer from my heart to yours.
 > This I offer from my hand to yours.
 > 
-> [Yezali](<../../../cosmology/gods/tanshi/yezali.md>), these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
+> [Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>), these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
 > 
 > As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scare as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
 > 
-> He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [Yezali](<../../../cosmology/gods/tanshi/yezali.md>). You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
+> He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>). You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
 > 
 > Delwath reaches into this source of power he seems connected to, and feels the raven cloaks he imagines forming in the sky and floating down on these people. As they land on these people, cloaking them in shadow and protecting them from unfriendly eyes, the world splits apart into a million shards, only the pool of water remaining still. Reflected in the water, you can see the threads of the lives of the people here stretching into the past and the future -- just glimpses of the echoes of this moment, and the reverberations of the past that led to this point. 
 > 
@@ -215,7 +215,7 @@ title: Delwath
 > 
 > You are looking down at a forest grove, an opening in a dense mixed forest of maples, oaks, and birches. In the clearing is a clear pool of water, a running brook flowing out of it into the woods. It is dusk, and fireflies are beginning to emerge from the shadows of the trees, their lights flashing in the opening above the pool. This is the same place you saw in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), but without people, without the cairn of stone. 
 > 
-> The voice in your head, that calls themselves [Aaviskar](<../../../cosmology/gods/tanshi/yezali.md>), seems to struggle to speak for a moment. Then, almost in awe: "I think I remember this place."
+> The voice in your head, that calls themselves [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>), seems to struggle to speak for a moment. Then, almost in awe: "I think I remember this place."
 > 
 > A pause.
 > 
@@ -229,7 +229,7 @@ title: Delwath
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) points out that [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) itself is a place that is close to the Divine, but under the assumption that elven gods are associated with nature somehow will tell you that he has always found the top of the mesa to be a particularly clear, beautiful, and appropriate place to commune with the gods.
 > 
-> [Cintra](<../../dunmari/cintra.md>) will pull Delwath aside and say that, yes, [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is a place that is close to the Divine, and indeed could almost be said to be Divine itself, for the mesa is, in some sense, the body of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) made manifest. She will also clarify that, while [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) speaks clearly from the mesa, she is not sure that this will be true of the elven gods, because of how tied the mesa is to [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>). She will say that she believes this place, the oasis of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), has an ancient connection to the gods, being a place that was close to the Divine even before the Dunmari arrived, perhaps even before humans settled the lands. She sometimes sees a great forest covering spreading across what are now plains and deserts, full of ancient trees that reach the sky. A few miles west of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) there is a place where a natural stone arch stands isolated in the rocky desert, and when she has traveled there, the arch is not stone, but living wood, ancient and full of some mysterious divine echo. She suggests this may be a better place to commune with elven gods. 
+> [Cintra](<../../dunmari/cintra.md>) will pull Delwath aside and say that, yes, [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is a place that is close to the Divine, and indeed could almost be said to be Divine itself, for the mesa is, in some sense, the body of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) made manifest. She will also clarify that, while [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) speaks clearly from the mesa, she is not sure that this will be true of the elven gods, because of how tied the mesa is to [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). She will say that she believes this place, the oasis of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), has an ancient connection to the gods, being a place that was close to the Divine even before the Dunmari arrived, perhaps even before humans settled the lands. She sometimes sees a great forest covering spreading across what are now plains and deserts, full of ancient trees that reach the sky. A few miles west of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) there is a place where a natural stone arch stands isolated in the rocky desert, and when she has traveled there, the arch is not stone, but living wood, ancient and full of some mysterious divine echo. She suggests this may be a better place to commune with elven gods. 
 > 
 > Delwath will set out pre-dawn one morning into the desert. He will leave all of his things with the party (and I'll send a separate email to the group about the details, he is also going to speak to [Kenzo](<./kenzo.md>) separately) save for two waterskins, a day's worth of food, and a belt pouch with the mote of fate and some red healing mud, he will set out into the desert.
 > 
@@ -293,9 +293,9 @@ title: Delwath
 > 
 > All the time your creature is growing stronger, you push more and more energy through the tether and it takes all you give.
 > 
-> After a time you feel something warm, a campfire? No, not fire, fire is the devil's work. A glow, a soft glow. Home, cool water, the moonlight reflected in the clear pool, running through the forest. Your creature is near something that has been blessed by [Anida](<../../../cosmology/gods/high-gods/anida.md>), by the First and the Last! You cannot remember who that is, but you bask in the glow of it, wish your creature would hold it and let its comfort flow over you. Somehow, you realize you need something from your creature, it must give back to you, the scales must not always be one sided. You used to get sacrifices, gifts, did you not? The memory is not clear. Something fast, something swift, that runs through the forest. The next time it is in the place that is thin, that is open to your mind, where you can reach through the tether and speak, you will tell it.*
+> After a time you feel something warm, a campfire? No, not fire, fire is the devil's work. A glow, a soft glow. Home, cool water, the moonlight reflected in the clear pool, running through the forest. Your creature is near something that has been blessed by [Anida](<../../../cosmology/gods/high-gods/divine-presence.md>), by the First and the Last! You cannot remember who that is, but you bask in the glow of it, wish your creature would hold it and let its comfort flow over you. Somehow, you realize you need something from your creature, it must give back to you, the scales must not always be one sided. You used to get sacrifices, gifts, did you not? The memory is not clear. Something fast, something swift, that runs through the forest. The next time it is in the place that is thin, that is open to your mind, where you can reach through the tether and speak, you will tell it.*
 > 
 > ---
 > 
-> As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [Aaviskar](<../../../cosmology/gods/tanshi/yezali.md>), that you are Delwath.
+> As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>), that you are Delwath.
 > 

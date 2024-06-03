@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/wip]
 campaignInfo: []
 name: Khatridun
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 title: Khatridun
 ---
 # Khatridun

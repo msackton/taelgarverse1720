@@ -21,4 +21,4 @@ title: Thror
 </div>
 
 
-A sailor and a pirate and a storm sorceror, feeling remose and praying to the [Bahrazel](<../../../../cosmology/gods/embodied-gods/bahrazel.md>) to give him another chance, and nearly instantly pulled away to aid [Riswynn](<../riswynn.md>). 
+A sailor and a pirate and a storm sorceror, feeling remose and praying to the [Bahrazel](<../../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>) to give him another chance, and nearly instantly pulled away to aid [Riswynn](<../riswynn.md>). 

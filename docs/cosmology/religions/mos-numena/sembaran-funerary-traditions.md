@@ -1,10 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [religion/mosnumena, background]
+displayDefaults: {defArt: ''}
 title: Sembaran Funerary Traditions
 ---
 # Sembaran Funerary Traditions
 
-The funerary traditions in [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) are heavily derived from the ancient Drankorian Funeral Traditions, but also inspired in part by the [kestavo religion](<../kestavo/kestavan-funerary-traditions.md>) that has been present in the [Semb](<../../../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>) river valley for eons. 
+The funerary traditions in [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) are heavily derived from the ancient Drankorian Funeral Traditions, but also inspired in part by the [kestavo religion](<../northern-folk-religions/kestavan-funerary-traditions.md>) that has been present in the [Semb](<../../../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>) river valley for eons. 
 
 The Sembaran tradition, like the Drankorian tradition, is much more concerned with the journey of the soul through the [Land of the Dead](<../../multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>). The divines of [Mos Numena](<./mos-numena.md>) are seen as granted the miracle of the Gathering of the Soul to all, as a birthright of the human condition, and the counterpart to the miracle of the Gifting of the Soul, at birth.
 

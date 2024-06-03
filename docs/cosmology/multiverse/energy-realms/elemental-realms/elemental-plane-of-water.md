@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 typeOf: plane
 partOf: Elemental Realms
 title: Elemental Plane of Water
@@ -14,3 +14,4 @@ title: Elemental Plane of Water
 The Elemental Plane of Water, one of the outer planes associated with the [Plane of Magic](<../plane-of-magic.md>).
 
 It is said that in certain deep places in the ocean, one can find portals to the endless deeps of the Plane of Water.
+

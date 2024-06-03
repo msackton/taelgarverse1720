@@ -23,7 +23,7 @@ title: Alban
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1719 (12 months old)  
+    Born DR 1719 (13 months old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
@@ -32,5 +32,7 @@ title: Alban
 
 
 
-One of the adventurers of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). Traveled with [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) to [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), where he was killed. 
+An adventurer associated with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
+
+
 

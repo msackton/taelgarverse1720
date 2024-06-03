@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/minor, person, dufr/aware, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/internal]
 campaignInfo: []
 name: Cloudspinner
 born:
@@ -25,6 +25,8 @@ title: Cloudspinner
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1002): imprisoned
+
+
 
 
 The Queen of Sunset was once the ruler of Amberglow, known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  

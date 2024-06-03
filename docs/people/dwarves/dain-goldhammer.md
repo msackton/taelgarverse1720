@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer
@@ -24,6 +24,8 @@ title: Dain Goldhammer
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 

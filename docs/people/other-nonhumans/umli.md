@@ -24,14 +24,14 @@ title: Umli the Exile
     Born DR 1666 (54 years old)  
     { .bio }
 
-    Based in the [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>), the Northern Green Sea
+    Based the Sivnjo Mountains
 </div>
 
 
 
 ![Umli the Exile Portrait](../../assets/umli-the-exile-portrait.png){align="right"; width="320"}Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 
 
-Born in the southern [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>), she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) since DR 1732. 
+Born in the southern [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>), she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) since DR 1732. 
 
 
 Though loosely affiliated with the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>), she does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. 

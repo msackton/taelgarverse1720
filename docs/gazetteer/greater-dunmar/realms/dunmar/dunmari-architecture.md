@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
 title: Dunmari Architecture
 ---
+# Dunmari Architecture
 
 Some notes on historical architectural styles in Dunmar.
 ## Aatmajic

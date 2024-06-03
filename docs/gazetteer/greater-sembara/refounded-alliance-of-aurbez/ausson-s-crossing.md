@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork/notes]
 name: Ausson's Crossing
 displayDefaults: {defArt: ''}
 typeOf: inn
 created: 1652
-partOf: Laicon
+whereabouts: Laicon
 title: Ausson's Crossing
 ---
 # Ausson's Crossing

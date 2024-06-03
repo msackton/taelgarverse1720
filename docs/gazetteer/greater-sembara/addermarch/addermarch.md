@@ -4,7 +4,7 @@ tags: [place, status/needswork/notes]
 campaignInfo: []
 name: Addermarch
 typeOf: realm
-partOf: Greater Sembara
+whereabouts: Greater Sembara
 title: Addermarch
 ---
 # Addermarch

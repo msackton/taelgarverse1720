@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 name: Cedric
 born: 1684
 died: 1720-01-05
@@ -23,3 +23,7 @@ title: Cedric
     Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
+
+A transman who lived in Underhill, he was killed by a zombie during the Zombie Plague in Cleenseau along with his unborn child. He lived at Tumbledown Farm, and was quiet and preferred the company of his husband (a solider in the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)) to large groups. 
+
+He was found near [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>) by [Gideon Thorne](<./gideon-thorne.md>) and some other fishers.

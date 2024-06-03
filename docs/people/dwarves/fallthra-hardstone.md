@@ -31,7 +31,7 @@ title: Fallthra Hardstone
 
 
 
-Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
+Matriarch of the Hardstone clan; associated with the [Tokra Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), where she and her clan help maintain the building. 
 ## Relationships:
 - Mother to [Dag Hardstone](<./dag-hardstone.md>)
 - Sister of [Morkral Hardstone](<./morkral-hardstone.md>)

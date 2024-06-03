@@ -20,7 +20,7 @@ title: Gnaeus
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1701 (19 years old)  
-    Member of the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and the Sibyl's Hall  
+    Member of the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and [Sibyl's Hall](<../../groups/chardonian-organizations/sibyl-s-hall.md>)  
     { .bio }
 
     Originally from: [Arendum](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/arendum.md>), the [Chasa River Valley](<../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/chasa-river-valley.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)

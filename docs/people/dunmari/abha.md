@@ -30,5 +30,5 @@ title: Abha
 
 ![Abha V2](../../assets/abha-v2.png){align="right"; width="400"}Abha is a mystai of Sonkar, a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
-Abha, like [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+Abha, like [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 

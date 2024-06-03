@@ -1,5 +1,5 @@
 ---
-tags: [place, event-source, status/unknown]
+tags: [place, event-source, status/needswork/external]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
 typeOf: ruin
@@ -9,6 +9,8 @@ title: Ruined Elven Workshop (near Tokra)
 # The Ruined Elven Workshop (near Tokra)
 >[!info]+ Information
 > A  ruin in the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>), [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)
+
+%
 
 Under the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) is the ruins of an ancient elven workshop, which is located on a weak point where the energy of [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) leaks into the material plane. 
 

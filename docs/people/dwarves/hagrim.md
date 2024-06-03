@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person, status/cleanup/refactor, status/cleanup/header]
 campaignInfo: []
 name: Hagrim of Morkalan
 born:

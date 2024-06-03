@@ -16,7 +16,7 @@ title: Es\*tiasilos
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A mysterious abberation (it/they/him/her)  
-    Hatched from an egg on November 5th, 1719 (2 months old)  
+    Hatched from an egg on November 5th, 1719 (3 months old)  
     { .bio }
 
     :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/monsters/3502311-es-tiasilos) 

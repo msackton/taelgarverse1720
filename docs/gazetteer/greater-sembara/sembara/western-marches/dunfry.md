@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork/notes]
 name: Dunfry
 typeOf: settlement
 typeOfAlias: town
-partOf: Barony of Dunfry
+whereabouts: Barony of Dunfry
 title: Dunfry
 ---
 # Dunfry

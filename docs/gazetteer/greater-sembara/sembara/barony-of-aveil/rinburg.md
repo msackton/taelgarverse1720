@@ -34,7 +34,7 @@ There are three major guilds:
 * the Masons Guild, which controls the local building trade, as well as the timber industry
 * the Mercantile Guild, which controls the local markets as well as the ferries and docks on the Enst
 
-The most notable building in town is the large Temple of the Night Queen.
+The most notable building in town is the large Temple of the Night Queen. There is also a small temple of the Wanderer and a larger Temple to the Father, built by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>).
 
 The current Lord Mayor is [Alaric Benec](<../../../../people/sembarans/alaric-benec.md>). 
 

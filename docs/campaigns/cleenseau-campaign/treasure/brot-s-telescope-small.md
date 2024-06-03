@@ -19,7 +19,7 @@ title: Brot's Spyglass
 # Brot's Spyglass
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Mundane Telescope__  
-   Created October 1st, 1719 (3 months ago)  
+   Created October 1st, 1719 (4 months ago)  
    Created by [Brot Starsearcher](<../../../people/dwarves/brot-starsearcher.md>), in [Taviose](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)  
    Owned by [Izgil Moonseeker](<../../../people/pcs/cleenseau/izgil-moonseeker.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/equipment/spyglass) 

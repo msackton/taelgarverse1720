@@ -27,4 +27,4 @@ hide: [navigation]
 
 
 
-The head priest of the primary Dunmari temple in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>).
+The head priest of the primary Dunmari temple in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>).

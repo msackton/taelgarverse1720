@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Jon
 born: 1700
 species: human
@@ -26,4 +25,4 @@ title: Jon
 </div>
 
 
-A deputy of Ysabel and gateguard; strong and quick with a spear.
+A deputy of [Ysabel](<./ysabel.md>) and gateguard; strong and quick with a spear. He was on the bridge during the Zombie Plague in Cleenseau and distinguished himself. A strong supporter of [Béatrix Thorne](<./beatrix-thorne.md>).

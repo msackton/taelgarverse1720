@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/header]
 displayDefaults: {endStatus: 'killed by [[Mezzar|Grimbaskal]] on'}
 campaignInfo: []
 name: Zevi
@@ -23,6 +23,8 @@ title: Zevi
 
     Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
+
+
 
 
 A scout and warrior of the [Bek'eni](<../../groups/deno-qai-tribes/bek-eni.md>). 

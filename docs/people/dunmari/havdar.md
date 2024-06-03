@@ -59,7 +59,7 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 - In April/May 1748, scouted the eastern deserts with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 - In August 1748, was petrified by a cursed sword taken from [Agata's lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), gifted to him by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), who were unaware it was cursed.
 - In September 1748, was restored, but became increasingly paranoid as the subtle curse of the sword still worked its evil magic. 
-- In November 1748, the curse was broken by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s prayers, and the cursed sword destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>), freeing Havdar of its evil influence. 
+- In November 1748, the curse was broken by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s prayers, and the cursed sword destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>), freeing Havdar of its evil influence. 
 - In December 1748, led [Sura](<./sura.md>)'s army in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
 ## Rumors and Information
 

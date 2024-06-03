@@ -11,11 +11,5 @@ title: Cinder Wastes
 </div>
 
 
-
-# The Cinder Wastes
->[!info]+ Information  
->   
->> 
-
 A mysterious region rumored to exist in the Elemental Plane of Fire. 
 

@@ -11,5 +11,5 @@ title: Aatmaji Dynasty
 ---
 # The Aatmaji Dynasty
 
-The first ruling dynasty of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), founded by [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). 
+The first ruling dynasty of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), founded by [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). 
 

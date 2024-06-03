@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 name: Samuel
 born: 1705
 species: human
@@ -25,4 +25,4 @@ title: Samuel
 </div>
 
 
-A kitchen boy in [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), witnessed the birth of [Viepuck's](<../pcs/cleenseau/viepuck.md>) familar.
+A kitchen boy in [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), witnessed the birth of [Viepuck's](<../pcs/cleenseau/viepuck.md>) familiar, [Estiasilos](<../pcs/cleenseau/estiasilos.md>).

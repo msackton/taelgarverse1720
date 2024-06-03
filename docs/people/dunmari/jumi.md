@@ -28,7 +28,7 @@ title: Jumi
 
 
 
-[Cintra](<./cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>). 
+[Cintra](<./cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). 
 
 
 In the spring of 1748, Jumi was kidnapped by the hag [Agata](<../fey/agata.md>), and partially turned to wood. She was freed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) after the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated Agata.

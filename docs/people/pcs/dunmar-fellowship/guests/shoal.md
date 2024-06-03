@@ -18,7 +18,7 @@ title: Shoal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A sea [elf](<../../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 37)  
+    A sea [elf](<../../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 37)  
     Born DR 1652 (68 years old)  
     { .bio }
 

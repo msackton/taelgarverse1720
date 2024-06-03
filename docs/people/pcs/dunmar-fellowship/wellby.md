@@ -94,7 +94,7 @@ title: Wellby
 > 
 > #### Dream Staff Journey
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) asks Wellby to meet him at the top of the mesa, at dusk. When Wellby arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
+> [Candrosa](<../../dunmari/candrosa.md>) asks Wellby to meet him at the top of the mesa, at dusk. When Wellby arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
 > 
 > You concentrate on an image of the map you've followed from your home to [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and added onto through the last months of travels.
 > 

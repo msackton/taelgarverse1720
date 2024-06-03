@@ -22,7 +22,7 @@ title: Urgall
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1720 (15 days old)  
+    Born DR 1720 (1 months old)  
     { .bio }
 
     Based in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)

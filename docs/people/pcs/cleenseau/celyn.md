@@ -10,8 +10,13 @@ gender: male
 player: Kiya Nicoll
 affiliations:
 - {org: Heroes of Cleenseau}
+- {org: Mahaut's Miracle Players, start: 1717-12, end: 1719-06-29}
 whereabouts:
-- {type: home, end: 1719, location: Clawyn}
+- {type: away, start: 1715-03, end: 1715-12, location: Ruthin}
+- {type: home, end: 1716-10, location: Clawyn}
+- {type: away, start: 1716-10, end: 1717-01, location: Tafolwern}
+- {type: away, start: 1717-02, end: 1719-06-29, location: traveling with Mahaut's Miracle Players}
+- {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau}
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 hide: [navigation]
@@ -24,13 +29,14 @@ title: Celyn
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     Born DR 1697 (23 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
     :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/90849827) 
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+:octicons-location-24:{ .lg .middle } Currently traveling to [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), in the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
 ![Celyn Portrait](../../../assets/celyn-portrait.png){align="right"; width="400"}Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  
@@ -40,7 +46,7 @@ He wears studded leather armor, and where his leathers are not brown they are la
 He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [that nation](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), makes commentary about the fey.  He has explicitly claimed that the fey taught him how to misty step, in fact, and that they sent him to this area by dropping acorns on his head.  To anyone with a familiarity with Tyrwinghan culture, “fey-touched lunatic” is a solid guess here.
 
 >[!Info]- Additional Context (Dan's Eyes Only)
-> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>).
+> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>).
 
 >[!Info]- Additional Context (Chris' Eyes Only)
 >Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  
@@ -69,9 +75,9 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 ### Stories about Celyn
 There are a number of stories about Celyn, but please only read these if they have been revealed in game.
 
-* [Celyn's Story of His Adolescence](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-his-adolescence.md>)
-* [Celyn's Story of Getting His Name](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-getting-his-name.md>), as told to [El](<../../sembarans/el.md>)
-* [Celyn's Miracle Story](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-miracle-story.md>), as told to [Robin](<./robin-of-abenfyrd.md>)
-* [Celyn's Story of Leaving Home](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-story-of-leaving-home.md>)
-* [Celyn's Musings on Magic](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-s-musings-on-magic.md>)
-* [Celyn and Mahaut’s Miracle Players](<../../../campaigns/cleenseau-campaign/letters-and-stories/celyn-s-stories/celyn-and-mahauts-miracle-players.md>)
+* [Celyn's Story of His Adolescence](<../../../campaigns/cleenseau-campaign/celyn-s-stories/celyn-s-story-of-his-adolescence.md>)
+* [Celyn's Story of Getting His Name](<../../../campaigns/cleenseau-campaign/celyn-s-stories/celyn-s-story-of-getting-his-name.md>), as told to [El](<../../sembarans/el.md>)
+* [Celyn's Miracle Story](<../../../campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-s-miracle-story.md>), as told to [Robin](<./robin-of-abenfyrd.md>)
+* [Celyn's Story of Leaving Home](<../../../campaigns/cleenseau-campaign/celyn-s-stories/celyn-s-story-of-leaving-home.md>)
+* [Celyn's Musings on Magic](<../../../campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-s-musings-on-magic.md>)
+* [Celyn and Mahaut’s Miracle Players](<../../../campaigns/cleenseau-campaign/celyn-s-stories/celyn-and-mahauts-miracle-players.md>)

@@ -4,7 +4,7 @@ tags: [place]
 displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 title: Lake Valandros
 ---
 # Lake Valandros

@@ -30,7 +30,7 @@ title: Harriet Goodbarrel
     { .bio }
 
     Originally from: the [Western Gulf](<../../gazetteer/western-green-sea/western-gulf.md>), the [Western Green Sea](<../../gazetteer/western-green-sea/western-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
-    Based at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in Fairgate Outer, the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 

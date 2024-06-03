@@ -38,7 +38,7 @@ The City Market, south of [Jita](<../../../../../../people/historical-figures/du
 
 ### Jita's Square
 
-The large, central plaza on which the temple, [Archives](<./archives.md>), and palace sit is known as [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>)'s Square. In the center of the plaza is a statue/fountain of [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>) riding a horse, [Chidya](<../../../../../../cosmology/gods/incorporeal-gods/dunmari/chidya.md>) standing in front with her hands raised, guiding [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>).
+The large, central plaza on which the temple, [Archives](<./archives.md>), and palace sit is known as [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>)'s Square. In the center of the plaza is a statue/fountain of [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>) riding a horse, [Chidya](<../../../../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) standing in front with her hands raised, guiding [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>).
 
 ### Temple
 

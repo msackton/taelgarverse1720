@@ -49,7 +49,7 @@ There are four inns in Cleenseau, and the innkeepers are significant figures in 
 
 <div class="grid cards ext-narrow-margin" markdown>
  - ![Marigold Stonebridge](../../assets/marigold-stonebridge.png){align="left"; width="120"} [Marigold Stonebridge](<../../people/halflings/marigold-stonebridge.md>), and the [Stonebridges](<../../groups/halfling-families/stonebridges.md>), the owners of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)
- - ![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="left"; width="120"} [Selma Wisthelwind](<../../people/sembarans/selma-wisthelwind.md>), a Zimka transplant, prominent worshipper of the [Kestavo](<../../cosmology/religions/kestavo/kestavo.md>), and owner of [The Fox's Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>)
+ - ![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="left"; width="120"} [Selma Wisthelwind](<../../people/sembarans/selma-wisthelwind.md>), a Zimka transplant, prominent worshipper of the [Kestavo](<../../cosmology/religions/northern-folk-religions/kestavo.md>), and owner of [The Fox's Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>)
  - ![Duncan Rivers](../../assets/duncan-rivers.png){align="left"; width="120"} [Duncan Rivers](<../../people/sembarans/duncan-rivers.md>), the owner of [The Bandit’s End](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-bandits-end.md>), proud and self-important
  - ![Constance Farnham](../../assets/constance-farnham.png){align="left"; width="120"} [Constance Farnham](<../../people/sembarans/constance-farnham.md>), the owner of [The River's Blessing](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-river-s-blessing.md>)
 </div>
@@ -157,7 +157,7 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
  - ![Damien Montrichard](../../assets/damien-montrichard.png){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
  - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"}, [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe
  - ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="left"; width="120"} [[Remille Vauclaire], a swordswoman
- - ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="left"; width="120"} [Tristan Vaudrillard](<../../people/sembarans/tristan-vaudrillard.md>), a devotee of [The Sibyl](<../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>) and student of magic
+ - ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="left"; width="120"} [Tristan Vaudrillard](<../../people/sembarans/tristan-vaudrillard.md>), a devotee of [The Sibyl](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic
  - ![Armand Night Queen New](../../assets/armand-night-queen-new.png){align="left"; width="120"} [Armand](<../../people/sembarans/armand.md>), a disciple of the Night Queen
 </div>
 

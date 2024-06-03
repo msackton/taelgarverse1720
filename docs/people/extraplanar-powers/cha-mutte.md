@@ -21,7 +21,7 @@ title: Cha'mutte
 </div>
 
 
-An elder wyrm, one of the original children of [Arha](<../../cosmology/gods/high-gods/arha.md>) and [Malik](<../../cosmology/gods/high-gods/malik.md>).
+An elder wyrm, one of the original children of the [Divine Presence](<../../cosmology/gods/high-gods/divine-presence.md>). 
 
 Sought to overthrow the gods, breaking the order of things that has held since [The Riving](<../../events/ancient/the-riving.md>), freeing the elder races from the binds and power of the Embodied Gods. 
 

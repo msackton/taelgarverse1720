@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-partOf: Divine Realms
+whereabouts: Divine Realms
 typeOf: plane
 title: Heart of the Mountain
 ---
@@ -11,7 +11,7 @@ title: Heart of the Mountain
 </div>
 
 
-The divine realm of the [Bahrazel](<../../../gods/embodied-gods/bahrazel.md>). 
+The divine realm of the [Bahrazel](<../../../gods/embodied-gods/bahrazel/bahrazel.md>). 
 
 Described in various ways, but often as a vast cavern hundreds and hundreds of feet across. Small motes of light float in the air, causing the flecks of white gemstones and silver veins that run through the walls of the cave to glitter and sparkle. In the center of the open space is a perfectly smooth pool of water, deep and dark. The only sound is the distant, rhythmic clang of hammer on iron, ringing almost like a bell, the tempo slow but steady.
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-01-15, type: met}
 name: Vahaiya
@@ -14,7 +14,7 @@ affiliations:
 - {org: The Rangers, start: 1640, end: 1720}
 whereabouts:
 - {type: home, start: '', end: 1545, location: Ainumarya}
-- {type: away, start: 1545, end: 1720, location: traveling around greater Sembara}
+- {type: away, start: 1545, end: 1721, location: traveling around greater Sembara}
 - {type: home, start: 1721, location: Erelion}
 hide: [navigation]
 title: Vahaiya
@@ -24,7 +24,7 @@ title: Vahaiya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (they/them), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
+    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (they/them), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 36)  
     Born DR 1532 (188 years old)  
     Member of [The Rangers](<../../groups/the-rangers.md>) (since DR 1640)  
     { .bio }
@@ -36,13 +36,11 @@ title: Vahaiya
 
 
 
-![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"} Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the Battle of Urlich Pass, and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
+![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"}Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the Battle of Urlich Pass, and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/istaros-watershed/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
 
 Growing tiring of fighting after many years, they settled in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), where they now live, spending time as an artist and art collector. 
 
 
-
-![Vahaiya 2](../../assets/vahaiya-2.png){align="right"; width="400"}
-
+![Vahaiya 2](../../assets/vahaiya-2.png){align="right"; width="400"} 
 

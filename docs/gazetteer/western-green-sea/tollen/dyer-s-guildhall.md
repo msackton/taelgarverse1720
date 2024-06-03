@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/tim]
 typeOf: guildhall
-partOf: Tollen
+whereabouts: Tollen
 name: Dyer's Guildhall
 title: Dyer's Guildhall
 ---

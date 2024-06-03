@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Duchy of Wisford
 typeOf: duchy
-partOf: Sembara
+whereabouts: Sembara
 title: Duchy of Wisford
 ---
 # The Duchy of Wisford

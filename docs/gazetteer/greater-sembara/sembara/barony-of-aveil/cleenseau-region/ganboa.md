@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Ganboa
 pronunciation: Gan-bo-a
-partOf: Barony of Aveil
+whereabouts: Barony of Aveil
 typeOf: settlement
 ancestry: lizardfolk
 typeOfAlias: village

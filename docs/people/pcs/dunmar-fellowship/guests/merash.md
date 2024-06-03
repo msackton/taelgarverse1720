@@ -21,4 +21,4 @@ title: Merash
 </div>
 
 
-A dwarven fighter and blacksmith, summoned to aid the [Bahrazel](<../../../../cosmology/gods/embodied-gods/bahrazel.md>) because of a debt owed for a miracle saving her life in a storm at sea. 
+A dwarven fighter and blacksmith, summoned to aid the [Bahrazel](<../../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>) because of a debt owed for a miracle saving her life in a storm at sea. 

@@ -18,7 +18,7 @@ title: Claudio
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1719 (12 months old)  
+    Born DR 1719 (13 months old)  
     { .bio }
 
     Based in [Luminatia](<../../gazetteer/west-coast/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)

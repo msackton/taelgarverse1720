@@ -27,5 +27,5 @@ hide: [navigation]
 </div>
 
 
-Son of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), second Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+Son of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), second Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 

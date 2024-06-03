@@ -1,26 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/unaware, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Peyre Vayler
 born: 1655
 species: human
-ancestry: Sembaran
+ancestry: Maseaun
 gender: male
 whereabouts: Evis
+title: Lord Peyre Vayler
+affiliations:
+- {org: Evis, type: leader}
 hide: [navigation]
-title: Peyre Vayler
 ---
-# Peyre Vayler
+# Lord Peyre Vayler
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1655 (65 years old)  
+    Lord of [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)  
     { .bio }
 
     Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
 </div>
 
 
-The Marcher Lord of [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left the March of Evis paralyzed somewhat over the last year or two as his health has declined.
+The Lord of [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left Evis paralyzed somewhat over the last year or two as his health has declined.

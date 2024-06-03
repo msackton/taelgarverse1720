@@ -21,7 +21,7 @@ The known world of Taelgar stretches 2,500 miles from the great city of [Chardon
 
 - In the west, the vast [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) extends north, east, and south from the imperial capital of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), growing rich and powerful on its magical scholarship and the might of its armies. 
 - On the outskirts of the [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) dwell various scattered northerners, the descendants of the earliest humans to settle Taelgar. 
-	- In the forests and foothills on the eastern borders of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the Deno'qai live in hidden villages, raising pigs and worshipping the tanshi, the small gods of the land. 
+	- In the forests and foothills on the eastern borders of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the Deno'qai live in hidden villages, raising pigs and practicing [Tanshi Worship](<../cosmology/religions/northern-folk-religions/tanshi-worship.md>), a religion focused on the small gods of the land. 
 	- On the coast of the [Mawakel Peninsula](<../gazetteer/west-coast/mawar-confederacy/mawakel-peninsula.md>), the seafaring Mawar people have lived symbiotically with the ocean for generations uncounted.
 	- Further north, and on the various scattered coastal islands, other people may dwell, but little news reaches even educated commoners to the south and east of these lands. 
 - The vast forests between the [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) and the [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) once were the home of the elven kingdom of [Ainumarya](<../gazetteer/chasa-nahadi-watershed/ainumarya.md>), but since the [Great War](<../events/1500s/great-war.md>) the once vibrant cities of the elves have largely fallen silent. 
@@ -66,15 +66,15 @@ Rumors exist of **orcs**, freed from the curse of the evil [God of War](<../cosm
 And rumors of stranger beings persist: small **gnomes**, the surface-dwelling distant cousins of dwarves; the **merfolk** who rarely emerge from their underwater kingdoms to visit the terrestrial world; and other fantastical beings of myth and legend. 
 ## Religion and Divinity
 
-Many diverse deities can be found across the lands of Taelgar. The high gods, [Arha](<../cosmology/gods/high-gods/arha.md>) and [Malik](<../cosmology/gods/high-gods/malik.md>), who created the cosmos and embody the essence of divinity itself, take on many names among the sentient beings of Taelgar, though are rarely worshipped directly, and do not answer prayers or grant divine magic. The embodied gods, created by [Arha](<../cosmology/gods/high-gods/arha.md>) and [Malik](<../cosmology/gods/high-gods/malik.md>), are worshipped as the Firstborn by their sentient creations. The incorporeal gods, given form by the ineffable Divine Spark of humanity, form the basis of the diverse religions of humans on Taelgar. 
+Many diverse deities can be found across the lands of Taelgar. The high gods, [Arha](<../cosmology/gods/high-gods/divine-presence.md>) and [Malik](<../cosmology/gods/high-gods/divine-presence.md>), who created the cosmos and embody the essence of divinity itself, take on many names among the sentient beings of Taelgar, though are rarely worshipped directly, and do not answer prayers or grant divine magic. The embodied gods, created by [Arha](<../cosmology/gods/high-gods/divine-presence.md>) and [Malik](<../cosmology/gods/high-gods/divine-presence.md>), are worshipped as the Firstborn by their sentient creations. The incorporeal gods, given form by the ineffable Divine Spark of humanity, form the basis of the diverse religions of humans on Taelgar. 
 ### Embodied Gods
 The direct creations of the Divine, the embodied gods were given physical form by the High Gods, given permanence and consciousness, and the Divine power to create. Not dependent upon belief for their power, the embodied gods created people in their image.
 
-The Firstborn, created by [Arha](<../cosmology/gods/high-gods/arha.md>) and [Malik](<../cosmology/gods/high-gods/malik.md>), gave rise to the Elder Folk: 
+The Firstborn, created by [Arha](<../cosmology/gods/high-gods/divine-presence.md>) and [Malik](<../cosmology/gods/high-gods/divine-presence.md>), gave rise to the Elder Folk: 
 - Aldanor and Elmerca, the Living Tree and the Wild Star of the elves
 - Entamba, the Elder Mountain of the stoneborn
 - Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the lizardfolk
-- the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven [Bahrazel](<../cosmology/gods/embodied-gods/bahrazel.md>) of the dwarves
+- the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven [Bahrazel](<../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>) of the dwarves
 - Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the halflings.
 
 Evil creeps into the world through the children of the Three Despairs, the corrupted divinities of that which seeks to unmake creation:
@@ -86,20 +86,20 @@ Evil creeps into the world through the children of the Three Despairs, the corru
 These gods are sustained by the belief of their [human](<../species/humans/humans.md>) worshippers. While they can be very powerful, and have the strength to act in the world itself, their power in Taelgar waxes and wanes with the strength of their worshippers’ belief. The following religions are common in the northwestern corner of Taelgar:
 
 - The [Eight Divines](<../cosmology/religions/mos-numena/mos-numena.md>), the dominant pantheon of the [Drankorian Empire](<../history/drankorian-era/drankorian-empire.md>), since spread to many cultures and civilizations that grew out of that Empire. The traditions associated with the worship of the [Eight Divines](<../cosmology/religions/mos-numena/mos-numena.md>) are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine, although in common usage these worship traditions are usually just called ‘the Way’. The [Eight Divines](<../cosmology/religions/mos-numena/mos-numena.md>) are:
-	- [The Mother](<../cosmology/gods/incorporeal-gods/mos-numena/the-mother.md>) (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
-	* [The Father](<../cosmology/gods/incorporeal-gods/mos-numena/the-father.md>) (god of light, order, justice, summer, associated with the sun)
-	* [The Night Queen](<../cosmology/gods/incorporeal-gods/mos-numena/the-night-queen.md>) (goddess of darkness, death, sleep, winter, associated with the night)
-	* [The Warlord](<../cosmology/gods/incorporeal-gods/mos-numena/the-warlord.md>) (god of war, vengeance, smiths, autumn, associated with day)
-	* [The Sibyl](<../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>) (goddess of magic, knowledge, love, beauty)
-	* [The Wanderer](<../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) (god of travel, trade, strangers, and outcasts)
-	* [The Wyrdling](<../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>) (genderless diety of chaos, luck, fate, storms, and weather)
-	* [The Wildling](<../cosmology/gods/incorporeal-gods/mos-numena/the-wildling.md>) (genderless diety of nature and elements)
-* The [Kestavo](<../cosmology/religions/kestavo/kestavo.md>), an ancient religion still practiced in some places in the Sembaran highlands, and in [Vostok](<../gazetteer/western-green-sea/vostok/vostok.md>). It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the[ kestav](<../cosmology/religions/kestavo/kestavo.md>)o, bring the prayers of their communities to [Ako](<../cosmology/gods/high-gods/ako.md>), the Divine.
+	- [The Mother](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>) (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
+	* [The Father](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>) (god of light, order, justice, summer, associated with the sun)
+	* [The Night Queen](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>) (goddess of darkness, death, sleep, winter, associated with the night)
+	* [The Warlord](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>) (god of war, vengeance, smiths, autumn, associated with day)
+	* [The Sibyl](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) (goddess of magic, knowledge, love, beauty)
+	* [The Wanderer](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>) (god of travel, trade, strangers, and outcasts)
+	* [The Wyrdling](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>) (genderless diety of chaos, luck, fate, storms, and weather)
+	* [The Wildling](<../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wildling.md>) (genderless diety of nature and elements)
+* The [Kestavo](<../cosmology/religions/northern-folk-religions/kestavo.md>), an ancient religion still practiced in some places in the Sembaran highlands, and in [Vostok](<../gazetteer/western-green-sea/vostok/vostok.md>). It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the[ kestav](<../cosmology/religions/northern-folk-religions/kestavo.md>)o, bring the prayers of their communities to [Ako](<../cosmology/gods/high-gods/divine-presence.md>), the Divine.
 * [The Five Siblings of the Dunmari](<../cosmology/religions/five-siblings/five-siblings.md>), the pantheon of the Dunmari people, brought with them from their distant ancestral homeland during their migration after the fall of [Drankor](<../history/drankorian-era/drankorian-empire.md>). A family pantheon, with five major divinities: 
-	* [Jeevali](<../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>), the goddess of life, rebirth, home, and family;
-	* [Laka](<../cosmology/gods/incorporeal-gods/dunmari/laka.md>), the god of knowledge, agriculture, and the seasons
-	* [Aagir](<../cosmology/gods/incorporeal-gods/dunmari/aagir.md>), the god of war, fire, and death; protector of soldiers 
-	* [Sonkar](<../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>), the goddess of beauty, truth, artisans, and justice;
-	* [Chidya](<../cosmology/gods/incorporeal-gods/dunmari/chidya.md>), the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
-- The tanshi, the small gods of the Deno'qai, who accept small sacrifices from their worshippers in exchange for carrying prayers
+	* [Jeevali](<../cosmology/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>), the goddess of life, rebirth, home, and family;
+	* [Laka](<../cosmology/gods/incorporeal-gods/dunmari-pantheon/laka.md>), the god of knowledge, agriculture, and the seasons
+	* [Aagir](<../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>), the god of war, fire, and death; protector of soldiers 
+	* [Sonkar](<../cosmology/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), the goddess of beauty, truth, artisans, and justice;
+	* [Chidya](<../cosmology/gods/incorporeal-gods/dunmari-pantheon/chidya.md>), the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
+- [Tanshi Worship](<../cosmology/religions/northern-folk-religions/tanshi-worship.md>), focused on the small gods of the Deno'qai, who accept small sacrifices from their worshippers in exchange for carrying prayers
 - [Kaikkea](<../cosmology/gods/incorporeal-gods/kaikkea.md>), the ancient ocean mother, worshipped by the monotheistic mariner people of [Skaerhem](<../gazetteer/western-green-sea/skaerhem/skaerhem.md>). 

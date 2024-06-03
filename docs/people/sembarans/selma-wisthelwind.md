@@ -25,9 +25,9 @@ title: Selma Wisthelwind
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }
 
-    Originally from: [Ardlas](<../../gazetteer/greater-sembara/zimkova/ardlas.md>), the [Highland Kingdoms](<../../gazetteer/greater-sembara/zimkova/zimkova.md>)
+    Originally from: [Ardlas](<../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>)
     Based in [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>), [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
 </div>
 
 
-![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../cosmology/religions/kestavo/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).
+![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../cosmology/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).

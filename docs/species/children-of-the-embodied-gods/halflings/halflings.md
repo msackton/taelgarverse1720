@@ -23,7 +23,7 @@ Most halflings, however, simply never settle down. Whether they sail the [Green 
 
 Living in small family groups usually apart from others of their race, halflings have no formal government or organized political structure. However, they remain connected to each other no matter how far apart via the collective memory of their ancestors, the halfling soulmind. This consciousness is central to halflings’ self conception as race. In significant ways, halflings see themselves not solely as individuals: they are also always part of this whole. Some halflings describe it as like waves on the ocean: individuals are patterns that arise, and come together, and move and come apart, distinct, but fundamentally part of one ocean. This conception of a shared soulmind, a shared racial consciousness, profoundly shapes their encounters with each other: that they're one single family, connected even if they haven't met.
 
-This racial consciousness is guarded, watched over, and nurtured by [the First Ones](<../../../cosmology/gods/embodied-gods/the-first-ones.md>), the Firstborn gods of the halflings: Nwana, the Stranger and Child; Obito, the Music Maker and Merchant; and Jemghari, the Storyteller and Traveler. While halflings do not have deep traditions of prayer, or organized religious practice, the First Ones are an ever-present backdrop to halfling life. Every experience, every memory of a halfling’s life will eventually contribute in some small way to the greater halfling consciousness, and for many halflings simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators. 
+This racial consciousness is guarded, watched over, and nurtured by the [First Ones](<../../../cosmology/gods/embodied-gods/first-ones/first-ones.md>), the Firstborn gods of the halflings: Nwana, the Stranger and Child; Obito, the Music Maker and Merchant; and Jemghari, the Storyteller and Traveler. While halflings do not have deep traditions of prayer, or organized religious practice, the First Ones are an ever-present backdrop to halfling life. Every experience, every memory of a halfling’s life will eventually contribute in some small way to the greater halfling consciousness, and for many halflings simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators. 
 
 ### Sailors, Traders, Storytellers
 
@@ -31,6 +31,17 @@ As travelers driven by wanderlust, most halflings find themselves in professions
 
 Halflings are also noted musicians and bards and storytellers. Halfling artists and musicians, in particular, tend to embrace the notion of music as unique and improvised experience which expresses a universal form -- that the musical changes are the changes but the thing created over them is always unique -- which mirrors halfling understanding of selfhood: that each individual is both unique and, at the same time, merely an expression of an undifferentiated universal oversoul of halfling-ness. Halfling music is usually improvisational because of this, and, in Taelgar, they are the originators of jazz and related musical traditions.njoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times.  
 
+### Sea Shanties
+
+Halflings sing on their ships. Here are two popular halfling songs.
+
+The Green Sea Calls: <audio controls>
+    <source src="/taelgarverse1720/assets/audio/green-sea-calls.mp3">
+</audio>
+The Dyes of Tollen:
+<audio controls>
+    <source src="/taelgarverse1720/assets/audio/dyes-of-tollen.mp3">
+</audio>
 #### Halfing Names
 
 Halflings have given names and family names, which are often derived from nicknames, professions, or family lore.

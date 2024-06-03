@@ -8,6 +8,6 @@ title: Aagirvala
 
 # Aagirvala
 
-[Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>)'s Feast Day, celebrated on the first full moon after the autumnal equinox. 
+[Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>)'s Feast Day, celebrated on the first full moon after the autumnal equinox. 
 
 A day to mark victory in battle, but also remember and acknowledge the viciousness of the war of conquest of the Dunmari, and remember those killed in anger. Can be a tense holiday, as it also has strongly nationalistic vibes. Celebrated with feats of strength and endurance, and tournaments, and skill at weaponsmithing.
