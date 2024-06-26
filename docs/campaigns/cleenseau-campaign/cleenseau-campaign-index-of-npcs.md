@@ -124,7 +124,7 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 
 <div class="grid cards ext-narrow-margin" markdown>
  - ![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png){align="left"; width="120"} [Sabine de Brune](<../../people/sembarans/sabine-de-brune.md>), the castellean and magistrate
- - ![Giselle](../../assets/giselle.png){align="left"; width="120"} [Giselle](<../../people/sembarans/giselle.md>), the her secretary and clerk of the baronial records 
+ - ![Giselle](../../assets/giselle.png){align="left"; width="120"} [Giselle](<../../people/sembarans/giselle.md>), her secretary and clerk of the baronial records 
  - ![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="left"; width="120"} [Warin the Woodsman](<../../people/sembarans/warin-the-woodsman.md>), captain of Valit's household guard and a skilled tracker
 </div>
 
@@ -155,8 +155,8 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
  - ![Adra Brightwood](../../assets/adra-brightwood.png){align="left"; width="120"} [Adra Brightwood](<../../people/halflings/adra-brightwood.md>), a halfling with magical birds
  - ![Enzo Brightwood](../../assets/enzo-brightwood.png){align="left"; width="120"} [Enzo Brightwood](<../../people/halflings/enzo-brightwood.md>), a halfling scout, Adra's cousin
  - ![Damien Montrichard](../../assets/damien-montrichard.png){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
- - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"}, [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe
- - ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="left"; width="120"} [[Remille Vauclaire], a swordswoman
+ - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"} [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe
+ - ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="left"; width="120"} [Remille Vauclaire](<../../people/sembarans/remille-vauclaire.md>), a swordswoman
  - ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="left"; width="120"} [Tristan Vaudrillard](<../../people/sembarans/tristan-vaudrillard.md>), a devotee of [The Sibyl](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic
  - ![Armand Night Queen New](../../assets/armand-night-queen-new.png){align="left"; width="120"} [Armand](<../../people/sembarans/armand.md>), a disciple of the Night Queen
 </div>
@@ -166,4 +166,5 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
   - [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
   - [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
   - ![Wakog](../../assets/wakog.png){align="left"; width="120"} [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
+  - ![Gareth of Tollen](../../assets/gareth-of-tollen.png){align="left"; width="120"} [Gareth of Tollen](<../../people/sembarans/gareth-of-tollen.md>), a child-murderer and bandit
 </div>

@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
-whereabouts: Enst
+displayDefaults: {defArt: the}
+typeOf: waterway
+typeOfAlias: river
+whereabouts: Barony of Aveil
 pronunciation: Oh-beh-ron
 title: Auberonne
 ---
-# Auberonne
+# The Auberonne
 :speaker:{ .middle } *(Oh-beh-ron)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river on the [Enst](<./enst.md>), in [Sembara](<../../sembara/sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../sembara/sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
 </div>
 
 

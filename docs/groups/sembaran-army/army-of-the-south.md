@@ -5,6 +5,7 @@ campaignInfo: []
 name: Army of the South
 typeOf: army
 partOf: Sembaran Army
+whereabouts: Fellburn
 title: Army of the South
 ---
 # The Army of the South
