@@ -16,12 +16,12 @@ title: West Coast Region
 
 ## Boundaries
 
-The West Coast Region includes the entirety of the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), as well as the [Nevos Sea](<./nevos-sea.md>) area, the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), and the [Erbalta Plains](<chardonian-empire/northern-frontier/erbalta-plains.md>), plus the coastal regions west and north of the [Erbalta Plains](<chardonian-empire/northern-frontier/erbalta-plains.md>). It also includes the islands in the [Endless Ocean](<../endless-ocean.md>). 
+The West Coast Region includes the entirety of the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), as well as the [Nevos Sea](<./nevos-sea.md>) area, the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), and the [Erbalta Plains](<chardonian-empire/northern-frontier/erbalta-plains.md>), plus the coastal regions west and north of the [Erbalta Plains](<chardonian-empire/northern-frontier/erbalta-plains.md>). It also includes the islands in the [Endless Ocean](<../endless-ocean/endless-ocean.md>). 
 
 - To the north, this region is bordered by the mysterious cold of the [Far North](<../far-north/far-north.md>). 
 - To the east, this region is bordered by the ~North Nahadi River~, [Ainumarya](<../chasa-nahadi-watershed/ainumarya.md>), and the [Myraeni Gap](<../greater-dunmar/myraeni-gap.md>).
 - To the south, this region is bordered by the [Sea of Storms](<../greater-dunmar/sea-of-storms.md>)and the ocean beyond the [Nevos Sea](<./nevos-sea.md>)
-- To the west, this region is bordered by the [Endless Ocean](<../endless-ocean.md>)
+- To the west, this region is bordered by the [Endless Ocean](<../endless-ocean/endless-ocean.md>)
 
 ## Major Features
 

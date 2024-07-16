@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
+tags: [historical, person/ruler, status/needswork/notes]
 campaignInfo: []
 name: Bertram II
 born: 1537

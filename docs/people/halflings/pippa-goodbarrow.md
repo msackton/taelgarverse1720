@@ -18,7 +18,7 @@ title: Pippa Goodbarrow
     Captain of the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>)  
     { .bio }
 
-    Based in the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>), the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+    Based in the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>), the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean/endless-ocean.md>)
 </div>
 
 

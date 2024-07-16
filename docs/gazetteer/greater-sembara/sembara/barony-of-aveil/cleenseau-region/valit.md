@@ -14,7 +14,7 @@ title: Valit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 249  
-    :octicons-location-24:{ .lg .middle } A village in the [Manor of Valit](<./manor-of-valit.md>), the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A village [Manor of Valit](<./manor-of-valit.md>)  
 </div>
 
 

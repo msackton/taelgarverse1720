@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, testcase, status/unknown]
+tags: [item/magical, testcase, status/needswork/internal]
 rarity: unique
 campaignInfo:
 - {campaign: DuFr, type: destroyed, date: 1748-12-25}
@@ -24,7 +24,9 @@ title: Scepter of Command
    Created by [Emperor Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../gazetteer/istaros-watershed/desolation-of-cha-mutte.md>)
+:octicons-location-24:{ .lg .middle } Owned in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../gazetteer/istaros-watershed/desolation-of-cha-mutte.md>)
+
+
 
 
 

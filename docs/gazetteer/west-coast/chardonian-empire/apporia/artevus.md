@@ -14,7 +14,6 @@ title: Artevus
 </div>
 
 
-Artevus is a small coastal town in northern Portalia, primarily a minor market town for local fisherfolk. A relatively poor town, and somewhat dilapidated, Artevus is something of a sleepy backwater. 
+Artevus is a small coastal town in northern [Portalia](<./portalia.md>), primarily a minor market town for local fisherfolk. A relatively poor town, and somewhat dilapidated, Artevus is something of a sleepy backwater. 
 
-The docks and the market square, with the nearby temple of the Mos Numena, are the most notable local landmarks. A few quiet inns and taverns line the edge of the market square, near the docks, but are rarely busy. 
-
+The docks and the market square, with the nearby temple of the [Mos Numena](<../../../../cosmology/religions/mos-numena/mos-numena.md>), are the most notable local landmarks. A few quiet inns and taverns line the edge of the market square, near the docks, but are rarely busy.

@@ -38,3 +38,9 @@ A small market is held in the caravan yard once a week, which attracts some of t
 * Johanna, the innkeeper and miller, and her sisters and children
 * Roaric Ferrystone, the dwarven blacksmith, elderly and semi-retired, originally from the Ferrystones of [Rinburg](<../rinburg.md>)
 
+
+
+_Distances:_
+* to [Cleenseau](<cleenseau/cleenseau.md>), 5 miles
+* to [Dallet](<../dallet.md>), 15 miles
+* to [Rinburg](<../rinburg.md>), 55 miles

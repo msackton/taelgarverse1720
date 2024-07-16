@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place]
 name: Volta
 typeOf: river
 whereabouts: Western Green Sea Region
@@ -13,5 +13,4 @@ title: Volta
 </div>
 
 
-
-
+A major river that was historically a border between the [Sembaran](<../../sembara/sembara.md>) and [Zimkovan](<../../zimkova/zimkova.md>) cultural influences. The upper reaches of the Volta in particular have always been a center of [kestavan](<../../../../cosmology/religions/northern-folk-religions/kestavo.md>) religious practice. 

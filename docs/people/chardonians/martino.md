@@ -23,6 +23,8 @@ title: Martino
 </div>
 
 
+
+
 ![Martino Portrait](../../assets/martino-portrait.png){align="right"; width="400"}Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [Apporia](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>), seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
 
 He is extremely knowledgeable about the waters and coasts of [Apporia](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>), but now spends his days hanging around [Artevus](<../../gazetteer/west-coast/chardonian-empire/apporia/artevus.md>), gazing out to sea. 

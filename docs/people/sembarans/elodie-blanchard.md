@@ -4,4 +4,4 @@ hide: [navigation]
 title: Elodie Blanchard
 ---
 
-![Elodie Blanchard](../../assets/elodie-blanchard.png)
+![Elodie Blanchard](../../assets/elodie-blanchard.jpg)

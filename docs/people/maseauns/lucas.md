@@ -22,4 +22,4 @@ title: Lucas
 </div>
 
 
-An acolyte of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), captured by [Wakog](<../other-nonhumans/wakog.md>) and rescued from his camp after the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). He sheperded many of the survivors back to [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>).
+An acolyte of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), captured by [Wakog](<../other-nonhumans/wakog.md>) and rescued from his camp after the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). He shepherded many of the survivors back to [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>).

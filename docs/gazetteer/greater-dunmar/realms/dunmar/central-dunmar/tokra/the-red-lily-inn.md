@@ -11,7 +11,7 @@ title: The Red Lily Inn
 ---
 # The Red Lily Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/children-of-the-embodied-gods/halflings/halflings.md>) inn [Tokra](<./tokra.md>)  
 </div>
 
 

@@ -7,7 +7,7 @@ title: Vedmakov
 ---
 # Vedmakov
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in [Ursk](<./ursk.md>), the Northern Green Sea  
+-    :octicons-location-24:{ .lg .middle } A city [Ursk](<./ursk.md>)  
 </div>
 
 

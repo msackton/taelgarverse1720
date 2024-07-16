@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Western Marches
 typeOf: region
 partOf: Sembara
@@ -12,9 +12,7 @@ title: Western Marches
 </div>
 
 
-
-
-The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [Ainwick](<../barony-of-ainwick/barony-of-ainwick.md>) and [Aveil](<../barony-of-aveil/barony-of-aveil.md>). The land suffered greatly in the [Great War](<../../../../events/1500s/great-war.md>), and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [Army of the West](<../../../../groups/sembaran-army/army-of-the-west.md>) is the dominate institution in the region. The two military baronies - [Usbourg](<./barony-of-usbourg.md>) and [Dunfry](<./barony-of-dunfry.md>) - were created during the reign of [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>).
+The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [Ainwick](<../barony-of-ainwick/barony-of-ainwick.md>) and [Aveil](<../barony-of-aveil/barony-of-aveil.md>). The land suffered greatly in the [Great War](<../../../../events/1500s/great-war.md>), and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [Army of the West](<../../../../groups/sembaran-army/army-of-the-west.md>) is the dominant institution in the region. The two military baronies - [Usbourg](<./barony-of-usbourg.md>) and [Dunfry](<./barony-of-dunfry.md>) - were created during the reign of [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>).
 
 The Western Marches are divided into three regions: 
 * the [Marches of Enford](<./marches-of-enford.md>), in the foothills between the north and central branches of the River Enst 
@@ -29,4 +27,4 @@ The [Barony of Usbourg](<./barony-of-usbourg.md>) is more a military district in
  
 The [Barony of Dunfry](<./barony-of-dunfry.md>) is also a major military district, responsible for the South Watch, which guards the southern half of the [Western Wall of Sembara](<./western-wall-of-sembara.md>), and also maintains a series of forts along the north branch of the Enst.
 
-The [Marches of Brovna](<./marches-of-brovna.md>) have much in common with Ardlas, and like in the [Marches of Enford](<./marches-of-enford.md>) large parcels of land have been granted freehold to anyone who will pledge to defend the land. 
+The [Marches of Brovna](<./marches-of-brovna.md>) have much in common with [Ardlas](<../../zimkova/ardlas.md>), and like in the [Marches of Enford](<./marches-of-enford.md>) large parcels of land have been granted freehold to anyone who will pledge to defend the land. 

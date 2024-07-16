@@ -21,6 +21,6 @@ title: Wakog
 </div>
 
 
-![Wakog](../../assets/wakog.png){align="right"; width="320"}An ogre of unclear origin. 
+![Wakog](../../assets/wakog.jpg){align="right"; width="320"}An ogre of unclear origin. 
 
 Managed to organize a small horde of orcs in the northern parts of the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and attempted to overrun [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), but was stopped by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).

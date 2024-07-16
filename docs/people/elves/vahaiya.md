@@ -42,5 +42,5 @@ title: Vahaiya
 Growing tiring of fighting after many years, they settled in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), where they now live, spending time as an artist and art collector. 
 
 
-![Vahaiya 2](../../assets/vahaiya-2.png){align="right"; width="400"} 
+![Vahaiya 2](../../assets/vahaiya-2.jpg){align="right"; width="400"} 
 

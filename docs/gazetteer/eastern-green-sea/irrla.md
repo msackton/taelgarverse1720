@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place]
 name: Irrla
 typeOf: island
 typeOfAlias: large island
@@ -13,8 +13,6 @@ title: Irrla
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A large island in the [Green Sea](<../green-sea.md>)  
 </div>
-
-
 
 
 Irrla, as it is called by its human inhabitants, is a large mountainous island in the middle of the [Green Sea](<../green-sea.md>). It is a temperate island with an oceanic climate, with cool, rainy summers broken by the occasional week of hot dry weather, and cool, damp winters with little snow, except in the interior mountains. Despite its climate and central position, it is lightly settled. The northern and western coasts of Irrla are dangerous and difficult for ships, with shifting shoals and unpredictable currents extending far into the Green Sea. The interior of Irrla is a land of rocky highlands, steep mountains,  deep valleys, and the occasional volcano, making travel difficult in the best of conditions. 

@@ -104,7 +104,7 @@ The [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/
  - ![Eleanor](../../assets/eleanor.png){align="left"; width="120"} [Eleanor](<../../people/sembarans/eleanor.md>), the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![El Wyrdling](../../assets/el-wyrdling.png){align="left"; width="120"} [El](<../../people/sembarans/el.md>), a acolyte of the Wyrdling, recently experienced their first miracle
  - ![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="left"; width="120"} [Bertram Northwoods](<../../people/sembarans/bertram-northwoods.md>), the stablemaster
- - ![Susanna Northwords](../../assets/susanna-northwords.png){align="left"; width="120"} [Susanna Northwoods](<../../people/sembarans/susanna-northwoods.md>), the steward
+ - ![Susanna Northwords](../../assets/susanna-northwords.jpg){align="left"; width="120"} [Susanna Northwoods](<../../people/sembarans/susanna-northwoods.md>), the steward
 </div>
 
 ## Important People in Beury
@@ -151,10 +151,10 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 
 ## Rangers and Other Heroes
 <div class="grid cards ext-narrow-margin" markdown>
- - ![Vahaiya 2](../../assets/vahaiya-2.png){align="left"; width="120"} [Vahaiya](<../../people/elves/vahaiya.md>), elf and warrior
+ - ![Vahaiya 2](../../assets/vahaiya-2.jpg){align="left"; width="120"} [Vahaiya](<../../people/elves/vahaiya.md>), elf and warrior
  - ![Adra Brightwood](../../assets/adra-brightwood.png){align="left"; width="120"} [Adra Brightwood](<../../people/halflings/adra-brightwood.md>), a halfling with magical birds
  - ![Enzo Brightwood](../../assets/enzo-brightwood.png){align="left"; width="120"} [Enzo Brightwood](<../../people/halflings/enzo-brightwood.md>), a halfling scout, Adra's cousin
- - ![Damien Montrichard](../../assets/damien-montrichard.png){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
+ - ![Damien Montrichard](../../assets/damien-montrichard.jpg){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
  - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"} [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe
  - ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="left"; width="120"} [Remille Vauclaire](<../../people/sembarans/remille-vauclaire.md>), a swordswoman
  - ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="left"; width="120"} [Tristan Vaudrillard](<../../people/sembarans/tristan-vaudrillard.md>), a devotee of [The Sibyl](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic
@@ -165,6 +165,6 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 <div class="grid cards ext-narrow-margin" markdown>
   - [François the Bandit](<../../people/sembarans/francois-the-bandit.md>), died of his own hand
   - [Jerome](<../../people/sembarans/jerome.md>), executed in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
-  - ![Wakog](../../assets/wakog.png){align="left"; width="120"} [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
+  - ![Wakog](../../assets/wakog.jpg){align="left"; width="120"} [Wakog](<../../people/other-nonhumans/wakog.md>), an ogre, now dead
   - ![Gareth of Tollen](../../assets/gareth-of-tollen.png){align="left"; width="120"} [Gareth of Tollen](<../../people/sembarans/gareth-of-tollen.md>), a child-murderer and bandit
 </div>

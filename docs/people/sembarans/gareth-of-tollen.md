@@ -19,11 +19,11 @@ title: Gareth of Tollen
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1686 (34 years old)  
+    b. DR 1686 - d. February 7th, 1720, brought to justice at age 34 years  
     { .bio }
 
     Originally from: the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
-    Based in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Lived in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

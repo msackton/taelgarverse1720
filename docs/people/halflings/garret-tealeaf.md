@@ -38,12 +38,12 @@ title: Garret Tealeaf
 
 Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
-                                                                                                                                                                                                                                                                                          |
+                                                                                                                    |
 | [Bree Charmheart](<./bree-charmheart.md>)                             | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
 
 
 
-                                                                                                                                                                                                                                                                  |
-| [Oswalt Tealeaf](<./oswalt-tealeaf.md>)                               | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
-| [Garret Tealeaf](<./garret-tealeaf.md>)                               | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
+                                                                                            |
+| [Oswalt Tealeaf](<./oswalt-tealeaf.md>)                               | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                             |
+| [Garret Tealeaf](<./garret-tealeaf.md>)                               | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                             |
 

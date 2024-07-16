@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update/header]
 ancestry: Urskan
 species: human
 gender: male
@@ -15,6 +15,8 @@ title: Karel
     { .bio }
 
 </div>
+
+
 
 
 Karel is a merchant who regularly travels between [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>) and [Praznitsky](<../../gazetteer/northern-green-sea/praznitsky.md>), bringing goods from the monster markets to the port for sale. 

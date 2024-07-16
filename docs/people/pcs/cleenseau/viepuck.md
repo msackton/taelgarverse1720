@@ -90,9 +90,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > **Treph Hardpick** (he/him)
 > A dwarf, traveler from [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
-> ![Treph Screenshot](../../../assets/treph-screenshot.png)
-> 
-> **Sarlana Silversword** (she/her)
+> ![[Treph screenshot.[](Nardith.md)**Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > ![Sarlana Screenshot 1](../../../assets/sarlana-screenshot-1.png)
@@ -100,6 +98,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ### Items
 | Image                                              | Name                                                                                                | Type    | Mechanics                                                                         |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
+| ![Gareths Ring](../../../assets/gareths-ring.jpg){width="240"}                  | [Ring of Escape](<../../../campaigns/cleenseau-campaign/treasure/ring-of-escape.md>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
 | ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png){width="240"}       | [Pipes of Insect Control](<../../../campaigns/cleenseau-campaign/treasure/pipes-of-insect-control.md>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
 | ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png){width="240"}          | [Circlet of Telepathy](<../../../campaigns/cleenseau-campaign/treasure/circlet-of-telepathy.md>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
 | ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png){width="240"} | [Boots of False Tracks](<../../../campaigns/cleenseau-campaign/treasure/boots-of-false-tracks-viepuck.md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |

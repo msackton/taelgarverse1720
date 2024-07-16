@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: 'Home area: <origin>', prep: 'on', wHome: 'Home area: <home>'}
-tags: [item/boat]
+tags: [item/boat, status/update]
 typeOf: vehicle
 ancestry: halfling
 typeOfAlias: boat
@@ -14,8 +14,10 @@ title: Summer's Breeze
 # The Summer's Breeze
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)  
+   Home area: the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean/endless-ocean.md>)  
 </div>
+
+
 
 
 A spritely halfling trader, sailing a meandering route around the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), going where the winds and tides lead. Captained by [Pippa Goodbarrow](<../../people/halflings/pippa-goodbarrow.md>), and crewed by a lively group of mostly young halflings, with a distinct preference for fine food, regular meals, and good ale. 

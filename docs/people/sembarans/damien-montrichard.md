@@ -30,5 +30,5 @@ title: Damien Montrichard
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Damien Montrichard](../../assets/damien-montrichard.png){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.
+![Damien Montrichard](../../assets/damien-montrichard.jpg){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.
 

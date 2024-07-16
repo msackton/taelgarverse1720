@@ -12,7 +12,7 @@ title: Crown of Purity
 # The Crown of Purity
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Crown__  
-   Created Unknown  
+   Created by Unknown  
    Owned by [Fausto](<../../people/chardonians/fausto.md>)  
 </div>
 

@@ -52,9 +52,11 @@
         - [Stories of Tyrwingha for Profit](campaigns/cleenseau-campaign/letters-and-other-writings/stories-of-tyrwingha-for-profit.md)
     - Stories, Tales, and Musings
         - [El's Story](campaigns/cleenseau-campaign/stories/el-s-story.md)
+        - [Elizabeth of Cassen's Story](campaigns/cleenseau-campaign/stories/elizabeth-of-cassen-s-story.md)
         - [Guy de Varan's Story](campaigns/cleenseau-campaign/stories/guy-de-varan-s-story.md)
         - Asides and Diversions
             - [Celyn and Izgil Discuss the Moon](campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-and-izgil-discuss-the-moon.md)
+            - [Celyn and the Horses](campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-and-the-horses.md)
             - [Celyn's Miracle Story](campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-s-miracle-story.md)
             - [Celyn's Musings on Magic](campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-s-musings-on-magic.md)
             - [Robin's Miracle](campaigns/cleenseau-campaign/stories/asides-and-diversions/robin-s-miracle.md)
@@ -98,6 +100,7 @@
             - [Quanyi](gazetteer/eastern-green-sea/quanyi.md)
             - [Vermillion Isles](gazetteer/eastern-green-sea/vermillion-isles.md)
             - [Wahacha](gazetteer/eastern-green-sea/wahacha.md)
+        - [Endless Ocean](gazetteer/endless-ocean/endless-ocean.md)
         - [Far North](gazetteer/far-north/far-north.md)
             - [Forest of Nightmares](gazetteer/far-north/forest-of-nightmares.md)
             - [K'eye](gazetteer/far-north/k-eye.md)
@@ -236,6 +239,7 @@
                     - [Champimont](gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md)
                     - [Dallet](gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md)
                     - [Eftly](gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md)
+                    - [Essenmer](gazetteer/greater-sembara/sembara/barony-of-aveil/essenmer.md)
                     - [Lake Rin](gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md)
                     - [Rinburg](gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md)
                     - [Veltor](gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md)

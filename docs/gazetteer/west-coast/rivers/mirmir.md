@@ -14,4 +14,4 @@ title: Mirmir
 </div>
 
 
-A river that flows from the hilly interior of the [Mawakel Peninsula](<../mawar-confederacy/mawakel-peninsula.md>), past the port town of [Hamri](<../mawar-confederacy/hamri.md>), to the [Endless Ocean](<../../endless-ocean.md>). 
+A river that flows from the hilly interior of the [Mawakel Peninsula](<../mawar-confederacy/mawakel-peninsula.md>), past the port town of [Hamri](<../mawar-confederacy/hamri.md>), to the [Endless Ocean](<../../endless-ocean/endless-ocean.md>). 
