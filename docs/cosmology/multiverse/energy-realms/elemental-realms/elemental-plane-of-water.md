@@ -7,7 +7,7 @@ title: Elemental Plane of Water
 ---
 # The Elemental Plane of Water
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane [Elemental Realms](<./elemental-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Elemental Realms](<./elemental-realms.md>), the [Energy Realms](<../energy-realms.md>)  
 </div>
 
 

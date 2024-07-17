@@ -211,7 +211,7 @@ title: Kenzo
 > 
 > Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) is friendly. 
 > 
-> ![Amezza Painting](../../../assets/amezza-painting.png){width="400"}
+> ![Amezza Painting](../../../assets/amezza-painting.jpg){width="400"}
 > 
 > Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>) and the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
 > 

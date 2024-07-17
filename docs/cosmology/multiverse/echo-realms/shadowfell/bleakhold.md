@@ -11,7 +11,7 @@ title: Bleakhold
 # Bleakhold
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle } A village [Morkalan](<./morkalan.md>)  
+    :octicons-location-24:{ .lg .middle } A village in [Morkalan](<./morkalan.md>), the [Shadowfell](<./shadowfell.md>), the Echo Realms  
 </div>
 
 

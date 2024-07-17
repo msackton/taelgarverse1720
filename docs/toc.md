@@ -50,9 +50,12 @@
         - [Letter from the Oracle of the Red to the Mostreve Warlocks](campaigns/cleenseau-campaign/letters-and-other-writings/letter-from-the-oracle-of-the-red-to-the-mostreve-warlocks.md)
         - [Report on the Bogblight](campaigns/cleenseau-campaign/letters-and-other-writings/report-on-the-bogblight.md)
         - [Stories of Tyrwingha for Profit](campaigns/cleenseau-campaign/letters-and-other-writings/stories-of-tyrwingha-for-profit.md)
+        - Sendings
+            - [Viepuck Feburary 9th, 1720](campaigns/cleenseau-campaign/letters-and-other-writings/sendings/viepuck-feburary-9th-1720.md)
     - Stories, Tales, and Musings
         - [El's Story](campaigns/cleenseau-campaign/stories/el-s-story.md)
         - [Elizabeth of Cassen's Story](campaigns/cleenseau-campaign/stories/elizabeth-of-cassen-s-story.md)
+        - [Gareth's Story](campaigns/cleenseau-campaign/stories/gareth-s-story.md)
         - [Guy de Varan's Story](campaigns/cleenseau-campaign/stories/guy-de-varan-s-story.md)
         - Asides and Diversions
             - [Celyn and Izgil Discuss the Moon](campaigns/cleenseau-campaign/stories/asides-and-diversions/celyn-and-izgil-discuss-the-moon.md)
@@ -241,6 +244,7 @@
                     - [Eftly](gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md)
                     - [Essenmer](gazetteer/greater-sembara/sembara/barony-of-aveil/essenmer.md)
                     - [Lake Rin](gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md)
+                    - [Peydon](gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md)
                     - [Rinburg](gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md)
                     - [Veltor](gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md)
                     - [Windlea](gazetteer/greater-sembara/sembara/barony-of-aveil/windlea.md)
@@ -664,6 +668,7 @@
             - [Queen Elaine I](people/historical-figures/sembaran-royalty/elaine-i.md)
             - [Queen Elaine II](people/historical-figures/sembaran-royalty/elaine-ii.md)
             - [Reginald](people/historical-figures/sembaran-royalty/reginald.md)
+            - [Rowena Chemare](people/historical-figures/sembaran-royalty/rowena-chemare.md)
             - [Sarabet](people/historical-figures/sembaran-royalty/sarabet.md)
     - Primary Sources
         - [A Story about Halfling Merchants](primary-sources/story-about-halfling-merchants.md)

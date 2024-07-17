@@ -9,7 +9,7 @@ subTypeOf: magical
 pcOwner: Robin of Abenfyrd
 ancestry: Sembaran
 rarity: uncommon
-image: hammer-of-viligance.png
+image: hammer-of-viligance.jpg
 whereabouts: Robin of Abenfyrd
 hide: [navigation]
 title: Hammer of Vigilance
@@ -22,4 +22,4 @@ title: Hammer of Vigilance
 </div>
 
 
-![Hammer of Viligance](../../../assets/hammer-of-viligance.png){align="right"; width="320"}A finely crafted silver and steel with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
+![Hammer of Viligance](../../../assets/hammer-of-viligance.jpg){align="right"; width="320"}A finely crafted silver and steel with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.

@@ -13,7 +13,7 @@ title: Nayahar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 1557 (163 years ago)  
-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) city [Western Dunmar](<./western-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) city in [Western Dunmar](<./western-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
 </div>
 
 
