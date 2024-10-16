@@ -12,6 +12,7 @@
         - {glob: campaigns/cleenseau-campaign/stories}    
     - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)    
     - Mechanics
+        - [House Rules](campaigns/mechanics/house-rules-mike.md)
         - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
         - [Languages](species/languages.md)
 - [Gazetteer](campaigns/player-s-guide.md)
@@ -58,6 +59,6 @@
         - {glob: people/historical-figures}
     - Primary Sources
         - {glob: primary-sources/}
-- [House Rules](campaigns/cleenseau-campaign/mechanics/house-rules.md)
+- [House Rules](campaigns/mechanics/house-rules-mike.md)
 - [Party Loot](campaigns/cleenseau-campaign/treasure/treasure.md)
 - [Recent Changes](campaigns/cleenseau-campaign/index-of-changes.md)
