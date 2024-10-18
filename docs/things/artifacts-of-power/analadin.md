@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/needswork/notes]
+tags: [item/magical]
 destroyed: 1545
 name: Analadin
 typeOf: staff
@@ -18,3 +18,4 @@ title: Analadin
 
 
 A staff carried by [Beryl](<../../people/pcs/great-war/beryl.md>) during the Great War, now said to be part of the [Fox and Hunter](<../../cosmology/gods/incorporeal-gods/fox-and-hunter.md>). It was said to have granted [Beryl](<../../people/pcs/great-war/beryl.md>) extraordinary perception and willpower.
+

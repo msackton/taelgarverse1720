@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 created: 1594
+dm_notes: none
+dm_owner: none
 title: House of Lils
 ---
 # The House of Lils
@@ -27,6 +29,7 @@ class GylesOfLils,Annabeth,Morgaine,ElaineII,ArrynIII,Derik internal-link;
 
 
 ```
+
 
 
 

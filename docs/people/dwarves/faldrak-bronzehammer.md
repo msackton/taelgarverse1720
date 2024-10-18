@@ -31,7 +31,7 @@ title: Faldrak Bronzehammer
     Based in [Fahnukan](<../../gazetteer/sentinel-range/dwarven-kingdoms/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of January 1st, 1698): the Feywild
+:octicons-location-24:{ .lg .middle } Last known location (as of January 1st, 1698): the Feywild, the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>), [Multiverse](<../../cosmology/multiverse/multiverse.md>)
 
 
 

@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Duchy of Telham
 typeOf: duchy
-partOf: Sembara
+whereabouts: Sembara
 title: Duchy of Telham
 ---
 # The Duchy of Telham

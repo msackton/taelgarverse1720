@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/internal, status/cleanup/header, event]
+tags: [status/needswork/internal, status/metadata/header, event]
 title: Bitter Knife War
 ---
 

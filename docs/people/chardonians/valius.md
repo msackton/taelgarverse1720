@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/interal, status/cleanup/header]
+tags: [person, status/needswork/internal, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
@@ -25,7 +25,7 @@ title: Valius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     Member of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }

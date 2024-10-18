@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/needswork/notes, status/unknown]
+tags: [person, status/needswork/external, status/metadata/header]
 displayDefaults: {endStatus: passed on}
 campaignInfo: []
 name: Nora Silverspark
@@ -12,6 +12,8 @@ gender: female
 aliases: [Nora]
 whereabouts:
 - {type: away}
+dm_owner: none
+dm_notes: important
 hide: [navigation]
 title: Nora Silverspark
 ---
@@ -26,4 +28,6 @@ title: Nora Silverspark
 </div>
 
 
-A dwarven warrior, once a ghost in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 
+
+
+A dwarven warrior, once a ghost in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 

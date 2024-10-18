@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork/internal]
 name: Isabeau d'Aslain
 born: 1672
 species: human
@@ -12,13 +12,16 @@ whereabouts:
 - {type: home, location: Veltor}
 affiliations:
 - {org: Barony of Aveil, start: 1719-04, type: leader}
+- {org: d'Aslains, type: primary}
+dm_notes: important
+dm_owner: mike
 hide: [navigation]
 ---
 # Baroness Isabeau D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>)  
     Born DR 1672 (48 years old)  
     Baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (since April 1719)  
     { .bio }

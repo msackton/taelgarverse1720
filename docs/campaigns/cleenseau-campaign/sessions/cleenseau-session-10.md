@@ -23,7 +23,7 @@ title: Cleenseau Session 10
 ### Rumors and Information
 * The green gem beneath Cleenseau appeared to be spreading a white mist that, when it contacted a living creature, gave them a plague that would create zombies. This plague seemed to vanish entirely when the gem was smashed by the power of the Wanderer, channeled through [Robin](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>)
 * The wight appears to have been a (long dead) hobgoblin, wearing an insignia:
-      ![Avatus Symbol Sketch](../../../assets/avatus-symbol-sketch.png){width="120"}
+      ![Avatus Symbol Sketch](../../../assets/avatus-symbol-sketch.png)
 * The destruction of the gem caused the zombie-fied rats to die
 
 ### New People Met
@@ -47,4 +47,6 @@ Raw notes and notable scenes:
 * The wight hitting, and almost killing, Celyn with a life-drain attack
 * Celyn finding the secret door in the wight's fort - contained a bunch of treasure from hundreds of years ago
 * Greymalkin appearing, and the party defeating the last group of zombies, rescuing the Lord's Guard, by using powerful new abilities: Robin's stead, Celyn's massive number of misty steps, Viepuck's increased damage from Eldritch Blast, and Igzil's moonburst.
+
+
 

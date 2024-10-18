@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup/reformat]
+tags: [source, status/cleanup/internal]
 title: Story about Hags
 ---
 

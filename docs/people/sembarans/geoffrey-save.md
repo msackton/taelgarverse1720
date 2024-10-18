@@ -8,6 +8,8 @@ gender: male
 whereabouts:
 - {type: home, location: Embry, end: 1699}
 - {type: home, location: Cleenseau, start: 1700}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Geoffrey Save
 ---
@@ -15,7 +17,7 @@ title: Geoffrey Save
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1692 (28 years old)  
     { .bio }
 

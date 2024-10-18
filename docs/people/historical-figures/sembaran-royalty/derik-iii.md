@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes, testcase]
+tags: [historical, person/ruler, status/check/minor, testcase]
 name: Derik III
 born: 1484
 species: human
@@ -16,13 +16,15 @@ leaderOf:
 - {place: Vostok, title: High King, start: 1519}
 title: King Derik III
 died: 1549
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 ---
 # King Derik III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     b. DR 1484 - d. DR 1549, died at age 65 years  
     Prince of the North of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1508 - DR 1519)  
     High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1519 - DR 1549)  
@@ -38,9 +40,5 @@ He is known as one of the greatest kings in Sembaran history, a hero and legenda
 He had two sons ([Reginald](<./reginald.md>) and [Hugh](<./hugh-of-wisenfold.md>)) with his first wife, [Sarabet](<./sarabet.md>), and one son ([Bertram](<./bertram-i.md>)) with his second wife, [Jane of Tollen](<./jane-of-tollen.md>). 
 
 Mostly due to the influence of his powerful second wife, [Bertram](<./bertram-i.md>) succeeds him upon his death.
-
-
-
-
 
 

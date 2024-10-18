@@ -17,7 +17,7 @@ title: Delios the Sage
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1668 (52 years old)  
     Member of the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)  
     { .bio }

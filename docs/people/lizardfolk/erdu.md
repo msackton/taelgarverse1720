@@ -6,6 +6,8 @@ born: 1517
 species: lizardfolk
 gender: male
 whereabouts: Ganboa
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Erdu
 ---

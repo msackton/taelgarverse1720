@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/clee]
+tags: [place]
 name: Barony of Montsé
 whereabouts: Borderlands
 aliases: [Barony of Montsé]
@@ -15,3 +15,4 @@ title: Barony of Montsé
 </div>
 
 
+A barony south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), just west of [Fellburn](<../heartlands/fellburn.md>), it was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) after the land was reclaimed from hobgoblins during the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>). Historically, it was part of the much larger [Barony of Vaubonne](<./barony-of-vaubonne.md>).

@@ -7,6 +7,8 @@ species: lizardfolk
 ancestry:
 gender: female
 whereabouts: Ganboa
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Unai
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 name: Rinault Essford
 born: 1688
 species: human
@@ -11,13 +11,15 @@ title: Lord Rinault Essford
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 ---
 # Lord Rinault Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Essfords  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the Essfords  
     Born DR 1688 (32 years old)  
     { .bio }
 

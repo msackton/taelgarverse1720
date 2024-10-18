@@ -7,6 +7,8 @@ whereabouts:
 - {type: home, start: 1545, location: Desolation of Cha'mutte}
 typeOf: desert
 pronunciation: ga-RUM-ja-la
+dm_notes: important
+dm_owner: tim
 title: Garamjala Desert
 ---
 # The Garamjala Desert

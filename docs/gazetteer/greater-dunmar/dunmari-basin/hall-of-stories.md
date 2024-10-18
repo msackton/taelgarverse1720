@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
-campaignInfo:
+tags: [place]
 name: Hall of Stories
 typeOf: building
 whereabouts: Monastery of Bhishma
+dm_notes: color
+dm_owner: tim
 title: Hall of Stories
 ---
 # The Hall of Stories

@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/reformat]
+tags: [place, status/cleanup/internal]
 displayDefaults: {defArt: ''}
 name: Central Highlands Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 title: Central Highlands Region
 ---
 # Central Highlands Region
@@ -17,7 +17,7 @@ title: Central Highlands Region
 
 ## Overview
 
-The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [Sentinels](<./sentinel-range.md>) where only [Stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) and frost giants can survive. Few people call this region their home: the Deno'qai, who live mostly in small villages among the forests hugging the western foothills of the [Sentinels](<./sentinel-range.md>), and the elves, who once could be found throughout the woodlands of [Ainumarya](<../chasa-nahadi-watershed/ainumarya.md>), and the main inhabitants. The [Sentinel Range](<./sentinel-range.md>) creates a barrier to ...
+The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [Sentinels](<./sentinel-range.md>) where only [Stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) and frost [Giants](<../../species/children-of-the-riving/giants.md>) can survive. Few people call this region their home: the Deno'qai, who live mostly in small villages among the forests hugging the western foothills of the [Sentinels](<./sentinel-range.md>), and the elves, who once could be found throughout the woodlands of [Ainumarya](<../chasa-nahadi-watershed/ainumarya.md>), and the main inhabitants. The [Sentinel Range](<./sentinel-range.md>) creates a barrier to ...
 ## Boundaries
 
 The Central Highlands includes the [Sentinel Range](<./sentinel-range.md>), as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the ~North Nahadi River~.

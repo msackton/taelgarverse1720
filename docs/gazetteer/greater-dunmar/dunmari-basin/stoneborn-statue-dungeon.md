@@ -1,14 +1,17 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 campaignInfo: []
 name: Stoneborn Statue Dungeon
 typeOf: ruin
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 title: Stoneborn Statue Dungeon
 ---
 # The Stoneborn Statue Dungeon
->[!info]+ Information
-> A  ruin in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A ruin in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+</div>
+
 
 
 

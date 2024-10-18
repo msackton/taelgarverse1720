@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Asineau}
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Elbeth
 ---
@@ -17,7 +19,7 @@ title: Elbeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1693 (27 years old)  
     Guardsman of the Asineau Manor Guard  
     { .bio }

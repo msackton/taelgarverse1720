@@ -14,7 +14,7 @@ title: Tullus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
     Based in [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)

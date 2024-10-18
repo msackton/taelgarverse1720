@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [background]
+dm_notes: none
+dm_owner: mike
 title: Land Holding in Sembara
 ---
 # Land Holding in Sembara

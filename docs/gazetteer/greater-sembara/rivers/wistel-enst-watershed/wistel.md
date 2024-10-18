@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place]
 name: Wistel
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Sembara
+dm_notes: none
+dm_owner: none
 title: Wistel
 ---
 # Wistel
@@ -12,3 +15,4 @@ title: Wistel
 </div>
 
 
+A major river in [Sembara](<../../sembara/sembara.md>), it runs from the [Sentinels](<../../../sentinel-range/sentinel-range.md>) in the the west until it joins with the [Enst](<./enst.md>) in the [Ozabal Swamp](<../../ozabal.md>) before emptying in the [Western Gulf](<../../../western-green-sea/western-gulf.md>) of the [Green Sea](<../../../green-sea.md>). 

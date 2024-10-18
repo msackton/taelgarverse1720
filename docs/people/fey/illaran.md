@@ -9,6 +9,8 @@ species: korred
 ancestry:
 gender: male
 whereabouts: Crystal Peak
+affiliations:
+- {org: Crystal Peak, title: Guardian}
 hide: [navigation]
 title: Illaran
 ---
@@ -17,9 +19,10 @@ title: Illaran
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A korred (he/him)  
+    Guardian of the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>)  
     { .bio }
 
-    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the Feywild
+    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the Feywild, the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 

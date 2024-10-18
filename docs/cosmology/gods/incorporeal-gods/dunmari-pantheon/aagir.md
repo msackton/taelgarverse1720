@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/image]
+tags: [deity, religion/fivesiblings, status/metadata/image]
 gender: male
+affiliations:
+- {org: Five Siblings, title: Deity}
 pronunciation: AA-gir
+dm_notes: color
+dm_owner: tim
 title: Aagir
 ---
 # Aagir

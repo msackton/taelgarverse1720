@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: []
 name: Avelina Smith
 born: 1673
 species: human
 ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Avelina Smith
 ---
@@ -15,7 +16,7 @@ title: Avelina Smith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Zimka [human](<../../species/humans/humans.md>) (she/her)  
+    A Zimka [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1673 (47 years old)  
     { .bio }
 

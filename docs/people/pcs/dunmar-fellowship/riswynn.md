@@ -23,7 +23,7 @@ title: Riswynn
 </div>
 
 
-![Riswynn](../../../assets/riswynn.png){width="400"}
+![Riswynn](../../../assets/riswynn.png)
 
 ## Pre-Campaign Events
 - Mar 10, 1748 DR: Riswynn leaves Tharn Todar, heading north for Raven's Hold

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/mike, status/tim]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Zimkova
 typeOf: realm
 aliases: [Highland Kingdoms]

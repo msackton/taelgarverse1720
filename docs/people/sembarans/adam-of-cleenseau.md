@@ -14,6 +14,8 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-21, end: 1719-10-21, location: Cleenseau Wood}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Adam
 ---
@@ -21,7 +23,7 @@ title: Adam
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1691 (29 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }

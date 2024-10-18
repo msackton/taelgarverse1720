@@ -15,13 +15,15 @@ affiliations:
 - {place: Lavnoch, title: High King, start: 1549}
 - {place: Breva, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 ---
 # King Bertram I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1538 - d. DR 1552, died at age 14 years  
     High King of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1549 - DR 1551)  
     High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1549 - DR 1552)  

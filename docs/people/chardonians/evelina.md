@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/internal, status/cleanup/header]
+tags: [person, testcase, status/needswork/internal, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: killed}
 name: Evelina
@@ -21,7 +21,7 @@ title: Evelina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1691 (29 years old)  
     Member of [The Cleansed](<../../groups/the-cleansed.md>)  
     { .bio }

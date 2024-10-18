@@ -9,6 +9,9 @@ title: Cleenseau Campaign - Timeline
 
 ### March
 * [Wymar Essford](<../../people/sembarans/wymar-essford.md>) and more than a dozen other minor lords in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), and the small baronies south of the Enst and around the [Aine Hills](<../../gazetteer/greater-sembara/sembara/aine-hills.md>) developed dementia and other illnesses
+* [Reginald Rusebek](<../../people/sembarans/reginald-rusebek.md>) is charged with treason and murder, and executed
+### April
+* Isabeau d'Aslain becomes Baroness of Aveil, but rarely leaves Veltor
 ### August
 * Mid August: The beginning of [Wakog's](<../../people/other-nonhumans/wakog.md>) raids
 ### October

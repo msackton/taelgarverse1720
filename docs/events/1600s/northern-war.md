@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/internal, event, status/cleanup/header]
+tags: [status/needswork/internal, event, status/metadata/header]
 title: Northern War
 ---
 

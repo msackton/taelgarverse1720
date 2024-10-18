@@ -16,7 +16,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1707 (13 years old)  
     Speaker of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>)  
     { .bio }

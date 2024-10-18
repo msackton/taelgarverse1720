@@ -11,7 +11,7 @@ title: Hamri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 3,500  
-    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [West Coast Region](<../west-coast-region.md>)  
+    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<./mawar-confederacy.md>), [Mawakel Peninsula](<./mawakel-peninsula.md>)  
 </div>
 
 
@@ -24,7 +24,7 @@ Hamri is blessed with a sheltered, deep water harbor within a protected bay, and
 ## Overview
 Hamri is divided into three districts. Much of the town is clustered on stone quays built over the tidal flats of the [Mirmir](<../rivers/mirmir.md>). Known as Low Town, this is the economic powerhouse of Hamri. Warehouses set into the steep cliffs, jumbled houses, inns, and taverns, shipyards and racks full of drying fish mark this bustling district. 
 
-One of the most significant buildings in Low Town is the Leviathan, a huge two-story inn set over the water. Stepping inside, one’s eye is immediately drawn to the massive reconstructed skeleton hanging from the ceiling, a beast much larger than any whale or fish. With three eye sockets, a tail so long it cannot fit even in the massive banquet hall, and a massive jaw that dwarfs a full grown [human](<../../../species/humans/humans.md>), this reconstructed skeleton is one of the most notable features of Hamri.  
+One of the most significant buildings in Low Town is the Leviathan, a huge two-story inn set over the water. Stepping inside, one’s eye is immediately drawn to the massive reconstructed skeleton hanging from the ceiling, a beast much larger than any whale or fish. With three eye sockets, a tail so long it cannot fit even in the massive banquet hall, and a massive jaw that dwarfs a full grown [human](<../../../species/children-of-divine-creation/humans/humans.md>), this reconstructed skeleton is one of the most notable features of Hamri.  
 
 Above Low Town, stretching along the steep cliffs, is the Cliffside district, a series of narrow, terraced steps in the sheer cliff face, connected by switchbacks and steep passages. This district houses many of the merchants, ship owners, and wealthier traders of Hamri. Sheltered from the wind and weather, these houses tend to be finer, drier, and warmer than the Low Town, although the steep terrain limits the building space. At best maybe five hundred people are lucky enough to live up here, above the bustle of the Low Town.
 

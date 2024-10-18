@@ -5,8 +5,10 @@ displayDefaults: {defArt: ''}
 campaignInfo:
 name: Lake Pekul
 typeOf: lake
-partOf: Kem
+whereabouts: Kem
 aliases: [Pekul]
+dm_owner: none
+dm_notes: none
 title: Lake Pekul
 ---
 # Lake Pekul

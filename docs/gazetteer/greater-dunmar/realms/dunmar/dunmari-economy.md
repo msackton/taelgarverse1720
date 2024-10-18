@@ -29,7 +29,7 @@ Older coins from pre-Blood Years uses the same names, but tended to be larger an
 
 
   
-Dwarven coins are in common usage in Dunmar as well, as are dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
+Dwarven Coins are in common usage in Dunmar as well, as are dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
 
 ## Land Ownership
 

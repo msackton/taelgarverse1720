@@ -3,12 +3,12 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Northlands
 typeOf: region
-partOf: Sembara
+whereabouts: Sembara
 title: Northlands
 ---
 # Northlands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A region [Sembara](<../sembara.md>)  
 </div>
 
 

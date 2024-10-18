@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-09-15, type: killed}
 name: Grimbaskal
@@ -12,6 +12,8 @@ aliases: [Grimbaskal]
 died: 1748-09-15
 whereabouts:
 - {type: home, location: Elderwood}
+dm_notes: important
+dm_owner: tim
 hide: [navigation]
 title: Grimbaskal
 ---
@@ -19,11 +21,13 @@ title: Grimbaskal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dragon](<../../species/children-of-the-divine/dragons.md>) ([green dragon](<../../species/children-of-the-divine/dragons.md>)) (he/him)  
+    A [dragon](<../../species/children-of-the-riving/dragons.md>) ([green dragon](<../../species/children-of-the-riving/dragons.md>)) (he/him)  
     { .bio }
 
     Based in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
+
+
 
 
 

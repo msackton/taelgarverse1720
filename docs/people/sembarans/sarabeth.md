@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo:
 - {campaign: clee}
 name: Sarabeth
@@ -14,6 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: home, location: Cleenseau}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Sarabeth
 ---
@@ -21,7 +23,7 @@ title: Sarabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1686 (34 years old)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since DR 1717)  
     Soldier of the Dunfry Regiment (until DR 1716)  
@@ -32,4 +34,4 @@ title: Sarabeth
 </div>
 
 
-A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>).
+A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She was wounded twice during the Undead Attacks in Sembara.

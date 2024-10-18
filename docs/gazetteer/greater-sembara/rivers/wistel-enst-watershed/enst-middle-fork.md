@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/name]
 campaignInfo: []
 name: Enst (Middle Fork)
-typeOf: river
-partOf: Western Marches
+typeOf: waterway
+typeOfAlias: river
+whereabouts: Western Marches
 aliases: [Middle Fork, Middle Fork of the Enst]
+dm_notes: none
+dm_owner: none
 title: Enst (Middle Fork)
 ---
 # The Enst (Middle Fork)

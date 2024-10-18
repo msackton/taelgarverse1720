@@ -11,6 +11,8 @@ gender: female
 whereabouts:
 - {type: home, location: Ardith}
 - {type: home, start: 1670, location: Taviose}
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Diesla Starsearcher
 ---

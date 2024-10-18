@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-29, type: met}
 name: Guy Marchand
@@ -12,7 +12,7 @@ affiliations: [University of Tollen]
 family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
-- {type: home, start: 1687-01-02, end: '', location: Nordgate}
+- {type: home, start: 1687-01-02, location: Nordgate}
 hide: [navigation]
 title: Guy Marchand
 ---
@@ -20,13 +20,13 @@ title: Guy Marchand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1687 (33 years old)  
     Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)  
     { .bio }
 
     Originally from: the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
-    Based Nordgate
+    Based in Nordgate, the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 

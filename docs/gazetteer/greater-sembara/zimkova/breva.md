@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/shared]
 name: Breva
 typeOf: realm
 whereabouts: Zimkova
+dm_notes: none
+dm_owner: none
 title: Breva
 ---
 # Breva

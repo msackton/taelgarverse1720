@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, event-source, status/needswork/notes]
+tags: [person, event-source, status/check/tim]
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua
@@ -20,14 +20,15 @@ title: Motua
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    a [gidari](<../../species/children-of-belief/gidari.md>) ([celestial](<../../species/children-of-belief/celestials.md>)), they/them  
+    a [gidari](<../../species/children-of-creation/gidari.md>) ([celestial](<../../species/children-of-creation/celestials.md>)), they/them  
     { .bio }
 
-    Originally from: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
+    Originally from: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
+:octicons-location-24:{ .lg .middle } Last known location: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
 
 
-![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-belief/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
+
+![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-creation/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
 

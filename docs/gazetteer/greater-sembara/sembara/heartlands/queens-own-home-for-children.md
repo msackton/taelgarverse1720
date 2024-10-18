@@ -6,7 +6,7 @@ name: Queen’s Own Home for Children
 typeOf: orphanage
 created: 1673
 destroyed: 1720-06-30
-partOf: Embry
+whereabouts: Embry
 title: Queen’s Own Home for Children
 ---
 # The Queen’s Own Home for Children

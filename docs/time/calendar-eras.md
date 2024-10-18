@@ -15,7 +15,7 @@ There are many different ways of counting years in use across the world of Taelg
 The system of dates and years developed by the world-spanning [Drankorian Empire](<../history/drankorian-era/drankorian-empire.md>), dating years from the founding of the city of [Drankor](<../history/drankorian-era/drankor.md>). The new year in Drankorian Reckoning begins on January 1st. Usually abbreviated DR. 
 
 ## Dwarven Count of Years
-The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of [The Riving](<../events/ancient/the-riving.md>). The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
+The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of the [Riving](<../events/ancient/riving.md>). The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
 
 ## Other Calendar Eras
 

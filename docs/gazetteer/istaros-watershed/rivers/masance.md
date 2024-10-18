@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal]
 name: Masance
 typeOf: river
 whereabouts: Istaros Watershed
@@ -14,3 +14,4 @@ title: Masance
 
 
 The Masance flows south, and is rocky and shallow.
+

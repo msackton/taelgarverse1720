@@ -8,7 +8,7 @@ title: Fortune's Rest
 ---
 # Fortune's Rest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in the Feywild, the Echo Realms  
+-    :octicons-location-24:{ .lg .middle } A realm in the Feywild, the [Echo Realms](<../echo-realms.md>), [Multiverse](<../../multiverse.md>)  
 </div>
 
 

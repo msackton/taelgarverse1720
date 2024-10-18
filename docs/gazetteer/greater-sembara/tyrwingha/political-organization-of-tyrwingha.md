@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim, status/mike]
+tags: [background, status/needswork/internal]
 title: Political Organization of Tyrwingha
 ---
 # Political Organization of Tyrwingha
@@ -32,3 +32,5 @@ Unlike in Sembara, there are no formal taxes on the population, and the concept 
 Property is not really bought and sold, although improvements to the land, such as a house, certainly are sold. Access to agricultural land is organized via the Court of All in each village, and although longstanding and hereditary land claims are usually maintained (my family has been managing this vineyard for many generations) there is usually no financial stake in these claims. A family that wishes to leave the village can't just sell the land to the highest bidder, although again, improvements, vines, irrigation, etc can be sold although these agreements usually need to be ratified by the Court of All, and if a new family or person is coming to town, they would need to be made part of the Court of All in that village. 
 
 Outside of the lands controlled by the earls, to which the earl is entitled to all of the profits of the land, there are no taxes or other goods required to be given to the earls or the monarch. However, labor service, as mentioned above, is required from each village. Additionally, each Court of All manages the provisioning of the local temple, including for example ensuring the temple administrator and any staff of disciples living there are fed and clothed, and ensuring that the temple has resources for festivals and celebrations.
+
+ 

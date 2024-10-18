@@ -23,4 +23,4 @@ title: Delig Firebrand
 </div>
 
 
-The cousin of [Hagrim](<./hagrim.md>), trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.
+The cousin of [Hagrim](<./hagrim.md>), trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

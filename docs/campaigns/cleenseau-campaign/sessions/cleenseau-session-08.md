@@ -9,7 +9,7 @@ DR_end: 1720-01-07
 title: Cleenseau Session 08
 ---
 # Cleenseau - Session 8
->_in Taelgar from January 6st - January 7th
+>_in Taelgar from January 6th - January 7th
 >7 Robert I / DR 1720
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity
 >on Earth: November 12th, 2023

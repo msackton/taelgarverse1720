@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place]
 name: Essford Manor
 typeOf: house
 subTypeOf: manor
@@ -16,3 +16,6 @@ title: Essford Manor
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
 
 The manor complex itself consists of four buildings: a stable, a small shrine to the Night Queen, a guardhouse and barracks with several guest rooms, and the three-story manor building itself.
+
+It is built on top of an ancient hobgoblin fort, and in early 1720 a passageway to the abandoned fort was discovered underground, warded with several traps and protections from the Night Queen.
+

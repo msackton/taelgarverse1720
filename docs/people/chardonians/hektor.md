@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/cleanup/reformat, status/needswork/external]
+tags: [person, status/metadata/header, status/cleanup/internal, status/needswork/external]
 campaignInfo: []
 name: Hektor
 born: 1726
@@ -10,6 +10,8 @@ gender: male
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
+dm_notes: important
+dm_owner: tim
 activeYear: 1726
 whereabouts_current: Chardon
 whereabouts_home: Chardon
@@ -21,7 +23,7 @@ title: Hektor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     { .bio }
 

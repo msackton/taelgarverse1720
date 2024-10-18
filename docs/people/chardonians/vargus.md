@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/needswork/internal]
+tags: [person, status/metadata/header, status/needswork/internal]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Vargus
@@ -23,7 +23,7 @@ title: Vargus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     Member of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }

@@ -13,6 +13,8 @@ died: 1719-10-14
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-14, end: 1719-10-30, location: Cleenseau Wood}
+dm_owner: none
+dm_notes: none
 hide: [navigation]
 title: Nicholas the Beggar
 ---
@@ -20,7 +22,7 @@ title: Nicholas the Beggar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     b. DR 1651 - d. October 14th, 1719, killed by spiders at age 68 years  
     { .bio }
 

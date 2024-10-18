@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Aurbez and the Andonne
 typeOf: region
-partOf: Istaros Watershed
+whereabouts: Istaros Watershed
 title: Aurbez and the Andonne
 ---
 # The Aurbez and the Andonne
@@ -17,7 +17,7 @@ This region is a borderland, caught between the [Sentinel Range](<../sentinel-ra
 Snow is rare, but sometimes a large winter storm will blanket the [Aurbez Plateau](<./aurbez-plateau.md>) for days, and the upper [Aursen](<rivers/aursen.md>) can freeze in particularly cold winters. The [Douren](<rivers/douren.md>), however, rushes too fast to freeze even in the coldest winters.
 
 ## Borders and Overview
-The region is bordered by the [Plaguelands](<./plaguelands.md>) and the [Darkwood](<../greater-sembara/addermarch/darkwood.md>) in the east, the ~Gap of Mostreve~ and the ~Sentinel Range Spur~ in the north (which forms an informal and shifting border with the [Duchy of Maseau](<../greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)), the [Sentinel Range](<../sentinel-range/sentinel-range.md>) in the west, and the [Andonne](<rivers/andonne.md>) and [Douren](<rivers/douren.md>) rivers in the south. 
+The region is bordered by the [Plaguelands](<./plaguelands.md>) and the [Darkwood](<../greater-sembara/addermarch/darkwood.md>) in the east, the Maseau Gap and the ~Sentinel Range Spur~ in the north (which forms an informal and shifting border with the [Duchy of Maseau](<../greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)), the [Sentinel Range](<../sentinel-range/sentinel-range.md>) in the west, and the [Andonne](<rivers/andonne.md>) and [Douren](<rivers/douren.md>) rivers in the south. 
 
 The land is lightly populated, but what people there are mostly live along the two rivers: the [Masance](<rivers/masance.md>) and the [Aursen](<rivers/aursen.md>). A significant road, the [Maseau - Dunmar Road](<../greater-sembara/roads/maseau-dunmar-road.md>) also runs through the region, providing a link between [Sembara](<../greater-sembara/sembara/sembara.md>) and the west. Traffic along this road grows every year. 
    

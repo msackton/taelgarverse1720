@@ -4,12 +4,16 @@ tags: [species]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 typeOf: species
+dm_notes: color
+dm_owner: none
 title: Orcs
 ---
 # Orcs
 
 >[!quote] The Blood Binding, excerpt
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
+
+
 
 Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [Thark](<../../../cosmology/gods/embodied-gods/thark.md>), the god of war without end. Although most orcs live in small groups, but when a leader blessed by [Thark](<../../../cosmology/gods/embodied-gods/thark.md>) arises, they can bind many orcs together into a fearsome battle horde. 
 ## Imposing and Violent

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr}
 name: Pava
@@ -12,6 +12,8 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Pava and Avaras' House}
+dm_notes: important
+dm_owner: tim
 hide: [navigation]
 title: Pava
 ---
@@ -19,7 +21,7 @@ title: Pava
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1673 (47 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
@@ -29,7 +31,9 @@ title: Pava
 </div>
 
 
+
+
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
-![Pava](../../assets/pava.png){width="500"}
+![Pava](../../assets/pava.png)
 

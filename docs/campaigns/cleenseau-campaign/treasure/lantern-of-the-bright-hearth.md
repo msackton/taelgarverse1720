@@ -15,7 +15,7 @@ title: Lantern of the Bright Hearth
 ---
 # The Lantern of the Bright Hearth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique [Fey](<../../../species/children-of-the-divine/fey/fey.md>) Lantern__  
+- :octicons-info-24:{ .lg .middle } __Unique [Fey](<../../../species/children-of-the-riving/fey/fey.md>) Lantern__  
    Owned by [Robin of Abenfyrd](<../../../people/pcs/cleenseau/robin-of-abenfyrd.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) 
 </div>
@@ -45,3 +45,4 @@ title: Lantern of the Bright Hearth
 >He gets the sense that this man, whoever he was, wants him to say yes.
 >
 >Robin answers: "Yes" and as he takes the pebble it transforms into a lantern, the hands vanish, and the circle drifts away in the rising sun. As Robin walks back to the patrol camp, he feels for a moment this is all a dream. But the lantern is real in his hand
+

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/army, status/needswork/wip]
+tags: [organization/army, status/needswork/shared]
 campaignInfo: []
 name: Army of Mostreve
 partOf: Sembaran Army
 typeOf: army
+dm_notes: none
+dm_owner: mike
 title: Army of Mostreve
 ---
 # The Army of Mostreve

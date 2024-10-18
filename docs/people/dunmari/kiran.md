@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 name: Kiran
 campaignInfo:
 - {campaign: DuFr}
@@ -17,7 +17,7 @@ title: Kiran
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
     Based on the plains north of Tokra, in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

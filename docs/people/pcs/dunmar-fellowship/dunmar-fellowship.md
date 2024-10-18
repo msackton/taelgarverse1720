@@ -25,7 +25,7 @@ In the fall of 1748, they were split up due to magical effects. During this time
 - Kenzo traveled with Izzarak in the lizardfolk jungles to the south
 - Delwath traveled with Iascaire and Aristaea in the battlefields of the far north
 - Wellby traveled with [Artem](<guests/artem-novolozek.md>), Rufus, [Shoal](<guests/shoal.md>), and [Alimash](<guests/alimash.md>) in the eastern isles. 
-- Riswynn traveled with [Thror](<guests/thror.md>), Rothfis, and [Merash](<guests/merash.md>) in the [shadowfell](<../../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
+- Riswynn traveled with [Thror](<guests/thror.md>), Rothfis, and [Merash](<guests/merash.md>) in the [Shadowfolds](<../../../cosmology/multiverse/echo-realms/shadowfolds/shadowfolds.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>).
 
 Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [Caulaus](<guests/caulaus.md>) briefly.
 

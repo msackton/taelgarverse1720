@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update, status/cleanup/internal]
 name: Emilie
 born:
 species: human
@@ -12,6 +12,8 @@ pronunciation: Ay-mee-lee
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Emilie
 ---
@@ -20,7 +22,7 @@ title: Emilie
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/humans/humans.md>) (she/her)  
+    A [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

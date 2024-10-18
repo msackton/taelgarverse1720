@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [status/needswork, place]
 typeOf: wall
-partOf: Sembara
+whereabouts: Sembara
+dm_owner: mike
+dm_notes: none
 title: Western Wall of Sembara
 ---
 # The Western Wall of Sembara

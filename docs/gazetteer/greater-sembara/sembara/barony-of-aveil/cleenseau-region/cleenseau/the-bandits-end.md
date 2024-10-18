@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/factcheck]
+tags: [place]
 displayDefaults: {defArt: '', prep: at}
 name: The Bandit’s End
 ancestry: Sembaran

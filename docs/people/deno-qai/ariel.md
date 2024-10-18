@@ -18,7 +18,7 @@ title: Ariel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1674 (46 years old)  
     { .bio }
 
@@ -32,7 +32,7 @@ An elderly woman with stark white hair pulled back in a loose pony tail and wrin
 
 She is a member of the [Shu'anra](<../../groups/deno-qai-tribes/northern-tribes/shu-anra.md>) tribe, who make their home far to the north, in the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), between the[Blackwater Fens](<../../gazetteer/chasa-nahadi-watershed/blackwater-fens.md>) and the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>). 
 
-She knows many stories of the northern Deno'qai: how they were scattered during the [Great War](<../../events/1500s/great-war.md>); how her tribe, the [Shu'anra](<../../groups/deno-qai-tribes/northern-tribes/shu-anra.md>), survived the [Great War](<../../events/1500s/great-war.md>) but fled into the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>) during the [Blood Years](<../../events/1500s/blood-years.md>) in the face of hobgoblin armies and dragons; how her great-grandmother used to tell her tales of dragonfire raining from the sky when no where was safe; how when she was very young, many people ventured forth from the marginal lands the tribe had hidden in, seeking a better life, and how her extended family ended up in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). 
+She knows many stories of the northern Deno'qai: how they were scattered during the [Great War](<../../events/1500s/great-war.md>); how her tribe, the [Shu'anra](<../../groups/deno-qai-tribes/northern-tribes/shu-anra.md>), survived the [Great War](<../../events/1500s/great-war.md>) but fled into the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>) during the [Blood Years](<../../events/1500s/blood-years.md>) in the face of hobgoblin armies and [Dragons](<../../species/children-of-the-riving/dragons.md>); how her great-grandmother used to tell her tales of dragonfire raining from the sky when no where was safe; how when she was very young, many people ventured forth from the marginal lands the tribe had hidden in, seeking a better life, and how her extended family ended up in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). 
 
 She also knows many tales from the north about the [Tanshi](<../../cosmology/gods/tanshi/tanshi.md>): about [Yezali](<../../cosmology/gods/tanshi/meswati/yezali.md>), who protected the people of the far north, even further north than her tribe's territory, and other [Tanshi](<../../cosmology/gods/tanshi/tanshi.md>) called the [Meswati](<../../cosmology/gods/tanshi/meswati/meswati.md>) who were lost, with [Yezali](<../../cosmology/gods/tanshi/meswati/yezali.md>), in the [Great War](<../../events/1500s/great-war.md>). The stories of the lost [Tanshi](<../../cosmology/gods/tanshi/tanshi.md>), she says, are still told in whatever enclaves of Deno'qai survive beyond the Blackwater Fens, in the northern reaches of the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>). 
 

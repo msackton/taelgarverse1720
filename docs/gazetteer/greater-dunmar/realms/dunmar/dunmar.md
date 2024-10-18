@@ -5,6 +5,8 @@ name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173
 typeOf: realm
+dm_notes: color
+dm_owner: tim
 title: Dunmar
 ---
 # Dunmar
@@ -62,7 +64,7 @@ To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) 
 
 ## History
 
-Dunmar was founded in DR 1173, by a people from far to the east and south, who journeyed a long distance fleeing a great disruption in their homeland. Though the land they settled, what would become Dunmar, was ashy and cursed, a divine miracle healed the land for them to settle, and became the [founding myth](<../../../../primary-sources/the-founding-of-dunmar.md>) of the realm.
+Dunmar was founded in DR 1173, by a people from far to the east and south, who journeyed a long distance fleeing a great disruption in their homeland. Though the land they settled, what would become Dunmar, was ashy and cursed, a divine miracle healed the land for them to settle, and became the [founding myth](<../../../../primary-sources/founding-of-dunmar.md>) of the realm.
 
 ### Aatmaji Dynasty
 DR 1173 - DR 1395
@@ -96,7 +98,7 @@ In the 161st year of the Nayan Dynasty (DR 1718), Samraat Nayan Lina came to pow
 
 Twelve years later, in 183 Nayan (DR 1740), Marathu was killed, along with a young woman named [Sura](<../../../../people/dunmari/sura.md>) who was widely seen as blessed by the gods and the obvious choice to succeed Marathu. Karnas, Sura's brother, is proclaimed Samraat [Nayan Karnas](<../../../../people/dunmari/nayan-karnas.md>) by the western temples in 183 Nayan (DR 1740), a move that was seen by many in the east as presumptuous and driven by political, not religious, considerations. 
 
-In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>); she had been trapped in an extra-dimensional space in a magic mirror by the hag [Agata Dustmother](<../../../../people/fey/agata.md>). Sura's return triggered the [Siblings War](<../../../../events/1700s/siblings-war.md>).
+In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>); she had been trapped in an extra-dimensional space in a magic mirror by the hag [Agata Dustmother](<../../../../people/fey/agata.md>). Sura's return triggered the [Sibling War](<../../../../events/1700s/sibling-war.md>).
 
 ## Life in Dunmar
 

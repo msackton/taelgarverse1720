@@ -5,8 +5,10 @@ name: Clawyn
 typeOf: settlement
 typeOfAlias: village
 population: 290
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 pronunciation: CLOW-in
+dm_notes: color
+dm_owner: mike
 title: Clawyn
 ---
 # Clawyn

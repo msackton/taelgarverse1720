@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/internal]
 campaignInfo: []
 typeOf: realm
 name: Dwarven Kingdoms
@@ -17,7 +17,7 @@ The Dwarven kingdoms of the [Sentinel Range](<../sentinel-range.md>) have a long
 
 During [The Downfall](<../../../events/ancient/the-downfall.md>), when Hkar fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../sentinel-range.md>).
 
-![Dwarven Kingdoms Map](../../../assets/dwarven-kingdoms-map.png){width="300"}
+![Dwarven Kingdoms Map](../../../assets/dwarven-kingdoms-map.png)
  
 ## [Ardith](<./ardith.md>)
 In the far south, south of [Urlich Pass](<../urlich-pass.md>), is [Ardith](<./ardith.md>), growing rich on trade with [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), and later with [Dunmar](<../../greater-dunmar/realms/dunmar/dunmar.md>), until at the end of the [Great War](<../../../events/1500s/great-war.md>) they were driven from their homes and settled south, in the [Yuvanti Mountains](<../../greater-dunmar/yuvanti-mountains.md>), founding [Nardith](<../../greater-dunmar/realms/nardith/nardith.md>). Now destroyed. 

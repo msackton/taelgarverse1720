@@ -7,7 +7,7 @@ ancestry: Skaer
 typeOfAlias: temple
 affiliations:
 - {org: Kaikkea, type: primary}
-partOf: Tollen
+whereabouts: Tollen
 title: Temple of Kaikkea
 ---
 # The Temple of Kaikkea

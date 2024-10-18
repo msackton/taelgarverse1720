@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/unknown]
+tags: [item/magical, status/needswork/internal]
 typeOf: crown
 created: 1
 whereabouts:
@@ -18,4 +18,6 @@ title: Crown of Purity
 
 
 One of the relics of Apollyon. Now possessed by Fausto, and used to enslave and mind control troublemakers. 
+
+
 

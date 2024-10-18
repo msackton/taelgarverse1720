@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes]
+tags: [organization]
 displayDefaults: {defArt: '', boxInfo: ''}
 name: Oracle of the Riven
 whereabouts: Tyrwingha
+dm_notes: color
+dm_owner: mike
 title: Oracle of the Riven
 ---
 # Oracle of the Riven

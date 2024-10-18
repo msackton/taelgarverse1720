@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
+tags: [person, pc/guest]
 campaignInfo:
 name: Alimash
 born:
@@ -16,7 +16,7 @@ title: Alimash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../../../species/humans/humans.md>) (he/him)  
+    A [human](<../../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
 </div>

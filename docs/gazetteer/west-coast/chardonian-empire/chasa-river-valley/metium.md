@@ -1,13 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Metium
 typeOf: city
-partOf: Chasa River Valley
+whereabouts: Chasa River Valley
 title: Metium
 ---
 # Metium
->[!info]+ Summary
-> a city in [the Chasa River Valley](<./chasa-river-valley.md>), [The Chardonian Empire](<../chardonian-empire.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A city in the [Chasa River Valley](<./chasa-river-valley.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
+</div>
+
 
 
 

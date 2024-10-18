@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
-campaignInfo: []
+tags: [person]
 name: Gabriel Thorne
 born: 1690
 species: human
@@ -9,6 +8,8 @@ ancestry: Sembaran
 gender: male
 affiliations:
 whereabouts: Cleenseau
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Gabriel Thorne
 ---
@@ -16,7 +17,7 @@ title: Gabriel Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1690 (30 years old)  
     { .bio }
 
@@ -24,4 +25,4 @@ title: Gabriel Thorne
 </div>
 
 
-![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"} The son of [Gideon Thorne](<./gideon-thorne.md>) and husband to [Beatrix](<./beatrix-thorne.md>).
+![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"}The son of [Gideon Thorne](<./gideon-thorne.md>) and husband to [Beatrix](<./beatrix-thorne.md>). A yeoman.

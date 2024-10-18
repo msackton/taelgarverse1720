@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/metadata/header]
 campaignInfo:
 - {campaign: dufr, person: Delwath, date: 1748-10-22, type: scryed}
 name: Theba
@@ -13,6 +13,8 @@ whereabouts:
 - {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship}
 - {type: away, start: 1748-09-10, end: 1748-09-30, location: Te'kula village}
 - {type: home, start: 1748-10-01, location: Bek'eni village}
+dm_notes: important
+dm_owner: none
 hide: [navigation]
 title: Theba
 ---
@@ -20,7 +22,7 @@ title: Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1717 (3 years old)  
     { .bio }
 

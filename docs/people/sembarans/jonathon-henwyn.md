@@ -12,6 +12,8 @@ whereabouts:
 affiliations:
 - {org: Essfords, title: Steward}
 - {org: Lord's Council of Cleenseau}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: Jonathon Henwyn
 ---
@@ -19,7 +21,7 @@ title: Jonathon Henwyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1680 (40 years old)  
     Steward of the Essfords  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/image]
+tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
 pronunciation: BHEESH-ma
 name: Bhishma
 gender: female
@@ -11,7 +11,7 @@ title: Bhishma
 
 A demigod associated with the [the Five Siblings](<../../../religions/five-siblings/five-siblings.md>) of the Dunmari religion, and one of the [Incorporeal Gods](<../incorporeal-gods.md>) of humanity. 
 
-Bhishma was born a mortal human. In life, she was the founder of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the first Samraat (ruler) and the revered mother of the country, who led the Dunmari to safety and cleansed their new homeland of the lingering curse of the [plague that destroyed Drankor](<../../../../events/1000s/1059/first-plague.md>). Her story is told in more detail in the [legend of the founding of Dunmar](<../../../../primary-sources/the-founding-of-dunmar.md>). 
+Bhishma was born a mortal human. In life, she was the founder of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the first Samraat (ruler) and the revered mother of the country, who led the Dunmari to safety and cleansed their new homeland of the lingering curse of the [plague that destroyed Drankor](<../../../../events/1000s/1059/first-plague.md>). Her story is told in more detail in the [legend of the founding of Dunmar](<../../../../primary-sources/founding-of-dunmar.md>). 
 
 Bhishma bore two children by the god [Laka](<./laka.md>): [Shakun](<./shakun.md>), who became divine, and [Kotana](<../../../../people/historical-figures/dunmari-rulers/kotana.md>), who followed her as ruler of the Dunmari and ushered in the first Dunmari golden age of peace and prosperity. 
 

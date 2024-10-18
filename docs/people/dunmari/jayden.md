@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 campaignInfo:
 - {campaign: dufr, person: Kenzo, type: beaten in staff dancing competition, date: 1748-04-02}
 name: Jayden
@@ -21,7 +21,7 @@ title: Jayden
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     **(page is future dated)**  
     { .bio }
 

@@ -8,10 +8,10 @@ Total available gold: 590 - 885
 
 | Image                                           | Name                                                                                                    | Type  | Mechanics                                                                               |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------- |
-| ![Ring of Wounding](../../../assets/ring-of-wounding.png){width="240"}           | [Ring of Wounding](<./ring-of-wounding.md>)                         | ring  | [Reference](https://www.dndbeyond.com/magic-items/8244293-ring-of-wounding)             |
-| ![Ring of Water Walking Clee](../../../assets/ring-of-water-walking-clee.png){width="240"} | [Ring of Water Walking](<./ring-of-waterwalking-cleenseau.md>)    | ring  | [Reference](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)           |
-| ![Ewer of Liquid](../../../assets/ewer-of-liquid.png){width="240"}             | [Ewer of Liquid](<./ewer-of-liquid-cleenseau.md>)                 | ewer  | [Reference](https://www.dndbeyond.com/magic-items/6683137-ewer-of-liquid)               |
-| ![Chest of Forest Guardian](../../../assets/chest-of-forest-guardian.png){width="240"}   | [Chest of the Forest Guardian](<./chest-of-the-forest-guardian.md>) | chest | [Reference](https://www.dndbeyond.com/magic-items/8244307-chest-of-the-forest-guardian) |
+| ![Ring of Wounding](../../../assets/ring-of-wounding.png)           | [Ring of Wounding](<./ring-of-wounding.md>)                         | ring  | [Reference](https://www.dndbeyond.com/magic-items/8244293-ring-of-wounding)             |
+| ![Ring of Water Walking Clee](../../../assets/ring-of-water-walking-clee.png) | [Ring of Water Walking](<./ring-of-waterwalking-cleenseau.md>)    | ring  | [Reference](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)           |
+| ![Ewer of Liquid](../../../assets/ewer-of-liquid.png)             | [Ewer of Liquid](<./ewer-of-liquid-cleenseau.md>)                 | ewer  | [Reference](https://www.dndbeyond.com/magic-items/6683137-ewer-of-liquid)               |
+| ![Chest of Forest Guardian](../../../assets/chest-of-forest-guardian.png)   | [Chest of the Forest Guardian](<./chest-of-the-forest-guardian.md>) | chest | [Reference](https://www.dndbeyond.com/magic-items/8244307-chest-of-the-forest-guardian) |
 
 ## Jewelry
 * Three golden chains, that jewelry could be strung on, relatively thick and heavy, 16" - 18" long (value: 25 - 30 gp each)

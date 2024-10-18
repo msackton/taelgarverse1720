@@ -21,7 +21,7 @@ title: Corrin Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Wildhearts  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
     Navigator of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
     { .bio }
 

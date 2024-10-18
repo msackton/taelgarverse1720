@@ -1,9 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/unknown]
 name: Northern Tribes
-partOf:
 title: Northern Tribes
 ---
+# The Northern Tribes
 
 The northern forests, north of the Blackwater Fens and inland from the coast, were once home to many Deno'qai, before [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) established himself in Pandar. 
 

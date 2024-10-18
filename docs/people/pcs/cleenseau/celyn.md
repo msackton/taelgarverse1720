@@ -26,10 +26,10 @@ title: Celyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1697 (23 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
-    Member of Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
+    Member of the Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
@@ -67,9 +67,9 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 ### Items
 | Image                                            | Name                                                                                    | Type   | Mechanics                                                                        |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- |
-| ![Silverthorn](../../../assets/silverthorn.png){width="240"}                 | [Silverthorn](<../../../campaigns/cleenseau-campaign/treasure/silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
-| ![Shield of False Life](../../../assets/shield-of-false-life.png){width="240"}        | [Shield of False Life](<../../../campaigns/cleenseau-campaign/treasure/shield-of-false-life.md>) | armor  | [Reference](https://www.dndbeyond.com/magic-items/7487214-shield-of-life-giving) |
-| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png){width="240"} | [Cloak of Concealment](<../../../campaigns/cleenseau-campaign/treasure/cloak-of-concealment.md>) | cloak  | [Reference](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)       |
+| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../campaigns/cleenseau-campaign/treasure/silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
+| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../campaigns/cleenseau-campaign/treasure/shield-of-false-life.md>) | armor  | [Reference](https://www.dndbeyond.com/magic-items/7487214-shield-of-life-giving) |
+| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../campaigns/cleenseau-campaign/treasure/cloak-of-concealment.md>) | cloak  | [Reference](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)       |
 
 
 ### Stories about Celyn

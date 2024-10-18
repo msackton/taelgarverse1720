@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck, status/tim]
+tags: [place, status/check/name, status/check/tim]
 typeOf: river
 whereabouts: Chasa-Nahadi Watershed
 title: Alimas

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/notes]
+tags: [person, testcase, status/update, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned, format: '<met:U> by <person:Q> on <target>, in <current:3Qr>'}
 name: Antonia
@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 - {type: home, location: Chardon}
+dm_notes: important
+dm_owner: tim
 hide: [navigation]
 title: Antonia
 ---
@@ -24,7 +26,7 @@ title: Antonia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1714 (6 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
@@ -34,7 +36,10 @@ title: Antonia
 
 
 
+
+
 ![Antonia Portrait](../../assets/antonia-portrait.jpg){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
+
 
 
 

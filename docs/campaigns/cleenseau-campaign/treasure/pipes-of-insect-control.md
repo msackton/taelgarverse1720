@@ -15,7 +15,7 @@ title: Pipes of Insect Control
 ---
 # Pipes of Insect Control
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Fey](<../../../species/children-of-the-divine/fey/fey.md>) Magic Pipes__  
+- :octicons-info-24:{ .lg .middle } __[Fey](<../../../species/children-of-the-riving/fey/fey.md>) Magic Pipes__  
    Owned by [Viepuck](<../../../people/pcs/cleenseau/viepuck.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) 
 </div>

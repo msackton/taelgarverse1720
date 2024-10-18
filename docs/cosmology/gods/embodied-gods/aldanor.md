@@ -1,5 +1,5 @@
 ---
-tags: [deity, status/needswork/wip]
+tags: [deity, status/check/tim]
 affiliations: [elves]
 title: Aldanor
 ---
@@ -7,3 +7,4 @@ title: Aldanor
 
 
 The living tree, one of the two creator deities of the elves. 
+

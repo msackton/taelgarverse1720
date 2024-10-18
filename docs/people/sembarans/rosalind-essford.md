@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee, date: 1720-01-03}
 name: Rosalind Essford
@@ -23,16 +23,19 @@ whereabouts:
 - {type: away, start: 1720-01-12, end: 1720-01-13, location: Wisford}
 - {type: away, start: 1720-01-13, end: 1720-01-16, location: travelling to Embry}
 - {type: away, start: 1720-01-17, end: 9999, location: Embry}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 ---
 # Lady Rosalind Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1677 (43 years old)  
     Leader of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
-    Regent of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) (since March 15th, 1719)  
+    Regent of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) (March 15th, 1719 - February 11th, 1720)  
+    Lady of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) (since February 12th, 1720)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

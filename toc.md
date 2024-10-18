@@ -11,10 +11,6 @@
     - Stories, Tales, and Musings
         - {glob: campaigns/cleenseau-campaign/stories}    
     - [Treasure](campaigns/cleenseau-campaign/treasure/treasure.md)    
-    - Mechanics
-        - [House Rules](campaigns/mechanics/house-rules-mike.md)
-        - {glob: campaigns/mechanics/;campaigns/cleenseau-campaign/mechanics/}
-        - [Languages](species/languages.md)
 - [Gazetteer](campaigns/player-s-guide.md)
     - [Map](gazetteer/gazetteer.md)
     - [World of Taelgar](gazetteer/geography-of-taelgar.md)
@@ -59,6 +55,11 @@
         - {glob: people/historical-figures}
     - Primary Sources
         - {glob: primary-sources/}
-- [House Rules](campaigns/mechanics/house-rules-mike.md)
+- House Rules
+    - [House Rules](campaigns/mechanics/house-rules-mike.md)
+    - [Playable Species](campaigns/mechanics/species-of-taelgar.md)
+        - {glob: campaigns/mechanics/species}
+    - {glob: campaigns/mechanics/additional-rules-mike}
+    - [Languages](species/languages.md)
 - [Party Loot](campaigns/cleenseau-campaign/treasure/treasure.md)
 - [Recent Changes](campaigns/cleenseau-campaign/index-of-changes.md)

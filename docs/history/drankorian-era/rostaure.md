@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]
 ancestry: elven
-partOf: Central Lowlands Region
+whereabouts: Central Lowlands Region
 destroyed: 1051
 displayDefaults: {endStatus: pillaged by Apollyon, wPastHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>'}
 typeOf: realm
@@ -19,5 +19,6 @@ title: Rostaurë
    :material-calendar: Pillaged by Apollyon DR 1051  
     :octicons-location-24:{ .lg .middle } An [elven](<../../species/children-of-the-embodied-gods/elves/elves.md>) forest realm in the Central Lowlands Region  
 </div>
+
 
 

@@ -22,7 +22,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (she/her), of the Dharajun dynasty  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the Dharajun dynasty  
     b. DR 1386 - d. DR 1460, died at age 74 years  
     Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
     { .bio }

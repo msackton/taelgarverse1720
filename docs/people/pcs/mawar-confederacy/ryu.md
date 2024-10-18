@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/mawar, status/unknown]
+tags: [person, pc/mawar]
 campaignInfo:
 name: Ryu
 born:
@@ -16,7 +16,7 @@ title: Ryu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../species/humans/humans.md>) (he/him)  
+    A Mawaran [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
 </div>

@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
-partOf: Elemental Realms
+tags: [place]
+whereabouts: Elemental Realms
 typeOf: plane
+dm_notes: important
+dm_owner: tim
 title: Elemental Plane of Air
 ---
 # The Elemental Plane of Air
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Elemental Realms](<./elemental-realms.md>), the [Energy Realms](<../energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Elemental Realms](<./elemental-realms.md>), the [Energy Realms](<../energy-realms.md>), [Multiverse](<../../multiverse.md>)  
 </div>
 
 
-The Elemental Plane of Air, one of the outer planes associated with the [Plane of Magic](<../plane-of-magic.md>).

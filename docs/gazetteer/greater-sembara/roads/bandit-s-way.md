@@ -6,6 +6,8 @@ typeOf: road
 typeOfAlias: section
 whereabouts:
 - {location: Great South Road, linkText: of}
+dm_notes: none
+dm_owner: mike
 title: Bandit's Way
 ---
 # The Bandit's Way

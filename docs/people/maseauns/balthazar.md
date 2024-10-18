@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Evis}
 - {type: away, location: Wakog's Camp, start: 1719-10-14, end: 1719-12-05}
 - {type: home, start: 1719-12-06, location: Cleenseau}
+dm_notes: none
+dm_owner: mike
 hide: [navigation]
 title: Balthazar
 ---
@@ -17,7 +19,7 @@ title: Balthazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born March 15th, 1705 (14 years old)  
     { .bio }
 

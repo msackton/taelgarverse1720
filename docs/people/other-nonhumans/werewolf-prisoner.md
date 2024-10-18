@@ -16,7 +16,7 @@ title: Werewolf Prisoner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A lycanthrope [human](<../../species/humans/humans.md>) (he/him)  
+    A lycanthrope [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

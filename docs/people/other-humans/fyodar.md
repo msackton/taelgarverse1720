@@ -12,7 +12,7 @@ title: Fyodar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
     Based in [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>), [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea

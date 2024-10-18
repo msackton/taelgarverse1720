@@ -20,8 +20,8 @@ title: Tak
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
     { .bio }
 
-    Based in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>), [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>)
+    Based in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfolds/bleakhold.md>), [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>), the [Shadowfolds](<../../cosmology/multiverse/echo-realms/shadowfolds/shadowfolds.md>)
 </div>
 
 
-A young dwarf, living in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) but hoping for something better and wondering about the lives of dwarves outside [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), even before he knew such dwarves existed. 
+A young dwarf, living in [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfolds/bleakhold.md>) but hoping for something better and wondering about the lives of dwarves outside [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>), even before he knew such dwarves existed. 

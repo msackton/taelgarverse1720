@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place]
 typeOf: holy site
 typeOfAlias: monastery
 subTypeOf:
@@ -8,6 +8,8 @@ affiliations:
 - {org: Bhishma, type: primary}
 ancestry: Dunmari
 whereabouts: Garamjala Desert
+dm_notes: important
+dm_owner: tim
 title: Monastery of Bhishma
 ---
 # The Monastery of Bhishma
@@ -15,9 +17,6 @@ title: Monastery of Bhishma
 -    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
 </div>
 
-
-## Overview
-The Monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) is a large complex dedicated to the Dunmari goddess [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), consisting of a temple, dormitories and associated buildings, and the [Hall of Stories](<./hall-of-stories.md>), an archive of the stories and lives of the Dunmari people. 
 
 The monastery is about 2 1/2 miles south of [Kharsan](<./kharsan.md>), in what was once the heartland of [Dunmar](<../realms/dunmar/dunmar.md>) but is now, after the upheavals of the [Great War](<../../../events/1500s/great-war.md>) and the [Blood Years](<../../../events/1500s/blood-years.md>), the midst of the [Nashtkar](<./nashtkar.md>), the blasted plains. The monastery sits on a bluff near a turn in the [Kharja](<../../istaros-watershed/rivers/kharja.md>) river, once a lush riparian valley before the [Great War](<../../../events/1500s/great-war.md>), with the river forming the southern and western borders of the complex. The southern side consists of steep cliffs, while the western side gently slopes to the river, and was formerly the site of a thriving garden. There is a newer path with a few stone steps that has been constructed from the dry river bed up the slope, and the remains of stairs cut into the side of the cliff. 
 

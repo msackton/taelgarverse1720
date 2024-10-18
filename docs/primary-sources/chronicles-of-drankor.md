@@ -1,5 +1,7 @@
 ---
-tags: [source, status/cleanup/reformat]
+tags: [source, status/cleanup/external]
+dm_notes: color
+dm_owner: false
 title: Chronicles of Drankor
 ---
 

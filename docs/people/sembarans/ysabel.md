@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee}
 name: Ysabel
@@ -13,6 +13,8 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, title: Sheriff}
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: Ysabel
 ---
@@ -20,7 +22,7 @@ title: Ysabel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     b. DR 1688 - d. January 6th, 1720, died at age 32 years  
     Sheriff of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (until January 6th, 1720)  
     { .bio }

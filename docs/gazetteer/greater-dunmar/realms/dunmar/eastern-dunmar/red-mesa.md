@@ -8,6 +8,8 @@ affiliations:
 - {org: Shakun, type: primary}
 whereabouts:
 - {type: home, location: Eastern Dunmar}
+dm_notes: important
+dm_owner: tim
 title: Red Mesa
 ---
 # The Red Mesa

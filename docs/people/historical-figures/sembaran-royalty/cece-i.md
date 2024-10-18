@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Cece I
 born: 1628
 species: human
@@ -13,13 +13,15 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 ---
 # Queen Cece I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     b. DR 1628 - d. September 12th, 1713, died at age 85 years  
     Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (December 11th, 1648 - September 12th, 1713)  
     Member of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) (until September 12th, 1713)  

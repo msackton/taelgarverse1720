@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: city
+dm_notes: none
+dm_owner: none
 title: Gowerbourne
 ---
 # Gowerbourne
@@ -13,3 +15,4 @@ title: Gowerbourne
 
 
 A large market town on the [Wistel](<../../rivers/wistel-enst-watershed/wistel.md>), known as a center of the [Cheimen](<./duchy-of-cheimen.md>) wool trade.
+

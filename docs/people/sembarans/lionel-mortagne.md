@@ -8,6 +8,8 @@ whereabouts: Beury
 pronunciation: Li-o-nel Mor-tahn-yeh
 gender: male
 born: 1686
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Lionel Mortagne
 ---
@@ -16,7 +18,7 @@ title: Lionel Mortagne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1686 (34 years old)  
     { .bio }
 

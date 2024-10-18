@@ -16,6 +16,8 @@ whereabouts:
 - {type: home, start: 1706, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: Arthur Essford
 ---
@@ -23,7 +25,7 @@ title: Arthur Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Bybets  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the Bybets  
     Born DR 1682 (38 years old)  
     Lord Consort of the Essfords (since DR 1706)  
     { .bio }

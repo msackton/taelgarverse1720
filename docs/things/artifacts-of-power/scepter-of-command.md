@@ -28,9 +28,9 @@ title: Scepter of Command
 
 
 
+![Scepter of Command](../../assets/scepter-of-command.jpg){align="right"; width="300"}
 
-
-This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
+This scepter is about a foot long and is constructed in silver, with loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 
 It seems powerful, and like it wants to be used.
 

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/external]
+tags: [organization, status/update]
 campaignInfo: []
 name: Army of the North
 partOf: Sembaran Army
 typeOf: army
+dm_notes: important
+dm_owner: mike
 title: Army of the North
 ---
 # The Army of the North

@@ -14,6 +14,8 @@ whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
 - {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
+dm_notes: none
+dm_owner: mike
 hide: [navigation]
 title: Annet Bybet
 ---
@@ -21,7 +23,7 @@ title: Annet Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her), of the Bybets  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the Bybets  
     Born DR 1692 (28 years old)  
     Chamberlain of the Essfords  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  

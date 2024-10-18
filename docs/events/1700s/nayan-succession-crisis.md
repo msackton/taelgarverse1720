@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, event, status/cleanup/header]
+tags: [status/needswork/wip, event, status/metadata/header]
 title: Nayan Succession Crisis
 ---
 

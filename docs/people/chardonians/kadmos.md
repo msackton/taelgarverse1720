@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/internal, status/cleanup/header]
+tags: [person, testcase, status/cleanup/external, status/metadata/header]
 displayDefaults: {endStatus: killed}
 campaignInfo:
 - {campaign: dufr, date: 1748-12-08, type: encountered}
@@ -18,6 +18,8 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: Dunmar}
 - {type: away, start: 1748-11-19, end: '', location: Garamjala Desert}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
+dm_owner: tim
+dm_notes: important
 hide: [navigation]
 title: Kadmos
 ---
@@ -25,7 +27,7 @@ title: Kadmos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1711 (9 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     Cultist of [The Cleansed](<../../groups/the-cleansed.md>)  

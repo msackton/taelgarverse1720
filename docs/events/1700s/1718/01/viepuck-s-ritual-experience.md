@@ -1,6 +1,8 @@
 ---
-tags: [event, status/unknown]
+tags: [event]
 DR: 1718-01-24
+dm_owner: mike
+dm_notes: none
 title: Viepuck's Ritual Experience
 ---
 ### Viepuck Meetings His Patron

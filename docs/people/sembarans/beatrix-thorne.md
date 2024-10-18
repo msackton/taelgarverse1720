@@ -12,6 +12,8 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman}
 - {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff}
 whereabouts: Cleenseau
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: Béatrix Thorne
 ---
@@ -19,7 +21,7 @@ title: Béatrix Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1696 (24 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 2nd, 1719)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 23th, 1719)  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/needswork/internal, status/image]
+tags: [person, status/cleanup/external, status/cleanup/internal, status/metadata/image, status/metadata/header, status/cleanup/chronology]
 name: Vola Forena
 born: 1721
 species: human
@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: Chardon}
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
+dm_owner: tim
+dm_notes: important
 activeYear: 1721
 whereabouts_current: Chardon
 whereabouts_home: Chardon
@@ -22,12 +24,14 @@ title: Vola Forena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     **(page is future dated)**  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
 </div>
+
+
 
 
 ## Overview
@@ -40,7 +44,7 @@ She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/
 
 
 
-![Vola](../../assets/vola.png){width="400"}
+![Vola](../../assets/vola.png)
 
 ## Relationships
 
@@ -59,6 +63,6 @@ She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/
 - 12 Apr 1748: Rescued from captivity in Raven's Hold by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 - 12 Apr - 16 Apr 1748: Travels with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 - 16 Apr 1748: Leaves [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for Tokra, saying goodbye to [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
-- 26 Apr 1748: Arrives in Tokra. Parts ways with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>). Stays at [Kirian’s](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>). 
+- 26 Apr 1748: Arrives in Tokra. Parts ways with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>). Stays at [Kirian's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>). 
 
 - 21 Aug 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Chardon at [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>); reports on news and makes introductions to [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>).  

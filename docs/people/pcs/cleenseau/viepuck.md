@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/unknown]
+tags: [pc/cleenseau, person, status/update]
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01
@@ -21,7 +21,7 @@ title: Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born October 1st, 1706 (13 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
@@ -30,6 +30,8 @@ title: Viepuck
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 
 
 ![Najeer Screenshot](../../../assets/najeer-screenshot.png){align="right"; width="420"}Najeer Garay is the fourth son of [Susanne Garay](<../../sembarans/susanne-garay.md>), the matriarch of a wealthy cloth merchant family in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature. Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
@@ -98,8 +100,8 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ### Items
 | Image                                              | Name                                                                                                | Type    | Mechanics                                                                         |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
-| ![Gareths Ring](../../../assets/gareths-ring.jpg){width="240"}                  | [Ring of Escape](<../../../campaigns/cleenseau-campaign/treasure/ring-of-escape.md>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
-| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png){width="240"}       | [Pipes of Insect Control](<../../../campaigns/cleenseau-campaign/treasure/pipes-of-insect-control.md>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
-| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png){width="240"}          | [Circlet of Telepathy](<../../../campaigns/cleenseau-campaign/treasure/circlet-of-telepathy.md>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
-| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png){width="240"} | [Boots of False Tracks](<../../../campaigns/cleenseau-campaign/treasure/boots-of-false-tracks-viepuck.md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |
+| ![Gareths Ring](../../../assets/gareths-ring.jpg)                  | [Ring of Escape](<../../../campaigns/cleenseau-campaign/treasure/ring-of-escape.md>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
+| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png)       | [Pipes of Insect Control](<../../../campaigns/cleenseau-campaign/treasure/pipes-of-insect-control.md>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
+| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png)          | [Circlet of Telepathy](<../../../campaigns/cleenseau-campaign/treasure/circlet-of-telepathy.md>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
+| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png) | [Boots of False Tracks](<../../../campaigns/cleenseau-campaign/treasure/boots-of-false-tracks-viepuck.md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |
 

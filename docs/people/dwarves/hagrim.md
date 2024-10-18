@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/header]
+tags: [person, status/metadata/refactor, status/metadata/header]
 campaignInfo: []
 name: Hagrim of Morkalan
 born:
@@ -23,7 +23,7 @@ title: Hagrim of Morkalan
     { .bio }
 
     Originally from: [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
-    Based in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>)
+    Based in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>), the [Shadowfolds](<../../cosmology/multiverse/echo-realms/shadowfolds/shadowfolds.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 
@@ -35,5 +35,5 @@ He reluctantly left his retirement to help lead a group of warriors, including t
 
 The rescue was somewhat successful, but on the return journey across [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) encountered the fire giant Odim Mavdyrson, the son of [Mavdyr](<../historical-figures/mavdyr.md>), who had fought and been defeated by an army of [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) and humans outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in the [Fire War](<../../events/1500s/fire-war.md>). Odim sought revenge for his father's defeat, and drove the [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) to take refuge in fortifications constructed  [beneath the ancient Stoneborn Warrior statue](<../../gazetteer/greater-dunmar/dunmari-basin/stoneborn-statue-dungeon.md>) on the plains north of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
-During the ensuing battle, [Hagrim](<./hagrim.md>) broke and turned on [Nora Silverspark](<./nora-silverspark.md>), claiming she was about to betray him. As dwarf fought dwarf, Odim laughed in victory. As Hagrim died, his betrayal and anger, and possibly the corruption in his mind from the aberrations of the [Great War](<../../events/1500s/great-war.md>), created the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) domain of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) around him, trapping the surviving [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) in his nightmare. 
+During the ensuing battle, [Hagrim](<./hagrim.md>) broke and turned on [Nora Silverspark](<./nora-silverspark.md>), claiming she was about to betray him. As dwarf fought dwarf, Odim laughed in victory. As Hagrim died, his betrayal and anger, and possibly the corruption in his mind from the aberrations of the [Great War](<../../events/1500s/great-war.md>), created the [Shadowfolds](<../../cosmology/multiverse/echo-realms/shadowfolds/shadowfolds.md>) domain of [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>) around him, trapping the surviving [Dwarves](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) in his nightmare. 
 

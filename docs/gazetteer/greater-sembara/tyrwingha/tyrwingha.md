@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Tyrwingha
 typeOf: realm
 whereabouts: Greater Sembara
@@ -23,7 +23,7 @@ Bordered by the [Green Sea](<../../green-sea.md>) in the north and the [Mostreve
 
 Politically, it is a monarchy, although the monarch is formally elected by the [Oracle of the Riven](<../../../groups/oracle-of-the-riven.md>) (or as they are more prosaically known, the royal electors). Traditionally, the Oracles are warlocks, although like Ethlenn's vote, this tradition is not always observed in the modern day. Second in importance to the oracles are the earls, high lords of the realm. Today, the title has been exported to [Sembara](<../sembara/sembara.md>) and has lost its traditional meaning -- a noble who had pledged loyalty to Ethlenn in her court. Nonetheless the earls are powerful lords in [Sembara](<../sembara/sembara.md>), and often control significant landholdings, although freeholds are also more common here than elsewhere in Greater Sembara, and small, independent villages without a lord are not so rare. 
 
-The Army of Mostreve is another major part of Tyrwingha, led by the fearsome eldritch knights and an elite cadre of warlocks. The Army was organized by [Derik I](<../../../people/historical-figures/sembaran-royalty/derik-i.md>) after his victories over the Dominion of Avatus, and it today provides a significant route of social mobility. Three major garrisons dot the [Mostreve Hills](<../mostreve-hills.md>) - the garrison of the Aben, in the headwaters of the Aben River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [The Rangers](<../../../groups/the-rangers.md>).
+The Army of Mostreve is another major part of Tyrwingha, led by the fearsome eldritch knights and an elite cadre of warlocks. The Army was organized by [Derik I](<../../../people/historical-figures/sembaran-royalty/derik-i.md>) after his victories over the Dominion of Avatus, and it today provides a significant route of social mobility. Three major garrisons dot the [Mostreve Hills](<../mostreve-hills.md>) - the garrison of the Aben, in the headwaters of the [Aben](<../rivers/aben-watershed/aben.md>) River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [The Rangers](<../../../groups/the-rangers.md>).
 
 Religiously, little is remembered about the ancient gods of Tyrwingha, such as they were. The [Eight Divines](<../../../cosmology/religions/mos-numena/mos-numena.md>) are worshipped here much as they are elsewhere in [Sembara](<../sembara/sembara.md>). It is said that when Ethlenn made her bargain with the Drankorians (see below), she acknowledged the suzerainty of the Drankorian gods. However, the fey are remembered and honored alongside the gods -- the people of Tyrwingha have a deep respect for the traditions of the fey and what others might call superstition is here seen as simple common sense. The temple stewards in Tyrwingha often have a second job, ensuring the fairy rings are not distributed, leaving out milk and brown bread for the pixies, and other such things.
 

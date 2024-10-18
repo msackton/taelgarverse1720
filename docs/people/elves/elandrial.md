@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/refactor]
+tags: [person, historical, status/metadata/refactor]
 campaignInfo:
 name: Elandrial
 born:
@@ -23,7 +23,7 @@ title: Elandrial
 
     An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) unknown)  
     Died  
-    Member of the Fides Lucaris  
+    Member of Fides Lucaris  
     { .bio }
 
     Originally from: Unknown

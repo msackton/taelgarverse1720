@@ -1,5 +1,5 @@
 ---
-tags: [event, status/unknown]
+tags: [event, status/needswork/shared]
 title: Highland Conquest Wars
 ---
 

@@ -9,6 +9,8 @@ gender: male
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Samuel
 ---
@@ -16,7 +18,7 @@ title: Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1705 (15 years old)  
     Kitchen Boy of the Essfords  
     { .bio }

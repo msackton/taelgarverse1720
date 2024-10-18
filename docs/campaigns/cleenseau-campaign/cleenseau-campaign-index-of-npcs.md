@@ -82,7 +82,7 @@ Cleenseau itself is a large market town of about 1200 people.
  - ![Remy Darrow](../../assets/remy-darrow.png){align="left"; width="120"} [Remy Darrow](<../../people/sembarans/remy-darrow.md>), the elderly patriarch of the Darrow family
  - ![Hugh Darrow](../../assets/hugh-darrow.png){align="left"; width="120"} [Hugh Darrow](<../../people/sembarans/hugh-darrow.md>), Remy's son, and sturdy with an ax. Helped in the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
  - ![Odo Cordwaner](../../assets/odo-cordwaner.png){align="left"; width="120"} [Odo Cordwaner](<../../people/sembarans/odo-cordwaner.md>), recently discharged from the Army of the West and now the entirely of the Taviose town watch
- - ![Abilgail Moss](../../assets/abilgail-moss.png){align="left"; width="120"} [Abigail Moss](<../../people/sembarans/abigail-moss.md>), one of the few survivors of the once large Moss family, struggling to maintain her family orchard
+ - !left [Abigail Moss](<../../people/sembarans/abigail-moss.md>), one of the few survivors of the once large Moss family, struggling to maintain her family orchard
  - ![Phillipa Northwood](../../assets/phillipa-northwood.png){align="left"; width="120"} [Phillipa Northwood](<../../people/sembarans/phillipa-northwood.md>), the matriarch of the large Northwood family, a woodcutter. Helped in the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
 </div>
 
@@ -152,7 +152,7 @@ The [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cl
 ## Rangers and Other Heroes
 <div class="grid cards ext-narrow-margin" markdown>
  - ![Vahaiya 2](../../assets/vahaiya-2.jpg){align="left"; width="120"} [Vahaiya](<../../people/elves/vahaiya.md>), elf and warrior
- - ![Adra Brightwood](../../assets/adra-brightwood.png){align="left"; width="120"} [Adra Brightwood](<../../people/halflings/adra-brightwood.md>), a halfling with magical birds
+ - !left [Adra Brightwood](<../../people/halflings/adra-brightwood.md>), a halfling with magical birds
  - ![Enzo Brightwood](../../assets/enzo-brightwood.png){align="left"; width="120"} [Enzo Brightwood](<../../people/halflings/enzo-brightwood.md>), a halfling scout, Adra's cousin
  - ![Damien Montrichard](../../assets/damien-montrichard.jpg){align="left"; width="120"} [Damien Montrichard](<../../people/sembarans/damien-montrichard.md>), a musician and storyteller
  - ![Emilie Adderfell](../../assets/emilie-adderfell.png){align="left"; width="120"} [Emilie](<../../people/sembarans/emilie.md>), skilled with her axe

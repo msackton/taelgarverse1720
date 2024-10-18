@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Old Chardon Canal
 typeOf: canal
-partOf: Portalia
+whereabouts: Portalia
 title: Old Chardon Canal
 ---
 # The Old Chardon Canal

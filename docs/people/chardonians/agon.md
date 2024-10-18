@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/refactor]
+tags: [person, status/metadata/refactor]
 name: Agon
 born: 1694
 activeYear: 1745
@@ -10,6 +10,8 @@ gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
+dm_notes: important
+dm_owner: tim
 hide: [navigation]
 title: Agon
 ---
@@ -17,7 +19,7 @@ title: Agon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1694 (26 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }

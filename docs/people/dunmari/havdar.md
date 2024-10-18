@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image, status/needswork/notes]
+tags: [person, status/metadata/image, status/metadata/header, status/cleanup/external, status/update]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: '<met:U> by <person> in <current:fr!>, on <target>'}
 name: Havdar
@@ -14,6 +14,8 @@ whereabouts:
 - {type: home, location: Karawa}
 - {type: home, location: Eastern Dunmar}
 - {type: away, location: Havdar's Warband, wCurrent: ''}
+dm_notes: important
+dm_owner: tim
 activeYear: 1724
 whereabouts_current: Havdar's Warband
 whereabouts_home: Eastern Dunmar
@@ -25,7 +27,7 @@ title: Havdar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     Commander of Havdar's Warband  
     { .bio }
@@ -46,7 +48,7 @@ In the summer of DR 1748, he took on a pivotal role as the chief general to Naya
 
 Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of the Dunmari plains. He has dark, tangled hair and short, scrubby beard. He is usually wearing armor and carrying his spear.
 
-![Havdar](../../assets/havdar.png){width="500"}
+![Havdar](../../assets/havdar.png)
 ## Relationships
 
 - Nayan [Sura](<./sura.md>): As her chief general and most trusted advisor, Havdar is unwavering in his loyalty to Nayan [Sura](<./sura.md>). Their bond is strong, and he's fully committed to supporting her claim against her brother, even if it leads to civil war. Havdar first met her when she traveled in the east when he was young, and as a teenager was devastated by the news of her disappearance. He considers her rescue and reappearance a blessing from the gods. 

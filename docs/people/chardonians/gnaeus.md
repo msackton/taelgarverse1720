@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/needswork/external]
+tags: [person, status/metadata/header, status/needswork/external]
 campaignInfo: []
 name: Gnaeus
 born: 1701
@@ -18,7 +18,7 @@ title: Gnaeus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1701 (19 years old)  
     Member of the [University of Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), and [Sibyl's Hall](<../../groups/chardonian-organizations/sibyl-s-hall.md>)  
     { .bio }

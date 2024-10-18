@@ -24,7 +24,7 @@ A dark day, the 8th of January, in the 7th year of Robert I's kingship
 
 There is a rough sketch:
 
-![Avatus Symbol Sketch](../../../assets/avatus-symbol-sketch.png){width="300"}
+![Avatus Symbol Sketch](../../../assets/avatus-symbol-sketch.png)
 
 
 Also a postscript in Eremon's hand:

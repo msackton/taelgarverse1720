@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/check/minor]
 name: Derik I
 born: 1396
 species: human
@@ -13,13 +13,15 @@ affiliations:
 - {place: Sembara, start: 1429}
 - {place: Duchy of Telham, title: Duke, start: 1429}
 title: King Derik I
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 ---
 # King Derik I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1396 - d. DR 1462, died at age 66 years  
     King of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1425 - DR 1462)  
     King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1429 - DR 1462)  

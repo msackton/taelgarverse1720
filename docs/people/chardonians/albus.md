@@ -11,6 +11,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1729, location: Chardon}
 - {type: home, start: 1730, end: '', location: Darba}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Albus
 ---
@@ -18,7 +20,7 @@ title: Albus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1694 (26 years old)  
     { .bio }
 

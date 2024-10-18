@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/image, status/cleanup/header]
+tags: [person, status/needswork/external, status/metadata/image, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-08-26, type: met}
 - {campaign: GL, date: 1747-09-01, type: met}
@@ -22,7 +22,7 @@ title: Lyra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1705 (15 years old)  
     Archivist of the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>)  
     { .bio }

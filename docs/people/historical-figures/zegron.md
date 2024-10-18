@@ -16,7 +16,7 @@ title: Zegron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fire giant](<../../species/children-of-the-divine/giants.md>) (he/him)  
+    A [fire giant](<../../species/children-of-the-riving/giants.md>) (he/him)  
     Killed by Deno'qai DR 1545  
     { .bio }
 

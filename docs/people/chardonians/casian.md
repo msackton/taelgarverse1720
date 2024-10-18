@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/needswork/external, status/cleanup/header, status/cleanup/reformat]
+tags: [event-source, person, status/needswork/external, status/metadata/header, status/cleanup/internal, status/update]
 campaignInfo: []
 name: Casian
 born: 1722
@@ -12,6 +12,8 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1722, location: Chardon}
 - {type: away, start: 1748-11-23, end: '', prefix: somewhere in, location: Dunmar}
+dm_notes: important
+dm_owner: tim
 activeYear: 1722
 whereabouts_current:
 whereabouts_home:
@@ -23,7 +25,7 @@ title: Casian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }

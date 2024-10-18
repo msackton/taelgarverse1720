@@ -17,7 +17,7 @@ title: Safri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     { .bio }
 
     Originally from: Unknown

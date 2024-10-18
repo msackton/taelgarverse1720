@@ -16,7 +16,7 @@ title: Jela Drask
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Member of [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>)  
     { .bio }
 

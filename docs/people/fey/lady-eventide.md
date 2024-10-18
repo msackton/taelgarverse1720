@@ -15,10 +15,10 @@ title: Lady Eventide
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+    A [fey](<../../species/children-of-the-riving/fey/fey.md>) (she/her)  
     { .bio }
 
-    Based in Amberglow, the Feywild
+    Based in Amberglow, the Feywild, the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 
@@ -32,5 +32,5 @@ Lady Eventide was once a respected member of the [Cloudspinner](<../extraplanar-
 Lady Eventide is often seen in ornate courtly gowns adorned with jewelry. However, much like her surroundings, her attire predominantly comprises muted gray and white shades, giving an impression that its colors have been sapped away.
 ## Events
 
-- In DR 1748, Lady Eventide met [Seeker](<../pcs/dunmar-fellowship/seeker.md>), trading the color from a streak of [Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s hair for a magical thread from her gown, which was crafted by the renowned [Cloudspinner](<../extraplanar-powers/cloudspinner.md>), famed for her talent in weaving threads infused with the enchanting colors of the sunset.
+- In DR 1748, Lady Eventide met [Seeker](<../pcs/dunmar-fellowship/seeker.md>), trading the color from a streak of [Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s hair for a magical Sunset Thread from her gown, which was crafted by the renowned [Cloudspinner](<../extraplanar-powers/cloudspinner.md>), famed for her talent in weaving threads infused with the enchanting colors of the sunset.
 

@@ -22,7 +22,7 @@ title: Tharandros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [centaur](<../../species/children-of-the-divine/centaurs/centaurs.md>) (he/him)  
+    A [centaur](<../../species/unusual-species/centaurs.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown

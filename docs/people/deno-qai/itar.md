@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/unknown]
 campaignInfo: []
 name: Itar
 born: 1716
@@ -16,7 +16,7 @@ title: Itar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1716 (4 years old)  
     { .bio }
 

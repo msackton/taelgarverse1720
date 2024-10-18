@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/name]
 campaignInfo: []
 name: Enst (North Fork)
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Western Marches
 aliases: [North Fork, North Fork of the Enst]
+dm_notes: none
+dm_owner: none
 title: Enst (North Fork)
 ---
 # The Enst (North Fork)

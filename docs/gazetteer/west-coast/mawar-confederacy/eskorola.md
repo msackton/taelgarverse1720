@@ -4,7 +4,7 @@ tags: [place]
 name: Eskorola
 typeOf: village
 ancestry: lizardfolk
-partOf: Mawar Confederacy
+whereabouts: Mawar Confederacy
 pronunciation: es-ko-ROH-lah
 title: Eskorola
 ---

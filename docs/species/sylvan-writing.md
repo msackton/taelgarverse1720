@@ -1,5 +1,5 @@
 ---
-tags: [status/tim, background]
+tags: [background]
 title: Sylvan Writing
 ---
 

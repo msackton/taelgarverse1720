@@ -4,7 +4,8 @@ tags: [person, pc/companion]
 name: Greymalkin
 displayDefaults: {startStatus: appeared from the Feywild on}
 born: 1720-01-07
-species: griffin
+species: fey
+subspecies: griffin
 gender: male
 hide: [navigation]
 title: Greymalkin
@@ -13,7 +14,7 @@ title: Greymalkin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A griffin (he/him)  
+    A [fey](<../../../species/children-of-the-riving/fey/fey.md>) (griffin) (he/him)  
     Appeared from the Feywild on January 7th, 1720 (1 months old)  
     { .bio }
 
@@ -24,3 +25,4 @@ title: Greymalkin
 
 
 ![Greymalkin 2](../../../assets/greymalkin-2.png)
+

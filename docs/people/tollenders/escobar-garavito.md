@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Escobar Garavito
 born: 1727
@@ -22,7 +22,7 @@ title: Escobar Garavito
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Cymean](<../../gazetteer/western-green-sea/cymea/cymea.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Cymean](<../../gazetteer/western-green-sea/cymea/cymea.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     **(page is future dated)**  
     Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }

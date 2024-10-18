@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person]
 displayDefaults: {endStatus: killed himself in remorse}
-campaignInfo: []
 name: François the Bandit
 born: 1681
 species: human
@@ -11,6 +10,8 @@ gender: male
 aliases: [François the Bandit]
 died: 1719-11-05
 whereabouts: Cleenseau Region
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: François the Bandit
 ---
@@ -18,7 +19,7 @@ title: François the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     b. DR 1681 - d. November 5th, 1719, killed himself in remorse at age 38 years  
     { .bio }
 

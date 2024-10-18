@@ -2,7 +2,11 @@
 headerVersion: 2023.11.25
 tags: [person]
 gender: female
+species: human
+ancestry: Tollender
 died: 1715
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Rowena Chemare
 ---
@@ -10,7 +14,7 @@ title: Rowena Chemare
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    (she/her)  
+    A [Tollender](<../../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Died DR 1715  
     { .bio }
 

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck, status/needswork/external]
+tags: [place, status/check/name, status/needswork/external]
 typeOf: plains
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 title: Erbalta Plains
 ---
 # The Erbalta Plains

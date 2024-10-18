@@ -17,11 +17,11 @@ title: Vondar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-divine/giants.md>) (cursed) (he/him)  
+    A [giant](<../../species/children-of-the-riving/giants.md>) (cursed) (he/him)  
     { .bio }
 
     Originally from: Unknown
-    Based in Amberglow, the Feywild
+    Based in Amberglow, the Feywild, the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 

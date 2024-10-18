@@ -1,6 +1,5 @@
 ---
-tags: [holiday, status/needswork/notes]
-campaignInfo: []
+tags: [holiday]
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}
 fc-end: {day: 19, month: 6, year: 1748}
@@ -8,9 +7,10 @@ title: Feast of Bhishma
 ---
 # The Feast of Bhishma
 
-Bhishma's Feast day, celebrated as a two day festival starting the day before the night of the first new moon in June, marking the end of summer and the start of the monsoon season. This is usually around the summer solstice.
 
-A celebration of Bhishma’s ascension to godhood, as well as [The Founding of Dunmar](<../../../primary-sources/the-founding-of-dunmar.md>). The first day is a day of remembrance, the second is a pure celebration, a feast and party holiday, usually celebrated with family and kin, not necessarily involving travel back to villages or temples. 
+Bhishma's Feast day, celebrated as a two day festival starting the day before the night of the first new moon in June, marks the end of summer and the start of the monsoon season. This is usually around the summer solstice.
+
+A celebration of Bhishma’s ascension to godhood, as well as the [Founding of Dunmar](<../../../primary-sources/founding-of-dunmar.md>). The first day is a day of remembrance, the second is a pure celebration, a feast and party holiday, usually celebrated with family and kin, not necessarily involving travel back to villages or temples. 
 
 However, it was a time when the Mystai of Bhishma gathered for their annual council and gathering. 
 
@@ -25,4 +25,3 @@ Evening: at sunset, is the feast itself, which has three ritual parts. First, th
 After the last prayer comes the party. There are usually bonfires, and several traditional desserts and drinks -- the aforementioned milk fudge, also a fried dough kind of dessert, and honey cake. A mildly sweet, slightly effervescent wine is also served in large quantities.
 
 Next day: the following day is strictly a day of rest. No work is done. Families tell stories, there is music and dancing, and often informal competitions (music, storytelling, dancing). At sunset, any of the special wine or food that was not consumed is given to the ancestors, and the shrines are packed up again.
-

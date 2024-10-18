@@ -1,5 +1,5 @@
 ---
-tags: [background, religion, status/needswork/namecheck]
+tags: [background, religion, status/check/name]
 title: Zariya
 ---
 # Zariya

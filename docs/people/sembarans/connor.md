@@ -8,6 +8,8 @@ gender: male
 whereabouts: Asineau
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Connor
 ---
@@ -15,7 +17,7 @@ title: Connor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1684 (36 years old)  
     Guardsman of the Asineau Manor Guard  
     { .bio }

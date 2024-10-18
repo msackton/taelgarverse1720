@@ -8,6 +8,8 @@ born: 1674
 whereabouts:
 - {type: home, location: Laicon, end: 1698}
 - {type: home, location: Cleenseau, start: 1699}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Arnaud Ausson
 ---
@@ -15,7 +17,7 @@ title: Arnaud Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1674 (46 years old)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Frankar
 born: 1714
@@ -10,6 +10,8 @@ gender: male
 died:
 whereabouts:
 - {type: home, start: '', end: 1730, location: Darakan}
+dm_owner: tim
+dm_notes: important
 hide: [navigation]
 title: Frankar
 ---
@@ -23,6 +25,8 @@ title: Frankar
 
     Based in [Darakan](<../../gazetteer/sentinel-range/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
+
+
 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 

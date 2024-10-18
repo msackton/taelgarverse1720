@@ -7,6 +7,8 @@ affiliations:
 gender: female
 species: human
 ancestry: Sembara
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Constance Farnham
 ---
@@ -14,7 +16,7 @@ title: Constance Farnham
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Proprietor of [The River's Blessing](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-river-s-blessing.md>)  
     { .bio }
 

@@ -16,6 +16,8 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: Ames Benthey
 ---
@@ -23,7 +25,7 @@ title: Ames Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1675 (45 years old)  
     Captain of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)  
     Guard Captain of the Essfords  

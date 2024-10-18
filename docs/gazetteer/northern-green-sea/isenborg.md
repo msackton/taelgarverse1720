@@ -11,7 +11,7 @@ title: Isenborg
 # Isenborg
 :speaker:{ .middle } *(EE-zen-borg)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A frost giant steading in [Kaldhalla](<./kaldhalla.md>), [Hrimthur](<./svinjo-mountains.md>), the Northern Green Sea  
+-    :octicons-location-24:{ .lg .middle } A frost giant steading [Kaldhalla](<./kaldhalla.md>)  
 </div>
 
 
@@ -19,7 +19,7 @@ Isenborg is the primary steading of [Kaldhalla](<./kaldhalla.md>), and the hall 
 
 ## Approach
 
-![Steading Entrance](../../assets/steading-entrance.png){align="right"; width="500"}Isenborg is located on the shoulder of a tall peak in the Hrimthur range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading. 
+![Steading Entrance](../../assets/steading-entrance.jpg){align="right"; width="500"}Isenborg is located on the shoulder of a tall peak in the Hrimthur range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading. 
 
 The entrance to Isenborg is marked by a grand, frozen gate, adorned with intricate carvings of frost giants' myths and battles. Sentinel ice sculptures, crafted to look like fearsome beasts and legendary giants, guard the pathways.
 

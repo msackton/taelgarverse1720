@@ -164,7 +164,7 @@ title: Delwath
 > 
 > *Part 1: The Dream*
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
+> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>). 
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to sit and empty his mind of everything but the image. Delwath settles down on the top of the mesa, concentrating on the vision of a clear pool in a deep forest, lit by moonlight that [Wellby](<./wellby.md>) showed him telepathically earlier that day, somehow associated with his pact weapons.
 > 
@@ -213,7 +213,7 @@ title: Delwath
 > 
 > As you return to your bed and drift into a trance, a different vision:
 > 
-> You are looking down at a forest grove, an opening in a dense mixed forest of maples, oaks, and birches. In the clearing is a clear pool of water, a running brook flowing out of it into the woods. It is dusk, and fireflies are beginning to emerge from the shadows of the trees, their lights flashing in the opening above the pool. This is the same place you saw in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), but without people, without the cairn of stone. 
+> You are looking down at a forest grove, an opening in a dense mixed forest of maples, oaks, and birches. In the clearing is a clear pool of water, a running brook flowing out of it into the woods. It is dusk, and fireflies are beginning to emerge from the shadows of the trees, their lights flashing in the opening above the pool. This is the same place you saw in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), but without people, without the cairn of stone. 
 > 
 > The voice in your head, that calls themselves [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>), seems to struggle to speak for a moment. Then, almost in awe: "I think I remember this place."
 > 
@@ -235,7 +235,7 @@ title: Delwath
 > 
 > He will head to the arch [Cintra](<../../dunmari/cintra.md>) described. He finds the arch clear enough: it is a large stone arch, but as it catches the rays of the morning sun, it seems to shift to curling roots of some great, immense tree. It is well positioned for the ritual you imagine. 
 > 
-> Delwath spends the day constructing a rough stone altar, as close to what he saw in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
+> Delwath spends the day constructing a rough stone altar, as close to what he saw in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
 > 
 > As dusk fails, Delwath will summon a dagger from the shadow realm, and ask the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
 > 

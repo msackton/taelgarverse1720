@@ -17,7 +17,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-divine/giants.md>) (frost) (he/him)  
+    A [giant](<../../species/children-of-the-riving/giants.md>) (frost) (he/him)  
     King of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>)  
     { .bio }
 

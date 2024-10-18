@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/clee]
+tags: [place]
 campaignInfo:
 name: Barony of Ainwick
 typeOf: barony
 whereabouts: Western Marches
+dm_notes: none
+dm_owner: none
 title: Barony of Ainwick
 ---
 # The Barony of Ainwick

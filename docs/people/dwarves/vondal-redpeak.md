@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person]
+campaignInfo:
+- {campaign: dufr, person: Seeker and Riswynn, date: 1748-08-08, type: met}
 name: Vondal Redpeak
-born:
 species: dwarf
-ancestry:
 gender: male
 affiliations:
 - {org: Redpeaks, type: primary}
@@ -21,6 +21,7 @@ title: Vondal Redpeak
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
 
 
 A member of the Redpeaks of Darba, a mason fascinated with the history of Darba's stonework. 

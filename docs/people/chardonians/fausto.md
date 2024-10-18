@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header]
+tags: [person, status/cleanup/external, status/metadata/header]
 name: Fausto
 born: 1714
 species: human
@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, start: 1731-01-01, end: '', location: Chardon}
 - {type: away, start: 1734-01-01, end: '', prefix: adventuring in, location: West Coast Region}
 - {type: home, start: 1737-01-01, end: '', location: Chardon}
+dm_notes: important
+dm_owner: tim
 hide: [navigation]
 title: Fausto
 ---
@@ -18,7 +20,7 @@ title: Fausto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1714 (6 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), and [The Cleansed](<../../groups/the-cleansed.md>)  
     { .bio }

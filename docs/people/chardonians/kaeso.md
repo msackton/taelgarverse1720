@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/image, status/cleanup/header]
+tags: [person, status/needswork/internal, status/metadata/image, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -24,7 +24,7 @@ title: Kaeso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1691 (29 years old)  
     Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }

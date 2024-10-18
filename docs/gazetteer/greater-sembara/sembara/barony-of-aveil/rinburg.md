@@ -3,10 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Rinburg
 typeOf: settlement
-typeOfAlias: town
+typeOfAlias: free city
 population: 2341
 whereabouts: Barony of Aveil
 pronunciation: Rin-burg
+dm_notes: color
+dm_owner: mike
 title: Rinburg
 ---
 # Rinburg
@@ -14,7 +16,7 @@ title: Rinburg
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 2,341  
-    :octicons-location-24:{ .lg .middle } A town in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A free city in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
 </div>
 
 

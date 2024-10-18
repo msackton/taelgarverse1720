@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 name: Damien Montrichard
 born:
 species: human
@@ -12,6 +12,8 @@ pronunciation: Dah-mee-en Mon-tree-shar
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+dm_notes: important
+dm_owner: mike
 hide: [navigation]
 title: Damien Montrichard
 ---
@@ -20,7 +22,7 @@ title: Damien Montrichard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/humans/humans.md>) (he/him)  
+    A [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

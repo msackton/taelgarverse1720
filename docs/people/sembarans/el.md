@@ -8,6 +8,8 @@ ancestry: Sembaran
 whereabouts:
 - {type: home, location: Gowerbourne}
 - {type: home, location: Asineau}
+dm_notes: color
+dm_owner: mike
 hide: [navigation]
 title: El
 ---
@@ -15,7 +17,7 @@ title: El
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (they/them)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (they/them)  
     Born DR 1683 (37 years old)  
     { .bio }
 

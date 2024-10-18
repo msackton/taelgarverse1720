@@ -1,9 +1,10 @@
 ---
-tags: [organization, status/needswork/notes, status/unknown]
+headerVersion: 2023.11.25
+tags: [organization, status/needswork/wip]
 typeOf: army
 title: Chardonian Legion
 ---
-
-# Chardonian Legion
+# The Chardonian Legion
 
 The army of the Chardonian Empire.
+

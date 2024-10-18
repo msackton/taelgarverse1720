@@ -7,6 +7,8 @@ ancestry: Sembaran
 gender: female
 born: 1688
 died: 1720-01-04
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Emmeline Duval
 ---
@@ -14,7 +16,7 @@ title: Emmeline Duval
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     b. DR 1688 - d. January 4th, 1720, died at age 32 years  
     { .bio }
 

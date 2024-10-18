@@ -1,124 +1,104 @@
 ---
 {title: Playing a Dwarf}
 ---
-[Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) in Taelgar are one of the Elder Folk, divinely created by the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>), the dwarven gods and Firstborn of their race. Bold, brave, and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home, dwarves are among the most common of the Elder Folk in Taelgar. Squat and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common Elder Folk seen in the cities of humans in Taelgar.
+# Dwarf Species Details
 
-Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
+One of the Elder Folk, dwarves make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>). Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common of the Elder Folk seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
 
-To create your dwarf character, consider your relationship with your thuhr and the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>). Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
+Dwarven culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
 
-All dwarves have also have a connection to the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>), as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors, that is almost feudal in nature. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
-# Dwarven Traits
+---
+## Creating Your Dwarf Character
 
-**Creature Type:** Humanoid.
-**Size**: Medium (typically between 4-5 feet tall)
-**Speed**: 25 feet, which is not reduced by wearing heavy armor.
+To create your dwarf character, consider your relationship with your thuhr and the Bahrazel. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 
-As a dwarf, you have the following special traits:
+All dwarves also have a connection to the Bahrazel, as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
 
-***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Finally, you might want to consider your upbringing. Did you grow up in a traditional dwarven settlement, in or under the mountains, part of one of the major dwarven kingdoms of the world? Or did you grow up among humans, perhaps living in the dwarven quarter of some city? 
 
-***Dwarven Training.*** All dwarves are blessed by the Bahrazel with skill in crafts and war. You learn two proficiencies of your choice, which can be artisan's tools or simple weapons, to represent this innate training. You may replace one of these proficiencies with proficiency in a martial weapon.
+### Dwarf Names
 
-***Stonecunning.*** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+Dwarves typically have personal names, revealed to them when they make their pilgrimage to the Heart of the Mountain, and clan names which mark their familial associations. Young dwarves who have not made their pilgrimage yet (and are thus thuhr-less and nameless) typically go by diminutive nicknames given by their parents, which tend to be one syllable and are genderless in dwarven society. To choose a name for your Dwarven character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Dwarf) or a [generator](https://thecollaborativegamer.wordpress.com/people/tables-for-creating-fantasy-names/names-dwarves/) for inspiration, or you might invent your own.
 
-***Dwarven Rune Crafting.*** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate ability to use runes to create magical effects, drawing power from your connection to the Bahrâzel. Whenever you finish a long rest, you can mark one weapon, set of armor, piece of clothing, or other object you touch with a rune you know. The rune persists on the marked object until you mark a new object or die. The runes you can learn are described in your thuhr. You may choose Intelligence, Wisdom, or Charisma as your ability score for rune effects.
+**Male Names:** Adrik, Baern, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Vondal 
 
-***Thuhr.*** As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. You thuhr gives you magical traits, in the form of knowledge of a rune granted by your connection to the Bahrâzel.
+**Female Names:** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+
+**Child Names:** Adi, Art, Bar, Brot, Dag, Del, Ein, Eld, Gunn, Kat, Kel, Mar, Osk, Ris, Rur, Tak, Tor, Tra, Ulf, Von, Vis
+
+**Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
+
+---
+## Basic Traits
+
+**Creature Type**: Humanoid
+**Size**: Your size is Medium.
+**Speed**: 30 feet
+**Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority at 25 and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
+**Languages**: You may select four languages during character creation, which should usually include Dwarvish. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
+
+## Dwarf Traits
+
+As an Dwarf, you have these special traits.
+
+
+#### Darkvision
+You have Darkvision with a range of 120 feet.
+#### Stonecunning
+As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+#### Thuhr
+As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
 
 >[!note] Binthuhr Dwarves
->If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a thuhr or the dwarven rune crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
+>If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
 
-## Thuhr
-### Ruler
-Dwarves of the Ruler thuhr have a special connection to Uzdan, the Bahrazel said to be first king of the dwarves. This thuhr is among the least common in dwarven society; many of the dwarves in this thuhr end up in positions of leadership, whether clan heads or battle commanders.
+#### Bahrazel's Blessing
+Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
+- *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tool of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required. 
+- *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. 
+- *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. 
+- *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light. 
+- *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in one additional language, and whenever you finish a Long Rest, you can pray to Maganna allowing you to exchange this language proficiency for another language. 
+- *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. 
+- *Uzdan's Blessing of Leadership.* When you finish a Long Rest, you can inspire bravery in yourself and your allies. Choose a number of creatures up to your Proficiency Bonus. Each target gains a number of Temporary Hit Points equal to twice your Proficiency Bonus. While a character has these Temporary Hit Points, they are immune to the Frightened condition. 
 
-As a member of the Ruler thuhr, you know one of the following Runes: the [Rune of Truth](<./playing-a-dwarf.md#dwarven-rune-optionsrune-of-truth>) or the Rune of Valor.
-### Runecrafter
-Dwarves of the Runecrafter thuhr have a special connection to Karthel (he/him), the Bahrazel said to be the originator of runic magic. Many librarians, scribes, and researchers come from this thuhr; powerful rune-mages, although rare in dwarven society, are also almost always in the Runecrafter thuhr.
+**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate knowledge of one rune from the list below, which can create a magical effect. When you complete a Long Rest, you can inscribe one item with the rune, which can be used once, after which the rune fades. You can have up to two items inscribed at 5th level, three items at 11th level, and four items at 17th level. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
 
-As a member of the Runecrafter thuhr, you know one Rune from the list of Dwarven Rune Options.
-### Priest
-Dwarves of the Priest thuhr have a special connection to Fanrukel (she/her), the Bahrazel worshipped as the first lorekeeper of the dwarves. Many members of the Priest thuhr have roles that emphasize a connection to dwarven history or religion.
+- Rune of Defense: Sanctuary
+- Rune of Exploration: Longstrider
+- Rune of Lore: Fanrukel's Insight*
+- Rune of Stone: Locate Stone or Metal*
+- Rune of the Forge: Tarbaka's Flame Ward*
+- Rune of Life: Goodberry
+- Rune of Truth: Uzdan's Compelled Truth*
 
-As a member of the Priest thuhr, you know one of the following runes: the Rune of Lore, or the Rune of Life.
-### Warrior
-Dwarves of the Warrior thuhr have a special connection to Azar (he/him), the Bahrazel worshipped as the strongest warrior and original defender of the dwarven race. While members of the Warrior thuhr have diverse roles in society, it is a common thuhr among the soliders of the dwarven armies.
 
-As a member of the Warrior thuhr, you know one of the following runes: the Rune of Defense, or the Rune of Valor.
-### Stoneworker
-Dwarves of the Stoneworker thuhr have a special connection to Tarbaka (she/her), the Bahrazel worshipped as the first crafter of the dwarves. Many artisans and craftsfolk are of the Stoneworker thuhr.
 
-As a member of the Stoneworker thuhr, you know one of the following runes: the Rune of the Forge or the Rune of Stone.
-### Farmer
-Dwarves of the Farmer thuhr have a special connection to Oshkir (he/him), the Bahrazel worshipped as the first teacher of the dwarves and the provider of the dwarven race. Many members of the Farmer thuhr are  drawn towards farming and other callings associated with food production, they also are associated with healers, caregivers, educators (especially of younger dwarves), and teachers. 
+#### Fanrukel's Insight
+**Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
+**Duration:** Instantaneous
 
-As a member of the Farmer thuhr, you know one of the following runes: the Rune of Life or the Rune of Aid.
-### Traveler
-Dwarves of the Traveler thuhr have a special connection to Maganna (she/her), the Bahrazel worshipped as the first miner and explorer of the dwarves. Members of the Traveler thuhr often are drawn to roles that take them outside of cities, whether deep underground to find new mines and sources of mineral wealth, or aboveground to the lands of the other races.
+You can reroll the d20, adding your spell casting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
+#### Stone Sense
+**Casting Time:** 1 Action
+**Duration:** Instantaneous
 
-As a member of the Traveler thuhr, you know one of the following runes: the Rune of Delving or the Rune of Exploration.
-## Lifespan
-Dwarves, like many of the Elder Folk, are exceptionally long lived, with a typical lifespan of 250-300 years. Dwarves reach physical maturity in their 20s, but are not considered adults until they undertake their pilgrimage to the [Heart of the Mountain](<../../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>) and participate in the rite of name-taking, usually in their mid-30s. Dwarves are not considered old until their second century, and some elders of the race have been known to live past 350. Despite their long age, dwarves tend to have relatively few children, and most dwarven families are small, often with widely-spaced siblings. 
+You extend your senses and gain knowledge of the surrounding area, extending to a range of 1000 feet from you in all directions. Choose two of the following facts; you learn those pieces of information for the area.
 
-As a dwarven adventurer, you can pick any age you prefer. Dwarves younger than 80 or so would often be considered young; dwarves older than 200 would often be considered old. 
-## Dwarven Names
-A dwarf’s name is revealed to them when they find the Heart of the Mountain, and holds a deep place in the traditions of clan and thuhr. All dwarf names are used and reused over centuries and revered down the generations. Young dwarves who have not made their pilgrimage yet go by diminutive nicknames given by their parents (these names tend to be one syllable and are genderless in Dwarf society). Dwarven clan names are traditionally translated to Common when outside dwarven settlements, but you may make a different choice for your character if you choose. The following sample names can serve as inspiration, if you desire.
+- The locations of any significant deposits of unworked metal ore, unmined gemstones, or unquarried valuable stone.
+- Name a specific type of gemstone, metal, native element, or natural stone. You learn the location of the most significant stationary deposit of the named material. You can select this option twice.
+- The most prevalent kind of mineral and/or stone in the area.
+- Whether any tunnels, burrows, or other significant underground excavation is present in the area.
 
-**Male Names:** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+You can alternatively replace one or both of your questions with information of similar scope, at the DM's discretion.
+#### Tarbaka's Flame Ward
+**Casting Time:** 1 Action
+**Duration:** 1 Hour
 
-**Female Names:**  Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
 
-**Child Names:** Adi, Art, Bar, Brot, Dag, Del, Ein, Eld, Gunn, Kat, Kel, Mar, Osk, Ris, Rur, Tak, Tor, Tra, Ulf, Von, Vis
+#### Uzdan's Compelled Truth
+**Casting Time:** 1 Action
+**Duration:** 10 Minute
 
-**Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
-# Dwarven Rune Options
-The runic choices available to your dwarven character are listed here, in alphabetical order. The following keywords describe Dwarven rune effects:
-
-- **Mastery Effect**: a mastery effect reflects the knowledge of the nature of rune magic, and can only affect your dwarven character; you do not need to possess the inscribed runic item to use mastery effects.
-- **Minimum Level**: a runic effect with a minimum level requires the dwarf who inscribes the rune to be at least that level to activate.
-- **Passive Effect**: a passive effect is granted to the creature that possesses the inscribed item. Only one creature can benefit from a passive effect at a time.
-## Rune of Aid
-- ***Guidance (passive):*** The bearer of this rune learns the *Guidance* cantrip.
-- ***Repair (passive):*** The bearer of this rune learns the *Mending* cantrip.
-- ***Aid (mastery, minimum level 5):*** You learn the *Aid* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Defense
-- ***Armor of the Bahrazel:*** If you inscribe the Rune of Defense on a piece of clothing or armor, you have advantage on saving throws against poison and resistance to poison damage while wearing the inscribed item.
-- ***Rally (passive):*** As an action, the bearer of the rune can activate this effect to grant themselves 1d4+4 temporary hit points. These temporary hit points last for 1 hour. Once you activate this effect, you cannot do so again unti you complete a long rest.
-- ***Bahrazel's Protection (mastery, minimum level 3):*** You learn the *Protection from Good and Evil* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Delving
-- ***Shape Water (passive):*** The bearer of this rune learns the *Shape Water* cantrip.
-- ***Deep Sight (passive):*** The bearer of this rune gains Darkvision with a range of 60 feet. If they already have Darkvision, the range of their Darkvision increases by 60 feet.
-- ***Finding (mastery, minimum level 5):*** You learn the *Locate Object* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Exploration
-- ***Comprehension (passive):*** When you inscribe an item with this rune, choose one language. As part of a ritual requiring 1 minute, the bearer can activate this rune. It remains active while the bearer maintains concentration, for up to 1 hour. While the rune is active, the bearer understands the literal meaning of spoken words in the language specified when the rune was inscribed.
-- ***Light (passive):*** The bearer of this rune learns the *Light* cantrip.
-- ***Calmness (mastery, minimum level 5):*** You learn the *Calm Emotions* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of the Forge
-- ***Control Flames (passive):*** The bearer of this rune learns the *Control Flames* cantrip.
-- ***Iron Hand (passive):*** The bearer of this rune can activate it as a bonus action. For the next hour, one of their arms becomes immune to fire damage, allowing them to grasp red-hot metal, scoop up molten glass, or reach into a roaring fire without damage. While this effect is active, if you take the dodge action, you have resistance to fire damage until the start of your next turn. This effect can be used a number of times equal to your Proficiency Bonus, after which it cannot be activated until the rune is inscribed again.
-- ***Resist Fire (mastery, minimum level 5):*** You learn the *Protection from Energy* spell. You can cast it once using this trait, targeting fire only. If you cast it this way and target yourself, this casting of this spell does not require concentration to maintain. You can also cast this spell using any spell slots you have.
-## Rune of Life
-- ***Touch of Life (passive):*** The bearer of this rune learns the *Spare the Dying* cantrip.
-- ***Enhanced Life Force (passive):*** As part of a short rest, the bearer may use this rune to expend one Hit Die. The bearer regains the maximum number of hit points from this Hit Die, instead of rolling. Once a number of Hit Die equal to your Proficiency Bonus have been expended with this rune, it cannot be activated again until you complete a long rest.
-- ***Aura of Healing (mastery, minimum level 5):*** You learn the *Prayer of Healing* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Lore
-- ***Understanding (passive):*** When you inscribe this rune, choose a number of languages equal to your Proficiency Bonus. The Rune of Lore magically imbues its bearer with the ability to read and write these languages, but not speak or understand spoken words in them.
-- ***Gift of Knowledge (passive):*** When the bearer of the rune makes a ability check that uses the Arcana, History, or Religion skills, and rolls a 9 or lower on the d20, they can activate this rune to treat the number rolled as a 10. Once this effect is activated, it cannot be used until the rune is inscribed again. The number of uses increases to two at 5th level and three at 9th level.
-- ***Identify (mastery, minimum level 3):*** You learn the *Identify* spell, which does not require material components for you. You can cast it using this trait. Once you cast it in this way, you cannot cast it again until you complete a long rest. You can also cast it with any spell slots you have.
-## Rune of Stone
-- ***Mold Earth (passive):*** The bearer of this rune learns the *Mold Earth* cantrip.
-- ***Stone Sense (passive):*** As an action, the bearer may activate this rune. The rune remains active for 10 minutes, while the bearer maintains concentration. The bearer may choosing one of the following effects to occur on activation:
-    - As part of activating the rune, the bearer names one specific type of ore, gemstone, metal, native element, or natural stone. The bearer learns the direction of the nearest instance of the named material, as long as it is within 1000 feet and not completed surrounded by solid organic matter such as wood.
-    - The bearer gains the ability to sense valuable ore, uncut gemstones, unworked metal, or native elements. This sense extends for 300 feet around them, through any amount of nonmagical stone or earth, although it is blocked by a one inch barrier of wood or plant matter. While this sense is active, the bearer can use an action to examine one sensed object in more detail, allowing additional details (such as the type of material or its purity) to be learned by making an Intelligence check.
- Once this effect is activated, it cannot be used until the rune is inscribed again. The number of uses increases to two at 5th level, and three at 9th level.
-- ***Earthen Hand (mastery, minimum level 5):*** You learn the *Maximillian's Earthern Hand* spell. You can cast it once using this trait. Once you cast it this way, you cannot do so again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Truth
-- ***Honed Insight (mastery):*** You gain proficiency in the Insight skill.
-- ***Aura of Revealing (passive, minimum level 3):*** As an action, the bearer can activate the Rune of Truth, causing a burst of pale moonlight to emanate in a 20 foot radius from the rune. Any creature in the area of effect must make a Charisma saving throw. On a failure, a creature who is not in their true form is forced into their true form, and a creature whose true appearance is disguised or hidden by Illusion magic of 3rd level or lower has such effects dispelled. Once this effect is activated, it cannot be used again until you have completed a long rest.
-- ***Compelled Honesty (mastery, minimum level 5):*** You learn the spell *Zone of Truth*. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Valor
-- ***Bravery (passive):*** The Rune of Valor shields the bearer from fear, giving them advantage on saving throws and ability checks to avoid being frightened or remove the frightened condition.
-- ***True Aim (passive):*** As a bonus action, the bearer may activate this rune. It remains active for the next minute. When you make an attack roll using the inscribed object while the rune is active, you may roll a d4 and add the number to the attack roll. You may choose to make this roll before or after making the attack roll, but before you know if the attack hits. The rune then deactivates. You can activate this effect a number of times equal to your Proficiency Bonus.
-- ***Courage of the Bahrâzel (mastery, minimum level 3):*** You learn the *Heroism* spell. You can cast it once with this trait. If you cast this spell with this trait and target only yourself, your concentration on this spell cannot be ended by taking damage. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-
+Choose one creature you can see within 15 feet. The target must make a Charisma saving throw. On a failed save, you know if the target speaks a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.

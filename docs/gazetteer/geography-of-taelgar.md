@@ -5,7 +5,7 @@ title: Geography of Taelgar
 
 # The World of Taelgar
 
-The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Thousands of years ago, there were three large landmasses: Hkar, the birthplace of [humanity](<../species/humans/humans.md>), and the ~Northern Continent~ and ~Southern Continent~. Then came the [Downfall](<../events/ancient/the-downfall.md>) and the sinking of Hkar, and all that is known today is the ~Northern Continent~, which stretches from just south of the equator to the frozen north, covering almost 80 degrees of latitude and over 4,000 miles from east to west and from north to south. 
+The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Thousands of years ago, there were three large landmasses: Hkar, the birthplace of [humanity](<../species/children-of-divine-creation/humans/humans.md>), and the ~Northern Continent~ and ~Southern Continent~. Then came the [Downfall](<../events/ancient/the-downfall.md>) and the sinking of Hkar, and all that is known today is the ~Northern Continent~, which stretches from just south of the equator to the frozen north, covering almost 80 degrees of latitude and over 4,000 miles from east to west and from north to south. 
 
 The ~Northern Continent~, is surrounded by four major bodies of water, which largely define the boundaries of the known world:
 * To the west, the [Endless Ocean](<endless-ocean/endless-ocean.md>) stretches for thousands of miles of trackless oceans

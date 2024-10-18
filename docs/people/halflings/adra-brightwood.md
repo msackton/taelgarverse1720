@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/internal]
 name: Adra Brightwood
 born:
 species: halfling
@@ -12,6 +12,8 @@ affiliations:
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Adra Brightwood
 ---
@@ -29,6 +31,8 @@ title: Adra Brightwood
 :octicons-location-24:{ .lg .middle } Last known location (as of January 15th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Adra Brightwood](../../assets/adra-brightwood.png){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<./enzo-brightwood.md>).
+![Adra Brightwood](../../assets/adra-brightwood.jpg){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<./enzo-brightwood.md>).
+
+
 
 

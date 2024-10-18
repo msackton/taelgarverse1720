@@ -4,6 +4,9 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### October 15, 2025
+* Updates to [House Rules (Mike)](<../mechanics/house-rules-mike.md>)
+* A lot of small updates throughout
 ### June 25th, 2024
 * Added a map and few minor details to the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 ### June 3rd, 2024
@@ -26,7 +29,7 @@ This page lists plot relevant or otherwise interesting updates I've made, organi
 * Some interesting background on [Odo Cordwaner](<../../people/sembarans/odo-cordwaner.md>), [Abigail Moss](<../../people/sembarans/abigail-moss.md>), and [Remy Darrow](<../../people/sembarans/remy-darrow.md>)
 ### Jan 28, 2024
 * Updated some information about the funerary practices in [Sembara](<../../cosmology/religions/mos-numena/sembaran-funerary-traditions.md>) and [Tyrwingha](<../../cosmology/religions/mos-numena/tyrwinghan-funerary-traditions.md>)
-* Added some notes on [Sembaran coinage](<../../gazetteer/greater-sembara/sembara/coinage-of-sembara.md>) as well as some house rules around [weath and tracking gold](<mechanics/house-rules.md#wealth-and-gold>)
+* Added some notes on [Sembaran coinage](<../../gazetteer/greater-sembara/sembara/coinage-of-sembara.md>) as well as some house rules around [weath and tracking gold](<../mechanics/house-rules-mike.md#wealth-and-gold>)
 * A flavor [Story About Halfling Merchants](<../../primary-sources/story-about-halfling-merchants.md>) that might help understand the vibe of halflings
 * An update to [Stories of Tyrwingha for Profit](<letters-and-other-writings/stories-of-tyrwingha-for-profit.md>) specifically for [Izgil](<../../people/pcs/cleenseau/izgil-moonseeker.md>)
 ### Jan 26, 2024

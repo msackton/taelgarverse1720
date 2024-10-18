@@ -11,6 +11,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Rinburg}
 - {type: home, start: 1719-04-15, location: Cleenseau}
+dm_owner: mike
+dm_notes: color
 hide: [navigation]
 title: Nicholas Wysson
 ---
@@ -18,7 +20,7 @@ title: Nicholas Wysson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1697 (23 years old)  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }

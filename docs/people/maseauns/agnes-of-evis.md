@@ -14,6 +14,8 @@ whereabouts:
 - {type: away, start: 1719-12-05, end: 1719-12-07, location: ~SouthCleenseauScrublands~}
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Agnés of Evis
 ---
@@ -21,7 +23,7 @@ title: Agnés of Evis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born April 3rd, 1690 (29 years old)  
     { .bio }
 

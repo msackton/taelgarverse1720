@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Western Cymea
 typeOf: region
-partOf: Cymea
+whereabouts: Cymea
 title: Western Cymea
 ---
 # Western Cymea

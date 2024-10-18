@@ -12,13 +12,15 @@ affiliations:
 - {place: Tyrwingha, start: 1462}
 - {org: House of Sewick, type: primary}
 died: 1496
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 ---
 # King Derik II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1422 - d. DR 1496, died at age 74 years  
     King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1462 - DR 1496)  
     { .bio }

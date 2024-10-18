@@ -2,10 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 displayDefaults: {defArt: ''}
-campaignInfo: []
 name: Azta Lekua
 whereabouts: Orekatu
 aliases: [Footprint of the Gods]
+typeOf: place
 title: Azta Lekua
 ---
 # Azta Lekua

@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo:
 name: Barony of Aveil
 typeOf: barony
 whereabouts: Sembara
 pronunciation: Ah-veh-eel
+dm_notes: color
+dm_owner: mike
 title: Barony of Aveil
 ---
 # The Barony of Aveil
@@ -34,7 +35,7 @@ Most of the settlement in the barony is along the eastern valleys and banks of t
 
 ## Map
 
-![Aveil](../../../../assets/aveil.jpg){width="800"}
+![Aveil](../../../../assets/aveil.jpg)
 
 In general, despite its relatively ancient roots, [Aveil](<./barony-of-aveil.md>) is a poor barony largely dominated by the powerful [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>) to its west, save for the [Cleenseau Region](<cleenseau-region/cleenseau-region.md>), which tends to see itself as more independent and if anything, more aligned with the powerful [Army of the West](<../../../../groups/sembaran-army/army-of-the-west.md>). [Rinburg](<./rinburg.md>), at the head of the navigation of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) is a wealthy and bustling market town, but as a free city, contributes little to the barony itself. Even the better farmland in the eastern [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) valley is not as rich as the heartlands of Sembara, and much of the land was pillaged by hobgoblins during the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>). [Veltor](<./veltor.md>) never fell, and the [Aveil Ridge](<./aveil-ridge.md>), with its many caves, was a redoubt for Sembaran troops resisting the hobgoblins. There are several rich tin mines in the [Aveil Ridge](<./aveil-ridge.md>), but they are controlled by the [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>) and contribute little to the wealth of the barony.
 

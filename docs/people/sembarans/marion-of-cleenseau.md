@@ -12,6 +12,8 @@ affiliations:
 - {org: Army Garrison of Cleenseau, title: Solider}
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Marion
 ---
@@ -19,7 +21,7 @@ title: Marion
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1694 (26 years old)  
     Solider of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }
@@ -31,5 +33,5 @@ title: Marion
 A solider of the Bridge Patrol.
 
 
-She was badly wounded during the events of the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>) and did not travel to [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) with the rest of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>). 
+She was badly wounded during the events of the Cleenseau Spider Attacks and did not travel to [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) with the rest of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>). 
 

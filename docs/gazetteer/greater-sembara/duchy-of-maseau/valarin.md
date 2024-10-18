@@ -4,6 +4,8 @@ tags: [place]
 name: Valarin
 typeOf: city
 whereabouts: Duchy of Maseau
+dm_notes: none
+dm_owner: none
 title: Valarin
 ---
 # Valarin
@@ -13,5 +15,7 @@ title: Valarin
 
 
 The largest city in the [Duchy of Maseau](<./duchy-of-maseau.md>) and the seat of the Duke. 
+
+
 
 

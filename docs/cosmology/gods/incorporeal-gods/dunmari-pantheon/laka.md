@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/image]
+tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
 gender: male
 title: Laka
 ---
@@ -12,5 +12,5 @@ Laka is the god of knowledge, history, time, memories, of the seasons, of the an
 
 He is associated with the color blue. 
 
-His mystery cult, the [Lakan Mystai](<../../../../groups/dunmari-mystery-cults/lakan-mystai.md>), is associated with knowledge and magic, studying both the power of Arcane magic from the [Plane of Magic](<../../../multiverse/energy-realms/plane-of-magic.md>) and the spiritual energy of the [Plane of Souls](<../../../multiverse/spiritual-realms/plane-of-souls.md>).
+His mystery cult, the [Lakan Mystai](<../../../../groups/dunmari-mystery-cults/lakan-mystai.md>), is associated with knowledge and magic, studying both the power of Arcane magic from the [Plane of Magic](<../../../multiverse/plane-of-magic.md>) and the spiritual energy of the [Plane of Souls](<../../../multiverse/plane-of-souls.md>).
 

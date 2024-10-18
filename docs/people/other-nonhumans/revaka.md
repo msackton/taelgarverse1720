@@ -26,3 +26,4 @@ title: Revaka
 
 
 A hobgoblin trapped in the Mirror of Soul Trapping. A fairly powerful sorcerer from before the [Great War](<../../events/1500s/great-war.md>), trapped by [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) for refusing to join his war. 
+

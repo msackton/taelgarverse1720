@@ -1,10 +1,12 @@
 ---
-tags: [status/needswork/notes, species]
+tags: [status/needswork/shared, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 title: Elves
 ---
 # Elves
+
+
 
 >[!quote] Memories of the First, Elven Oral Tradition
 >*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*
@@ -24,7 +26,7 @@ Elves are the oldest of the Elder races, and they perceive their power, magic, a
 Elves make their home in the wild reaches of the world, weaving elaborate towers and palaces from magical energy and the living world around them. Their skill with woodcraft and magic allow them to hunt, farm, and gather food without leaving a noticeable trace on the wild lands of the home, so travelers coming upon elf cities are usually taken aback by the suddenness with which they emerge out of the landscape. Most elf settlements are relatively small and masked by weaves of fey magic, so visitors or intruders often pass through ignorant of their surroundings. Elves will rarely start a fight, preferring to wait for the tides of history to turn to their side, but when they perceive a danger to the balance of the world they will act with alacrity and bring the full power of their race to bear. Elves very only rarely live among other races, finding the ever-changing world of the younger races (which to elves is all of them) tiring. For most people, elves are creatures of myth and legend, and if they have met one it would have been a notable event in their lives.
 ## The Elven Cycle of Generations
 
-Elven family life and family traditions are structured around the elven cycle of generations. Each elf reaches childbearing years around the age of 150, and, for the next fifty or so years, is able to have children. But fertility wanes around the age of 200 (or a little before, or a little after), and for the remaining hundreds or thousands of years of an elvish life, they can bear no more children. Therefore, elves have distinct, non-overlapping generations, called the *ka*, which they number. All of the children of a generation are seen as siblings, and the broad bond across the age set is more important than the bonds between two children of the same parents.
+Elven family life and family traditions are structured around the elven cycle of generations. Each elf reaches childbearing years around the age of 150, and, for the next fifty or so years, is able to have children. But fertility wanes around the age of 200 (or a little before, or a little after), and for the remaining hundreds or thousands of years of an elvish life, they can bear no more children. Therefore, elves have distinct, non-overlapping generations, called the *[ka](<./elven-cycle-of-generations.md>)*, which they number. All of the children of a generation are seen as siblings, and the broad bond across the age set is more important than the bonds between two children of the same parents.
 
 When an elf is born they are weak and small, as a human infant, with only the most tenuous connection to Aldanor, the live-giving Living Tree. For the first several years of an elf’s life, as their body grows stronger, they are nurtured and protected by their body parents, typically in seclusion, until, around the age of ten, they are firmly connected to Aldanor, and entwined in the great Tree of Life. This is the Age of Beginning, and it ends with the Rite of Emergence.
 

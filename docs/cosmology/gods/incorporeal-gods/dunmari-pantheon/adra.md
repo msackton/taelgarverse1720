@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/image]
+tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
 gender: male
+affiliations:
+- {org: Five Siblings, title: God}
 pronunciation: AAD-rah
 title: Adra
 ---

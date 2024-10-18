@@ -1,6 +1,7 @@
 ---
-tags: [organization, status/needswork/notes]
-name:
+headerVersion: 2023.11.25
+displayDefaults: {defArt: ''}
+tags: [organization, status/needswork/external, status/metadata/header]
 typeOf: horde
 title: Grumella's Horde
 ---

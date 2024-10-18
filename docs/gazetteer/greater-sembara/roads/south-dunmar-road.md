@@ -5,6 +5,8 @@ name: South Dunmar Road
 displayDefaults: {linkText: true}
 typeOf: road
 whereabouts: Istaros Watershed
+dm_notes: none
+dm_owner: none
 title: South Dunmar Road
 ---
 # The South Dunmar Road

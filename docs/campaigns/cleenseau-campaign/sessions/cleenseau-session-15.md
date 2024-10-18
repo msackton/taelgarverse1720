@@ -10,16 +10,11 @@ title: Cleenseau Session 15
 # Cleenseau - Session 15
 
 >_in Taelgar, January 25th - February 7th
-
 >7 Robert I / DR 1720
-
 >[Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and vicinity,
-
 >on Earth: June 2nd, 2024
-
 >Kiya's story version here: https://kiya.dreamwidth.org/784090.html
   
-
 ### Summary and Major Events
 
 * The party returns to Cleenseau and reunites with [Izgil](<../../../people/pcs/cleenseau/izgil-moonseeker.md>), who had been hunting zombies in the [East Bog](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/east-bog.md>) with [Vahaiya](<../../../people/elves/vahaiya.md>). [Tristan Vaudrillard](<../../../people/sembarans/tristan-vaudrillard.md>), and [Remille Vauclaire](<../../../people/sembarans/remille-vauclaire.md>)

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/header]
+tags: [person, status/metadata/refactor, status/metadata/header]
 campaignInfo: []
 name: Crispus
 born: 1697
@@ -20,7 +20,7 @@ hide: [navigation]
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1697 (23 years old)  
     Senior Archivist of the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>)  
     { .bio }

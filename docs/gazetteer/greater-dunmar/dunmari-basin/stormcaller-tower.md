@@ -7,6 +7,8 @@ destroyed: 1748-11-23
 typeOf: tower
 whereabouts:
 - {type: home, location: Samtal, wPastHome: 'Ruined <typeOf> <current:3qr>'}
+dm_notes: color
+dm_owner: tim
 title: Stormcaller Tower
 ---
 # Stormcaller Tower

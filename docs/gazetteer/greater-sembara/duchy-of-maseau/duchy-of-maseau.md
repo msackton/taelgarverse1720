@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place, status/cleanup/external, status/check/vibe]
 name: Duchy of Maseau
 typeOf: realm
 whereabouts: Greater Sembara
 aliases: [Maseau]
+dm_notes: color
+dm_owner: mike
 title: Duchy of Maseau
 ---
 # The Duchy of Maseau

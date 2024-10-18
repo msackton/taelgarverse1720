@@ -1,5 +1,7 @@
 ---
-tags: [event, status/unknown]
+tags: [event]
+dm_notes: none
+dm_owner: mike
 title: The Election of Elaine II
 ---
 

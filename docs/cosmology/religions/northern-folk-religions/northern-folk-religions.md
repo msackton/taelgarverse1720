@@ -1,5 +1,5 @@
 ---
-tags: [status/mike, status/tim, background]
+tags: [status/check/tim, background]
 title: Northern Folk Religions
 ---
 

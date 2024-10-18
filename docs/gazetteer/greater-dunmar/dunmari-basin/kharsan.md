@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/check/tim]
 displayDefaults: {dPast: ''}
 destroyed: 1545
 ancestry: Dunmari
@@ -17,6 +17,8 @@ title: Kharsan
    :octicons-location-24:{ .lg .middle } Originally part of [Dunmar](<../realms/dunmar/dunmar.md>), destroyed in DR 1544  
     :octicons-location-24:{ .lg .middle } Ruined [Dunmari](<../realms/dunmar/dunmar.md>) city in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>)  
 </div>
+
+
 
 
 Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior Grash, until his defeat at the [Battle for Uzgukhar](<../../../events/1700s/1749/battle-for-uzgukhar.md>). 

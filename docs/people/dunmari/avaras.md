@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/cleanup/header, status/needswork/internal]
+tags: [event-source, person, status/metadata/header, status/needswork/internal]
 campaignInfo: []
 name: Avaras
 born: 1676
@@ -19,7 +19,7 @@ title: Avaras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1676 (44 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }

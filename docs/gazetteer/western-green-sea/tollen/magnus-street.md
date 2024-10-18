@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Magnus Street
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 title: Magnus Street
 ---
 # Magnus Street
@@ -15,4 +15,3 @@ title: Magnus Street
 
 
 ### Places 
-- [The Fire and Stone](<./the-fire-and-stone.md>)

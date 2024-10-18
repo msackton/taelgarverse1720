@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, place]
+tags: [status/check/tim, place]
 campaignInfo: []
 name: Drankorian Empire
 aliases: [Drankor]
 timelineDescriptor: Drankorian History
+typeOf: realm
 title: Drankorian Empire
 ---
 # The Drankorian Empire
+
+
 
 The Drankorian Empire was a vast, continent-spanning empire that stretched from the [Endless Ocean](<../../gazetteer/endless-ocean/endless-ocean.md>) to the [Green Sea](<../../gazetteer/green-sea.md>) and ruled over much of humanity during the millenia following [The Downfall](<../../events/ancient/the-downfall.md>) of Hkar. The Drankorian Empire was known for its strength in magic; the battle mages of [Drankor](<./drankor.md>) not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [Drankor](<./drankor.md>) was filled with learned societies, organizations dedicated to magical lore.
 ## History
@@ -38,10 +41,10 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 | Serime (f)                 | Peronar          |                                                                                                             | 244        | 294      |
 | Mirodor (m)                | Peronar          |                                                                                                             | 294        | 331      |
 | Anates (m)                 | Hkar             | First human emperor; began conquest of Sembaran region                                                      | 331        | 366      |
-| Goristo (m)                | Hkar             | Renowned general and mage, negotiated final settlement of Sembaran Wars                                                                                   | 366        | 433      |
+| Goristo (m)                | Hkar             | Renowned general and mage, negotiated final settlement of Sembaran Wars                                     | 366        | 433      |
 | Liasa (f)                  | Hkar             | Died under suspicious circumstances                                                                         | 433        | 439      |
 | Estragon (m)               | Peronar          | Victor of contested succession                                                                              | 439        | 451      |
-| Kylanthe (f)               | Hkar             |                                                               | 451        | 499      |
+| Kylanthe (f)               | Hkar             |                                                                                                             | 451        | 499      |
 | Aenros (m)                 | Peronar          | Ascended to throne at advanced age                                                                          | 499        | 513      |
 | Ingwelir (m)               | Peronar          | Died defending empire against planar incursion                                                              | 513        | 527      |
 | Malrin (f)                 | Peronar          | Reign regarded as first great golden age                                                                    | 527        | 579      |
@@ -60,16 +63,16 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 | Alador the Elf Friend (m)  | Hkar             | strong ruler                                                                                                | 855        | 879      |
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
-| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                                                             | 936        | 943      |
-| Helea (f)                  | Non-Hkar         | killed by [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) to start civil war                                                                     | 943        | 965      |
+| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                              | 936        | 943      |
+| Helea (f)                  | Non-Hkar         | killed by [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) to start civil war                                                                 | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
-| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>)                                             | 965        | 980      |
+| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>)                                         | 965        | 980      |
 | Akaston (m)                | Hkar             |                                                                                                             | 980        | 991      |
 | Persa (f)                  | Hkar             |                                                                                                             | 991        | 997      |
 | Iarus (m)                  | Hkar             | died in battle                                                                                              | 997        | 1006     |
 | Lycia (f)                  | Hkar             | died in battle                                                                                              | 1006       | 1007     |
 | Calemna (m)                | Hkar             | died in battle                                                                                              | 1007       | 1011     |
-| Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                                            | 1011       | 1059     |
+| Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                     | 1011       | 1059     |
 
 
 ## Culture
@@ -87,6 +90,6 @@ As Drankor grew into a major power, then great empire, a few aspects of its cult
 Little has come to modern times about the exact nature of Drankorian secret societies, but three at least have been noted by students and travelers. 
 
 - [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>): The [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) were heavily involved in the Drankorian Civil War, seen by later historians as a revolt against the increasing power and influence of diverse human cultures, including those who had left Hkar long before the Downfall, in the empire. The power behind the throne in the last hundred years of the Empire. Apollyon, the last emperor of Drankor, was strongly associated with [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>). 
-- [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>): The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>).
+- Occulta Ludum: The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>).
 - Fides Lucaris: The Fides Lucaris were associated with the Emperor Helea and the losing side of the Drankorian civil war. Little is known about what they did in the last few hundred years of the Empire; the only records that have readily been accessible to historians are those of executions and exile when members of the Fides Lucaris were caught. They seem to have been a cross-species alliance, involving at least humans and elves. 
 

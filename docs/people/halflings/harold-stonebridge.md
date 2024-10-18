@@ -10,6 +10,8 @@ affiliations:
 - {org: Stonebridges, type: primary}
 gender: male
 whereabouts: Cleenseau
+dm_notes: none
+dm_owner: none
 hide: [navigation]
 title: Harold Stonebridge
 ---

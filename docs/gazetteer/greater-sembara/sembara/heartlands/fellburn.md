@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Fellburn
 typeOf: settlement
 subTypeOf: fortified
@@ -23,3 +23,6 @@ A populous and fortified town along the [Enst](<../../rivers/wistel-enst-watersh
 
 
 
+
+
+![Oracle of Hope](../../../../assets/oracle-of-hope.jpg)

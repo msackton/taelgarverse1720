@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person, status/metadata/header, status/cleanup/external, status/metadata/image]
 name: Vistra Fireforge
 born: 1589
 species: dwarf
@@ -10,9 +9,11 @@ affiliations:
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: Tharn Todor}
+- {type: home, start: '', end: '', location: Nardith}
 - {type: home, start: 1620-01-01, end: '', location: Ausson's Crossing}
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
+dm_notes: color
+dm_owner: none
 hide: [navigation]
 title: Vistra Fireforge
 ---
@@ -25,16 +26,18 @@ title: Vistra Fireforge
     Proprietor of [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>) (since DR 1700)  
     { .bio }
 
-    Originally from: [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+    Originally from: [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
     Based in [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)
 </div>
+
+
 
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). She was born after the [Great War](<../../events/1500s/great-war.md>) and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
 
 In her youth she was a blacksmith and trader in [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>) a crossroads inn south of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). She is now settled in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) where she runs the dwarven inn, [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>).
 
-![Vistra Fireforge](../../assets/vistra-fireforge.png){width="320"}
+![Vistra Fireforge](../../assets/vistra-fireforge.png)
 
 
 

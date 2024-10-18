@@ -9,7 +9,7 @@ Gareth does not fully willingly tell his story, and there is a certain amount of
 * He left Embry in the late winter of 1718, he claims, because sacrificing children was too much for him. It is not entirely clear how much this is pleading on his part, honest (if you can call it that) self-deception in the face of death, or simply lies
 * He fell in with some bandits in the [Aine Hills](<../../../gazetteer/greater-sembara/sembara/aine-hills.md>) (note that [Robert I's](<../../../people/historical-figures/sembaran-royalty/robert-i.md>) wife, [Rowena Chemare](<../../../people/historical-figures/sembaran-royalty/rowena-chemare.md>), was killed by bandits in the Aine Hills, although not necessarily the same bandits), along the upper Wistel River, but frankly, did not like being ordered around and felt he could do better on his own. 
 * In summer of 1719, he made his way over the [Aveil Ridge](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/aveil-ridge.md>) to [Veltor](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), where he was briefly a member of household guard of the castellan of Veltor, but as soon as he found his feet and learned a bit of the lay of the land, he left
-* He spent the fall and winter of 1719 in a small village of [Peydon](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), where he he started by cheating at dice in the slow winter months and had recently started running an thievery and banditry racket in collusion with the ferryman over the Auberonne, stealing from farmers and travelers. Most of the people in Peydon knew of this racket, Gareth says, but he brags about how the the local lord's lover and daughter were both in debt to him from the dicing, and how he'd made a few friends on the guard, and basically he felt like no one could touch him.
+* He spent the fall and winter of 1719 in a small village of [Peydon](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), where he he started by cheating at dice in the slow winter months and had recently started running an thievery and banditry racket in collusion with the ferryman over the [Auberonne](<../../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/auberonne.md>), stealing from farmers and travelers. Most of the people in Peydon knew of this racket, Gareth says, but he brags about how the the local lord's lover and daughter were both in debt to him from the dicing, and how he'd made a few friends on the guard, and basically he felt like no one could touch him.
   
 He is pretty open about all of the above, but then he starts to hesitate a bit and get squirrely. He continues:
 
@@ -32,7 +32,7 @@ He seems hesitant to go on, and it's hard to get a lot of details out of him ab
 > One day, about two weeks ago, she approached me. 
 > "There's a small little thing I need you to do for a friend of mine", she said. 
 > "The war tax is being collected", she said.
-> "Marguerite Deschamps will give you papers", she said. 
+> "[Marguerite Deschamps](<../../../people/sembarans/marguerite-deschamps.md>) will give you papers", she said. 
 > "When you get to [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), take half", she said.
 > "Even from the lizardfolk", she said.
 > "Be yourself", she said.

@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 aliases: [River Trellyn, Trellyn River]
 whereabouts: Tyrwingha
 pronunciation: TRELL-yin
+dm_notes: none
+dm_owner: none
 title: Trellyn
 ---
 # Trellyn

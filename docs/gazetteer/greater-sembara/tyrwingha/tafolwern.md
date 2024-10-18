@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
-campaignInfo: []
+tags: [place, status/needswork/shared]
 name: Tafolwern
 typeOf: city
 whereabouts: Tyrwingha
 pronunciation: Tav-ol-WERN
+dm_notes: none
+dm_owner: mike
 title: Tafolwern
 ---
 # Tafolwern

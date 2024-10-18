@@ -8,7 +8,7 @@ gender: female
 ancestry: Dunmari
 name: Abha
 affiliations: [Sonkar Mystai]
-image: abha-v2.png
+image: abha-v2.jpg
 whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-12-01, location: Nayahar}
 - {type: away, start: 1748-12-25, end: 1749-03-02, location: Copper Hills}
@@ -19,7 +19,7 @@ title: Abha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Member of the Sonkar Mystai  
     { .bio }
 

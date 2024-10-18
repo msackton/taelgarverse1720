@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Duchy of Seham
 typeOf: duchy
-partOf: Sembara
+whereabouts: Sembara
 title: Duchy of Seham
 ---
 # The Duchy of Seham

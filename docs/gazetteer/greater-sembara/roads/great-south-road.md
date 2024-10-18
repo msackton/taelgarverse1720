@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 displayDefaults: {linkText: true}
 name: Great South Road
 typeOf: road
 whereabouts: Greater Sembara
+dm_notes: none
+dm_owner: mike
 title: Great South Road
 ---
 # The Great South Road

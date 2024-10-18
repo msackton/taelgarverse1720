@@ -15,13 +15,13 @@ title: Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
 </div>
 
 
-![Kenzo Full](../../../assets/kenzo-full.jpg){width="400"}
+![Kenzo Full](../../../assets/kenzo-full.jpg)
 
 ## Pre-Campaign Events
 
@@ -56,7 +56,7 @@ title: Kenzo
 
 > [!WARNING]- Kenzo's Meeting with Candrosa, Session 5
 > 
-> ### Kenzo and [Candrosa](<../../dunmari/candrosa.md>), [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), Session 5 (DuFr)
+> ### Kenzo and [Candrosa](<../../dunmari/candrosa.md>), [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), Session 5 (DuFr)
 > 
 > In the predawn hours, you awake suddenly to a gentle tapping on your door. Standing outside is [Candrosa](<../../dunmari/candrosa.md>), dressed in his silver-trimmed, ochre robe, walking with a sense of purpose and resolve you have not seen before. He carries a staff of white ash with a silver crescent moon design on top.
 > 
@@ -64,7 +64,7 @@ title: Kenzo
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) leads you out of the inn, into the desert to the east, around the village, and to a hidden stairway climbing the side of the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>). The climb is very steep, but short, and just as the sun is rising you ascend to the top, catching the first rays of morning light. [Candrosa](<../../dunmari/candrosa.md>) says, "The view is beautiful up here." The morning light catches off the stones of the desert, bathing everything in warm reds and golds. [Candrosa](<../../dunmari/candrosa.md>) pauses for a moment, then says, "I need to ask you a question. For several weeks, every time I dream I have seen a vision of a Jade Piece of Rai's Hand hand, reaching out to me. The hand is very lifelike, except for a crack that runs down the palm, as if a deep gash had been cut in the stone. Every night I try to grasp it, and every night my hand passes through it, as if it were an illusion. Last night, you were in my dreams. You did something to the hand -- reached out to it somehow and placed something in the gash -- and then your hand closed around it, and you vanished. This feels significant. Do you know what this might mean?"
 > 
-> Learning that you carry this Jade Piece of Rai's Hand shard, he holds up his staff, which seems to pulse with the light of dawn. It seems to have grown, becoming larger and yet also more insubstantial, as if you are seeing it through a faint mist. "I can connect your soul to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) if you wish. This is not a thing to do lightly, as the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) has its own perils. But it may be the only way to learn more about this item you carry."
+> Learning that you carry this Jade Piece of Rai's Hand shard, he holds up his staff, which seems to pulse with the light of dawn. It seems to have grown, becoming larger and yet also more insubstantial, as if you are seeing it through a faint mist. "I can connect your soul to the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) if you wish. This is not a thing to do lightly, as the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) has its own perils. But it may be the only way to learn more about this item you carry."
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) touches the staff to your forehead, and you feel yourself falling away from your body. The world turns faint and insubstantial around you, everything fading to mist except the staff and your Jade Piece of Rai's Hand amulet. A voice, in the distance: 'Remember the staff, remember your body, or you may not be able to find your way back.'
 > 
@@ -97,9 +97,9 @@ title: Kenzo
 > Who are true Chardonians?
 > “Everyone who has the spirit of knowledge in them. But I think your friends are right we should rest now."
 
-> [!warning]- The [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), Session 22
+> [!warning]- The [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), Session 22
 > 
-> Kenzo's Experience of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), Session 22 (DuFr)
+> Kenzo's Experience of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), Session 22 (DuFr)
 > 
 > During the initiation ritual of the [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) mystai, as the story of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) concludes and you agree to sacrifice yourself for [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>), you feel your heart stop, the life fading from you. For a brief moment you see a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone. After a timeless moment, something grasps your hand, you feel warmth, and realize that for some eternal time you had felt nothing at all. The presence whispers, "Will you come back with me?"
 > 
@@ -129,7 +129,7 @@ title: Kenzo
 > 
 > As you enter, the people seem to part for you, but don’t otherwise acknowledge your presence. Once inside, you can here sounds of the prayer, but they sound as if they are coming from a long way away. You do recognize the prayer - it is a prayer of thanksgiving, an acknowledgment of miracles granted. This prayer is being offered to the [Eight Divines](<../../../cosmology/religions/mos-numena/mos-numena.md>), the same gods that are now worshipped in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). The prayer, as you listen, seems to be describing the Fall of Hkar, it seems to be a prayer of gratitude for the gods who saved the refugees of that disaster. As you listen more, the words splinter, become cacophonous. It is as if you are listening to 100 or more conversations at once. You catch glimpses, fragments, always of thanksgiving: for victories in battle, for the crowning of emperors, for the magic of the gods and arcane magic learned by great effort, occasionally for a birth or marriage. The form of the interior of this temple, apparently, also shifts. First, just a plain room, but then statues appear. First, of the [eight divines](<../../../cosmology/religions/mos-numena/mos-numena.md>), large, arranged in a semicircle at the front of the temple. Then, humans, tombs or monuments to deceased emperors. Over time the whispers and the people begin to fade away, the space starting to empty out.
 > 
-> You join in the prayer, sensing in the process that this place is somehow, at least in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), the center of Drankor, physically and metaphysically. As you pray, most of the people fade away. Eventually, all that is left is robed figure, elf-like in appearance but not quite an elf, striding with purpose across the room. The interior is now an elaborate display — statues, altars, tombs, even what seem to magically floating crystal torches casting multi-colored firelight. The robed elf approaches the central altar, and kneels, head bowed, praying softly, words indistinct.
+> You join in the prayer, sensing in the process that this place is somehow, at least in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), the center of Drankor, physically and metaphysically. As you pray, most of the people fade away. Eventually, all that is left is robed figure, elf-like in appearance but not quite an elf, striding with purpose across the room. The interior is now an elaborate display — statues, altars, tombs, even what seem to magically floating crystal torches casting multi-colored firelight. The robed elf approaches the central altar, and kneels, head bowed, praying softly, words indistinct.
 > 
 > He begins to grow, then, taller and taller, as the walls of this building become insubstantial, and you see stepping out of the jungle another massive ghostly figure, human, Drankorian in features. The two of them face off, staring at each other. As they do, you can see echoes of other people in each of them, as of as they grow they are not just themselves. 
 > 
@@ -145,7 +145,7 @@ title: Kenzo
 > 
 > You pause for a moment, feel intently into the Jade Piece of Rai's Hand and into this figure in front of you, seeing how your aura connects with the Jade Piece of Rai's Hand and with [Rai](<../great-war/rai.md>). As you do, you feel almost in the way that the [Rai](<../great-war/rai.md>) figure is claiming you. This figure is not just [Rai](<../great-war/rai.md>), but somehow a thread of people, connected by a common history, or aura, in some way. The Jade Piece of Rai's Hand, itself, seems to be part of this history. It is a history, an aura that reminds of you [Kaeso](<../../chardonians/kaeso.md>), most closely, but also the ghost of [Karmana](<../../dunmari/karmana.md>), and [Rishi](<../../dunmari/rishi.md>).
 > 
-> As you contemplate auras, the Rai|/elf figure raises his hand, which you see is now Jade Piece of Rai's Hand, and a pale green light begins to expand from this temple, twisting and encapsulating the human form that fell. The greenish light pulses slowly, almost forming a shield or a barrier.
+> As you contemplate auras, the [Rai](<../great-war/rai.md>)/elf figure raises his hand, which you see is now Jade Piece of Rai's Hand, and a pale green light begins to expand from this temple, twisting and encapsulating the human form that fell. The greenish light pulses slowly, almost forming a shield or a barrier.
 > 
 > Still looking at you, the [Rai](<../great-war/rai.md>)/elf figure speaks: “The legacy of Drankor still balances on a knife’s edge, teetering while we were fighting other fights. Will this be your burden? Is the legacy knowledge, shared with all, or the strength and might of Hkaran purity?
 > 
@@ -171,7 +171,7 @@ title: Kenzo
 > 
 > [Rai](<../great-war/rai.md>): “Do you know [Kyr](<../great-war/kyr.md>), the lizardfolk? There is much to study, and we have approached this together.”
 > 
-> The conversation continues, touching on the confusing nature of time in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), where there is no counting of years, only “past” and “future”, without record of years. 
+> The conversation continues, touching on the confusing nature of time in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), where there is no counting of years, only “past” and “future”, without record of years. 
 > 
 > Kenzo: “In my time, now that this shield has been broken, what has been unleashed?”
 > 
@@ -205,29 +205,29 @@ title: Kenzo
 > 
 > In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [Elazar](<../../lizardfolk/elazar.md>). 
 > 
-> The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>), which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [Plane of Magic](<../../../cosmology/multiverse/energy-realms/plane-of-magic.md>). 
+> The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [Plane of Souls](<../../../cosmology/multiverse/plane-of-souls.md>), which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [Plane of Magic](<../../../cosmology/multiverse/plane-of-magic.md>). 
 > 
 > [Elazar](<../../lizardfolk/elazar.md>) taught Kenzo about the following plants and the kinds of ki they can channel: 
 > 
-> Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) is friendly. 
+> Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) is friendly. 
 > 
-> ![Amezza Painting](../../../assets/amezza-painting.jpg){width="400"}
+> ![Amezza Painting](../../../assets/amezza-painting.jpg)
 > 
-> Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>) and the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
+> Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>) (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [Plane of Souls](<../../../cosmology/multiverse/plane-of-souls.md>) and the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
 > 
-> ![Hutsu Painting](../../../assets/hutsu-painting.png){width="400"}
+> ![Hutsu Painting](../../../assets/hutsu-painting.png)
 > 
-> Ohana: Ohana is the name for the largest of the jungle trees, a species that is typically dominant among the emergent trees that grow above the rainforest canopy. These trees grow in places rich in connection to the outer planes of primal power, particularly [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>), but also any other spiritual plane that is connected to deities of primal forces of nature, growth, abundance, wildness. When they grow in such places, they will often grow small branches that drop off naturally, the bark of which is infused with ohana, also known as life ki or lushness ki. The lizardfolk believe that Ohana trees have a special connection to Zerua, the home of the Tharzen Anzinakoa. 
+> Ohana: Ohana is the name for the largest of the jungle trees, a species that is typically dominant among the emergent trees that grow above the rainforest canopy. These trees grow in places rich in connection to the outer planes of primal power, particularly [Arborea](<../../../cosmology/multiverse/spiritual-realms/other-realms/arborea.md>), but also any other spiritual plane that is connected to deities of primal forces of nature, growth, abundance, wildness. When they grow in such places, they will often grow small branches that drop off naturally, the bark of which is infused with ohana, also known as life ki or lushness ki. The lizardfolk believe that Ohana trees have a special connection to Zerua, the home of the Tharzen Anzinakoa. 
 > 
-> ![Ohana Painting](../../../assets/ohana-painting.png){width="400"}
+> ![Ohana Painting](../../../assets/ohana-painting.jpg)
 > 
 > Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to the outer plans of order and beauty, especially Celestia. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
 > 
-> ![Urtaro Painting](../../../assets/urtaro-painting.png){width="400"}
+> ![Urtaro Painting](../../../assets/urtaro-painting.png)
 > 
-> To the lizardfolk, arima is the magical energy of the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>), and it is balanced between amezza and hutsu, the energy of the soul which balances the dynamism of amezza and the stillness of hutsu, and ohana and urtaro, the energy of life itself, which balances the dynamism of ohana and the stillness of urtaro. Amezza and hutsu, the “lesser” magics, draw from the “close” spirit realms, the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) and the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>); the “greater” magics, urtaro and ohana, draw from the “far” spirit realms beyond the veil of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), where the divine forces dwell that breath life into the world. 
+> To the lizardfolk, arima is the magical energy of the [Plane of Souls](<../../../cosmology/multiverse/plane-of-souls.md>), and it is balanced between amezza and hutsu, the energy of the soul which balances the dynamism of amezza and the stillness of hutsu, and ohana and urtaro, the energy of life itself, which balances the dynamism of ohana and the stillness of urtaro. Amezza and hutsu, the “lesser” magics, draw from the “close” spirit realms, the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) and the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>); the “greater” magics, urtaro and ohana, draw from the “far” spirit realms beyond the veil of the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), where the divine forces dwell that breath life into the world. 
 > 
-> The lizardfolk acknowledge the existence of darker energies, especially arokatu, a corruption that grows where the power of the [Abyss](<../../../cosmology/multiverse/spiritual-realms/primal-realms/abyss.md>) is strong, a darkness that spreads and destroys what it touches, and yet contains great power for those that dare to collect it instead of destroy it. One can draw ki from arokatu, especially from the slime rot that tends to accumulate, but it is dangerous and risky.
+> The lizardfolk acknowledge the existence of darker energies, especially arokatu, a corruption that grows where the power of the [Abyss](<../../../cosmology/multiverse/spiritual-realms/other-realms/abyss.md>) is strong, a darkness that spreads and destroys what it touches, and yet contains great power for those that dare to collect it instead of destroy it. One can draw ki from arokatu, especially from the slime rot that tends to accumulate, but it is dangerous and risky.
 
 
 > [!warning]- Letter from Kaeso to Kenzo, Session 61

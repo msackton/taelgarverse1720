@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header]
+tags: [person, status/needswork/external, status/metadata/header]
 name: Grumella the Vengeful
 born:
 species: orc
@@ -19,7 +19,7 @@ title: Grumella the Vengeful
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (she/her)  
-    Leader of the [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>)  
+    Leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>)  
     { .bio }
 
     Based the Voltara Plains
